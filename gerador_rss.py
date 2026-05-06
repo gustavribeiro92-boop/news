@@ -1,6 +1,7 @@
 import feedparser
 import re
 import json
+import time
 from datetime import datetime
 
 # 1. LISTA DE FEEDS
@@ -51,7 +52,7 @@ def extrair_melhor_imagem(entry):
 
     return LINK_FALLBACK
 
-# 3. EXTRAÇÃO E ORGANIZAÇÃO
+# 3. EXTRAÇÃO E ORGANIZAÇÃO COM PROTEÇÃO DE FUSO HORÁRIO E DATA
 todas_noticias = []
 print("Puxando as notícias para o JSON...")
 
@@ -60,28 +61,32 @@ for url in FEEDS:
         feed = feedparser.parse(url)
         nome_portal = feed.feed.title if 'title' in feed.feed else "Portal"
         
-        for entry in feed.entries[:10]:
+        # Puxa até 25 notícias de cada site para ter bastante volume no "Carregar Mais"
+        for entry in feed.entries[:25]:
             entry.portal_origem = nome_portal
-            # Tenta extrair a data
+            
+            # Padroniza a data para um formato universal ordenável (segundos absolutos)
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                entry.data_sort = entry.published_parsed
-                data_formatada = datetime(*entry.published_parsed[:6]).strftime("%d/%m/%Y")
+                entry.timestamp_absoluto = time.mktime(entry.published_parsed)
+                # Formato novo: 06/05/2026 às 14:30
+                data_formatada = datetime(*entry.published_parsed[:6]).strftime("%d/%m/%Y às %H:%M")
             else:
-                entry.data_sort = datetime.now().timetuple()
-                data_formatada = datetime.now().strftime("%d/%m/%Y")
+                entry.timestamp_absoluto = datetime.now().timestamp()
+                data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
             
             entry.data_amigavel = data_formatada
             todas_noticias.append(entry)
     except Exception as e:
         print(f"Erro no feed {url}: {e}")
 
-# Ordenar da mais nova para a mais velha
-todas_noticias.sort(key=lambda x: x.data_sort, reverse=True)
+# Ordena de forma matemática baseada nos segundos absolutos (Maior/Mais novo -> Menor/Mais velho)
+todas_noticias.sort(key=lambda x: x.timestamp_absoluto, reverse=True)
 
 # 4. MONTAGEM DO ARQUIVO JSON
 dados_json = []
 
-for noticia in todas_noticias[:50]:
+# Aumentamos de 50 para 200 notícias no total
+for noticia in todas_noticias[:200]:
     imagem_original = extrair_melhor_imagem(noticia)
     
     if imagem_original == LINK_FALLBACK:
@@ -104,4 +109,4 @@ for noticia in todas_noticias[:50]:
 with open('feed_mestre.json', 'w', encoding='utf-8') as f:
     json.dump(dados_json, f, ensure_ascii=False, indent=4)
 
-print("Sucesso! JSON gerado com perfeição.")
+print("Sucesso! JSON gerado com perfeição, ordem cronológica blindada e 200 notícias.")
