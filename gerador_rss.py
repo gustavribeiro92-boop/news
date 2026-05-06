@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 import pytz
 
-# A sua lista de portais da região
+# 1. A sua lista de portais da região
 FEEDS = [
     'https://americanapost.com.br/feed/',
     'https://difusorapiracicaba.com.br/feed/',
@@ -21,19 +21,31 @@ FEEDS = [
 ]
 
 def buscar_imagem(entry):
-    """Puxa a imagem para a miniatura do Feedzy"""
+    """Caça a imagem em todos os buracos possíveis do RSS"""
+    # 1. Tenta na tag media_content
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url', '')
+    
+    # 2. Tenta na tag enclosure
     if 'links' in entry:
         for link in entry.links:
             if link.get('type', '').startswith('image/') or link.get('rel') == 'enclosure':
                 return link.get('href', '')
+                
+    # 3. Tenta caçar dentro do texto completo (muito comum em WordPress)
+    if 'content' in entry and len(entry.content) > 0:
+        match = re.search(r'<img[^>]+src="([^">]+)"', entry.content[0].value)
+        if match: return match.group(1)
+        
+    # 4. Tenta caçar na descrição curta
     if 'description' in entry:
         match = re.search(r'<img[^>]+src="([^">]+)"', entry.description)
         if match: return match.group(1)
-    return 'https://via.placeholder.com/400x200.png?text=Noticia'
+        
+    # 5. O SEU FALLBACK (Imagem genérica anti-bloqueio)
+    return 'https://dummyimage.com/400x200/cccccc/555555.jpg&text=Noticia+Regional'
 
-# Configuração do Super Feed
+# 2. Configuração do Super Feed
 fg = FeedGenerator()
 fg.title('Hub de Notícias RMC')
 fg.link(href='https://seusite.com.br', rel='alternate')
@@ -48,13 +60,13 @@ for url in FEEDS:
         feed = feedparser.parse(url)
         nome_portal = feed.feed.title if 'title' in feed.feed else "Portal"
         
-        for entry in feed.entries[:10]: # Pega as 10 mais novas de cada
+        for entry in feed.entries[:10]: # Pega as 10 mais novas de cada site
             entry.portal_origem = nome_portal
             todas_noticias.append(entry)
     except Exception as e:
-        pass
+        print(f"Erro no feed {url}: {e}")
 
-# Ordenar pelas mais recentes
+# 3. Ordenar pelas mais recentes
 def extrair_data(entry):
     if hasattr(entry, 'published_parsed') and entry.published_parsed:
         return entry.published_parsed
@@ -62,17 +74,34 @@ def extrair_data(entry):
 
 todas_noticias.sort(key=extrair_data, reverse=True)
 
-# Monta o arquivo XML final
+# 4. Monta o arquivo XML final (com a força bruta nas imagens)
 for noticia in todas_noticias[:50]: # Limite de 50 para o site ficar leve
     fe = fg.add_entry()
+    
+    # Adiciona a tag do portal direto no título
     fe.title(f"[{noticia.portal_origem}] {noticia.title}")
     fe.link(href=noticia.link)
     
-    imagem = buscar_imagem(noticia)
-    if imagem:
-        fe.enclosure(imagem, 0, 'image/jpeg')
+    # Captura a imagem original e a descrição
+    imagem_original = buscar_imagem(noticia)
+    descricao_texto = noticia.get('description', '')
+    
+    if imagem_original:
+        # TRUQUE DA FORÇA BRUTA 1: Proxy para quebrar proteção de Hotlink
+        # Limpamos o http/https para o wsrv.nl funcionar corretamente
+        url_limpa = imagem_original.replace('https://', '').replace('http://', '')
+        imagem_forcada = f"https://wsrv.nl/?url={url_limpa}&w=400&h=200&fit=cover"
         
-    fe.description(noticia.get('description', ''))
+        # Envia a imagem oculta para o Feedzy (caso a opção de thumbnail esteja ativada)
+        fe.enclosure(imagem_forcada, 0, 'image/jpeg')
+        
+        # TRUQUE DA FORÇA BRUTA 2: Injetar a imagem direto no texto do resumo
+        nova_descricao = f'<img src="{imagem_forcada}" alt="Imagem da notícia" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:10px;" /><br>{descricao_texto}'
+        fe.description(nova_descricao)
+        
+    else:
+        fe.description(descricao_texto)
 
+# 5. Gera o arquivo no GitHub
 fg.rss_file('feed_mestre.xml')
-print("Sucesso! Super Feed atualizado.")
+print("Sucesso! Super Feed atualizado com imagens forçadas.")
