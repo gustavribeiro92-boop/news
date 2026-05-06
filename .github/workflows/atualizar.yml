@@ -26,10 +26,10 @@ jobs:
       - name: Rodar o nosso script
         run: python gerador_rss.py
 
-      - name: Salvar o feed_mestre.xml atualizado
+      - name: Salvar os arquivos atualizados
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add feed_mestre.xml
+          git add .
           git commit -m "Atualizando o Hub de Noticias" || exit 0
           git push
