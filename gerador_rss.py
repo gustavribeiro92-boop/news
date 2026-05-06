@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 import pytz
 
-# 1. A sua lista de portais da região
+# 1. A sua lista de portais da região (TV Thathi removida)
 FEEDS = [
     'https://americanapost.com.br/feed/',
     'https://difusorapiracicaba.com.br/feed/',
@@ -16,34 +16,32 @@ FEEDS = [
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
-    'https://sb24horas.com.br/feed/',
-    'https://tvthathi.com.br/feed/'
+    'https://sb24horas.com.br/feed/'
 ]
+
+# Link da sua imagem padrão
+LINK_FALLBACK = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 def buscar_imagem(entry):
     """Caça a imagem em todos os buracos possíveis do RSS"""
-    # 1. Tenta na tag media_content
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url', '')
     
-    # 2. Tenta na tag enclosure
     if 'links' in entry:
         for link in entry.links:
             if link.get('type', '').startswith('image/') or link.get('rel') == 'enclosure':
                 return link.get('href', '')
                 
-    # 3. Tenta caçar dentro do texto completo (muito comum em WordPress)
     if 'content' in entry and len(entry.content) > 0:
         match = re.search(r'<img[^>]+src="([^">]+)"', entry.content[0].value)
         if match: return match.group(1)
         
-    # 4. Tenta caçar na descrição curta
     if 'description' in entry:
         match = re.search(r'<img[^>]+src="([^">]+)"', entry.description)
         if match: return match.group(1)
         
-    # 5. O SEU FALLBACK (Imagem genérica anti-bloqueio)
-    return 'https://dummyimage.com/400x200/cccccc/555555.jpg&text=Noticia+Regional'
+    # 5. O SEU FALLBACK (Caso o site não mande nenhuma imagem)
+    return LINK_FALLBACK
 
 # 2. Configuração do Super Feed
 fg = FeedGenerator()
@@ -60,7 +58,7 @@ for url in FEEDS:
         feed = feedparser.parse(url)
         nome_portal = feed.feed.title if 'title' in feed.feed else "Portal"
         
-        for entry in feed.entries[:10]: # Pega as 10 mais novas de cada site
+        for entry in feed.entries[:10]:
             entry.portal_origem = nome_portal
             todas_noticias.append(entry)
     except Exception as e:
@@ -74,34 +72,33 @@ def extrair_data(entry):
 
 todas_noticias.sort(key=extrair_data, reverse=True)
 
-# 4. Monta o arquivo XML final (com a força bruta nas imagens)
-for noticia in todas_noticias[:50]: # Limite de 50 para o site ficar leve
+# 4. Monta o arquivo XML final
+for noticia in todas_noticias[:50]:
     fe = fg.add_entry()
-    
-    # Adiciona a tag do portal direto no título
     fe.title(f"[{noticia.portal_origem}] {noticia.title}")
     fe.link(href=noticia.link)
     
-    # Captura a imagem original e a descrição
     imagem_original = buscar_imagem(noticia)
     descricao_texto = noticia.get('description', '')
     
     if imagem_original:
-        # TRUQUE DA FORÇA BRUTA 1: Proxy para quebrar proteção de Hotlink
-        # Limpamos o http/https para o wsrv.nl funcionar corretamente
-        url_limpa = imagem_original.replace('https://', '').replace('http://', '')
-        imagem_forcada = f"https://wsrv.nl/?url={url_limpa}&w=400&h=200&fit=cover"
+        # Se for a sua imagem de fallback, não precisa do proxy wsrv.nl
+        if imagem_original == LINK_FALLBACK:
+            imagem_forcada = imagem_original
+        else:
+            # Proxy para quebrar proteção de Hotlink nos sites da região
+            url_limpa = imagem_original.replace('https://', '').replace('http://', '')
+            imagem_forcada = f"https://wsrv.nl/?url={url_limpa}&w=400&h=200&fit=cover"
         
-        # Envia a imagem oculta para o Feedzy (caso a opção de thumbnail esteja ativada)
+        # Anexa para o Feedzy
         fe.enclosure(imagem_forcada, 0, 'image/jpeg')
         
-        # TRUQUE DA FORÇA BRUTA 2: Injetar a imagem direto no texto do resumo
+        # Injeta no texto para garantir que vai renderizar na tela
         nova_descricao = f'<img src="{imagem_forcada}" alt="Imagem da notícia" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:10px;" /><br>{descricao_texto}'
         fe.description(nova_descricao)
-        
     else:
         fe.description(descricao_texto)
 
-# 5. Gera o arquivo no GitHub
+# 5. Gera o arquivo
 fg.rss_file('feed_mestre.xml')
 print("Sucesso! Super Feed atualizado com imagens forçadas.")
