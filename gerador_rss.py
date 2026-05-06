@@ -82,18 +82,16 @@ for noticia in todas_noticias[:50]:
     descricao_texto = noticia.get('description', '')
     
     if imagem_original:
-        # Se for a sua imagem de fallback, não precisa do proxy wsrv.nl
         if imagem_original == LINK_FALLBACK:
             imagem_forcada = imagem_original
         else:
-            # Proxy para quebrar proteção de Hotlink nos sites da região
             url_limpa = imagem_original.replace('https://', '').replace('http://', '')
-            imagem_forcada = f"https://wsrv.nl/?url={url_limpa}&w=400&h=200&fit=cover"
+            # AJUSTE 1: Adicionamos &output=jpg no final para o Feedzy reconhecer que é uma foto
+            imagem_forcada = f"https://wsrv.nl/?url={url_limpa}&w=400&h=200&fit=cover&output=jpg"
         
-        # Anexa para o Feedzy
-        fe.enclosure(imagem_forcada, 0, 'image/jpeg')
+        # AJUSTE 2: Mudei o 0 (número) para '0' (texto). O Feedzy é chato com isso!
+        fe.enclosure(imagem_forcada, '0', 'image/jpeg')
         
-        # Injeta no texto para garantir que vai renderizar na tela
         nova_descricao = f'<img src="{imagem_forcada}" alt="Imagem da notícia" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:10px;" /><br>{descricao_texto}'
         fe.description(nova_descricao)
     else:
