@@ -1,5 +1,75 @@
 [
     {
+        "portal": "Novo Momento",
+        "titulo": "Americana sedia capacitação gratuita em políticas públicas a profissionais da saúde",
+        "link": "https://novomomento.com.br/americana-capacitacao-em-politicas-publicas/",
+        "data": "06/05/2026 às 17:05",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/FAM-2-300x225.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Colisão entre ônibus e caminhão em rodovia de Piracicaba deixa oito feridos",
+        "link": "https://rapidonoar.com.br/colisao-entre-onibus-e-caminhao-em-rodovia-de-piracicaba-deixa-oito-feridos/",
+        "data": "06/05/2026 às 17:00",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/onibus-e-caminhao-ernesto-paterniani-02-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "DIFUSORA FM PIRACICABA",
+        "titulo": "Trabalhadores da saúde e pessoas com 59 anos podem receber vacina contra a dengue",
+        "link": "https://difusorapiracicaba.com.br/trabalhadores-da-saude-e-pessoas-com-59-anos-podem-receber-vacina-contra-a-dengue/",
+        "data": "06/05/2026 às 17:00",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Comer fora já custa mais de R$ 600 por mês e pressiona bolso do trabalhador",
+        "link": "https://novomomento.com.br/comer-fora-ja-custa-r600-mes-pressiona-trabalhd/",
+        "data": "06/05/2026 às 16:42",
+        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/ebfdcbe6-6e89-4c7b-d4d7-08d95907b7ce/9089ba7d-30fe-48fe-b813-5cdb64451760.png&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "DIFUSORA FM PIRACICABA",
+        "titulo": "Consumo de alimentos ultraprocessados cresce entre povos tradicionais",
+        "link": "https://difusorapiracicaba.com.br/consumo-de-alimentos-ultraprocessados-cresce-entre-povos-tradicionais/",
+        "data": "06/05/2026 às 16:30",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Aulas de alunos da Emeief Prada, em Limeira, serão retomadas nesta sexta (8) em dois locais",
+        "link": "https://rapidonoar.com.br/aulas-de-alunos-da-emeief-prada-em-limeira-serao-retomadas-nesta-sexta-8-em-dois-locais/",
+        "data": "06/05/2026 às 16:29",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2019/12/Parque-Cidade.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Dois dias após morte de motociclista, novo grave acidente deixa ciclista em estado crítico na mesma rua de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/06/dois-dias-apos-morte-de-motociclista-novo-grave-acidente-deixa-ciclista-em-estado-critico-na-mesma-rua-de-limeira/",
+        "data": "06/05/2026 às 16:18",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Venda mais com segurança: ACISB abre inscrições para masterclass de análise e concessão de crédito",
+        "link": "https://sb24horas.com.br/venda-mais-com-seguranca-acisb-abre-inscricoes-para-masterclass-de-analise-e-concessao-de-credito/",
+        "data": "06/05/2026 às 16:08",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "DIFUSORA FM PIRACICABA",
+        "titulo": "Desenrola é liberado e renegociação de dívida pode ser feita",
+        "link": "https://difusorapiracicaba.com.br/desenrola-e-liberado-e-renegociacao-de-divida-pode-ser-feita/",
+        "data": "06/05/2026 às 16:00",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Prêmio para projetos no serviço público tem inscrições até 1º de junho",
+        "link": "https://sb24horas.com.br/premio-para-projetos-no-servico-publico-tem-inscricoes-ate-1o-de-junho/",
+        "data": "06/05/2026 às 15:57",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
         "portal": "Notícia de Limeira",
         "titulo": "Deputado Miguel Lombardi manifesta apoio à pré-candidatura de André do Prado ao Senado",
         "link": "https://noticiadelimeira.com.br/2026/05/06/deputado-miguel-lombardi-manifesta-apoio-a-pre-candidatura-de-andre-do-prado-ao-senado/",
@@ -126,20 +196,6 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "Novo Momento",
-        "titulo": "Melhores formas de comprar cripto no Brasil em 2026",
-        "link": "https://novomomento.com.br/melhor-forma-de-comprar-cripto-no-brasil-m-2026/",
-        "data": "06/05/2026 às 12:22",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/cripto-brasil-pix-300x211.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Chico e Franco animados com André do Prado ao senado",
-        "link": "https://novomomento.com.br/chico-franco-animados-andre-do-prado-ao-senado/",
-        "data": "06/05/2026 às 12:08",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/andre-do-prado-300x221.jpeg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
         "portal": "Notícia FM",
         "titulo": "Fundo Social de Solidariedade inicia Campanha do Agasalho 2026 em Americana",
         "link": "https://noticiafm.com/fundo-social-de-solidariedade-inicia-campanha-do-agasalho-2026-em-americana/",
@@ -203,25 +259,11 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "Rápido no Ar",
-        "titulo": "Dois homens são presos por receptação após furto em empresa de Limeira",
-        "link": "https://rapidonoar.com.br/dois-homens-sao-presos-por-receptacao-apos-furto-em-empresa-de-limeira/",
-        "data": "06/05/2026 às 05:42",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/Dois-homens-sao-presos-por-receptacao-apos-furto-em-empresa-de-Limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
         "portal": "SB24HORAS",
         "titulo": "Mega não tem acertador e prêmio vai a R$ 36 milhões",
         "link": "https://sb24horas.com.br/mega-nao-tem-acertador-e-premio-vai-a-r-36-milhoes/",
         "data": "06/05/2026 às 02:39",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Mega-Sena acumula e próximo prêmio chega a R$ 36 milhões",
-        "link": "https://rapidonoar.com.br/mega-sena-acumula-e-proximo-premio-chega-a-r-36-milhoes/",
-        "data": "06/05/2026 às 02:26",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/10/mega-sena-1024x613.jpg&w=400&h=200&fit=cover&output=jpg"
     },
     {
         "portal": "Portal de Americana",
@@ -280,13 +322,6 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "SB24HORAS",
-        "titulo": "Deputado quer proibir reality shows com condenados por crimes hediondos",
-        "link": "https://sb24horas.com.br/deputado-quer-proibir-reality-shows-com-condenados-por-crimes-hediondos/",
-        "data": "05/05/2026 às 20:46",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
         "portal": "Portal de Americana",
         "titulo": "Corpo é encontrado na Represa Salto Grande, em Americana",
         "link": "https://portaldeamericana.com/corpo-e-encontrado-na-represa-salto-grande-em-americana-2/?utm_source=rss&utm_medium=rss&utm_campaign=corpo-e-encontrado-na-represa-salto-grande-em-americana-2",
@@ -340,13 +375,6 @@
         "titulo": "Operação policial na Maré deixa mortos, fecha escolas e provoca caos no trânsito no Rio",
         "link": "https://noticiafm.com/operacao-policial-na-mare-deixa-mortos-fecha-escolas-e-provoca-caos-no-transito-no-rio/",
         "data": "05/05/2026 às 19:22",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "SB24HORAS",
-        "titulo": "Da periferia à liderança: mãe atípica defende que maternidade e ambição podem andar de mãos dadas",
-        "link": "https://sb24horas.com.br/da-periferia-a-lideranca-mae-atipica-defende-que-maternidade-e-ambicao-podem-andar-de-maos-dadas/",
-        "data": "05/05/2026 às 19:19",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
@@ -483,24 +511,10 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "DIFUSORA FM PIRACICABA",
-        "titulo": "São Paulo amplia público-alvo da vacinação contra a dengue",
-        "link": "https://difusorapiracicaba.com.br/sao-paulo-amplia-publico-alvo-da-vacinacao-contra-a-dengue/",
-        "data": "05/05/2026 às 16:30",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
         "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
         "titulo": "Chegada de equipamentos da nova ETA exigirá interdições e desvios no trânsito na entrada da cidade nesta quarta-feira",
         "link": "https://hjnews.com.br/chegada-de-equipamentos-da-nova-eta-exigira-interdicoes-e-desvios-no-transito-na-entrada-da-cidade-nesta-quarta-feira/",
         "data": "05/05/2026 às 16:01",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "DIFUSORA FM PIRACICABA",
-        "titulo": "Embraer assina contrato de venda de aviões para os Emirados Árabes",
-        "link": "https://difusorapiracicaba.com.br/embraer-assina-contrato-de-venda-de-avioes-para-os-emirados-arabes/",
-        "data": "05/05/2026 às 16:00",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
@@ -536,20 +550,6 @@
         "titulo": "Câmara entrega “Prêmio Geraldo Pinhanelli de Comunicação” 2026 em sessão solene nesta quarta-feira (06)",
         "link": "https://hjnews.com.br/camara-entrega-premio-geraldo-pinhanelli-de-comunicacao-2026-em-sessao-solene-nesta-quarta-feira-06/",
         "data": "05/05/2026 às 13:15",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "DIFUSORA FM PIRACICABA",
-        "titulo": "Dois suspeitos de roubo a loja em Piracicaba são presos em operação na capital paulista",
-        "link": "https://difusorapiracicaba.com.br/dois-suspeitos-de-roubo-a-loja-em-piracicaba-sao-presos-em-operacao-na-capital-paulista/",
-        "data": "05/05/2026 às 13:11",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Notícia de Limeira",
-        "titulo": "Pátio Limeira Shopping promove oficinas de culinária entre mães e filhos",
-        "link": "https://noticiadelimeira.com.br/2026/05/04/patio-limeira-shopping-promove-oficinas-de-culinaria-entre-maes-e-filhos/",
-        "data": "04/05/2026 às 21:24",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
