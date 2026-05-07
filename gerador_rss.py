@@ -20,7 +20,6 @@ FEEDS = [
     'https://sb24horas.com.br/feed/'
 ]
 
-# 1.1 DICIONÁRIO DE LOGOS (Links oficiais fornecidos)
 LOGOS_PORTAIS = {
     'americanapost': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png',
     'difusorapiracicaba': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg',
@@ -37,7 +36,21 @@ LOGOS_PORTAIS = {
 
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
-# 2. MOTOR DE BUSCA DE IMAGENS BLINDADO
+# FUNÇÃO PARA DEIXAR OS NOMES DOS PORTAIS CURTOS E BONITOS
+def nome_curto_portal(link_noticia):
+    if 'americanapost' in link_noticia: return 'Americana Post'
+    if 'difusorapiracicaba' in link_noticia: return 'Difusora FM'
+    if 'hjnews' in link_noticia: return 'HJ News'
+    if 'jornalojogo' in link_noticia: return 'O Jogo'
+    if 'noticiadelimeira' in link_noticia: return 'Notícia de Limeira'
+    if 'noticiafm' in link_noticia: return 'Notícia FM'
+    if 'novomomento' in link_noticia: return 'Novo Momento'
+    if 'portaldeamericana' in link_noticia: return 'Portal de Americana'
+    if 'rapidonoar' in link_noticia: return 'Rápido no Ar'
+    if 'redefamilia' in link_noticia: return 'Rede Família'
+    if 'sb24horas' in link_noticia: return 'SB24Horas'
+    return 'Portal RMC'
+
 def extrair_melhor_imagem(entry, url_feed):
     candidatas = []
     if 'media_content' in entry:
@@ -66,32 +79,39 @@ def extrair_melhor_imagem(entry, url_feed):
         if not any(lixo in url_limpa.lower() for lixo in lixos):
             return url_limpa
 
-    # Se não achou imagem real, busca o logo correspondente no dicionário
+    # Retorna o logo específico do portal caso não encontre imagem na notícia
     for chave, link_logo in LOGOS_PORTAIS.items():
         if chave in url_feed.lower().replace('.', ''):
             return link_logo
             
     return LINK_FALLBACK_PADRAO
 
-# 3. CARREGAR A MEMÓRIA (Acumulador)
+# CARREGAR E CORRIGIR A MEMÓRIA
 historico_noticias = {}
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
+                # 1. Corrige o nome gigante
+                noticia['portal'] = nome_curto_portal(noticia['link'])
+                
+                # 2. Se tiver o logo velho genérico, atualiza para o novo logo oficial
+                if noticia['imagem'] == LINK_FALLBACK_PADRAO:
+                    for chave, link_logo in LOGOS_PORTAIS.items():
+                        if chave in noticia['link']:
+                            noticia['imagem'] = link_logo
+                            break
+                            
                 historico_noticias[noticia['link']] = noticia
     except:
         print("Iniciando novo banco de dados...")
 
-# 4. PUXAR AS NOVIDADES
+# PUXAR AS NOVIDADES
 print("Puxando as novas notícias...")
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
-        nome_portal = feed.feed.title if 'title' in feed.feed else "Portal"
-        
-        # Puxa o máximo possível para preencher os históricos
         for entry in feed.entries[:100]:
             link_noticia = entry.link
             
@@ -107,7 +127,6 @@ for url in FEEDS:
             
             imagem_original = extrair_melhor_imagem(entry, url)
             
-            # Se for um dos nossos logos, não passa pelo proxy (para carregar mais rápido)
             if imagem_original in LOGOS_PORTAIS.values() or imagem_original == LINK_FALLBACK_PADRAO:
                 imagem_final = imagem_original
             else:
@@ -115,7 +134,7 @@ for url in FEEDS:
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
 
             historico_noticias[link_noticia] = {
-                "portal": nome_portal,
+                "portal": nome_curto_portal(link_noticia),
                 "titulo": entry.title,
                 "link": link_noticia,
                 "data": data_formatada,
@@ -125,7 +144,7 @@ for url in FEEDS:
     except Exception as e:
         print(f"Erro no feed {url}: {e}")
 
-# 5. ORDENAR E SALVAR (Limite de 1000 itens)
+# ORDENAR E SALVAR
 lista_final = list(historico_noticias.values())
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
@@ -133,4 +152,4 @@ lista_final = lista_final[:1000]
 with open('feed_mestre.json', 'w', encoding='utf-8') as f:
     json.dump(lista_final, f, ensure_ascii=False, indent=4)
 
-print(f"Sucesso! Banco de dados atualizado com {len(lista_final)} notícias.")
+print(f"Sucesso! Acervo atualizado com {len(lista_final)} notícias.")
