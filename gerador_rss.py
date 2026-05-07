@@ -36,19 +36,20 @@ LOGOS_PORTAIS = {
 
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
-# FUNÇÃO PARA DEIXAR OS NOMES DOS PORTAIS CURTOS E BONITOS
+# FUNÇÃO BLINDADA COM .lower()
 def nome_curto_portal(link_noticia):
-    if 'americanapost' in link_noticia: return 'Americana Post'
-    if 'difusorapiracicaba' in link_noticia: return 'Difusora FM'
-    if 'hjnews' in link_noticia: return 'HJ News'
-    if 'jornalojogo' in link_noticia: return 'O Jogo'
-    if 'noticiadelimeira' in link_noticia: return 'Notícia de Limeira'
-    if 'noticiafm' in link_noticia: return 'Notícia FM'
-    if 'novomomento' in link_noticia: return 'Novo Momento'
-    if 'portaldeamericana' in link_noticia: return 'Portal de Americana'
-    if 'rapidonoar' in link_noticia: return 'Rápido no Ar'
-    if 'redefamilia' in link_noticia: return 'Rede Família'
-    if 'sb24horas' in link_noticia: return 'SB24Horas'
+    link = link_noticia.lower()
+    if 'americanapost' in link: return 'Americana Post'
+    if 'difusorapiracicaba' in link: return 'Difusora FM'
+    if 'hjnews' in link: return 'HJ News'
+    if 'jornalojogo' in link: return 'O Jogo'
+    if 'noticiadelimeira' in link: return 'Notícia de Limeira'
+    if 'noticiafm' in link: return 'Notícia FM'
+    if 'novomomento' in link: return 'Novo Momento'
+    if 'portaldeamericana' in link: return 'Portal de Americana'
+    if 'rapidonoar' in link: return 'Rápido no Ar'
+    if 'redefamilia' in link: return 'Rede Família'
+    if 'sb24horas' in link: return 'SB24Horas'
     return 'Portal RMC'
 
 def extrair_melhor_imagem(entry, url_feed):
@@ -79,9 +80,10 @@ def extrair_melhor_imagem(entry, url_feed):
         if not any(lixo in url_limpa.lower() for lixo in lixos):
             return url_limpa
 
-    # Retorna o logo específico do portal caso não encontre imagem na notícia
+    # Busca segura ignorando pontos e minúsculas
+    url_feed_limpa = url_feed.lower().replace('.', '')
     for chave, link_logo in LOGOS_PORTAIS.items():
-        if chave in url_feed.lower().replace('.', ''):
+        if chave in url_feed_limpa:
             return link_logo
             
     return LINK_FALLBACK_PADRAO
@@ -93,13 +95,11 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                # 1. Corrige o nome gigante
                 noticia['portal'] = nome_curto_portal(noticia['link'])
                 
-                # 2. Se tiver o logo velho genérico, atualiza para o novo logo oficial
                 if noticia['imagem'] == LINK_FALLBACK_PADRAO:
                     for chave, link_logo in LOGOS_PORTAIS.items():
-                        if chave in noticia['link']:
+                        if chave in noticia['link'].lower():
                             noticia['imagem'] = link_logo
                             break
                             
