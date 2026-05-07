@@ -1,5 +1,75 @@
 [
     {
+        "portal": "Notícia FM",
+        "titulo": "Americana recebe programa de qualificação profissional na cultura nesta quinta-feira",
+        "link": "https://noticiafm.com/americana-recebe-programa-de-qualificacao-profissional-na-cultura-nesta-quinta-feira/",
+        "data": "07/05/2026 às 11:30",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/GIRO-PRO-Territorio-1-559x314.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
+        "titulo": "Limeira tem atividades gratuitas de bem-estar na semana do Dia das Mães",
+        "link": "https://hjnews.com.br/limeira-tem-atividades-gratuitas-de-bem-estar-na-semana-do-dia-das-maes/",
+        "data": "07/05/2026 às 11:15",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Lula vai a Trump hoje; notas e expectativas",
+        "link": "https://novomomento.com.br/lula-vai-a-trump-hoje-notas-e-expectativas/",
+        "data": "07/05/2026 às 10:59",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/Lula-na-alemanha-300x200.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
+        "titulo": "VIC Engenharia adere ao Conexão Cultura como parceiro do Rock Day Americana",
+        "link": "https://hjnews.com.br/vic-engenharia-adere-ao-conexao-cultura-como-parceiro-do-rock-day-americana/",
+        "data": "07/05/2026 às 10:39",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Funcionários da Coden Ambiental terão reajuste salarial de 5%",
+        "link": "https://novomomento.com.br/funcionarios-coden-terao-reajuste-salarial-de-5/",
+        "data": "07/05/2026 às 10:35",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/dissidio-Funcionarios-da-Coden-Ambiental-terao-reajuste-salarial-de-548-2025-04-22-300x199.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Rede de alimentação que nasceu em reality chega a Americana e Hortolândia hoje",
+        "link": "https://novomomento.com.br/rede-alimenta-reality-americana-hortolandiahoje/",
+        "data": "07/05/2026 às 10:15",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/fastfood-delivery-300x219.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Corinthians corre atrás do empate na altitude da Bolívia (1-1)",
+        "link": "https://novomomento.com.br/corinthians-corre-empate-na-altitude-bolivia-1/",
+        "data": "07/05/2026 às 09:59",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/12/fas-de-futebol-animando-sua-equipe-300x200.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Curso forma guias turísticos nas favelas da Rocinha e Vidigal",
+        "link": "https://sb24horas.com.br/curso-forma-guias-turisticos-nas-favelas-da-rocinha-e-vidigal/",
+        "data": "07/05/2026 às 09:42",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Fluminense arranca empate na Argentina e continua vivo na Libertadores",
+        "link": "https://sb24horas.com.br/fluminense-arranca-empate-na-argentina-e-continua-vivo-na-libertadores/",
+        "data": "07/05/2026 às 09:25",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Tivoli celebra o Dia das Mães com tributo especial a Fabio Jr.",
+        "link": "https://novomomento.com.br/tivoli-dia-das-maes-tributo-especial-a-fabio-jr/",
+        "data": "07/05/2026 às 08:35",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Fundo Social de Sumaré lança Campanha do Agasalho nesta quinta-feira (7)",
         "link": "https://novomomento.com.br/fundo-social-sumare-campanha-agasalho-quinta-7/",
@@ -98,25 +168,11 @@
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/gangue-da-bike-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
     },
     {
-        "portal": "Novo Momento",
-        "titulo": "Vila Valle supera início difícil e conquista a Copa João Havelange em Sumaré",
-        "link": "https://novomomento.com.br/vila-valle-conquista-copa-joao-havelange-sumare/",
-        "data": "06/05/2026 às 21:05",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-11.24.52-1-300x225.jpeg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Programa gratuito capacita quem busca emprego em Piracicaba; inscrições estão abertas",
         "link": "https://difusorapiracicaba.com.br/programa-gratuito-capacita-quem-busca-emprego-em-piracicaba-inscricoes-estao-abertas/",
         "data": "06/05/2026 às 21:00",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Perseguição e correria pra pegar o ladrão em Americana",
-        "link": "https://novomomento.com.br/perseguicao-correria-pega-o-ladrao-em-americana/",
-        "data": "06/05/2026 às 20:39",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/ladrao-gama-300x262.jpeg&w=400&h=200&fit=cover&output=jpg"
     },
     {
         "portal": "Rápido no Ar",
@@ -133,13 +189,6 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "Novo Momento",
-        "titulo": "A FTMining lança serviço gratuito de mineração para detentores de BTC, ETH, XRP e DOGE, com ganhos diários de até US$ 9.900?",
-        "link": "https://novomomento.com.br/ftmining-lanca-gratis-mineracao-pra-btc-eth-xrp/",
-        "data": "06/05/2026 às 20:12",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/fitmining1-300x203.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Agentes de trânsito de Piracicaba recebem novos uniformes",
         "link": "https://difusorapiracicaba.com.br/agentes-de-transito-de-piracicaba-recebem-novos-uniformes/",
@@ -152,13 +201,6 @@
         "link": "https://rapidonoar.com.br/homem-e-detido-apos-furtar-fios-do-antigo-hospital-beneficencia-em-limeira/",
         "data": "06/05/2026 às 19:53",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/hospital-fiacao-furto-gcm-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Preço do café volta a cair em março e retoma trajetória de 25",
-        "link": "https://novomomento.com.br/preco-do-cafe-cai-marco-retoma-trajetoria-de-25/",
-        "data": "06/05/2026 às 19:51",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2024/09/15d3971e-festival-cafe-300x197.jpg&w=400&h=200&fit=cover&output=jpg"
     },
     {
         "portal": "Rápido no Ar",
@@ -180,13 +222,6 @@
         "link": "https://portaldeamericana.com/guarda-municipal-solta-11-sarues-apos-reabilitacao-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=guarda-municipal-solta-11-sarues-apos-reabilitacao-em-americana",
         "data": "06/05/2026 às 19:06",
         "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/soltura-guarda-municipal-americana.webp&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Hortolândia orienta população a usar medicamentos somente com receita médica",
-        "link": "https://novomomento.com.br/hortolandia-orienta-medicamentos-com-receita/",
-        "data": "06/05/2026 às 19:05",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/04-05-2026-DIA-USO-RACIONAL-MEDICAMENTO-FARMACIA-SOLIDARIA-FOTO-3-1-300x200.jpg&w=400&h=200&fit=cover&output=jpg"
     },
     {
         "portal": "DIFUSORA FM PIRACICABA",
@@ -301,24 +336,10 @@
         "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg"
     },
     {
-        "portal": "SB24HORAS",
-        "titulo": "Venda mais com segurança: ACISB abre inscrições para masterclass de análise e concessão de crédito",
-        "link": "https://sb24horas.com.br/venda-mais-com-seguranca-acisb-abre-inscricoes-para-masterclass-de-analise-e-concessao-de-credito/",
-        "data": "06/05/2026 às 16:08",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Desenrola é liberado e renegociação de dívida pode ser feita",
         "link": "https://difusorapiracicaba.com.br/desenrola-e-liberado-e-renegociacao-de-divida-pode-ser-feita/",
         "data": "06/05/2026 às 16:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "SB24HORAS",
-        "titulo": "Prêmio para projetos no serviço público tem inscrições até 1º de junho",
-        "link": "https://sb24horas.com.br/premio-para-projetos-no-servico-publico-tem-inscricoes-ate-1o-de-junho/",
-        "data": "06/05/2026 às 15:57",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
@@ -551,27 +572,6 @@
         "link": "https://noticiadelimeira.com.br/2026/05/05/mutirao-de-castracao-sera-realizado-em-limeira-entre-os-dias-07-e-10-de-maio/",
         "data": "05/05/2026 às 16:54",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
-        "titulo": "Chegada de equipamentos da nova ETA exigirá interdições e desvios no trânsito na entrada da cidade nesta quarta-feira",
-        "link": "https://hjnews.com.br/chegada-de-equipamentos-da-nova-eta-exigira-interdicoes-e-desvios-no-transito-na-entrada-da-cidade-nesta-quarta-feira/",
-        "data": "05/05/2026 às 16:01",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
-        "titulo": "Campanha contra o assédio é apresentada a servidores públicos de Americana",
-        "link": "https://hjnews.com.br/campanha-contra-o-assedio-e-apresentada-a-servidores-publicos-de-americana/",
-        "data": "05/05/2026 às 15:52",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "No clima da Copa: FAM abre exposição sobre a Camisa 1 no Tivoli Shopping",
-        "link": "https://noticiafm.com/no-clima-da-copa-fam-abre-exposicao-sobre-a-camisa-1-no-tivoli-shopping/",
-        "data": "05/05/2026 às 13:48",
-        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-21.37.34-559x419.jpeg&w=400&h=200&fit=cover&output=jpg"
     },
     {
         "portal": "Portal de Americana",
