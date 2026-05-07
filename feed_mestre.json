@@ -1,10 +1,90 @@
 [
     {
+        "portal": "Novo Momento",
+        "titulo": "Audiência discute metas e prioridades do orçamento de Americana para 2027",
+        "link": "https://novomomento.com.br/audiencia-meta-prioridad-orcamento-americana-27/",
+        "data": "07/05/2026 às 22:35",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Arte-AP-PL-52-2026-LDO-2027-225x300.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778193303.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Guarda localiza Rottweilers usados para vigilância em imóvel desativado em Americana",
+        "link": "https://portaldeamericana.com/guarda-localiza-rottweilers-usados-para-vigilancia-em-imovel-desativado-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=guarda-localiza-rottweilers-usados-para-vigilancia-em-imovel-desativado-em-americana",
+        "data": "07/05/2026 às 22:31",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5534.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778193107.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Após reclamações, Rápido no Ar visita local que receberá alunos da escola Prada em Limeira",
+        "link": "https://rapidonoar.com.br/apos-reclamacoes-rapido-no-ar-visita-local-que-recebera-alunos-da-escola-prada-em-limeira/",
+        "data": "07/05/2026 às 22:28",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/escola-provisoria-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778192932.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Com sorteio de R$10 mil, Feira Noivas & Festas acontece nos dias 12 e 13 de maio",
+        "link": "https://portaldeamericana.com/com-sorteio-de-r10-mil-feira-noivas-festas-acontece-nos-dias-12-e-13-de-maio/?utm_source=rss&utm_medium=rss&utm_campaign=com-sorteio-de-r10-mil-feira-noivas-festas-acontece-nos-dias-12-e-13-de-maio",
+        "data": "07/05/2026 às 22:23",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/ketut_seriasa-sunset-5584004.webp&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778192624.0
+    },
+    {
+        "portal": "Americana Post",
+        "titulo": "Operação da DIG de Americana termina com prisão e apreensão de peças automotivas irregulares",
+        "link": "https://www.americanapost.com.br/operacao-da-dig-de-americana-termina-com-prisao-e-apreensao-de-pecas-automotivas-irregulares/",
+        "data": "07/05/2026 às 22:00",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778191243.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Americana tem disputa de vôlei, handebol e ginástica artística nesta sexta e sábado",
+        "link": "https://novomomento.com.br/americana-volei-handebol-ginastica-artistica-6a/",
+        "data": "07/05/2026 às 21:40",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/09/47f0cd5c-rosamaria-volei-300x213.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778190017.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Franco Sardelli e Felipe Sanches aparecem em propaganda nacional do PL na TV",
+        "link": "https://portaldeamericana.com/franco-sardelli-e-felipe-sanches-aparecem-em-propaganda-nacional-do-pl-na-tv/?utm_source=rss&utm_medium=rss&utm_campaign=franco-sardelli-e-felipe-sanches-aparecem-em-propaganda-nacional-do-pl-na-tv",
+        "data": "07/05/2026 às 21:06",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-18.02.14.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778187968.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "FecomercioSP prevê crescimento de 3% nas vendas de Dias das Mães em SP",
+        "link": "https://difusorapiracicaba.com.br/fecomerciosp-preve-crescimento-de-3-nas-vendas-de-dias-das-maes-em-sp/",
+        "data": "07/05/2026 às 21:00",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778187600.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Motocicleta furtada em escola estadual de Limeira é localizada pela GCM",
+        "link": "https://rapidonoar.com.br/motocicleta-furtada-em-escola-estadual-de-limeira-e-localizada-pela-gcm/",
+        "data": "07/05/2026 às 20:55",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/moto-recuperada-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778187356.0
+    },
+    {
         "portal": "Rápido no Ar",
         "titulo": "DIG de Americana realiza operação contra furto de veículos e apreende peças irregulares",
         "link": "https://rapidonoar.com.br/dig-de-americana-realiza-operacao-contra-furto-de-veiculos-e-apreende-pecas-irregulares/",
         "data": "07/05/2026 às 20:51",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/moto-recuperada-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778187113.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "DIG de Americana realiza operação contra furto de veículos e apreende peças irregulares",
+        "link": "https://rapidonoar.com.br/dig-de-americana-realiza-operacao-contra-furto-de-veiculos-e-apreende-pecas-irregulares-dig/",
+        "data": "07/05/2026 às 20:51",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/produtos-recuperados-americana-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778187113.0
     },
     {
