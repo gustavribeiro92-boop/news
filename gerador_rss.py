@@ -20,10 +20,25 @@ FEEDS = [
     'https://sb24horas.com.br/feed/'
 ]
 
-LINK_FALLBACK = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
+# 1.1 DICIONÁRIO DE LOGOS (Links oficiais fornecidos)
+LOGOS_PORTAIS = {
+    'americanapost': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png',
+    'difusorapiracicaba': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg',
+    'hjnews': 'https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg',
+    'jornalojogo': 'https://portaldosportais.com/wp-content/uploads/2026/05/O-JOGO_LOGO.png',
+    'noticiadelimeira': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg',
+    'noticiafm': 'https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png',
+    'novomomento': 'https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png',
+    'portaldeamericana': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif',
+    'rapidonoar': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png',
+    'redefamilia': 'https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png',
+    'sb24horas': 'https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg'
+}
+
+LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 # 2. MOTOR DE BUSCA DE IMAGENS BLINDADO
-def extrair_melhor_imagem(entry):
+def extrair_melhor_imagem(entry, url_feed):
     candidatas = []
     if 'media_content' in entry:
         for m in entry.media_content: candidatas.append(m.get('url', ''))
@@ -51,9 +66,14 @@ def extrair_melhor_imagem(entry):
         if not any(lixo in url_limpa.lower() for lixo in lixos):
             return url_limpa
 
-    return LINK_FALLBACK
+    # Se não achou imagem real, busca o logo correspondente no dicionário
+    for chave, link_logo in LOGOS_PORTAIS.items():
+        if chave in url_feed.lower().replace('.', ''):
+            return link_logo
+            
+    return LINK_FALLBACK_PADRAO
 
-# 3. CARREGAR A MEMÓRIA DO PORTAL (Acumulador)
+# 3. CARREGAR A MEMÓRIA (Acumulador)
 historico_noticias = {}
 if os.path.exists('feed_mestre.json'):
     try:
@@ -61,24 +81,23 @@ if os.path.exists('feed_mestre.json'):
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
                 historico_noticias[noticia['link']] = noticia
-    except Exception as e:
+    except:
         print("Iniciando novo banco de dados...")
 
-# 4. PUXAR AS NOVIDADES E MISTURAR COM O HISTÓRICO
+# 4. PUXAR AS NOVIDADES
 print("Puxando as novas notícias...")
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
         nome_portal = feed.feed.title if 'title' in feed.feed else "Portal"
         
-        for entry in feed.entries[:30]:
+        # Puxa o máximo possível para preencher os históricos
+        for entry in feed.entries[:100]:
             link_noticia = entry.link
             
-            # Pula se a notícia já existe na memória
             if link_noticia in historico_noticias:
                 continue
             
-            # Padroniza a data
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_absoluto = time.mktime(entry.published_parsed)
                 data_formatada = datetime(*entry.published_parsed[:6]).strftime("%d/%m/%Y às %H:%M")
@@ -86,14 +105,15 @@ for url in FEEDS:
                 timestamp_absoluto = datetime.now().timestamp()
                 data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
             
-            imagem_original = extrair_melhor_imagem(entry)
-            if imagem_original == LINK_FALLBACK:
-                imagem_final = LINK_FALLBACK
+            imagem_original = extrair_melhor_imagem(entry, url)
+            
+            # Se for um dos nossos logos, não passa pelo proxy (para carregar mais rápido)
+            if imagem_original in LOGOS_PORTAIS.values() or imagem_original == LINK_FALLBACK_PADRAO:
+                imagem_final = imagem_original
             else:
                 url_sem_http = imagem_original.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
 
-            # Salva a nova notícia
             historico_noticias[link_noticia] = {
                 "portal": nome_portal,
                 "titulo": entry.title,
@@ -105,7 +125,7 @@ for url in FEEDS:
     except Exception as e:
         print(f"Erro no feed {url}: {e}")
 
-# 5. ORDENAR TUDO E SALVAR (Até 1000 notícias)
+# 5. ORDENAR E SALVAR (Limite de 1000 itens)
 lista_final = list(historico_noticias.values())
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
@@ -113,4 +133,4 @@ lista_final = lista_final[:1000]
 with open('feed_mestre.json', 'w', encoding='utf-8') as f:
     json.dump(lista_final, f, ensure_ascii=False, indent=4)
 
-print(f"Sucesso! Acervo atualizado com {len(lista_final)} notícias.")
+print(f"Sucesso! Banco de dados atualizado com {len(lista_final)} notícias.")
