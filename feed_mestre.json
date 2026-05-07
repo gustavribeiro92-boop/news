@@ -1,10 +1,52 @@
 [
     {
+        "portal": "SB24HORAS",
+        "titulo": "FecomercioSP prevê crescimento de 3% nas vendas de Dias das Mães em SP",
+        "link": "https://sb24horas.com.br/fecomerciosp-preve-crescimento-de-3-nas-vendas-de-dias-das-maes-em-sp/",
+        "data": "07/05/2026 às 05:15",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Claude, ChatGPT ou Canva, qual vai bombar em 2026",
+        "link": "https://novomomento.com.br/claude-chatgpt-ou-canva-qual-vai-bombar-em-2026/",
+        "data": "07/05/2026 às 05:11",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/chatgpt-canva-claude-300x211.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Pan-ameriano de taekwondo começa nesta quinta no Rio de Janeiro",
+        "link": "https://sb24horas.com.br/pan-ameriano-de-taekwondo-comeca-nesta-quinta-no-rio-de-janeiro/",
+        "data": "07/05/2026 às 02:30",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Após horas, gato é resgatado de telhado de ginásio em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/06/apos-horas-gato-e-resgatado-de-telhado-de-ginasio-em-limeira/",
+        "data": "07/05/2026 às 02:15",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Prefeitura intensifica operação contra loteamento irregular Kairós na zona Norte de Campinas",
+        "link": "https://rapidonoar.com.br/prefeitura-intensifica-operacao-contra-loteamento-irregular-kairos-na-zona-norte-de-campinas/",
+        "data": "07/05/2026 às 01:32",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/terrenos-irregular-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Marcos Caetano pede mais iluminação e limpeza em rua do bairro Nova Carioba",
         "link": "https://novomomento.com.br/marcos-caetano-ilumina-limp-rua-nova-carioba/",
         "data": "07/05/2026 às 01:05",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/260504-Marcos-300x210.png&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Delegação europeia confia em aprovação final de acordo com Mercosul",
+        "link": "https://sb24horas.com.br/delegacao-europeia-confia-em-aprovacao-final-de-acordo-com-mercosul/",
+        "data": "07/05/2026 às 00:49",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "Rápido no Ar",
@@ -75,6 +117,13 @@
         "link": "https://rapidonoar.com.br/idosa-fica-gravemente-ferida-em-colisao-entre-carros-no-viaduto-laranjeiras-em-limeira/",
         "data": "06/05/2026 às 20:24",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/acidente-carros-limeira-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Produtividade permite reduzir jornada sem cortar salário, diz Durigan",
+        "link": "https://sb24horas.com.br/produtividade-permite-reduzir-jornada-sem-cortar-salario-diz-durigan/",
+        "data": "06/05/2026 às 20:23",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "Novo Momento",
@@ -175,6 +224,13 @@
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2021/11/base-Recuperado-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
     },
     {
+        "portal": "SB24HORAS",
+        "titulo": "Prefeitura inicia operação para prevenir incêndios e intensifica ações durante período de estiagem em Santa Bárbara",
+        "link": "https://sb24horas.com.br/prefeitura-inicia-operacao-para-prevenir-incendios-e-intensifica-acoes-durante-periodo-de-estiagem-em-santa-barbara/",
+        "data": "06/05/2026 às 18:26",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
         "portal": "Portal Hj News | Notícias de Americana, Santa Bárbara e toda a Região",
         "titulo": "Gutão do Lanche pede limpeza e capinação na Praça da Fraternidade",
         "link": "https://hjnews.com.br/gutao-do-lanche-pede-limpeza-e-capinacao-na-praca-da-fraternidade/",
@@ -189,13 +245,6 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "Rápido no Ar",
-        "titulo": "Motorista de caminhão é preso com 290 Kg de maconha em caminhão frigorífico",
-        "link": "https://rapidonoar.com.br/motorista-de-caminhao-e-preso-com-290-kg-de-maconha-em-caminhao-frigorifico/",
-        "data": "06/05/2026 às 18:07",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/maconha-com-presunto-franco-da-rocha-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Ação retoma prédio público ocupado irregularmente no Mário Dedini",
         "link": "https://difusorapiracicaba.com.br/acao-retoma-predio-publico-ocupado-irregularmente-no-mario-dedini/",
@@ -203,17 +252,31 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
-        "portal": "Novo Momento",
-        "titulo": "Brasileiro mais esperto com golpes nas buscas por emprego",
-        "link": "https://novomomento.com.br/brasileiro-mai-atentos-golpes-ao-buscar-emprego/",
-        "data": "06/05/2026 às 17:38",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/05/vagas-de-emprego-em-sumare-2-300x200.jpeg&w=400&h=200&fit=cover&output=jpg"
+        "portal": "SB24HORAS",
+        "titulo": "Happy Hour no Museu terá karaokê, música e apoio à Corporação Musical União Barbarense nesta sexta",
+        "link": "https://sb24horas.com.br/happy-hour-no-museu-tera-karaoke-musica-e-apoio-a-corporacao-musical-uniao-barbarense-nesta-sexta/",
+        "data": "06/05/2026 às 17:32",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Mega não tem acertador e prêmio vai a R$ 36 milhões",
         "link": "https://difusorapiracicaba.com.br/mega-nao-tem-acertador-e-premio-vai-a-r-36-milhoes/",
         "data": "06/05/2026 às 17:30",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Santa Bárbara segue com a vacinação contra a dengue para os grupos prioritários nas UBSs",
+        "link": "https://sb24horas.com.br/santa-barbara-segue-com-a-vacinacao-contra-a-dengue-para-os-grupos-prioritarios-nas-ubss/",
+        "data": "06/05/2026 às 17:28",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "CIEP do Jardim das Orquídeas passa por série de melhorias estruturais para reforçar ambiente escolar",
+        "link": "https://sb24horas.com.br/ciep-do-jardim-das-orquideas-passa-por-serie-de-melhorias-estruturais-para-reforcar-ambiente-escolar/",
+        "data": "06/05/2026 às 17:25",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
@@ -238,10 +301,24 @@
         "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg"
     },
     {
+        "portal": "SB24HORAS",
+        "titulo": "Venda mais com segurança: ACISB abre inscrições para masterclass de análise e concessão de crédito",
+        "link": "https://sb24horas.com.br/venda-mais-com-seguranca-acisb-abre-inscricoes-para-masterclass-de-analise-e-concessao-de-credito/",
+        "data": "06/05/2026 às 16:08",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
         "portal": "DIFUSORA FM PIRACICABA",
         "titulo": "Desenrola é liberado e renegociação de dívida pode ser feita",
         "link": "https://difusorapiracicaba.com.br/desenrola-e-liberado-e-renegociacao-de-divida-pode-ser-feita/",
         "data": "06/05/2026 às 16:00",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
+    },
+    {
+        "portal": "SB24HORAS",
+        "titulo": "Prêmio para projetos no serviço público tem inscrições até 1º de junho",
+        "link": "https://sb24horas.com.br/premio-para-projetos-no-servico-publico-tem-inscricoes-ate-1o-de-junho/",
+        "data": "06/05/2026 às 15:57",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
@@ -473,13 +550,6 @@
         "titulo": "Mutirão de castração será realizado em Limeira entre os dias 07 e 10 de maio",
         "link": "https://noticiadelimeira.com.br/2026/05/05/mutirao-de-castracao-sera-realizado-em-limeira-entre-os-dias-07-e-10-de-maio/",
         "data": "05/05/2026 às 16:54",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
-    },
-    {
-        "portal": "Notícia de Limeira",
-        "titulo": "Trabalhador fica gravemente ferido após sofrer corte na cabeça com máquina em Cordeirópolis",
-        "link": "https://noticiadelimeira.com.br/2026/05/05/trabalhador-fica-gravemente-ferido-apos-sofrer-corte-na-cabeca-com-maquina-em-cordeiropolis/",
-        "data": "05/05/2026 às 16:42",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
