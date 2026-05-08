@@ -1,5 +1,69 @@
 [
     {
+        "portal": "Novo Momento",
+        "titulo": "Comércio do Centro atende em horário especial no sábado, e ACIA realiza sorteio de moto neste mês",
+        "link": "https://novomomento.com.br/comercio-horario-especial-sabado-acia-sorteio/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2024/12/006e3ee8-comercio-americana-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778245220.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste inicia operação para prevenir incêndios",
+        "link": "https://noticiafm.com/prefeitura-de-santa-barbara-doeste-inicia-operacao-para-prevenir-incendios/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/947ac8cecc35a1fde621a839bc5de39a-559x419.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778244902.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Mãe batendo em filha e filho ameaçando mãe na região",
+        "link": "https://novomomento.com.br/mae-batendo-em-filha-e-filho-ameacando-mae-na-regiao/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778244891.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Miguel Bianconi: “Precisamos voltar a vencer em casa”",
+        "link": "https://rapidonoar.com.br/miguel-bianconi-precisamos-voltar-a-vencer-em-casa/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/miguel-acesso-939x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778244820.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Limeirense é o novo supervisor de futebol do I9 de Ribeirão Preto",
+        "link": "https://rapidonoar.com.br/limeirense-e-o-novo-supervisor-de-futebol-do-i9-de-ribeirao-preto/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/mauricio-11-928x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778244416.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Operação da Polícia Civil com Ministério Público mira lavagem de dinheiro ligada ao crime organizado em São Paulo",
+        "link": "https://noticiafm.com/operacao-da-policia-civil-com-ministerio-publico-mira-lavagem-de-dinheiro-ligada-ao-crime-organizado-em-sao-paulo/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/operacao-caronte-policia-1024x576-1-559x314.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778243815.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Governo Federal repassou 94% do Auxílio Reconstrução para o RS",
+        "link": "https://sb24horas.com.br/governo-federal-repassou-94-do-auxilio-reconstrucao-para-o-rs/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778242743.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Feira Criativa terá edição especial de Dia das Mães no Paço Municipal de Americana nesta sexta-feira",
+        "link": "https://noticiafm.com/feira-criativa-tera-edicao-especial-de-dia-das-maes-no-paco-municipal-de-americana-nesta-sexta-feira/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/55106408628_13f639f0e1_o-559x419.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778242154.0
+    },
+    {
         "portal": "Notícia FM",
         "titulo": "Americana se destaca na geração de empregos no 1º trimestre do ano",
         "link": "https://noticiafm.com/americana-se-destaca-na-geracao-de-empregos-no-1o-trimestre-do-ano/",
