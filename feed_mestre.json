@@ -1,6 +1,86 @@
 [
     {
         "portal": "Rápido no Ar",
+        "titulo": "Frente fria muda o tempo na região nos próximos dias",
+        "link": "https://rapidonoar.com.br/frente-fria-muda-o-tempo-na-regiao-nos-proximos-dias/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/frente-fria-frio-agasaho-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778270873.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Mega-Sena acumula e prêmio principal vai para R$ 45 milhões",
+        "link": "https://difusorapiracicaba.com.br/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778270400.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Limeira está entre cidades que foram alvo de operação contra esquema criminoso; até touro foi apreendido",
+        "link": "https://rapidonoar.com.br/limeira-esta-entre-cidades-que-foram-alvo-de-operacao-contra-esquema-criminoso-ate-touro-foi-apreendido/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2018/09/gaeco.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778269816.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Helicóptero da família de Henrique e Juliano faz pouso de emergência no Tocantins",
+        "link": "https://rapidonoar.com.br/helicoptero-da-familia-de-henrique-e-juliano-faz-pouso-de-emergencia-no-tocantins/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/queda-de-helicoptero-henrique-juliano-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778269335.0
+    },
+    {
+        "portal": "Americana Post",
+        "titulo": "Polícia Militar prende dupla por tráfico de drogas em Adega no Zanaga",
+        "link": "https://www.americanapost.com.br/policia-militar-prende-dupla-por-trafico-de-drogas-em-adega-no-zanaga/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778269153.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Motociclista fica ferido em colisão traseira na Limeira – Piracicaba",
+        "link": "https://rapidonoar.com.br/motociclista-fica-ferido-em-colisao-traseira-na-limeira-piracicaba/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/colisao-traseira-moto-e-carro-na-SP-147-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778268296.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Rodada do Amador movimenta Santa Bárbara; veja locais e horários",
+        "link": "https://novomomento.com.br/rodada-do-amador-movimenta-santa-barbara/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/08/91db8cf2-futebol-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778267838.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Jr Dias pede fortalecimento de campanhas de combate ao abuso sexual infantil",
+        "link": "https://novomomento.com.br/jr-dias-fortalect-combate-abuso-sexual-infantil/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/j_p-300x261.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778267130.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Marmanjo e adolescente vendiam “Seo Madroga” na Praia Azul (120 porções)",
+        "link": "https://novomomento.com.br/marmanjo-adolescente-droga-seo-madroga-pazul120/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.50.58-PM-300x212.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778266939.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Prefeitura fará controle populacional de capivaras do Parque da Rua do Porto",
+        "link": "https://difusorapiracicaba.com.br/prefeitura-fara-controle-populacional-de-capivaras-do-parque-da-rua-do-porto/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778266800.0
+    },
+    {
+        "portal": "Rápido no Ar",
         "titulo": "Colisão entre dois carros deixa idoso levemente ferido em Limeira",
         "link": "https://rapidonoar.com.br/colisao-entre-dois-carros-deixa-idoso-levemente-ferido-em-limeira/",
         "data": "08/05/2026",
