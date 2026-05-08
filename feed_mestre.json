@@ -1,5 +1,141 @@
 [
     {
+        "portal": "Rápido no Ar",
+        "titulo": "Colisão entre dois carros deixa idoso levemente ferido em Limeira",
+        "link": "https://rapidonoar.com.br/colisao-entre-dois-carros-deixa-idoso-levemente-ferido-em-limeira/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/colisao-na-avenida-eduardo-peixoto-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778265154.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Senegalês é preso no Centro de Piracicaba com 22 identidades falsas para aplicar golpes",
+        "link": "https://difusorapiracicaba.com.br/senegales-e-preso-no-centro-de-piracicaba-com-22-identidades-falsas-para-aplicar-golpes/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778265000.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Helicóptero de Henrique e Juliano cai perto de fazenda da dupla no Tocantins",
+        "link": "https://portaldeamericana.com/helicoptero-de-henrique-e-juliano-cai-perto-de-fazenda-da-dupla-no-tocantins/?utm_source=rss&utm_medium=rss&utm_campaign=helicoptero-de-henrique-e-juliano-cai-perto-de-fazenda-da-dupla-no-tocantins",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5557.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778263398.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Fies 2026: pré-selecionados devem validar informações até segunda",
+        "link": "https://difusorapiracicaba.com.br/fies-2026-pre-selecionados-devem-validar-informacoes-ate-segunda/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778263200.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Moacyr Franco fará show na Festa das Mães de Limeira neste sábado; entrada é franca",
+        "link": "https://rapidonoar.com.br/moacyr-franco-fara-show-na-festa-das-maes-de-limeira-neste-sabado-entrada-e-franca-sp/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/moacyr-franco-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778262936.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Prefeitura de Americana inicia campanha Maio Amarelo com o tema “Enxergar o outro é salvar vidas”",
+        "link": "https://hjnews.com.br/prefeitura-de-americana-inicia-campanha-maio-amarelo-com-o-tema-enxergar-o-outro-e-salvar-vidas/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778262819.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "‘Sócios no tráfico’ são presos em operação da Polícia Civil em Piracicaba",
+        "link": "https://rapidonoar.com.br/socios-no-trafico-sao-presos-em-operacao-da-policia-civil-em-piracicaba/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/presos-por-associacao-ao-trafico-em-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778261952.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "RMC vê avanço da artrose no joelho e aumento da preocupação com cirurgia",
+        "link": "https://novomomento.com.br/rmc-avanco-artrose-joelho-preocupacao-cirurgia/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/12/177af173-2020-joelho1-300x228.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778261928.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Prefeitura formaliza assinatura de 16 empreendimentos para novos investimentos industriais",
+        "link": "https://difusorapiracicaba.com.br/prefeitura-formaliza-assinatura-de-16-empreendimentos-para-novos-investimentos-industriais/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778261400.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "MP denuncia casal por venda ilegal de “Mounjaro do Paraguai” e anabolizantes em Americana",
+        "link": "https://portaldeamericana.com/mp-denuncia-casal-por-venda-ilegal-de-mounjaro-do-paraguai-e-anabolizantes-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=mp-denuncia-casal-por-venda-ilegal-de-mounjaro-do-paraguai-e-anabolizantes-em-americana",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5550.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778261210.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "No 1º mês com horário estendido, UBS Mathiensen registra quase mil atendimentos após 16h30",
+        "link": "https://hjnews.com.br/no-1o-mes-com-horario-estendido-ubs-mathiensen-registra-quase-mil-atendimentos-apos-16h30/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778261042.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "JAGUARIÚNA REALIZA SEMANA DO TURISMO DE 11 A 16 DE MAIO",
+        "link": "https://hjnews.com.br/jaguariuna-realiza-semana-do-turismo-de-11-a-16-de-maio/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778260469.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Juninho Dias propõe tarifa gratuita no transporte público para estudantes inscritos no Enem",
+        "link": "https://hjnews.com.br/juninho-dias-propoe-tarifa-gratuita-no-transporte-publico-para-estudantes-inscritos-no-enem/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778260279.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Tivoli amplia espaço para troca de figurinhas da Copa e reforça experiência para colecionadores",
+        "link": "https://hjnews.com.br/tivoli-amplia-espaco-para-troca-de-figurinhas-da-copa-e-reforca-experiencia-para-colecionadores/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778259955.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Campanha contra o assédio é apresentada a servidores públicos de Americana",
+        "link": "https://novomomento.com.br/campanha-contra-o-assedio-servidores-americana/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/55238790276_b1cc5a57aa_k-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778259920.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Praça da Migração recebe a Feira Animal ‘Mãos e Patas’ neste sábado",
+        "link": "https://hjnews.com.br/praca-da-migracao-recebe-a-feira-animal-maos-e-patas-neste-sabado/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778259759.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Cemitérios municipais devem receber 30 mil pessoas no Dia das Mães",
+        "link": "https://difusorapiracicaba.com.br/cemiterios-municipais-devem-receber-30-mil-pessoas-no-dia-das-maes/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778259600.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Caso Ypê- Procons e Vigilâncias de olho nos produtos ‘vetados’ pela Anvisa",
         "link": "https://novomomento.com.br/caso-ype-procon-olho-produtos-vetados-p-anvisa/",
@@ -93,6 +229,14 @@
         "link": "https://novomomento.com.br/guardas-impedem-furto-de-cabos-que-deixaria-nova-odessa-sem-agua/",
         "data": "08/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778256667.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Guardas impedem furto de cabos que deixaria Nova Odessa sem água",
+        "link": "https://novomomento.com.br/guarda-impede-furto-cabo-deixa-nodessa-sem-agua/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-08.11.57-300x169.jpeg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778256667.0
     },
     {
