@@ -3,6 +3,7 @@ import re
 import json
 import time
 import os
+import email.utils # Biblioteca para tratar datas com fuso horário
 from datetime import datetime
 
 # 1. LISTA DE FEEDS
@@ -118,20 +119,28 @@ for url in FEEDS:
             if link_noticia in historico_noticias:
                 continue
             
-            # --- AJUSTE DE HORÁRIO (BRASÍLIA - UTC-3) ---
-            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+            # --- AJUSTE DE HORÁRIO INTELIGENTE ---
+            data_bruta = entry.get('published', None)
+            
+            if data_bruta:
+                try:
+                    # Converte a string bruta respeitando o fuso do jornal
+                    parsed_date = email.utils.parsedate_to_datetime(data_bruta)
+                    timestamp_absoluto = parsed_date.timestamp()
+                    data_formatada = parsed_date.strftime("%d/%m/%Y às %H:%M")
+                except:
+                    # Fallback simples caso a string falhe
+                    timestamp_absoluto = time.time()
+                    data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
+            elif hasattr(entry, 'published_parsed') and entry.published_parsed:
+                # Fallback para o parser padrão (geralmente UTC)
                 ts_utc = time.mktime(entry.published_parsed)
-                # Ajuste de -3 horas (3 * 3600 segundos)
-                ts_brasilia = ts_utc - (3 * 3600)
-                
-                timestamp_absoluto = ts_brasilia
-                data_formatada = datetime.fromtimestamp(ts_brasilia).strftime("%d/%m/%Y às %H:%M")
+                timestamp_absoluto = ts_utc
+                data_formatada = datetime.fromtimestamp(ts_utc).strftime("%d/%m/%Y às %H:%M")
             else:
-                # Se não tiver data, usa agora menos 3 horas
-                ts_atual_brasilia = time.time() - (3 * 3600)
-                timestamp_absoluto = ts_atual_brasilia
-                data_formatada = datetime.fromtimestamp(ts_atual_brasilia).strftime("%d/%m/%Y às %H:%M")
-            # --------------------------------------------
+                timestamp_absoluto = time.time()
+                data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
+            # ------------------------------------
             
             imagem_original = extrair_melhor_imagem(entry, url)
             
