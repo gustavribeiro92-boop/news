@@ -1,11 +1,99 @@
 [
     {
         "portal": "Rápido no Ar",
+        "titulo": "Ypê diz que produtos são seguros e espera reversão de decisão da Anvisa",
+        "link": "https://rapidonoar.com.br/ype-diz-que-produtos-sao-seguros-e-espera-reversao-de-decisao-da-anvisa/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/ype-detergente-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778278845.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Dia D da Campanha do Agasalho 2026 em Hortolândia é em 12 de maio",
+        "link": "https://novomomento.com.br/dia-d-campanha-agasalho26-hortolandia-12-d-maio/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/card-Campanha-do-Agasalho-2026-212x300.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778277923.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Carro capota após colisão com picape na marginal Tatu em Limeira",
+        "link": "https://rapidonoar.com.br/carro-capota-apos-colisao-com-picape-na-marginal-tatu-em-limeira/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/acidente-carro-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778277789.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Angolano é preso por policiais da DEIC de Piracicaba tentando abrir conta com documento falso",
+        "link": "https://rapidonoar.com.br/angolano-e-preso-por-policiais-da-deic-de-piracicaba-tentando-abrir-conta-com-documento-falso-sp/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/angolano-preso-por-estelionato-piracicaba-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778274577.0
+    },
+    {
+        "portal": "Americana Post",
+        "titulo": "Vigilância Sanitária de Americana fiscaliza supermercados após suspensão de produtos Ypê pela Anvisa",
+        "link": "https://www.americanapost.com.br/vigilancia-sanitaria-de-americana-fiscaliza-supermercados-apos-suspensao-de-produtos-ype-pela-anvisa/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778274470.0
+    },
+    {
+        "portal": "Americana Post",
+        "titulo": "Defesa Civil de Americana participa de treinamento da Operação São Paulo Sem Fogo",
+        "link": "https://www.americanapost.com.br/defesa-civil-de-americana-participa-de-treinamento-da-operacao-sao-paulo-sem-fogo/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778274323.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Flávio e Lula empatam na corrida presidencial em SP (Estado)",
+        "link": "https://novomomento.com.br/flavio-lula-empate-corrida-presidencia-spestado/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/lula-flavio-rachadinha-300x212.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778274047.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Comerciantes de rua de Piracicaba participam de oficinas gratuitas de capacitação",
+        "link": "https://difusorapiracicaba.com.br/comerciantes-de-rua-de-piracicaba-participam-de-oficinas-gratuitas-de-capacitacao/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778274000.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Vigilância Sanitária fiscaliza supermercados de Americana após suspensão de produtos Ypê pela Anvisa",
+        "link": "https://portaldeamericana.com/vigilancia-sanitaria-fiscaliza-supermercados-de-americana-apos-suspensao-de-produtos-ype-pela-anvisa/?utm_source=rss&utm_medium=rss&utm_campaign=vigilancia-sanitaria-fiscaliza-supermercados-de-americana-apos-suspensao-de-produtos-ype-pela-anvisa",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5569.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778273485.0
+    },
+    {
+        "portal": "Rápido no Ar",
         "titulo": "Frente fria muda o tempo na região nos próximos dias",
         "link": "https://rapidonoar.com.br/frente-fria-muda-o-tempo-na-regiao-nos-proximos-dias/",
         "data": "08/05/2026",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/frente-fria-frio-agasaho-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778270873.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Santa Bárbara inicia operação de varrição mecanizada e moderniza sistema de limpeza urbana",
+        "link": "https://sb24horas.com.br/santa-barbara-inicia-operacao-de-varricao-mecanizada-e-moderniza-sistema-de-limpeza-urbana/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778270527.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Taekwondo: Maicon Andrade é suspenso por violar regras antidoping",
+        "link": "https://sb24horas.com.br/taekwondo-maicon-andrade-e-suspenso-por-violar-regras-antidoping/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778270444.0
     },
     {
         "portal": "Difusora FM",
@@ -14,6 +102,22 @@
         "data": "08/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1778270400.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Praça da Migração recebe Feira Animal “Mãos e Patas” com adoção, música ao vivo e atrações para toda a família em Santa Bárbara",
+        "link": "https://sb24horas.com.br/praca-da-migracao-recebe-feira-animal-maos-e-patas-com-adocao-musica-ao-vivo-e-atracoes-para-toda-a-familia-em-santa-barbara/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778270301.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Vigilância Sanitária intensifica fiscalização em Santa Bárbara após Anvisa suspender lotes de produtos da Ypê",
+        "link": "https://sb24horas.com.br/vigilancia-sanitaria-intensifica-fiscalizacao-em-santa-barbara-apos-anvisa-suspender-lotes-de-produtos-da-ype/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778269951.0
     },
     {
         "portal": "Rápido no Ar",
@@ -222,6 +326,14 @@
         "data": "08/05/2026",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/produtos_ype_2c411e86cc-300x212.jpeg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778258794.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Morre o economista Chico Lopes, ex-Banco Central e criador do Copom",
+        "link": "https://sb24horas.com.br/morre-o-economista-chico-lopes-ex-banco-central-e-criador-do-copom/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778258684.0
     },
     {
         "portal": "Notícia de Limeira",
