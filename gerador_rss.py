@@ -3,7 +3,7 @@ import re
 import json
 import time
 import os
-import email.utils # Biblioteca para tratar datas com fuso horário
+import email.utils
 from datetime import datetime
 
 # 1. LISTA DE FEEDS
@@ -37,7 +37,6 @@ LOGOS_PORTAIS = {
 
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
-# FUNÇÃO BLINDADA COM .lower()
 def nome_curto_portal(link_noticia):
     link = link_noticia.lower()
     if 'americanapost' in link: return 'Americana Post'
@@ -81,7 +80,6 @@ def extrair_melhor_imagem(entry, url_feed):
         if not any(lixo in url_limpa.lower() for lixo in lixos):
             return url_limpa
 
-    # Busca segura ignorando pontos e minúsculas
     url_feed_limpa = url_feed.lower().replace('.', '')
     for chave, link_logo in LOGOS_PORTAIS.items():
         if chave in url_feed_limpa:
@@ -89,7 +87,6 @@ def extrair_melhor_imagem(entry, url_feed):
             
     return LINK_FALLBACK_PADRAO
 
-# CARREGAR E CORRIGIR A MEMÓRIA
 historico_noticias = {}
 if os.path.exists('feed_mestre.json'):
     try:
@@ -97,18 +94,15 @@ if os.path.exists('feed_mestre.json'):
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
                 noticia['portal'] = nome_curto_portal(noticia['link'])
-                
                 if noticia['imagem'] == LINK_FALLBACK_PADRAO:
                     for chave, link_logo in LOGOS_PORTAIS.items():
                         if chave in noticia['link'].lower():
                             noticia['imagem'] = link_logo
                             break
-                            
                 historico_noticias[noticia['link']] = noticia
     except:
         print("Iniciando novo banco de dados...")
 
-# PUXAR AS NOVIDADES
 print("Puxando as novas notícias...")
 for url in FEEDS:
     try:
@@ -119,28 +113,23 @@ for url in FEEDS:
             if link_noticia in historico_noticias:
                 continue
             
-            # --- AJUSTE DE HORÁRIO INTELIGENTE ---
+            # --- LÓGICA SIMPLIFICADA: APENAS DATA ---
             data_bruta = entry.get('published', None)
-            
             if data_bruta:
                 try:
-                    # Converte a string bruta respeitando o fuso do jornal
                     parsed_date = email.utils.parsedate_to_datetime(data_bruta)
                     timestamp_absoluto = parsed_date.timestamp()
-                    data_formatada = parsed_date.strftime("%d/%m/%Y às %H:%M")
+                    data_formatada = parsed_date.strftime("%d/%m/%Y") # Removido o horário
                 except:
-                    # Fallback simples caso a string falhe
                     timestamp_absoluto = time.time()
-                    data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
+                    data_formatada = datetime.now().strftime("%d/%m/%Y")
             elif hasattr(entry, 'published_parsed') and entry.published_parsed:
-                # Fallback para o parser padrão (geralmente UTC)
                 ts_utc = time.mktime(entry.published_parsed)
                 timestamp_absoluto = ts_utc
-                data_formatada = datetime.fromtimestamp(ts_utc).strftime("%d/%m/%Y às %H:%M")
+                data_formatada = datetime.fromtimestamp(ts_utc).strftime("%d/%m/%Y")
             else:
                 timestamp_absoluto = time.time()
-                data_formatada = datetime.now().strftime("%d/%m/%Y às %H:%M")
-            # ------------------------------------
+                data_formatada = datetime.now().strftime("%d/%m/%Y")
             
             imagem_original = extrair_melhor_imagem(entry, url)
             
@@ -161,7 +150,6 @@ for url in FEEDS:
     except Exception as e:
         print(f"Erro no feed {url}: {e}")
 
-# ORDENAR E SALVAR
 lista_final = list(historico_noticias.values())
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
