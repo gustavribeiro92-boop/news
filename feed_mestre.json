@@ -1,6 +1,38 @@
 [
     {
         "portal": "Novo Momento",
+        "titulo": "Zezé vistoria nova etapa de obras no Parque do Jardim Amanda",
+        "link": "https://novomomento.com.br/zeze-vistoria-obras-no-parque-do-jardim-amanda/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/03/19-09-2025-PREFEITO-ZEZE-GOMES-E-VICE-PREFEITO-CAFU-CESAR-300x200.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778344524.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Capitão do Corpo de Bombeiros morre após acidente na Rodovia dos Bandeirantes em Campinas",
+        "link": "https://rapidonoar.com.br/capitao-do-corpo-de-bombeiros-morre-apos-acidente-na-rodovia-dos-bandeirantes-em-campinas/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/IMG-20260509-WA00061-1024x640.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778341260.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "TCE flagra R$ 4,3 milhões em remédios vencidos na região ampliada",
+        "link": "https://novomomento.com.br/tce-flagra-r4-milhoes-remedio-vencido-regiao/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Viradouro-Farmacia-Municipal-II-Medicamentos-encostados-na-parede-proximos-a-area-com-mofo-300x206.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778340949.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Novo Desenrola: juros altos pressionam endividamento das famílias",
+        "link": "https://sb24horas.com.br/novo-desenrola-juros-altos-pressionam-endividamento-das-familias/",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778338484.0
+    },
+    {
+        "portal": "Novo Momento",
         "titulo": "Palestra orienta MPEs de Americana como crescer em um ano de incertezas",
         "link": "https://novomomento.com.br/palestra-orienta-mpes-americana-crescer/",
         "data": "09/05/2026",
