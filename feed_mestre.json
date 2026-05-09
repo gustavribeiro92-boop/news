@@ -1,5 +1,29 @@
 [
     {
+        "portal": "SB24Horas",
+        "titulo": "Sarah Souza é bronze em 1º dia do Grand Slam de judô no Cazaquistão",
+        "link": "https://sb24horas.com.br/sarah-souza-e-bronze-em-1o-dia-do-grand-slam-de-judo-no-cazaquistao/",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778295352.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Fogo em área verde mobiliza moradores no Varandas após demora no atendimento",
+        "link": "https://rapidonoar.com.br/fogo-em-area-verde-mobiliza-moradores-no-varandas-apos-demora-no-atendimento-sp/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/queimada-acacias-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778294656.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Emenda “comprada” por dono do Master colocaria FGC em risco",
+        "link": "https://sb24horas.com.br/emenda-comprada-por-dono-do-master-colocaria-fgc-em-risco/",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778290615.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Campo Society do Jd. Minda (Hortolândia) ganha sistema de iluminação",
         "link": "https://novomomento.com.br/campo-society-jd-minda-hortolandia-ganh-ilumina/",
