@@ -1,5 +1,53 @@
 [
     {
+        "portal": "Notícia de Limeira",
+        "titulo": "De olho no mercado global, Limeira inicia planejamento para ampliar negócios e empregos na cidade",
+        "link": "https://noticiadelimeira.com.br/2026/05/09/de-olho-no-mercado-global-limeira-inicia-planejamento-para-ampliar-negocios-e-empregos-na-cidade/",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778351958.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Limeira promove 2º Fórum de Saúde Mental com debates, palestras e protagonismo de usuários",
+        "link": "https://noticiadelimeira.com.br/2026/05/09/limeira-promove-2o-forum-de-saude-mental-com-debates-palestras-e-protagonismo-de-usuarios/",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778351575.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Motociclista morre após colisão entre duas motos em Rio Claro",
+        "link": "https://rapidonoar.com.br/motociclista-morre-apos-colisao-entre-duas-motos-em-rio-claro/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/MORTE-MOTO-RIO-CLARO-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778349885.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "BYD King vendeu mais que Corolla- sim ou não",
+        "link": "https://novomomento.com.br/byd-king-vendeu-mais-que-corolla-sim-ou-nao/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/byd-king-corolla-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778348120.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Caso Ypê também vira debate ideológico",
+        "link": "https://novomomento.com.br/caso-ype-tambem-vira-debate-ideologico/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/produtos_ype_2c411e86cc-300x212.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778347957.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Capitão Bombeiro Maurício Humphreys, 44, morre em acidente",
+        "link": "https://novomomento.com.br/capitap-dmauricio-humphreys-de-44/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Mauricio-Humphreys-300x220.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778344762.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Zezé vistoria nova etapa de obras no Parque do Jardim Amanda",
         "link": "https://novomomento.com.br/zeze-vistoria-obras-no-parque-do-jardim-amanda/",
@@ -11,6 +59,14 @@
         "portal": "Rápido no Ar",
         "titulo": "Capitão do Corpo de Bombeiros morre após acidente na Rodovia dos Bandeirantes em Campinas",
         "link": "https://rapidonoar.com.br/capitao-do-corpo-de-bombeiros-morre-apos-acidente-na-rodovia-dos-bandeirantes-em-campinas/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/IMG-20260509-WA00061-1024x640.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778341260.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Capitão do Corpo de Bombeiros morre após acidente na Rodovia dos Bandeirantes em Campinas",
+        "link": "https://rapidonoar.com.br/capitao-do-corpo-de-bombeiros-morre-apos-acidente-na-rodovia-dos-bandeirantes-em-campinas-sp/",
         "data": "09/05/2026",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/IMG-20260509-WA00061-1024x640.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778341260.0
