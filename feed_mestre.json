@@ -1,6 +1,70 @@
 [
     {
         "portal": "Novo Momento",
+        "titulo": "Nova Odessa tem palestra sobre exploração de crianças e adolescentes",
+        "link": "https://novomomento.com.br/nova-odessa-palestra-explora-criancas-adolescen/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/08/Leitinho-Mineirinho-e-Oseias-300x199.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778330118.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste inicia varrição mecanizada no municipio",
+        "link": "https://noticiafm.com/prefeitura-de-santa-barbara-doeste-inicia-varricao-mecanizada-no-municipio/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/caminhao-varricao-mecanizada-02-559x399.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778329414.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Morre locutor Giu, da Educadora FM",
+        "link": "https://novomomento.com.br/morre-locutor-giu-da-educadora-fm/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/0c419ca2-7f7a-49a5-9e8b-f099b7d0ee2d-300x219.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778327976.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Caso Ypê: Vigilância Americana faz blitz em supermercado",
+        "link": "https://novomomento.com.br/caso-ype-vigilanci-americana-blitz-supermercado/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/vigilancia-americana-caso-ype2-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778326245.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Surto de Hantavírus e os riscos no Brasil, nota do Ministério",
+        "link": "https://novomomento.com.br/surto-hantavirus-riscos-brasil-nota-ministerio/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2022/02/coronavirus-1-300x197.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778325243.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Operação Direção Segura autua 53 motoristas durante fiscalização em Leme",
+        "link": "https://rapidonoar.com.br/operacao-direcao-segura-autua-53-motoristas-durante-fiscalizacao-em-leme/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/blitz-leme-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778323894.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Independente contrata atacante que passou por três grandes em São Paulo",
+        "link": "https://rapidonoar.com.br/independente-contrata-atacante-que-passou-por-tres-grandes-em-sao-paulo/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/pedrinho-11-819x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778323596.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Obituário de Limeira e região: Veja os falecimentos ocorridos nesta sexta-feira (8)",
+        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-veja-os-falecimentos-ocorridos-nesta-sexta-feira-8-3/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/05/cemiterio-obituario-despedida-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778323546.0
+    },
+    {
+        "portal": "Novo Momento",
         "titulo": "Hortolândia tem saldo positivo de 540 vagas de emprego em março, segundo Caged",
         "link": "https://novomomento.com.br/hortolandia-saldo-positivo-540vagas-marco-caged/",
         "data": "09/05/2026",
