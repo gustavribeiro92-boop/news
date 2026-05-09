@@ -1,5 +1,53 @@
 [
     {
+        "portal": "Novo Momento",
+        "titulo": "Campo Society do Jd. Minda (Hortolândia) ganha sistema de iluminação",
+        "link": "https://novomomento.com.br/campo-society-jd-minda-hortolandia-ganh-ilumina/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Amador-300x214.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778288723.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Leoncine discute emendas com esporte e Juliana quer saber do UniversalizaSP",
+        "link": "https://novomomento.com.br/leoncine-emenda-esporte-juliana-universalizasp/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/Profa-Juliana-28.10.2025-300x200.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778285149.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Ypê consegue efeito suspensivo e volta a vender produtos, mas alerta da Anvisa continua",
+        "link": "https://rapidonoar.com.br/ype-consegue-efeito-suspensivo-e-volta-a-vender-produtos-mas-alerta-da-anvisa-continua/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/face-ype-detergente-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778282651.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Câmara de Limeira lança cartilha infantil de prevenção ao abuso sexual",
+        "link": "https://rapidonoar.com.br/camara-de-limeira-lanca-cartilha-infantil-de-prevencao-ao-abuso-sexual/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/aprender-para-se-proteger-limeira-cartilha-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778282075.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Crédito para empreendedores de Sumaré cresce 484,5% este ano",
+        "link": "https://novomomento.com.br/credito-empreendedor-sumare-cresce-484-este-ano/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/financas-mulher-calculando-investimento-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778281527.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Cresce o assédio sobre o técnico Matheus Costa, da Inter de Limeira",
+        "link": "https://rapidonoar.com.br/cresce-o-assedio-sobre-o-tecnico-matheus-costa-da-inter-de-limeira/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/matheus-costa-6-917x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778281350.0
+    },
+    {
         "portal": "Rápido no Ar",
         "titulo": "Ypê diz que produtos são seguros e espera reversão de decisão da Anvisa",
         "link": "https://rapidonoar.com.br/ype-diz-que-produtos-sao-seguros-e-espera-reversao-de-decisao-da-anvisa/",
@@ -22,6 +70,22 @@
         "data": "08/05/2026",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/acidente-carro-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778277789.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Carro capota após colisão com picape na marginal Tatu em Limeira",
+        "link": "https://rapidonoar.com.br/carro-capota-apos-colisao-com-picape-na-marginal-tatu-em-limeira-sp/",
+        "data": "08/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/acidente-carro-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778277789.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Produção de veículos cresce 2,4% em abril, diz Anfavea",
+        "link": "https://sb24horas.com.br/producao-de-veiculos-cresce-24-em-abril-diz-anfavea/",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778274644.0
     },
     {
         "portal": "Rápido no Ar",
