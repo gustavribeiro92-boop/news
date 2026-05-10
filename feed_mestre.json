@@ -1,6 +1,62 @@
 [
     {
         "portal": "Novo Momento",
+        "titulo": "Santa Bárbara d’Oeste inicia operação para prevenir incêndios",
+        "link": "https://novomomento.com.br/santa-barbara-inicia-operacao-prevenir-incendio/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/incendio-pexels-alexandrep-junior-12027862-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778376958.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Alunos do GURI de Iracemápolis têm encontro especial com Gabriel Sater",
+        "link": "https://rapidonoar.com.br/alunos-do-guri-de-iracemapolis-tem-encontro-especial-com-gabriel-sater/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/projeto-guri-iracemapolis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778374694.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Tim Estopa fecha com Molina pras eleições deste ano",
+        "link": "https://novomomento.com.br/tim-estopa-fecha-com-molina-pras-eleicoes-ano/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/03/Tim-Estopa-300x251.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778373369.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "BRK realiza caça a vazamentos invisíveis durante à noite em Limeira",
+        "link": "https://rapidonoar.com.br/brk-realiza-caca-a-vazamentos-invisiveis-durante-a-noite-em-limeira/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/09/brk-funcionario-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778373212.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Nova Odessa recebe ambulância do Samu no valor de R$ 300 mil",
+        "link": "https://novomomento.com.br/nova-odessa-recebe-ambulancia-samu-de-r-300-mil/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/01/21-01-2026-SAMU-300x169.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778372906.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Sumaré recebe Rota Cervejeira na Represa do Marcelo: turismo e gastronomia",
+        "link": "https://novomomento.com.br/sumare-rota-cerveja-represa-do-marcelo-gastrono/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-05-at-10.21.23-300x169.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778369708.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Parque da Rua do Porto terá novo cercamento para reforçar segurança em Piracicaba",
+        "link": "https://rapidonoar.com.br/parque-da-rua-do-porto-tera-novo-cercamento-para-reforcar-seguranca-em-piracicaba/",
+        "data": "09/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/cerca-rua-do-porto-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778367609.0
+    },
+    {
+        "portal": "Novo Momento",
         "titulo": "Moraes veta lei da dosimetria, plenário do STF vai decidir",
         "link": "https://novomomento.com.br/moraes-veta-lei-dosimetria-plenario-stf-decide/",
         "data": "09/05/2026",
