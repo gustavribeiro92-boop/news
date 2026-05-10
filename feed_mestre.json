@@ -1,5 +1,53 @@
 [
     {
+        "portal": "Portal de Americana",
+        "titulo": "Frente fria derruba temperaturas e Americana deve amanhecer com 10°C nesta segunda-feira",
+        "link": "https://portaldeamericana.com/frente-fria-derruba-temperaturas-e-americana-deve-amanhecer-com-10c-nesta-segunda-feira/?utm_source=rss&utm_medium=rss&utm_campaign=frente-fria-derruba-temperaturas-e-americana-deve-amanhecer-com-10c-nesta-segunda-feira",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2019/05/nevoeiro-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778450959.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Vias de acesso a novo viaduto ganham nova pintura em Hortolândia",
+        "link": "https://novomomento.com.br/vias-acesso-viaduto-nova-pintura-em-hortolandia/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/SINALIZACAO-300x169.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778450435.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Como declaro poupança, renda fixa e variável no Imposto de Renda?",
+        "link": "https://sb24horas.com.br/como-declaro-poupanca-renda-fixa-e-variavel-no-imposto-de-renda/",
+        "data": "10/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778450269.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Palmeiras corre atrás do empate em Belém (1-1)",
+        "link": "https://novomomento.com.br/palmeiras-corre-atras-do-empate-em-belem-1-1/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/palmeiras-sosa-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778449848.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Capitão dos Bombeiros morto em acidente na Bandeirantes é sepultado sob forte comoção em Limeira",
+        "link": "https://rapidonoar.com.br/capitao-dos-bombeiros-morto-em-acidente-na-bandeirantes-e-sepultado-sob-forte-comocao-em-limeira/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/corpo-de-bombeiros-viaturas-sepultamento-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778447538.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Saiu de Americana pro Dia Das Mães no Ceará e morreu em acidente de moto",
+        "link": "https://novomomento.com.br/saiu-americana-dia-maes-ceara-morreu-no-caminho/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/raimundo-nonato-300x219.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778445537.0
+    },
+    {
         "portal": "SB24Horas",
         "titulo": "Brasil conquista sete medalhas no Grand Slam de Astana no Cazaquistão",
         "link": "https://sb24horas.com.br/brasil-conquista-sete-medalhas-no-grand-slam-de-astana-no-cazaquistao/",
@@ -29,6 +77,14 @@
         "link": "https://novomomento.com.br/alunos-de-sumare-conquistam-medalhas-em-olimpiada-de-matematica/",
         "data": "10/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778439606.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Matemática: Alunos de Sumaré conquistam medalhas em Olimpíada",
+        "link": "https://novomomento.com.br/aluno-sumare-medalhas-m-olimpiada-de-matematica/",
+        "data": "10/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-09.41.10-300x169.jpeg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778439606.0
     },
     {
