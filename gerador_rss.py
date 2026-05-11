@@ -54,7 +54,6 @@ IMAGENS_CATEGORIA = {
     'esportes': 'https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg',
     'eventos': 'https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg',
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
-    # Novas Imagens
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'frio': 'https://portaldosportais.com/wp-content/uploads/2026/05/pexels-ammy-singh-294201421-14965455-scaled.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
@@ -62,47 +61,51 @@ IMAGENS_CATEGORIA = {
 }
 
 def categorizar_noticia(titulo, imagem_atual):
-    if imagem_atual not in LOGOS_PORTAIS.values() and imagem_atual != LINK_FALLBACK_PADRAO:
-        return imagem_atual
-
     t = titulo.lower()
+    nova_imagem = None
     
-    # 1. TEMAS CRÍTICOS (Prioridade Máxima)
     if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe']):
-        return IMAGENS_CATEGORIA['policia']
-    if any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce']):
-        return IMAGENS_CATEGORIA['politica']
-    if any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm']):
-        return IMAGENS_CATEGORIA['saude']
-    if any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
-        return IMAGENS_CATEGORIA['dae']
+        nova_imagem = IMAGENS_CATEGORIA['policia']
+    elif any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce']):
+        nova_imagem = IMAGENS_CATEGORIA['politica']
+    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm', 'vacinação']):
+        nova_imagem = IMAGENS_CATEGORIA['saude']
+    elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
+        nova_imagem = IMAGENS_CATEGORIA['dae']
+    elif any(p in t for p in ['frio', 'geada', 'temperatura', 'inverno', 'frente fria']):
+        nova_imagem = IMAGENS_CATEGORIA['frio']
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
+        nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
+    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
+        nova_imagem = IMAGENS_CATEGORIA['economia']
+    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
+        nova_imagem = IMAGENS_CATEGORIA['educacao']
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
+        nova_imagem = IMAGENS_CATEGORIA['esportes']
+    elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
+        nova_imagem = IMAGENS_CATEGORIA['eventos']
+    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
+        nova_imagem = IMAGENS_CATEGORIA['transito']
+    elif 'campinas' in t:
+        nova_imagem = IMAGENS_CATEGORIA['campinas']
+    elif any(p in t for p in ['santa bárbara', 'sbo']):
+        nova_imagem = IMAGENS_CATEGORIA['sbo']
+    elif 'americana' in t:
+        nova_imagem = IMAGENS_CATEGORIA['americana']
 
-    # 2. CLIMA (Frio/Geada)
-    if any(p in t for p in ['frio', 'geada', 'temperatura', 'inverno', 'frente fria']):
-        return IMAGENS_CATEGORIA['frio']
-
-    # 3. OUTROS TEMAS
-    if any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
-        return IMAGENS_CATEGORIA['infraestrutura']
-    if any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
-        return IMAGENS_CATEGORIA['economia']
-    if any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
-        return IMAGENS_CATEGORIA['educacao']
-    if any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
-        return IMAGENS_CATEGORIA['esportes']
-    if any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
-        return IMAGENS_CATEGORIA['eventos']
-    if any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
-        return IMAGENS_CATEGORIA['transito']
-
-    # 4. CIDADES (Se não cair em nenhum tema específico acima)
-    if 'campinas' in t:
-        return IMAGENS_CATEGORIA['campinas']
-    if any(p in t for p in ['santa bárbara', 'sbo']):
-        return IMAGENS_CATEGORIA['sbo']
-    if 'americana' in t:
-        return IMAGENS_CATEGORIA['americana']
+    if not imagem_atual:
+        return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
+        
+    link_limpo = imagem_atual.lower()
     
+    # É um dos nossos logos salvos no WordPress ou nosso fallback?
+    is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values()) or (LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo)
+
+    # Se a notícia tem uma categoria E a imagem atual é só o nosso logo genérico: Substitui!
+    if nova_imagem and is_nossa_imagem_generica:
+        return nova_imagem
+        
+    # Se não tem categoria, ou se a imagem é uma foto real do jornal, não mexe.
     return imagem_atual
 
 # ==========================================
@@ -209,7 +212,21 @@ for url in FEEDS:
                 data_formatada = datetime.now().strftime("%d/%m/%Y")
             
             imagem_original = extrair_melhor_imagem(entry, url)
-            imagem_final = categorizar_noticia(entry.title, imagem_original)
+            imagem_categorizada = categorizar_noticia(entry.title, imagem_original)
+
+            # --- OTIMIZADOR DE IMAGENS ---
+            todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
+            
+            # Se a imagem é nossa, deixa ela como está (carrega direto do seu site)
+            if any(nossa.split('/')[-1] in imagem_categorizada for nossa in todas_nossas_imagens):
+                imagem_final = imagem_categorizada
+            # Se já passou pelo otimizador antes, mantém
+            elif 'wsrv.nl' in imagem_categorizada:
+                imagem_final = imagem_categorizada
+            # Se é uma foto pesada que veio do jornal, passa pelo encurtador
+            else:
+                url_sem_http = imagem_categorizada.replace('https://', '').replace('http://', '')
+                imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
 
             historico_noticias[link_noticia] = {
                 "portal": nome_curto_portal(link_noticia),
