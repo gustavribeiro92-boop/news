@@ -100,18 +100,18 @@ def categorizar_noticia(titulo, imagem_atual):
         
     link_limpo = imagem_atual.lower()
     
-    # 🚜 O TRATOR IMPLACÁVEL: Lista agressiva de palavras que indicam que a imagem é inútil (logos)
-    palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'download.jpg']
+    # 🚜 O TRATOR IMPLACÁVEL V2: Lista massivamente agressiva contra ficheiros camuflados
+    palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values())
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
 
-    # Se tem categoria (ex: Saúde) E a foto atual for lixo ou logo: SUBSTITUI RUTHLESSLY!
+    # Se tem categoria (ex: Saúde) E a foto atual for lixo ou logo: SUBSTITUI SEM PIEDADE!
     if nova_imagem and (is_lixo or is_nossa_imagem_generica or is_fallback):
         return nova_imagem
         
-    # Se NÃO tem categoria, mas é lixo, mantém o lixo para não ficar tela branca
+    # Se NÃO tem categoria, mas é lixo, mantém o lixo para não ficar o ecrã em branco
     if is_lixo or is_nossa_imagem_generica or is_fallback:
         return imagem_atual
         
@@ -134,7 +134,7 @@ def nome_curto_portal(link_noticia):
     if 'rapidonoar' in link: return 'Rápido no Ar'
     if 'redefamilia' in link: return 'Rede Família'
     if 'sb24horas' in link: return 'SB24Horas'
-    if 'news.google' in link: return 'Google Notícias' # Adicionado o radar do Google!
+    if 'news.google' in link: return 'Google Notícias' # Adicionado o radar da Google!
     return 'Portal RMC'
 
 def extrair_melhor_imagem(entry, url_feed):
@@ -194,8 +194,14 @@ headers_navegador = {
 
 for url in FEEDS:
     try:
-        resposta = requests.get(url, headers=headers_navegador, timeout=15)
-        feed = feedparser.parse(resposta.content)
+        # A MÁGICA DE DISTINÇÃO DE LEITURA OCORRE AQUI:
+        if 'news.google' in url:
+            # Google Notícias gosta de robôs puros. Retiramos o disfarce!
+            feed = feedparser.parse(url)
+        else:
+            # Jornais locais precisam do disfarce de Chrome para não bloquear
+            resposta = requests.get(url, headers=headers_navegador, timeout=15)
+            feed = feedparser.parse(resposta.content)
         
         print(f"[{nome_curto_portal(url)}] Baixou {len(feed.entries)} notícias.")
         
