@@ -98,14 +98,22 @@ def categorizar_noticia(titulo, imagem_atual):
         
     link_limpo = imagem_atual.lower()
     
-    # É um dos nossos logos salvos no WordPress ou nosso fallback?
-    is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values()) or (LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo)
+    # 🚜 O TRATOR IMPLACÁVEL: Lista agressiva de palavras que indicam que a imagem é inútil (logos)
+    palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'download.jpg']
+    
+    is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
+    is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values())
+    is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
 
-    # Se a notícia tem uma categoria E a imagem atual é só o nosso logo genérico: Substitui!
-    if nova_imagem and is_nossa_imagem_generica:
+    # Se tem categoria (ex: Saúde) E a foto atual for lixo ou logo: SUBSTITUI RUTHLESSLY!
+    if nova_imagem and (is_lixo or is_nossa_imagem_generica or is_fallback):
         return nova_imagem
         
-    # Se não tem categoria, ou se a imagem é uma foto real do jornal, não mexe.
+    # Se NÃO tem categoria, mas é lixo, mantém o lixo para não ficar tela branca
+    if is_lixo or is_nossa_imagem_generica or is_fallback:
+        return imagem_atual
+        
+    # Se chegou aqui, é porque a imagem do jornal é (teoricamente) uma FOTO REAL! Não mexe.
     return imagem_atual
 
 # ==========================================
@@ -217,13 +225,10 @@ for url in FEEDS:
             # --- OTIMIZADOR DE IMAGENS ---
             todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
             
-            # Se a imagem é nossa, deixa ela como está (carrega direto do seu site)
             if any(nossa.split('/')[-1] in imagem_categorizada for nossa in todas_nossas_imagens):
                 imagem_final = imagem_categorizada
-            # Se já passou pelo otimizador antes, mantém
             elif 'wsrv.nl' in imagem_categorizada:
                 imagem_final = imagem_categorizada
-            # Se é uma foto pesada que veio do jornal, passa pelo encurtador
             else:
                 url_sem_http = imagem_categorizada.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
