@@ -1,6 +1,142 @@
 [
     {
         "portal": "HJ News",
+        "titulo": "Audiência Pública: Prefeitura presta contas do 1º quadrimestre",
+        "link": "https://hjnews.com.br/audiencia-publica-prefeitura-presta-contas-do-1o-quadrimestre/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778533520.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Prefeitura de Santa Bárbara realiza entrega de brinquedos, tablets e calçados recebidos por meio de parceria com a Receita Federal",
+        "link": "https://hjnews.com.br/prefeitura-de-santa-barbara-realiza-entrega-de-brinquedos-tablets-e-calcados-recebidos-por-meio-de-parceria-com-a-receita-federal/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778533249.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Eleições 2026: eleitor pode se inscrever para ser mesário voluntário",
+        "link": "https://difusorapiracicaba.com.br/eleicoes-2026-eleitor-pode-se-inscrever-para-ser-mesario-voluntario/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778533200.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Dra Luana Araújo esclarece incidente detergentes Ypê",
+        "link": "https://novomomento.com.br/dra-luana-araujo-esclarece-incide-detergent-ype/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/vigilancia-americana-caso-ype2-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778532199.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Festa dos Centenários de Hortolândia será no dia 22 de maio",
+        "link": "https://novomomento.com.br/festa-centenario-hortolandia-sera-dia-22-maio/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778531711.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Projeto “Pausa e Movimento” promove dança, autocuidado e expressão corporal para docentes da rede municipal",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/projeto-pausa-e-movimento-promove-danca-autocuidado-e-expressao-corporal-para-docentes-da-rede-municipal/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778530909.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Explosão seguida de incêndio atinge casas e deixa feridos no Jaguaré, Zona Oeste de SP",
+        "link": "https://rapidonoar.com.br/explosao-seguida-de-incendio-atinge-casas-e-deixa-feridos-no-jaguare-zona-oeste-de-sp/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/explosao-jaguare-sp-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778530412.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Nova lei define percentual mínimo de cacau nos chocolates",
+        "link": "https://difusorapiracicaba.com.br/nova-lei-define-percentual-minimo-de-cacau-nos-chocolates/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778529600.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "PM prende homem com pistola, fuzil e colete balístico em Hortolândia",
+        "link": "https://novomomento.com.br/pm-prende-homem-fuzil-colete-balist-hortolandia/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778529576.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Americana registra alta de 22% nas exportações e US$ 47 mi de superávit na balança comercial no 1º quadrimestre",
+        "link": "https://hjnews.com.br/americana-registra-alta-de-22-nas-exportacoes-e-us-47-mi-de-superavit-na-balanca-comercial-no-1o-quadrimestre/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778529303.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Juninho Dias solicita informações sobre atendimento da UAD em Americana",
+        "link": "https://hjnews.com.br/juninho-dias-solicita-informacoes-sobre-atendimento-da-uad-em-americana/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778529129.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Ministério da Saúde entrega nova ambulância do SAMU para Araras",
+        "link": "https://rapidonoar.com.br/ministerio-da-saude-entrega-nova-ambulancia-do-samu-para-araras/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/nova-ambulancia-do-samu-araras-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778528921.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Sabesp rebate prefeitura e afirma que água em Hortolândia atende padrões de qualidade",
+        "link": "https://novomomento.com.br/sabesp-rebate-agua-hortolandia-padrao-qualidade/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778528519.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mutirão da Empregabilidade oferece mais de 1,6 mil vagas de trabalho em Limeira",
+        "link": "https://rapidonoar.com.br/mutirao-da-empregabilidade-oferece-mais-de-16-mil-vagas-de-trabalho-em-limeira/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/feira-de-emprego-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778528043.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Novo “Dr. Google”: brasileiro entrega exames e dados sensíveis às IAs",
+        "link": "https://novomomento.com.br/dr-google-brasilei-entrega-exame-dado-sensiveis/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778528041.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "DAE inicia reforma geral dos filtros das Estações de Tratamento de Água de Americana",
+        "link": "https://hjnews.com.br/dae-inicia-reforma-geral-dos-filtros-das-estacoes-de-tratamento-de-agua-de-americana/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778527844.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Nova Odessa quer fechar o cerco contra ligações de água de chuva no esgoto",
+        "link": "https://novomomento.com.br/nova-odessa-fecha-cerco-liga-agua-chuva-esgoto/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778527795.0
+    },
+    {
+        "portal": "HJ News",
         "titulo": "Prefeito Chico assina ordem de serviço para construção de novo campo society no Mário Covas",
         "link": "https://hjnews.com.br/prefeito-chico-assina-ordem-de-servico-para-construcao-de-novo-campo-society-no-mario-covas/",
         "data": "11/05/2026",
@@ -59,6 +195,14 @@
         "portal": "Novo Momento",
         "titulo": "Sumaré fomenta Cultura em evento com participação de artistas locais",
         "link": "https://novomomento.com.br/sumare-fomenta-cultura-em-evento-com-participacao-de-artistas-locais/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778524514.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Sumaré fomenta Cultura em evento com participação de artistas locais",
+        "link": "https://novomomento.com.br/sumare-fomenta-cultura-evento-com-artista-local/",
         "data": "11/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
         "timestamp": 1778524514.0
@@ -139,6 +283,14 @@
         "portal": "Novo Momento",
         "titulo": "Leitinho continua com as trocas em seu Secretariado",
         "link": "https://novomomento.com.br/leitinho-continua-com-as-trocas-em-seu-secretariado/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778522230.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Leitinho continua com as trocas em seu Secretariado",
+        "link": "https://novomomento.com.br/leitinho-continua-com-trocas-em-su-secretariado/",
         "data": "11/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "timestamp": 1778522230.0
@@ -2462,6 +2614,14 @@
         "data": "08/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1778242743.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Governo de SP atualiza agenda de audiências públicas do UniversalizaSP - Agência SP",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YR24zY1JQVlluNzU2RDNxTWlZbUJya0JjRVk2NERSLUJUcHJVMkh6N2RHQkR4djdGY3loVGtySll0M2FDLWhiTko0WF91dHotUnZWUmh4NWhTRzY4ZUdXYjNSQktJMURGS1FNbHVibUszcGtyQkpYMVFWTjgxY1k?oc=5",
+        "data": "08/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778242211.0
     },
     {
         "portal": "Notícia FM",
