@@ -5,9 +5,11 @@ import time
 import os
 import email.utils
 from datetime import datetime
-import requests # IMPORTANTE: Adicione 'requests' no seu arquivo requirements.txt
+import requests # O nosso disfarce!
 
-# 1. LISTA DE FEEDS
+# ==========================================
+# 1. LISTA DE FEEDS E LOGOS
+# ==========================================
 FEEDS = [
     'https://americanapost.com.br/feed/',
     'https://difusorapiracicaba.com.br/feed/',
@@ -38,6 +40,66 @@ LOGOS_PORTAIS = {
 
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
+# ==========================================
+# 2. INTELIGÊNCIA DAS 10 IMAGENS (CATEGORIAS)
+# ==========================================
+IMAGENS_CATEGORIA = {
+    'politica': 'https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg',
+    'policia': 'https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png',
+    'saude': 'https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg',
+    'infraestrutura': 'https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg',
+    'dae': 'https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg',
+    'economia': 'https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg',
+    'educacao': 'https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg',
+    'esportes': 'https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg',
+    'eventos': 'https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg',
+    'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg'
+}
+
+def categorizar_noticia(titulo, imagem_atual):
+    # Se a notícia já tem uma foto real da web (que não seja a nossa de fallback nem logo), usa ela!
+    if imagem_atual not in LOGOS_PORTAIS.values() and imagem_atual != LINK_FALLBACK_PADRAO:
+        return imagem_atual
+
+    t = titulo.lower()
+    
+    # 1. Política
+    if any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce']):
+        return IMAGENS_CATEGORIA['politica']
+    # 2. Polícia e Segurança
+    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe']):
+        return IMAGENS_CATEGORIA['policia']
+    # 3. Saúde
+    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm']):
+        return IMAGENS_CATEGORIA['saude']
+    # 4. Água / DAE
+    elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
+        return IMAGENS_CATEGORIA['dae']
+    # 5. Infraestrutura e Obras
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
+        return IMAGENS_CATEGORIA['infraestrutura']
+    # 6. Economia e Empregos
+    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
+        return IMAGENS_CATEGORIA['economia']
+    # 7. Educação
+    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
+        return IMAGENS_CATEGORIA['educacao']
+    # 8. Esportes
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
+        return IMAGENS_CATEGORIA['esportes']
+    # 9. Eventos e Cultura
+    elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
+        return IMAGENS_CATEGORIA['eventos']
+    # 10. Trânsito
+    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
+        return IMAGENS_CATEGORIA['transito']
+    
+    # Se não bater com nada e não tiver foto original, aí sim ele mostra o logo do jornal.
+    return imagem_atual
+
+# ==========================================
+# 3. FUNÇÕES DE SUPORTE
+# ==========================================
 def nome_curto_portal(link_noticia):
     link = link_noticia.lower()
     if 'americanapost' in link: return 'Americana Post'
@@ -88,36 +150,33 @@ def extrair_melhor_imagem(entry, url_feed):
             
     return LINK_FALLBACK_PADRAO
 
+# ==========================================
+# 4. EXECUÇÃO PRINCIPAL
+# ==========================================
 historico_noticias = {}
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                noticia['portal'] = nome_curto_portal(noticia['link'])
-                if noticia['imagem'] == LINK_FALLBACK_PADRAO:
-                    for chave, link_logo in LOGOS_PORTAIS.items():
-                        if chave in noticia['link'].lower():
-                            noticia['imagem'] = link_logo
-                            break
+                # O robô passa o "pente fino" e categoriza até as notícias velhas!
+                noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'])
                 historico_noticias[noticia['link']] = noticia
     except:
         print("Iniciando novo banco de dados...")
 
 print("Puxando as novas notícias...")
 
-# DISFARCE DO ROBÔ: Faz o script parecer um navegador Chrome para não ser bloqueado
 headers_navegador = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
 for url in FEEDS:
     try:
-        # Usa requests com disfarce em vez de feedparser direto
         resposta = requests.get(url, headers=headers_navegador, timeout=15)
         feed = feedparser.parse(resposta.content)
         
-        print(f"[{nome_curto_portal(url)}] Encontrou {len(feed.entries)} notícias.")
+        print(f"[{nome_curto_portal(url)}] Baixou {len(feed.entries)} notícias.")
         
         for entry in feed.entries[:100]:
             link_noticia = entry.link
@@ -125,7 +184,6 @@ for url in FEEDS:
             if link_noticia in historico_noticias:
                 continue
             
-            # --- LÓGICA DE DATA ---
             data_bruta = entry.get('published', None)
             if data_bruta:
                 try:
@@ -145,11 +203,8 @@ for url in FEEDS:
             
             imagem_original = extrair_melhor_imagem(entry, url)
             
-            if imagem_original in LOGOS_PORTAIS.values() or imagem_original == LINK_FALLBACK_PADRAO:
-                imagem_final = imagem_original
-            else:
-                url_sem_http = imagem_original.replace('https://', '').replace('http://', '')
-                imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
+            # Aplica a Mágica das Imagens!
+            imagem_final = categorizar_noticia(entry.title, imagem_original)
 
             historico_noticias[link_noticia] = {
                 "portal": nome_curto_portal(link_noticia),
