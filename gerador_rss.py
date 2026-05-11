@@ -5,6 +5,7 @@ import time
 import os
 import email.utils
 from datetime import datetime
+import requests # IMPORTANTE: Adicione 'requests' no seu arquivo requirements.txt
 
 # 1. LISTA DE FEEDS
 FEEDS = [
@@ -104,22 +105,33 @@ if os.path.exists('feed_mestre.json'):
         print("Iniciando novo banco de dados...")
 
 print("Puxando as novas notícias...")
+
+# DISFARCE DO ROBÔ: Faz o script parecer um navegador Chrome para não ser bloqueado
+headers_navegador = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
+
 for url in FEEDS:
     try:
-        feed = feedparser.parse(url)
+        # Usa requests com disfarce em vez de feedparser direto
+        resposta = requests.get(url, headers=headers_navegador, timeout=15)
+        feed = feedparser.parse(resposta.content)
+        
+        print(f"[{nome_curto_portal(url)}] Encontrou {len(feed.entries)} notícias.")
+        
         for entry in feed.entries[:100]:
             link_noticia = entry.link
             
             if link_noticia in historico_noticias:
                 continue
             
-            # --- LÓGICA SIMPLIFICADA: APENAS DATA ---
+            # --- LÓGICA DE DATA ---
             data_bruta = entry.get('published', None)
             if data_bruta:
                 try:
                     parsed_date = email.utils.parsedate_to_datetime(data_bruta)
                     timestamp_absoluto = parsed_date.timestamp()
-                    data_formatada = parsed_date.strftime("%d/%m/%Y") # Removido o horário
+                    data_formatada = parsed_date.strftime("%d/%m/%Y")
                 except:
                     timestamp_absoluto = time.time()
                     data_formatada = datetime.now().strftime("%d/%m/%Y")
