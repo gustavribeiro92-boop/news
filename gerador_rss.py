@@ -5,7 +5,7 @@ import time
 import os
 import email.utils
 from datetime import datetime
-import requests # O nosso disfarce!
+import requests 
 
 # ==========================================
 # 1. LISTA DE FEEDS E LOGOS
@@ -41,7 +41,7 @@ LOGOS_PORTAIS = {
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 # ==========================================
-# 2. INTELIGÊNCIA DAS 10 IMAGENS (CATEGORIAS)
+# 2. INTELIGÊNCIA DAS IMAGENS (CATEGORIAS + CIDADES)
 # ==========================================
 IMAGENS_CATEGORIA = {
     'politica': 'https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg',
@@ -53,48 +53,56 @@ IMAGENS_CATEGORIA = {
     'educacao': 'https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg',
     'esportes': 'https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg',
     'eventos': 'https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg',
-    'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg'
+    'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
+    # Novas Imagens
+    'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
+    'frio': 'https://portaldosportais.com/wp-content/uploads/2026/05/pexels-ammy-singh-294201421-14965455-scaled.jpg',
+    'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual):
-    # Se a notícia já tem uma foto real da web (que não seja a nossa de fallback nem logo), usa ela!
     if imagem_atual not in LOGOS_PORTAIS.values() and imagem_atual != LINK_FALLBACK_PADRAO:
         return imagem_atual
 
     t = titulo.lower()
     
-    # 1. Política
+    # 1. TEMAS CRÍTICOS (Prioridade Máxima)
+    if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe']):
+        return IMAGENS_CATEGORIA['policia']
     if any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce']):
         return IMAGENS_CATEGORIA['politica']
-    # 2. Polícia e Segurança
-    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe']):
-        return IMAGENS_CATEGORIA['policia']
-    # 3. Saúde
-    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm']):
+    if any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm']):
         return IMAGENS_CATEGORIA['saude']
-    # 4. Água / DAE
-    elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
+    if any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
         return IMAGENS_CATEGORIA['dae']
-    # 5. Infraestrutura e Obras
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
+
+    # 2. CLIMA (Frio/Geada)
+    if any(p in t for p in ['frio', 'geada', 'temperatura', 'inverno', 'frente fria']):
+        return IMAGENS_CATEGORIA['frio']
+
+    # 3. OUTROS TEMAS
+    if any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
         return IMAGENS_CATEGORIA['infraestrutura']
-    # 6. Economia e Empregos
-    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
+    if any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
         return IMAGENS_CATEGORIA['economia']
-    # 7. Educação
-    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
+    if any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
         return IMAGENS_CATEGORIA['educacao']
-    # 8. Esportes
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
+    if any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
         return IMAGENS_CATEGORIA['esportes']
-    # 9. Eventos e Cultura
-    elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
+    if any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
         return IMAGENS_CATEGORIA['eventos']
-    # 10. Trânsito
-    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
+    if any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
         return IMAGENS_CATEGORIA['transito']
+
+    # 4. CIDADES (Se não cair em nenhum tema específico acima)
+    if 'campinas' in t:
+        return IMAGENS_CATEGORIA['campinas']
+    if any(p in t for p in ['santa bárbara', 'sbo']):
+        return IMAGENS_CATEGORIA['sbo']
+    if 'americana' in t:
+        return IMAGENS_CATEGORIA['americana']
     
-    # Se não bater com nada e não tiver foto original, aí sim ele mostra o logo do jornal.
     return imagem_atual
 
 # ==========================================
@@ -159,7 +167,6 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                # O robô passa o "pente fino" e categoriza até as notícias velhas!
                 noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'])
                 historico_noticias[noticia['link']] = noticia
     except:
@@ -202,8 +209,6 @@ for url in FEEDS:
                 data_formatada = datetime.now().strftime("%d/%m/%Y")
             
             imagem_original = extrair_melhor_imagem(entry, url)
-            
-            # Aplica a Mágica das Imagens!
             imagem_final = categorizar_noticia(entry.title, imagem_original)
 
             historico_noticias[link_noticia] = {
