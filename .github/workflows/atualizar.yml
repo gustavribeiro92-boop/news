@@ -21,7 +21,8 @@ jobs:
           python-version: '3.x'
 
       - name: Instalar os programas necessários
-        run: pip install feedparser feedgen pytz
+        # 🚀 A MÁGICA AQUI: Adicionado o 'requests' para o disfarce do robô funcionar
+        run: pip install feedparser feedgen pytz requests
 
       - name: Rodar o nosso script
         run: python gerador_rss.py
