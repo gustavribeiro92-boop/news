@@ -1,5 +1,397 @@
 [
     {
+        "portal": "HJ News",
+        "titulo": "Prefeito Chico assina ordem de serviço para construção de novo campo society no Mário Covas",
+        "link": "https://hjnews.com.br/prefeito-chico-assina-ordem-de-servico-para-construcao-de-novo-campo-society-no-mario-covas/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778527271.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Maternidade do Hospital Municipal celebra Dia das Mães com homenagem às puérperas",
+        "link": "https://hjnews.com.br/maternidade-do-hospital-municipal-celebra-dia-das-maes-com-homenagem-as-puerperas/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "timestamp": 1778527139.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Obra de R$ 17,2 milhões vai modernizar abastecimento de água na Vila Independência",
+        "link": "https://difusorapiracicaba.com.br/obra-de-r-172-milhoes-vai-modernizar-abastecimento-de-agua-na-vila-independencia/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778526000.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Fast Shop é multada em mais de R$ 1 bilhão pela Corregedoria-Geral do Estado",
+        "link": "https://rapidonoar.com.br/fast-shop-e-multada-em-mais-de-r-1-bilhao-pela-corregedoria-geral-do-estado/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/multa-fast-shop-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778525656.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Governo vai lançar programa de R$ 11 bilhões contra o crime organizado nesta terça-feira",
+        "link": "https://noticiafm.com/governo-vai-lancar-programa-de-r-11-bilhoes-contra-o-crime-organizado-nesta-terca-feira/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778524972.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Ciro Gomes recusa convite do PSDB e decide não concorrer à Presidência da República",
+        "link": "https://noticiafm.com/ciro-gomes-recusa-convite-do-psdb-e-decide-nao-concorrer-a-presidencia-da-republica/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778524755.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Diretor da Anvisa no caso dos produtos Ypê foi indicado por Bolsonaro",
+        "link": "https://portaldeamericana.com/diretor-da-anvisa-no-caso-dos-produtos-ype-foi-indicado-por-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=diretor-da-anvisa-no-caso-dos-produtos-ype-foi-indicado-por-bolsonaro",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/Daniel-Meirelles-Fernandes-Pereira.webp&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778524558.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Sumaré fomenta Cultura em evento com participação de artistas locais",
+        "link": "https://novomomento.com.br/sumare-fomenta-cultura-em-evento-com-participacao-de-artistas-locais/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778524514.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Oposição articula PEC da Anistia após Moraes suspender Lei da Dosimetria",
+        "link": "https://noticiafm.com/oposicao-articula-pec-da-anistia-apos-moraes-suspender-lei-da-dosimetria/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778524362.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Reeducandas e servidoras de penitenciária de Votorantim são homenageadas no Dia das Mães",
+        "link": "https://rapidonoar.com.br/reeducandas-e-servidoras-de-penitenciaria-de-votorantim-sao-homenageadas-no-dia-das-maes/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/dia-das-maes-detentas-votorantim-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778524012.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Verônica Ferriani canta Nara em Americana esta quinta",
+        "link": "https://novomomento.com.br/veronica-ferriani-canta-nara-americana-quinta/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778523739.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Verônica Ferriani canta Nara em Americana esta quinta - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NdFpBZ3EtN2dxOGlfTlppejJLaktPUklwcjNDRGppa3FrcU12Ti0ySUQ5a21YS1ItUFZqWFQzOFE1akNnOTZsSHVqeE10bnIyTlFhMEVlMnZVYXRJb21tbXd2ZG1EaHFpZ2xLdHB4MWxWODJod3ctQ3FjQUR1UQ?oc=5",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778523739.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Levi Rossi pede instalação de cobertura em frente ao Núcleo de Especialidades Médicas e Unacon",
+        "link": "https://portaldeamericana.com/levi-rossi-pede-instalacao-de-cobertura-em-frente-ao-nucleo-de-especialidades-medicas-e-unacon/?utm_source=rss&utm_medium=rss&utm_campaign=levi-rossi-pede-instalacao-de-cobertura-em-frente-ao-nucleo-de-especialidades-medicas-e-unacon",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-11-at-15.15.22.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778523431.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Cavalo selvagem, de Yukio Mishima, chega ao Brasil",
+        "link": "https://novomomento.com.br/cavalo-selvagem-d-yukio-mishima-chega-ao-brasil/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/2f846b2e-3423-4389-106e-08d9487bbfe7/e6f8c01e-355e-4560-9c74-6822112ce90e.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778523117.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Por que o romantismo na gastronomia virou um risco financeiro em 2026",
+        "link": "https://sb24horas.com.br/por-que-o-romantismo-na-gastronomia-virou-um-risco-financeiro-em-2026/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778522638.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mulher é agredida por familiares após desligar energia de sítio em Saltinho",
+        "link": "https://rapidonoar.com.br/mulher-e-agredida-por-familiares-apos-desligar-energia-de-sitio-em-saltinho/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/07/plantao-policial-piracicaba-TV-Metropolitana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778522464.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Infraestrutura e segurança: Parque da Rua do Porto terá novo cercamento",
+        "link": "https://difusorapiracicaba.com.br/infraestrutura-e-seguranca-parque-da-rua-do-porto-tera-novo-cercamento/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778522400.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Leitinho continua com as trocas em seu Secretariado",
+        "link": "https://novomomento.com.br/leitinho-continua-com-as-trocas-em-seu-secretariado/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778522230.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Virginia aparece de surpresa dentro do closet de Vini Jr com presente dado por ele: ‘Já estou em Madri’",
+        "link": "https://noticiafm.com/virginia-aparece-de-surpresa-dentro-do-closet-de-vini-jr-com-presente-dado-por-ele-ja-estou-em-madri/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778521811.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Fundo Social promove palestra sobre obesidade e bem-estar em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/fundo-social-promove-palestra-sobre-obesidade-e-bem-estar/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778521805.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "De férias, Grazi Massafera treina ao som de Anitta em sua mansão: ‘Obcecada’",
+        "link": "https://noticiafm.com/de-ferias-grazi-massafera-treina-ao-som-de-anitta-em-sua-mansao-obcecada/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778521651.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Carreta odontológica para atender mulheres em situação de vulnerabilidade chega a Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/carreta-odontologica-para-atender-mulheres-em-situacao-de-vulnerabilidade-chega-a-limeira/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778521633.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Alice Wegmann mostra perrengue após retirada dos sisos: ‘Desarmonização facial’",
+        "link": "https://noticiafm.com/alice-wegmann-mostra-perrengue-apos-retirada-dos-sisos-desarmonizacao-facial/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778521512.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Prefeitura de Americana promove ação de conscientização da Campanha Maio Laranja - SB Notícias",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjhJQklNWnpFMzE2TTBZRC1oUDJyWWRnbkllWjhSQ0JzU2tIUUh6NmFlSmpWLXBWVkN3TnJJc0RjS21yZjVuWFNINjNEdktqLUdiRmxQWXJfR0ZaSFFIMW1lVEJSWWFRMWIwUlBVcFdtSTlGeTRETzRHUG9jYW5zUVlKOVlIM0F0eXcyMGd0NkxWUmZ6eGFuSURDdVNyM1RXdnRTRTh6bUx4VHhJd09PcmcxcWRmeVBncDl1MTFB?oc=5",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778521500.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Coluna Pimba com o resumo do esporte no fim de semana",
+        "link": "https://rapidonoar.com.br/coluna-pimba-com-o-resumo-do-esporte-no-fim-de-semana/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/penapolense-campeao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778521435.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Auditório do NAC terá palestra sobre obesidade e bem-estar",
+        "link": "https://rapidonoar.com.br/auditorio-do-nac-tera-palestra-sobre-obesidade-e-bem-estar/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/02/nac-limeira-seprosom-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778521320.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "“Situação de raça”: CBF divulga análise do gesto de Bobadilla em Corinthians x São Paulo",
+        "link": "https://noticiafm.com/situacao-de-raca-cbf-divulga-analise-do-gesto-de-bobadilla-em-corinthians-x-sao-paulo/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778521317.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Curso gratuito de aquaponia fortalece capacitação rural em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/curso-gratuito-de-aquaponia-fortalece-capacitacao-rural-em-limeira/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778521251.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Guarda Civil de Rio Claro prende homem que agrediu a mãe idosa com soco e vassoura",
+        "link": "https://rapidonoar.com.br/guarda-civil-de-rio-claro-prende-homem-que-agrediu-a-mae-idosa-com-soco-e-vassoura/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/agrediu-a-mae-em-rio-claro-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778520738.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "CEDOC da Fundação Romi abre inscrições para oficina gratuita de conservação de documentos em Santa Bárbara d’Oeste",
+        "link": "https://sb24horas.com.br/cedoc-da-fundacao-romi-abre-inscricoes-para-oficina-gratuita-de-conservacao-de-documentos-em-santa-barbara-doeste/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778520717.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Mega-Sena acumula e prêmio vai a R$ 52 milhões",
+        "link": "https://difusorapiracicaba.com.br/mega-sena-acumula-e-premio-vai-a-r-52-milhoes/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778520600.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Condenação por racismo em Limeira reforça importância da denúncia e do acompanhamento institucional",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/condenacao-por-racismo-em-limeira-reforca-importancia-da-denuncia-e-do-acompanhamento-institucional/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778520522.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Tite pede desculpas ao Corinthians, revela chateação com Flamengo e diz que Cruzeiro “reacendeu tesão”",
+        "link": "https://noticiafm.com/tite-pede-desculpas-ao-corinthians-revela-chateacao-com-flamengo-e-diz-que-cruzeiro-reacendeu-tesao/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778520440.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "CBF indica Estêvão fora e inclui Neymar em pré-lista exigida pela FIFA para Copa do Mundo",
+        "link": "https://noticiafm.com/cbf-indica-estevao-fora-e-inclui-neymar-em-pre-lista-exigida-pela-fifa-para-copa-do-mundo/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778520235.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Órgão fiscalizador, Arsesp confirma má qualidade da água em Hortolândia",
+        "link": "https://novomomento.com.br/orgao-fiscalizador-arsesp-confirma-ma-qualidade-da-agua-em-hortolandia/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778520127.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Moradora de Americana ganha R$ 400 mil em sorteio especial de Dia das Mães do Vida Cap",
+        "link": "https://portaldeamericana.com/moradora-de-americana-ganha-r-400-mil-em-sorteio-especial-de-dia-das-maes-do-vida-cap/?utm_source=rss&utm_medium=rss&utm_campaign=moradora-de-americana-ganha-r-400-mil-em-sorteio-especial-de-dia-das-maes-do-vida-cap",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5709.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778520075.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Prefeitura repara mais de 1.500 pontos de iluminação pública em 40 dias",
+        "link": "https://noticiadelimeira.com.br/2026/05/11/prefeitura-repara-mais-de-1-500-pontos-de-iluminacao-publica-em-40-dias/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778520006.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Polícia Militar prende homem por porte ilegal de arma e disparo de arma de fogo em São Pedro",
+        "link": "https://rapidonoar.com.br/policia-militar-prende-homem-por-porte-ilegal-de-arma-e-disparo-de-arma-de-fogo-em-sao-pedro/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/facao-sao-pedro-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778519653.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Brasil ganha bronze na Copa do Mundo de canoagem",
+        "link": "https://sb24horas.com.br/brasil-ganha-bronze-na-copa-do-mundo-de-canoagem/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778519448.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Operação da Guarda de Sumaré recolhe itens com moradores de rua",
+        "link": "https://novomomento.com.br/operacao-da-guarda-de-sumare-recolhe-itens-com-moradores-de-rua/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778519112.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Planos de saúde coletivos têm reajuste médio de 9,9%, mostra ANS",
+        "link": "https://difusorapiracicaba.com.br/planos-de-saude-coletivos-tem-reajuste-medio-de-99-mostra-ans/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "timestamp": 1778518800.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mulheres em situação de vulnerabilidade social terão acesso gratuito a atendimento odontológico em Limeira",
+        "link": "https://rapidonoar.com.br/mulheres-em-situacao-de-vulnerabilidade-social-terao-acesso-gratuito-a-atendimento-odontologico-em-limeira/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/carreta-odontologica-para-mulheres-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778518174.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Levi Rossi pede estudos para instalação de cobertura em frente ao Núcleo de Especialidades Médicas e Unacon",
+        "link": "https://hjnews.com.br/levi-rossi-pede-estudos-para-instalacao-de-cobertura-em-frente-ao-nucleo-de-especialidades-medicas-e-unacon/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778518029.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Rock Day Americana ganha adesão de parceiro no Conexão Cultura",
+        "link": "https://novomomento.com.br/rock-day-americana-parceiro-no-conexao-cultura/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778517320.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Rock Day Americana ganha adesão de parceiro no Conexão Cultura - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WUmlyV05iUlR5Y2N5d0N6ZG5xTEk4dG5mbXVxM1B0eHUtZ3FHaFpidl9hS3U1aXJTaW5wYlRVNW5hc1JDdnBGOFBjT0ZoYUJZS2ZRZVhqZG4tSndrSlloQVBObTA0S1luTGpxUHdScHY2T1F1WkVIMXpKd3FSdm8?oc=5",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778517320.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Shopping ParkCity Sumaré teve atrações no final de semana do Dia das Mães",
+        "link": "https://novomomento.com.br/shopping-parkcity-sumare-teve-atracoes-no-final-de-semana-do-dia-das-maes/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Dia-das-Maes-ParkCity-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778517234.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Após campanha, bicicletaria passa por reforma em Americana",
+        "link": "https://novomomento.com.br/apos-campanha-bicicletaria-reforma-em-americana/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778517205.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Projeto sobre câmeras em ônibus está na pauta de segunda-feira (11) na Câmara",
+        "link": "https://difusorapiracicaba.com.br/projeto-sobre-cameras-em-onibus-esta-na-pauta-de-segunda-feira-11-na-camara/",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778517000.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Bebê de 9 meses engasgada é salva por equipe da ROMU em Limeira na véspera do Dia das Mães",
+        "link": "https://rapidonoar.com.br/bebe-de-9-meses-engasgada-e-salva-por-equipe-da-romu-em-limeira-na-vespera-do-dia-das-maes/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/2base-2026-05-11t132055.489-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778516902.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Neymar na pré-lista (grande) de Ancelotti",
         "link": "https://novomomento.com.br/neymar-na-pre-lista-grande-de-ancelotti/",
@@ -1110,6 +1502,14 @@
         "data": "09/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1778337318.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Ópera ‘Intolleranza 1960’ ganha primeira montagem latino-americana em SP - VEJA SÃO PAULO",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdks2TV9ZNXpsNjBwMl8zQUZza1NZM3hvTmlWQmwwSURvSFpqOGVnRUcyZU9hWDg1ZTNScGl6ME9ZWnJEbnhLb05yV1YtSzNMWlFuSDNyWUItYTQ2bXZYUkI1UEdiUFRQT2pTTG9QSk9QY0hRQVcwNE5DSTVUcFp1eUZFT1NrRTZo?oc=5",
+        "data": "09/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778336313.0
     },
     {
         "portal": "Google Notícias",
@@ -3961,6 +4361,14 @@
     },
     {
         "portal": "Google Notícias",
+        "titulo": "Plantão odontológico aos finais de semana e feriados realiza mil atendimentos em um ano - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KU2UxUElJdVNBRW91WmlqODBfMkxwVVpDUWhLLWV4anU0SUFrM0ZsZjhvUElDZ0hoNHVSM2tRTm1KNTdjLW53aGE4NGVveWkwMkRvNElVX0VqdGFacGVCQzRDVGo4Z0tJZjJGNDRJckdvUWVHbjllNUx3?oc=5",
+        "data": "16/03/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1773644400.0
+    },
+    {
+        "portal": "Google Notícias",
         "titulo": "Feirão Casa Paulista vai até domingo na Secretaria de Habitação em Americana - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtaEtOUlVPaDZDWnN5akZMWGh0T0JsZGxDYmZFZGt3MERPRDUwNWpKcFV0MnlBbHFqeXl6R2hpeUwzU0JzcUdEcHBfX1ZDTnNZQWhST3J0RTlhb0tOYWlyaWFQUmZWbkJoVVpoM1hWaEczSmE0dFpoMml3?oc=5",
         "data": "13/03/2026",
@@ -3997,6 +4405,14 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yaGdlNXZRUlVtRDlwdnJwd3o1M1ExajR6QkFXT0loSmVGczVXVzRWbmtsb3M3Ykk1eFV0Z09IS2t1NDh1cDdDREpLUHFvZzhxVmVzcG9JMFFJRWlZdjAxT1M4Z2tSYjBiMmpRYWZWX2tDZjF3U2k1THRR?oc=5",
         "data": "11/03/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "timestamp": 1773212400.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Prefeitura de Americana fará revitalização do calçamento de toda a extensão da Avenida Brasil - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ydFAyazhPSkt0ZUhZSmpzWDJ1MnVsOXY4XzByYjdFay00RHdZVDhpN2hFU1hWRVRUT3lSZkExbHdUUXREajY4dTd1QkRCWi1GemRkemhqZmhOYVZ5cmZBVk1aV3RuMnJ4NGFlT3ZFQ1VHR2ppRlU0Tnhn?oc=5",
+        "data": "11/03/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1773212400.0
     },
     {
