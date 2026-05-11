@@ -22,7 +22,7 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    # O nosso radar espião focado em Americana!
+    # O nosso radar espião da Google!
     'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419'
 ]
 
@@ -43,7 +43,7 @@ LOGOS_PORTAIS = {
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 # ==========================================
-# 2. INTELIGÊNCIA DAS IMAGENS (CATEGORIAS + CIDADES)
+# 2. INTELIGÊNCIA DAS IMAGENS (DICIONÁRIO MASSIVO)
 # ==========================================
 IMAGENS_CATEGORIA = {
     'politica': 'https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg',
@@ -66,27 +66,28 @@ def categorizar_noticia(titulo, imagem_atual):
     t = titulo.lower()
     nova_imagem = None
     
-    if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe']):
+    # Dicionário expandido para não deixar escapar nada!
+    if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
-    elif any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce']):
+    elif any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
-    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm', 'vacinação']):
+    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm', 'vacinação', 'remédio', 'doença', 'vírus']):
         nova_imagem = IMAGENS_CATEGORIA['saude']
-    elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto']):
+    elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto', 'represa']):
         nova_imagem = IMAGENS_CATEGORIA['dae']
-    elif any(p in t for p in ['frio', 'geada', 'temperatura', 'inverno', 'frente fria']):
+    elif any(p in t for p in ['frio', 'geada', 'temperatura', 'inverno', 'frente fria', 'chuva', 'tempestade', 'calor']):
         nova_imagem = IMAGENS_CATEGORIA['frio']
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura']):
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
-    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação']):
+    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'indústria', 'comércio', 'economia', 'mercado', 'inflação', 'estágio', 'ciee', 'contrata', 'venda', 'negócio']):
         nova_imagem = IMAGENS_CATEGORIA['economia']
-    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem']):
+    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio']):
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa']):
         nova_imagem = IMAGENS_CATEGORIA['esportes']
-    elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro']):
+    elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro', 'exposição', 'festival']):
         nova_imagem = IMAGENS_CATEGORIA['eventos']
-    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
+    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus', 'estrada', 'bandeirantes']):
         nova_imagem = IMAGENS_CATEGORIA['transito']
     elif 'campinas' in t:
         nova_imagem = IMAGENS_CATEGORIA['campinas']
@@ -100,22 +101,25 @@ def categorizar_noticia(titulo, imagem_atual):
         
     link_limpo = imagem_atual.lower()
     
-    # 🚜 O TRATOR IMPLACÁVEL V2: Lista massivamente agressiva contra ficheiros camuflados
-    palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa']
+    palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
-    is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values())
+    is_novo_momento = 'novomomento' in link_limpo
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
+    
+    # Verifica se a imagem é nossa, mas NÃO é uma das capas finais (ou seja, é um logótipo que nós subimos)
+    is_nossa_host = 'portaldosportais.com/wp-content/uploads' in link_limpo
+    is_ja_categorizada = any(cat.split('/')[-1].lower() in link_limpo for cat in IMAGENS_CATEGORIA.values())
+    is_logo_nosso = is_nossa_host and not is_ja_categorizada
 
-    # Se tem categoria (ex: Saúde) E a foto atual for lixo ou logo: SUBSTITUI SEM PIEDADE!
-    if nova_imagem and (is_lixo or is_nossa_imagem_generica or is_fallback):
+    # A BOMBA NUCLEAR: Se tem categoria, substitui sem piedade imagens inúteis ou do Novo Momento
+    if nova_imagem and (is_lixo or is_logo_nosso or is_fallback or is_novo_momento):
         return nova_imagem
         
-    # Se NÃO tem categoria, mas é lixo, mantém o lixo para não ficar o ecrã em branco
-    if is_lixo or is_nossa_imagem_generica or is_fallback:
+    # Se não tem categoria, mas a imagem atual é lixo, mantém o lixo para o ecrã não ficar em branco
+    if is_lixo or is_logo_nosso or is_fallback:
         return imagem_atual
         
-    # Se chegou aqui, é porque a imagem do jornal é (teoricamente) uma FOTO REAL! Não mexe.
     return imagem_atual
 
 # ==========================================
@@ -134,7 +138,7 @@ def nome_curto_portal(link_noticia):
     if 'rapidonoar' in link: return 'Rápido no Ar'
     if 'redefamilia' in link: return 'Rede Família'
     if 'sb24horas' in link: return 'SB24Horas'
-    if 'news.google' in link: return 'Google Notícias' # Adicionado o radar da Google!
+    if 'news.google' in link: return 'Google Notícias'
     return 'Portal RMC'
 
 def extrair_melhor_imagem(entry, url_feed):
@@ -181,29 +185,28 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
+                # O robô passa o pente fino antigo com o novo dicionário!
                 noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'])
                 historico_noticias[noticia['link']] = noticia
     except:
         print("Iniciando novo banco de dados...")
 
-print("Puxando as novas notícias...")
+print("A extrair as novas notícias...")
 
+# O NOVO DISFARCE PERFEITO PARA A GOOGLE E JORNAIS
 headers_navegador = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7'
 }
 
 for url in FEEDS:
     try:
-        # A MÁGICA DE DISTINÇÃO DE LEITURA OCORRE AQUI:
-        if 'news.google' in url:
-            # Google Notícias gosta de robôs puros. Retiramos o disfarce!
-            feed = feedparser.parse(url)
-        else:
-            # Jornais locais precisam do disfarce de Chrome para não bloquear
-            resposta = requests.get(url, headers=headers_navegador, timeout=15)
-            feed = feedparser.parse(resposta.content)
+        # A magia acontece aqui: O mesmo pedido perfeito para todos!
+        resposta = requests.get(url, headers=headers_navegador, timeout=15)
+        feed = feedparser.parse(resposta.content)
         
-        print(f"[{nome_curto_portal(url)}] Baixou {len(feed.entries)} notícias.")
+        print(f"[{nome_curto_portal(url)}] Descarregou {len(feed.entries)} notícias.")
         
         for entry in feed.entries[:100]:
             link_noticia = entry.link
