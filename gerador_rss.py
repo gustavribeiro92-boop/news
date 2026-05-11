@@ -21,7 +21,9 @@ FEEDS = [
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
-    'https://sb24horas.com.br/feed/'
+    'https://sb24horas.com.br/feed/',
+    # O nosso radar espião focado em Americana!
+    'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419'
 ]
 
 LOGOS_PORTAIS = {
@@ -132,6 +134,7 @@ def nome_curto_portal(link_noticia):
     if 'rapidonoar' in link: return 'Rápido no Ar'
     if 'redefamilia' in link: return 'Rede Família'
     if 'sb24horas' in link: return 'SB24Horas'
+    if 'news.google' in link: return 'Google Notícias' # Adicionado o radar do Google!
     return 'Portal RMC'
 
 def extrair_melhor_imagem(entry, url_feed):
