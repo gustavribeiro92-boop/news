@@ -1,5 +1,53 @@
 [
     {
+        "portal": "Rápido no Ar",
+        "titulo": "Campinas lança Campanha do Agasalho 2026 com 110 pontos de arrecadação",
+        "link": "https://rapidonoar.com.br/campinas-lanca-campanha-do-agasalho-2026-com-110-pontos-de-arrecadacao/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/frio-campanha-agasalho-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778549302.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "BRK realiza obra para substituição de redes de água no bairro dos Pires, em Limeira",
+        "link": "https://rapidonoar.com.br/brk-realiza-obra-para-substituicao-de-redes-de-agua-no-bairro-dos-pires-em-limeira/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/06/brk-ambiental-obra-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778546376.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Marcos Caetano comemora campo de futebol society no Mário Covas",
+        "link": "https://novomomento.com.br/marcos-caetano-comemora-campo-society-mariocova/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778545817.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Oferta de imóvel no Airbnb exige aprovação do condomínio, define STJ",
+        "link": "https://novomomento.com.br/oferta-airbnb-exige-aprova-condominio-defin-stj/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/02/59d8ada7-seu-madruga-aluguel-300x206.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778544403.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Falta um mês para a Copa que promete ser a maior de todos os tempos",
+        "link": "https://sb24horas.com.br/falta-um-mes-para-a-copa-que-promete-ser-a-maior-de-todos-os-tempos/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778544344.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Polêmica Bruna Louise em Santa Bárbara sábado",
+        "link": "https://novomomento.com.br/polemica-bruna-louise-em-santa-barbara-sabado/",
+        "data": "11/05/2026",
+        "imagem": "https://wsrv.nl/?url=s2601.imxsnd48.com/4zUmOmFTYkdTY6InYu02bj5yb05WZt9WbvZ3buB0b0FGdu92Y6MjM0cTMykDNwMjOnVGcq5ydvxmN1EGOiBTZ1IjZklDMzIzMhZmNmhDOzEDNzgzYiZGO2YkMlYGO2YkMlQTN0ADNGJTJ2UzN0QTNyEDMx8VL1ETLf9VLwITLfpTM&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778541402.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Americana tem inscrições do programa Residência Pontos MIS até 10 de junho",
         "link": "https://novomomento.com.br/americana-inscricoes-programa-reside-pontomis10/",
@@ -214,6 +262,14 @@
         "data": "11/05/2026",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/multa-fast-shop-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778525656.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Fundo Social de Americana recebe 600 cestas básicas do Governo do Estado - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsWFpzU0lfa0VaS0s3dldGemNrZllnU0VZVjVWZlU5RDNTRTA4c3lMOGRWTUxSN3AtcVRfTlRsckFNRWNVQXpxaVN5MTV3M2NXa3NtajNYY3lha3dCa3cteDJXOFY4dFhTeEx1U05pRVdkenFYNG5nYnBn?oc=5",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778525280.0
     },
     {
         "portal": "Notícia FM",
@@ -2878,6 +2934,14 @@
         "data": "08/05/2026 às 00:08",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/04/xuxa-deseja-feliz-ano-novo-com-o-love-300x292.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778198893.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Reservas do São Paulo empatam com O'Higgins na Copa Sul-Americana - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFRqQjQyVXNsQUphVXhNY0pKd3NXY0ZNbkVvcWxOVHR4cUR3US1PbUFlWXlMWjhObHM0Uk1ITExxbTYybXAxb1ZFOEtQWVZCLTlPSkVZR0ZXZlNHelFNNkdlSk1URHM4RTVlZy02MnNkOGkzQVlLLVV4VWV5Zi1UYWdEN1FFa0R3cElvTXl4dEtwR1RrWmVhTUVnOXQ2czhGLWY1b28tOVg2LVFsWEtjcFVReVNZLUI2dnQ0MGYySFBSb1BmRFpxWFU2UTF3T1dscVo4YW8yV2dVSjV3MHg0?oc=5",
+        "data": "07/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "timestamp": 1778198050.0
     },
     {
         "portal": "Rápido no Ar",
