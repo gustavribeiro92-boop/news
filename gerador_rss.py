@@ -23,7 +23,9 @@ FEEDS = [
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
     # O nosso radar espião da Google!
-    'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419'
+    'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419',
+    # O novo reforço de Empregos!
+    'https://vagas019.com.br/feed/'
 ]
 
 LOGOS_PORTAIS = {
@@ -37,7 +39,8 @@ LOGOS_PORTAIS = {
     'portaldeamericana': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif',
     'rapidonoar': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png',
     'redefamilia': 'https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png',
-    'sb24horas': 'https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg'
+    'sb24horas': 'https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg',
+    'vagas019': 'https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png'
 }
 
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
@@ -62,7 +65,7 @@ IMAGENS_CATEGORIA = {
     'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
-def categorizar_noticia(titulo, imagem_atual):
+def categorizar_noticia(titulo, imagem_atual, fonte):
     t = titulo.lower()
     nova_imagem = None
     
@@ -96,6 +99,10 @@ def categorizar_noticia(titulo, imagem_atual):
     elif 'americana' in t:
         nova_imagem = IMAGENS_CATEGORIA['americana']
 
+    # A BOMBA NUCLEAR CONTRA O NOVO MOMENTO
+    if 'novomomento' in fonte.lower() or 'novo momento' in fonte.lower():
+        return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
+
     if not imagem_atual:
         return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
         
@@ -104,7 +111,6 @@ def categorizar_noticia(titulo, imagem_atual):
     palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
-    is_novo_momento = 'novomomento' in link_limpo
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
     
     # Verifica se a imagem é nossa, mas NÃO é uma das capas finais (ou seja, é um logótipo que nós subimos)
@@ -112,8 +118,8 @@ def categorizar_noticia(titulo, imagem_atual):
     is_ja_categorizada = any(cat.split('/')[-1].lower() in link_limpo for cat in IMAGENS_CATEGORIA.values())
     is_logo_nosso = is_nossa_host and not is_ja_categorizada
 
-    # A BOMBA NUCLEAR: Se tem categoria, substitui sem piedade imagens inúteis ou do Novo Momento
-    if nova_imagem and (is_lixo or is_logo_nosso or is_fallback or is_novo_momento):
+    # Substitui sem piedade imagens inúteis se tivermos uma capa de categoria para usar
+    if nova_imagem and (is_lixo or is_logo_nosso or is_fallback):
         return nova_imagem
         
     # Se não tem categoria, mas a imagem atual é lixo, mantém o lixo para o ecrã não ficar em branco
@@ -139,6 +145,7 @@ def nome_curto_portal(link_noticia):
     if 'redefamilia' in link: return 'Rede Família'
     if 'sb24horas' in link: return 'SB24Horas'
     if 'news.google' in link: return 'Google Notícias'
+    if 'vagas019' in link: return 'Vagas 019'
     return 'Portal RMC'
 
 def extrair_melhor_imagem(entry, url_feed):
@@ -186,7 +193,7 @@ if os.path.exists('feed_mestre.json'):
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
                 # O robô passa o pente fino antigo com o novo dicionário!
-                noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'])
+                noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'], noticia['portal'])
                 historico_noticias[noticia['link']] = noticia
     except:
         print("Iniciando novo banco de dados...")
@@ -232,7 +239,7 @@ for url in FEEDS:
                 data_formatada = datetime.now().strftime("%d/%m/%Y")
             
             imagem_original = extrair_melhor_imagem(entry, url)
-            imagem_categorizada = categorizar_noticia(entry.title, imagem_original)
+            imagem_categorizada = categorizar_noticia(entry.title, imagem_original, url)
 
             # --- OTIMIZADOR DE IMAGENS ---
             todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
