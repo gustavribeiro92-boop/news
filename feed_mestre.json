@@ -1,5 +1,21 @@
 [
     {
+        "portal": "SB24Horas",
+        "titulo": "Inflação desacelera e fecha abril em 0,67%, pressionada por alimentos",
+        "link": "https://sb24horas.com.br/inflacao-desacelera-e-fecha-abril-em-067-pressionada-por-alimentos/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "timestamp": 1778593843.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Sumaré tem serviços gratuitos nos dias 15 e 16: Cidadania Itinerante",
+        "link": "https://novomomento.com.br/sumare-tem-servicos-gratuitos-nos-dias-15-e-16-cidadania-itinerante/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778593373.0
+    },
+    {
         "portal": "Rápido no Ar",
         "titulo": "Saulo enterra a Inter de Limeira contra o Santa Cruz pela Série C",
         "link": "https://rapidonoar.com.br/saulo-enterra-a-inter-de-limeira-contra-o-santa-cruz-pela-serie-c/",
@@ -51,6 +67,14 @@
         "portal": "Novo Momento",
         "titulo": "Dois presos por tráfico, receptação e carro adulterado em Hortolândia",
         "link": "https://novomomento.com.br/dois-presos-por-trafico-receptacao-e-carro-adulterado-em-hortolandia/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778591305.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Dois presos por tráfico, receptação e carro adulterado em Hortolândia",
+        "link": "https://novomomento.com.br/dois-presos-trafic-recep-carro-adul-hortolandia/",
         "data": "12/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
         "timestamp": 1778591305.0
@@ -300,7 +324,7 @@
         "titulo": "Feirão do Emprego em Sumaré: mais de 2 mil vagas disponíveis na sexta (15)",
         "link": "https://novomomento.com.br/feirao-emprego-sumare-2mil-vagas-na-sexta-15/",
         "data": "12/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778553330.0
     },
     {
@@ -1356,7 +1380,7 @@
         "titulo": "Alex propõe vagas a atendidos do Caps e Dorigon traz Ana Carolina esta 5a",
         "link": "https://novomomento.com.br/alex-vagas-atende-caps-dorigon-ana-carolina-5a/",
         "data": "11/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778498699.0
     },
     {
@@ -1396,7 +1420,7 @@
         "titulo": "Estágio em Americana hoje, veja 71 vagas com Ciee",
         "link": "https://novomomento.com.br/estagio-em-americana-hoje-veja-71-vagas-ciee/",
         "data": "11/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778493396.0
     },
     {
@@ -1428,7 +1452,7 @@
         "titulo": "PAT Americana vem hoje com 120 vagas de emprego",
         "link": "https://novomomento.com.br/pat-americana-vem-hoje-com-120-vagas-de-emprego/",
         "data": "11/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778482859.0
     },
     {
@@ -1524,7 +1548,7 @@
         "titulo": "Palmeiras corre atrás do empate em Belém (1-1)",
         "link": "https://novomomento.com.br/palmeiras-corre-atras-do-empate-em-belem-1-1/",
         "data": "10/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778449848.0
     },
     {
@@ -1724,7 +1748,7 @@
         "titulo": "Leitor flagra produtos Ypê à venda no Pague Menos Americana este sábado",
         "link": "https://novomomento.com.br/leitor-flagra-ype-venda-paguemenos-em-americana/",
         "data": "10/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
         "timestamp": 1778408312.0
     },
     {
@@ -2212,7 +2236,7 @@
         "titulo": "Hortolândia tem saldo positivo de 540 vagas de emprego em março, segundo Caged",
         "link": "https://novomomento.com.br/hortolandia-saldo-positivo-540vagas-marco-caged/",
         "data": "09/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778322949.0
     },
     {
@@ -2420,7 +2444,7 @@
         "titulo": "Flávio e Lula empatam na corrida presidencial em SP (Estado)",
         "link": "https://novomomento.com.br/flavio-lula-empate-corrida-presidencia-spestado/",
         "data": "08/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778274047.0
     },
     {
@@ -3148,7 +3172,7 @@
         "titulo": "Americana se destaca na geração de empregos",
         "link": "https://novomomento.com.br/americana-se-destaca-na-geracao-de-empregos-2/",
         "data": "08/05/2026 às 08:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1778227246.0
     },
     {
@@ -4852,7 +4876,7 @@
         "titulo": "Renda extra com o Clube de Pontos",
         "link": "https://vagas019.com.br/renda-extra-com-o-clube-de-pontos/",
         "data": "01/04/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1775083692.0
     },
     {
@@ -4916,7 +4940,7 @@
         "titulo": "Clube de Pontos de indicação",
         "link": "https://vagas019.com.br/clube-de-pontos-de-indicacao/",
         "data": "27/03/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1774621073.0
     },
     {
@@ -4940,7 +4964,7 @@
         "titulo": "Dor nos pés, sobrecarga muscular e desconforto?",
         "link": "https://vagas019.com.br/dor-nos-pes-sobrecarga-muscular-e-desconforto/",
         "data": "25/03/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1774474272.0
     },
     {
@@ -4956,7 +4980,7 @@
         "titulo": "Não encontrou a vaga que deseja?",
         "link": "https://vagas019.com.br/nao-encontrou-a-vaga-que-deseja/",
         "data": "24/03/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1774385425.0
     },
     {
@@ -5060,7 +5084,7 @@
         "titulo": "Qual o melhor dia para pedir demissão?",
         "link": "https://vagas019.com.br/qual-o-melhor-dia-para-pedir-demissao/",
         "data": "16/03/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1773683507.0
     },
     {
@@ -5132,7 +5156,7 @@
         "titulo": "Home office 2026",
         "link": "https://vagas019.com.br/home-office-2026/",
         "data": "10/03/2026",
-        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1773155868.0
     },
     {
@@ -5817,7 +5841,7 @@
         "titulo": "Corinthians corre atrás do empate na altitude da Bolívia (1-1)",
         "link": "https://novomomento.com.br/corinthians-corre-empate-na-altitude-bolivia-1/",
         "data": "07/05/2026 às 09:59",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg"
     },
     {
         "portal": "SB24Horas",
