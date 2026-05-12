@@ -22,9 +22,7 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    # O nosso radar espião da Google!
     'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419',
-    # O novo reforço de Empregos!
     'https://vagas019.com.br/feed/'
 ]
 
@@ -66,15 +64,16 @@ IMAGENS_CATEGORIA = {
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
-    t = titulo.lower()
+    # BLINDAGEM: Converte para string para não travar se vier vazio
+    t = str(titulo).lower()
+    f = str(fonte).lower()
     nova_imagem = None
     
-    # Dicionário expandido para não deixar escapar nada!
     if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
     elif any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
-    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm', 'vacinação', 'remédio', 'doença', 'vírus']):
+    elif any(p in t for p in ['saúde', 'hospital', 'médico', 'vacina', 'dengue', 'paciente', 'ubs', 'hm', 'vacinação', 'remédio', 'doença', 'vírus', 'upa']):
         nova_imagem = IMAGENS_CATEGORIA['saude']
     elif any(p in t for p in ['dae', 'água', 'vazamento', 'abastecimento', 'esgoto', 'represa']):
         nova_imagem = IMAGENS_CATEGORIA['dae']
@@ -86,7 +85,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         nova_imagem = IMAGENS_CATEGORIA['economia']
     elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa']):
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'libertadores']):
         nova_imagem = IMAGENS_CATEGORIA['esportes']
     elif any(p in t for p in ['festa', 'rodeio', 'show', 'fidam', 'evento', 'cultura', 'teatro', 'exposição', 'festival']):
         nova_imagem = IMAGENS_CATEGORIA['eventos']
@@ -99,40 +98,32 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     elif 'americana' in t:
         nova_imagem = IMAGENS_CATEGORIA['americana']
 
-    # A BOMBA NUCLEAR CONTRA O NOVO MOMENTO
-    if 'novomomento' in fonte.lower() or 'novo momento' in fonte.lower():
+    if 'novomomento' in f or 'novo momento' in f:
         return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
 
     if not imagem_atual:
         return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
         
-    link_limpo = imagem_atual.lower()
+    link_limpo = str(imagem_atual).lower()
     
     palavras_lixo = ['logo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
-    
-    # Verifica se a imagem é nossa, mas NÃO é uma das capas finais (ou seja, é um logótipo que nós subimos)
     is_nossa_host = 'portaldosportais.com/wp-content/uploads' in link_limpo
     is_ja_categorizada = any(cat.split('/')[-1].lower() in link_limpo for cat in IMAGENS_CATEGORIA.values())
     is_logo_nosso = is_nossa_host and not is_ja_categorizada
 
-    # Substitui sem piedade imagens inúteis se tivermos uma capa de categoria para usar
     if nova_imagem and (is_lixo or is_logo_nosso or is_fallback):
         return nova_imagem
         
-    # Se não tem categoria, mas a imagem atual é lixo, mantém o lixo para o ecrã não ficar em branco
     if is_lixo or is_logo_nosso or is_fallback:
-        return imagem_atual
+        return str(imagem_atual)
         
-    return imagem_atual
+    return str(imagem_atual)
 
-# ==========================================
-# 3. FUNÇÕES DE SUPORTE
-# ==========================================
 def nome_curto_portal(link_noticia):
-    link = link_noticia.lower()
+    link = str(link_noticia).lower()
     if 'americanapost' in link: return 'Americana Post'
     if 'difusorapiracicaba' in link: return 'Difusora FM'
     if 'hjnews' in link: return 'HJ News'
@@ -171,12 +162,12 @@ def extrair_melhor_imagem(entry, url_feed):
 
     for url in candidatas:
         if not url: continue
-        url_limpa = url.strip()
+        url_limpa = str(url).strip()
         lixos = ['avatar', 'emoji', 'icon', 'logo', 'spinner', 'gravatar', 'pixel', 'wp-includes']
         if not any(lixo in url_limpa.lower() for lixo in lixos):
             return url_limpa
 
-    url_feed_limpa = url_feed.lower().replace('.', '')
+    url_feed_limpa = str(url_feed).lower().replace('.', '')
     for chave, link_logo in LOGOS_PORTAIS.items():
         if chave in url_feed_limpa:
             return link_logo
@@ -192,15 +183,21 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                # O robô passa o pente fino antigo com o novo dicionário!
-                noticia['imagem'] = categorizar_noticia(noticia['titulo'], noticia['imagem'], noticia['portal'])
-                historico_noticias[noticia['link']] = noticia
-    except:
+                # BLINDAGEM: Usamos o .get() para não dar erro fatal se a notícia antiga vier com defeito
+                titulo = noticia.get('titulo', 'Notícia')
+                imagem = noticia.get('imagem', '')
+                portal = noticia.get('portal', 'Portal RMC')
+                link = noticia.get('link', '')
+                
+                if link:
+                    noticia['imagem'] = categorizar_noticia(titulo, imagem, portal)
+                    historico_noticias[link] = noticia
+    except Exception as e:
+        print(f"Erro ao ler banco antigo: {e}")
         print("Iniciando novo banco de dados...")
 
 print("A extrair as novas notícias...")
 
-# O NOVO DISFARCE PERFEITO PARA A GOOGLE E JORNAIS
 headers_navegador = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -209,14 +206,16 @@ headers_navegador = {
 
 for url in FEEDS:
     try:
-        # A magia acontece aqui: O mesmo pedido perfeito para todos!
         resposta = requests.get(url, headers=headers_navegador, timeout=15)
         feed = feedparser.parse(resposta.content)
         
         print(f"[{nome_curto_portal(url)}] Descarregou {len(feed.entries)} notícias.")
         
         for entry in feed.entries[:100]:
-            link_noticia = entry.link
+            # BLINDAGEM: Se a notícia não tiver link, nós ignoramos e passamos para a próxima
+            link_noticia = entry.get('link', '')
+            if not link_noticia:
+                continue
             
             if link_noticia in historico_noticias:
                 continue
@@ -238,23 +237,25 @@ for url in FEEDS:
                 timestamp_absoluto = time.time()
                 data_formatada = datetime.now().strftime("%d/%m/%Y")
             
+            # BLINDAGEM: Pega o título com segurança
+            titulo_seguro = entry.get('title', 'Notícia')
+            
             imagem_original = extrair_melhor_imagem(entry, url)
-            imagem_categorizada = categorizar_noticia(entry.title, imagem_original, url)
+            imagem_categorizada = categorizar_noticia(titulo_seguro, imagem_original, url)
 
-            # --- OTIMIZADOR DE IMAGENS ---
             todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
             
-            if any(nossa.split('/')[-1] in imagem_categorizada for nossa in todas_nossas_imagens):
+            if any(nossa.split('/')[-1] in str(imagem_categorizada) for nossa in todas_nossas_imagens):
                 imagem_final = imagem_categorizada
-            elif 'wsrv.nl' in imagem_categorizada:
+            elif 'wsrv.nl' in str(imagem_categorizada):
                 imagem_final = imagem_categorizada
             else:
-                url_sem_http = imagem_categorizada.replace('https://', '').replace('http://', '')
+                url_sem_http = str(imagem_categorizada).replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
 
             historico_noticias[link_noticia] = {
                 "portal": nome_curto_portal(link_noticia),
-                "titulo": entry.title,
+                "titulo": titulo_seguro,
                 "link": link_noticia,
                 "data": data_formatada,
                 "imagem": imagem_final,
@@ -267,7 +268,10 @@ lista_final = list(historico_noticias.values())
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
-with open('feed_mestre.json', 'w', encoding='utf-8') as f:
-    json.dump(lista_final, f, ensure_ascii=False, indent=4)
-
-print(f"Sucesso! Acervo atualizado com {len(lista_final)} notícias.")
+# TRAVA DE SEGURANÇA MÁXIMA: Só salva o JSON se tiver notícias. Se a internet do GitHub falhar, ele NÃO apaga o seu site!
+if len(lista_final) > 0:
+    with open('feed_mestre.json', 'w', encoding='utf-8') as f:
+        json.dump(lista_final, f, ensure_ascii=False, indent=4)
+    print(f"Sucesso! Acervo atualizado com {len(lista_final)} notícias.")
+else:
+    print("ALERTA CRÍTICO: Nenhuma notícia encontrada. O arquivo NÃO foi apagado para proteger o site.")
