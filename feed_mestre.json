@@ -1,5 +1,45 @@
 [
     {
+        "portal": "Novo Momento",
+        "titulo": "Ciclista de Americana Luís Guilherme vai competir no Chile",
+        "link": "https://novomomento.com.br/ciclista-americana-luis-guilherme-compete-chile/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778623464.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mulher é atropelada e acidente envolve outros dois veículos na Rodovia Anhanguera em Limeira",
+        "link": "https://rapidonoar.com.br/mulher-e-atropelada-e-acidente-envolve-outros-dois-veiculos-na-rodovia-anhanguera-em-limeira/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/acidente-anhanguera-rodovia-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778623431.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Maus-tratos a galos rende multa de R$ 156 mil na cidade de Cosmópolis",
+        "link": "https://rapidonoar.com.br/maus-tratos-a-galos-rende-multa-de-r-156-mil-na-cidade-de-cosmopolis/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/rinhas-de-galo-cosmopolis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778622961.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Nova Odessa divulga programação para a Festa de 121 Anos (22 a 24 de maio)",
+        "link": "https://novomomento.com.br/nova-odessa-programacao-festa-121anos-22-maio/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778620718.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Americana Shopping enfrenta fechamento de lojas poucos meses após inauguração",
+        "link": "https://portaldeamericana.com/americana-shopping-enfrenta-fechamento-de-lojas-poucos-meses-apos-inauguracao/?utm_source=rss&utm_medium=rss&utm_campaign=americana-shopping-enfrenta-fechamento-de-lojas-poucos-meses-apos-inauguracao",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5771.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778620277.0
+    },
+    {
         "portal": "Difusora FM",
         "titulo": "Legislativo aprova projeto que prevê câmeras nos veículos do transporte público",
         "link": "https://difusorapiracicaba.com.br/legislativo-aprova-projeto-que-preve-cameras-nos-veiculos-do-transporte-publico/",
@@ -5977,6 +6017,14 @@
     },
     {
         "portal": "Google Notícias",
+        "titulo": "5º Gigantinho Campo começa neste final de semana com partidas em quatro categorias - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwa09ZOFFZM3NwcURVN0ZOWHMtbXhRXzExYVBSaFdSbFlDZkt0cVc2OUZ2aGVobWtTX3lRWlIwZGtnMnVQMDdwWWlYOGoxVXVoZXhxcjRmUFRJYXFFVkxtbXdIbDU5YTQ5RUQycE5Ic0pCRG1VUnlDNEtn?oc=5",
+        "data": "25/02/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1772006400.0
+    },
+    {
+        "portal": "Google Notícias",
         "titulo": "Escolinha de ginástica artística masculina tem vagas abertas para aulas gratuitas no Centro Cívico - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JU3lPRXBZVzFQZFNRLUtoOGZqaWViOFJuUHdiczRXVFVSOHRITTNiRTZrQmdLLVN6TnlHM2Z6dHcxQWthQjBGZ0ttLVBEWVA2dU92REIzNlg3MGZuM09pV0laSHVRLVNZR0tySDdEc1V6XzhTNUpQMUJ3?oc=5",
         "data": "24/02/2026",
@@ -6157,6 +6205,14 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWmpKR2lIOUxWUHZ4TE9yanlTc1JPRWMyZ0xMUVU2c3UxYTVnYlpoanZkWngxTUtIdmhOUDRDUWRNb3ZQU2lkWG0yU3duRmZJY1pHNFZ1cVVfN3FCeGYyS2tjeUZTdVJYYlptbTNTcHhOWHF5QjFrdGN3?oc=5",
         "data": "26/01/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1769414400.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Secretaria de Esportes de Americana divulga calendário de campeonatos de futebol e futsal de 2026 - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxODRVMlIwYk9GWDVlbFN6alFSUWdaZ1hSYWtIVGRvVjFNSWxOcDl3c1JGVFItSVJyeThoSjVQOWtaR0toY2Q0TjdlUzRNNUl1NEJEZ0o4Qk1wT1VtNzBkZEc1M3RISmhGS3E4TWZVaFB4T2pGQXRXUExB?oc=5",
+        "data": "26/01/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
         "timestamp": 1769414400.0
     },
     {
