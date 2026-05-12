@@ -1,10 +1,130 @@
 [
     {
+        "portal": "Notícia FM",
+        "titulo": "Prefeitura de Santa Bábara inicia estratégia de imunização nas escolas contra o sarampo e a influenza nesta terça-feira",
+        "link": "https://noticiafm.com/prefeitura-de-santa-babara-inicia-estrategia-de-imunizacao-nas-escolas-contra-o-sarampo-e-a-influenza-nesta-terca-feira/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/image_processing20200217-17825-148m9ea-559x335.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778592434.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Câmara de Santa Bárbara d’Oeste terá sessão marcada por pautas sociais, saúde pública e inclusão nesta terça-feira",
+        "link": "https://sb24horas.com.br/camara-de-santa-barbara-doeste-tera-sessao-marcada-por-pautas-sociais-saude-publica-e-inclusao-nesta-terca-feira/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778591737.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Projeto Escritores de Hortolândia faz bate-papo entre Paulo Lins e Geraldo Ribeiro",
+        "link": "https://novomomento.com.br/projeto-escritores-de-hortolandia-faz-bate-papo/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778591410.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Dois presos por tráfico, receptação e carro adulterado em Hortolândia",
+        "link": "https://novomomento.com.br/dois-presos-por-trafico-receptacao-e-carro-adulterado-em-hortolandia/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778591305.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Prefeitura de Santa Bárbara realiza entrega de brinquedos, tablets e calçados recebidos por meio de parceria com a Receita Federal",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-realiza-entrega-de-brinquedos-tablets-e-calcados-recebidos-por-meio-de-parceria-com-a-receita-federal/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778590782.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Vereadora diz que rua não pode ser reaberta em Nova Odessa",
+        "link": "https://novomomento.com.br/vereadora-diz-que-rua-nao-pode-ser-reaberta-em-nova-odessa/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778590533.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Câmara entrega títulos de cidadania em sessão solene nesta quarta-feira (13)",
+        "link": "https://hjnews.com.br/camara-entrega-titulos-de-cidadania-em-sessao-solene-nesta-quarta-feira-13/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778590471.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "Falta um mês para a Copa: veja datas e horários dos jogos do Brasil",
+        "link": "https://hjnews.com.br/falta-um-mes-para-a-copa-veja-datas-e-horarios-dos-jogos-do-brasil/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778589990.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mega-Sena sorteia prêmio de R$ 52 milhões nesta terça-feira",
+        "link": "https://rapidonoar.com.br/mega-sena-sorteia-premio-de-r-52-milhoes-nesta-terca-feira/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/08/mega-sena-sorteio-premio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778589514.0
+    },
+    {
+        "portal": "Difusora FM",
+        "titulo": "Homem é preso após agredir esposa, ameaçar policiais e causar tensão em Santa Bárbara d’Oeste",
+        "link": "https://difusorapiracicaba.com.br/homem-e-preso-apos-agredir-esposa-ameacar-policiais-e-causar-tensao-em-santa-barbara-doeste/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778589501.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Campanha Maio Amarelo em Americana terá como tema “No trânsito, enxergar o outro é salvar vidas”",
+        "link": "https://noticiafm.com/campanha-maio-amarelo-em-americana-tera-como-tema-no-transito-enxergar-o-outro-e-salvar-vidas/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/55257013058_58af1d5ebd_o-559x419.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778588930.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste apresenta projeto da LDO 2027 em audiência pública nesta quarta-feira",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-doeste-apresenta-projeto-da-ldo-2027-em-audiencia-publica-nesta-quarta-feira/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778588399.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "“Conheça o DAE” 2026 tem segundo encontro do ano",
+        "link": "https://novomomento.com.br/conheca-o-dae-2026-tem-segundo-encontro-do-ano/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "timestamp": 1778588103.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "‘Semana do MEI’: Sebrae-SP realiza mutirão de declarações e oficinas na região de Piracicaba",
+        "link": "https://sb24horas.com.br/semana-do-mei-sebrae-sp-realiza-mutirao-de-declaracoes-e-oficinas-na-regiao-de-piracicaba/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778588084.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Guarda Municipal de Santa Bárbara encerra Curso Operacional de Apoio Tático",
+        "link": "https://noticiafm.com/guarda-municipal-de-santa-barbara-encerra-curso-operacional-de-apoio-tatico/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/encerramento-treinamento-apoio-tatico-05-559x399.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778586399.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Jhuan Fabrício, de SB, desaparecido na região, vamos ajudar",
         "link": "https://novomomento.com.br/jhuan-fabricio-desaparecido-regiao-vamos-ajudar/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/jhuan-fabricio-300x210.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778585351.0
     },
     {
@@ -28,7 +148,7 @@
         "titulo": "Caso Bandini: 5 meses após reconstituição, tudo na mesma",
         "link": "https://novomomento.com.br/caso-bandini-5-meses-reconstituicao-tudo-mesma/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2024/12/35fcec0b-renato-bandini-300x207.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778584485.0
     },
     {
@@ -36,7 +156,7 @@
         "titulo": "Levi pede cobertura em frente ao Núcleo de Especialidades e Unacon",
         "link": "https://novomomento.com.br/levi-pede-cobertura-em-frente-nucleo-e-unacon/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/260508-Levi-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778583629.0
     },
     {
@@ -52,15 +172,23 @@
         "titulo": "Aos 74, finalista do Prêmio LeYa Portugal transforma perdas em arte",
         "link": "https://novomomento.com.br/aos-74-finalista-do-premio-leya-portugal-transforma-perdas-em-arte/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/adc0d08c-f522-477a-b770-08d88a34290e/3160808e-5679-482c-be30-06f9e7d51c32.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778580058.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Rússia lidera venda de diesel ao Brasil durante guerra no Irã",
+        "link": "https://sb24horas.com.br/russia-lidera-venda-de-diesel-ao-brasil-durante-guerra-no-ira/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "timestamp": 1778577885.0
     },
     {
         "portal": "Novo Momento",
         "titulo": "Renan de olho no antibiótico dado a crianças e Juliana no atendimento fibromialgia",
         "link": "https://novomomento.com.br/renan-antibiotico-crianca-juliana-fibromialgia/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/Profa-Juliana-28.10.2025-300x200.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778577826.0
     },
     {
@@ -84,7 +212,7 @@
         "titulo": "Adolescentes, 33% compram álcool online para enganar pais",
         "link": "https://novomomento.com.br/adolescentes-33-compra-alcool-online-engana-pai/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/03/bebida_cha-gelado-300x205.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778576499.0
     },
     {
@@ -100,7 +228,7 @@
         "titulo": "Veganismo aumenta o risco de anemia?",
         "link": "https://novomomento.com.br/veganismo-aumenta-o-risco-de-anemia/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=s2601.imxsnd41.com/1zUmOyQWOwgzM6InYu02bj5yb05WZt9WbvZ3buB0b0FGdu92Y6cjNwMTO3UjM1MjOn5GcuAzNhlzNxUDN4IWY4MTMilzNhJmN3YWZ3YjZkRDZ5gDMGJTJ5gDMGJTJ0IDN5MjRyUCN0YTMx8VL1ETLf9VLwITLfpDO&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778566500.0
     },
     {
@@ -132,7 +260,7 @@
         "titulo": "Uber: veja lista de carros mais ‘lucrativos’ para o app",
         "link": "https://novomomento.com.br/uber-lista-de-carros-mais-lucrativos-para-o-app/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/11/mulher-uber-aplicativo-motorista--300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778553652.0
     },
     {
@@ -180,7 +308,7 @@
         "titulo": "Oferta de imóvel no Airbnb exige aprovação do condomínio, define STJ",
         "link": "https://novomomento.com.br/oferta-airbnb-exige-aprova-condominio-defin-stj/",
         "data": "12/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/02/59d8ada7-seu-madruga-aluguel-300x206.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778544403.0
     },
     {
@@ -196,7 +324,7 @@
         "titulo": "Polêmica Bruna Louise em Santa Bárbara sábado",
         "link": "https://novomomento.com.br/polemica-bruna-louise-em-santa-barbara-sabado/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=s2601.imxsnd48.com/4zUmOmFTYkdTY6InYu02bj5yb05WZt9WbvZ3buB0b0FGdu92Y6MjM0cTMykDNwMjOnVGcq5ydvxmN1EGOiBTZ1IjZklDMzIzMhZmNmhDOzEDNzgzYiZGO2YkMlYGO2YkMlQTN0ADNGJTJ2UzN0QTNyEDMx8VL1ETLf9VLwITLfpTM&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
         "timestamp": 1778541402.0
     },
     {
@@ -236,7 +364,7 @@
         "titulo": "Chico assina ordem de serviço para construção de novo campo society no Mário Covas",
         "link": "https://novomomento.com.br/chico-assina-os-construcao-society-mario-covas/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/02/Chico-assina-300x198.png&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778535336.0
     },
     {
@@ -268,7 +396,7 @@
         "titulo": "Dra Luana Araújo esclarece incidente detergentes Ypê",
         "link": "https://novomomento.com.br/dra-luana-araujo-esclarece-incide-detergent-ype/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/vigilancia-americana-caso-ype2-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778532199.0
     },
     {
@@ -516,7 +644,7 @@
         "titulo": "Cavalo selvagem, de Yukio Mishima, chega ao Brasil",
         "link": "https://novomomento.com.br/cavalo-selvagem-d-yukio-mishima-chega-ao-brasil/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/2f846b2e-3423-4389-106e-08d9487bbfe7/e6f8c01e-355e-4560-9c74-6822112ce90e.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778523117.0
     },
     {
@@ -780,7 +908,7 @@
         "titulo": "Shopping ParkCity Sumaré teve atrações no final de semana do Dia das Mães",
         "link": "https://novomomento.com.br/shopping-parkcity-sumare-teve-atracoes-no-final-de-semana-do-dia-das-maes/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Dia-das-Maes-ParkCity-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778517234.0
     },
     {
@@ -812,7 +940,7 @@
         "titulo": "Neymar na pré-lista (grande) de Ancelotti",
         "link": "https://novomomento.com.br/neymar-na-pre-lista-grande-de-ancelotti/",
         "data": "11/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778516528.0
     },
     {
@@ -908,7 +1036,7 @@
         "titulo": "Novidades da GWM (Ora5) e Jettour da semana",
         "link": "https://novomomento.com.br/novidades-da-gwm-ora5-e-jettour-da-semana/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Ora-5-300x209.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778510100.0
     },
     {
@@ -924,7 +1052,7 @@
         "titulo": "Vivo tem lucro de R$ 1,3 bilhão no trimestre, alta de 19,2%",
         "link": "https://novomomento.com.br/vivo-tem-lucro-r1-bilhao-no-trimestre-alta-d-19/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/07/celular-laptop-home-office-300x205.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778509304.0
     },
     {
@@ -932,7 +1060,7 @@
         "titulo": "Entendendo as Crises de Pânico: Causas Fisiológicas e Estratégias de Controle",
         "link": "https://novomomento.com.br/crises-de-panico-como-superalas-de-forma-eficaz/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/panico-300x218.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778508647.0
     },
     {
@@ -1124,7 +1252,7 @@
         "titulo": "Coden Ambiental capacita e reforça segurança contra incêndio (NR 35)",
         "link": "https://novomomento.com.br/coden-ambiental-capacita-e-reforca-seguranca-contra-incendio-nr-35/",
         "data": "11/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778502945.0
     },
     {
@@ -1132,7 +1260,7 @@
         "titulo": "Coden Ambiental capacita e reforça segurança contra incêndio (NR 35)",
         "link": "https://novomomento.com.br/coden-ambiental-capacita-contra-incendio-nr-35/",
         "data": "11/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-10.02.58-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778502945.0
     },
     {
@@ -1396,7 +1524,7 @@
         "titulo": "A antiga sede do ECB, por Gilson Novaes",
         "link": "https://novomomento.com.br/a-antiga-sede-do-ecb-por-gilson-novaes/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/sede-ec-barbarense-300x209.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778441822.0
     },
     {
@@ -1436,7 +1564,7 @@
         "titulo": "Anvisa aprova datopotamabe deruxtecana para câncer de mama metastático",
         "link": "https://novomomento.com.br/anvisa-aprova-datopotamabe-cancer-mama-metastas/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/11/3955f5ce-linfoma-300x210.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778436044.0
     },
     {
@@ -1452,7 +1580,7 @@
         "titulo": "Marcos Caetano quer construção de galerias pluviais em rua do Jardim Ipiranga",
         "link": "https://novomomento.com.br/marcos-caetano-quer-construcao-de-galerias-pluviais-em-rua-do-jardim-ipiranga/",
         "data": "10/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778432432.0
     },
     {
@@ -1460,7 +1588,7 @@
         "titulo": "Marcos Caetano quer construção de galerias pluviais em rua do Jardim Ipiranga",
         "link": "https://novomomento.com.br/marcos-caetano-quer-galerias-pluviais-jipiranga/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/03/260304-Marcos-Caetano-ind-300x200.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778432432.0
     },
     {
@@ -1500,7 +1628,7 @@
         "titulo": "Promoção no Wegovy original; pague 2 e leve 3",
         "link": "https://novomomento.com.br/promocao-no-wegovy-original-pague-2-e-leve-3/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/12/1461569d-ozempic-300x210.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778423398.0
     },
     {
@@ -1548,7 +1676,7 @@
         "titulo": "Ofuscados pelo Palmeiras, Corinthians e São Paulo se enfrentam hoje",
         "link": "https://novomomento.com.br/ofuscado-palmeiras-corinthians-sao-paulo-hoje/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/12/fas-de-futebol-animando-sua-equipe-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778411274.0
     },
     {
@@ -1580,7 +1708,7 @@
         "titulo": "Paço de Americana é ponto de arrecadação para armações de óculos de grau",
         "link": "https://novomomento.com.br/paco-de-americana-e-ponto-de-arrecadacao-para-armacoes-de-oculos-de-grau/",
         "data": "10/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
         "timestamp": 1778403650.0
     },
     {
@@ -1668,7 +1796,7 @@
         "titulo": "Nova Odessa recebe ambulância do Samu no valor de R$ 300 mil",
         "link": "https://novomomento.com.br/nova-odessa-recebe-ambulancia-samu-de-r-300-mil/",
         "data": "10/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/01/21-01-2026-SAMU-300x169.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778372906.0
     },
     {
@@ -1788,7 +1916,7 @@
         "titulo": "Maio Amarelo: enxergue o outro, salve vidas, por Sergio Codello*",
         "link": "https://novomomento.com.br/maio-amarelo-enxergo-outro-salve-vida-codello/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/sergio-codello-presidente-DER-300x222.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778354964.0
     },
     {
@@ -1836,7 +1964,7 @@
         "titulo": "BYD King vendeu mais que Corolla- sim ou não",
         "link": "https://novomomento.com.br/byd-king-vendeu-mais-que-corolla-sim-ou-nao/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/byd-king-corolla-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778348120.0
     },
     {
@@ -1844,7 +1972,7 @@
         "titulo": "Caso Ypê também vira debate ideológico",
         "link": "https://novomomento.com.br/caso-ype-tambem-vira-debate-ideologico/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/produtos_ype_2c411e86cc-300x212.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778347957.0
     },
     {
@@ -1956,7 +2084,7 @@
         "titulo": "Bolsonaro pede ao STF anulação das penas- Trama golpista",
         "link": "https://novomomento.com.br/bolsonaro-pede-stf-fim-processo-trama-golpista/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/06/gilson-machado-bolsonaro-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778333037.0
     },
     {
@@ -1988,7 +2116,7 @@
         "titulo": "Nova Odessa tem palestra sobre exploração de crianças e adolescentes",
         "link": "https://novomomento.com.br/nova-odessa-palestra-explora-criancas-adolescen/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/08/Leitinho-Mineirinho-e-Oseias-300x199.png&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778330118.0
     },
     {
@@ -2004,7 +2132,7 @@
         "titulo": "Morre locutor Giu, da Educadora FM",
         "link": "https://novomomento.com.br/morre-locutor-giu-da-educadora-fm/",
         "data": "09/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/0c419ca2-7f7a-49a5-9e8b-f099b7d0ee2d-300x219.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778327976.0
     },
     {
@@ -2164,7 +2292,7 @@
         "titulo": "Crédito para empreendedores de Sumaré cresce 484,5% este ano",
         "link": "https://novomomento.com.br/credito-empreendedor-sumare-cresce-484-este-ano/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/financas-mulher-calculando-investimento-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778281527.0
     },
     {
@@ -2188,7 +2316,7 @@
         "titulo": "Dia D da Campanha do Agasalho 2026 em Hortolândia é em 12 de maio",
         "link": "https://novomomento.com.br/dia-d-campanha-agasalho26-hortolandia-12-d-maio/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/card-Campanha-do-Agasalho-2026-212x300.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778277923.0
     },
     {
@@ -2380,7 +2508,7 @@
         "titulo": "Jr Dias pede fortalecimento de campanhas de combate ao abuso sexual infantil",
         "link": "https://novomomento.com.br/jr-dias-fortalect-combate-abuso-sexual-infantil/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/j_p-300x261.png&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778267130.0
     },
     {
@@ -2468,7 +2596,7 @@
         "titulo": "RMC vê avanço da artrose no joelho e aumento da preocupação com cirurgia",
         "link": "https://novomomento.com.br/rmc-avanco-artrose-joelho-preocupacao-cirurgia/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/12/177af173-2020-joelho1-300x228.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778261928.0
     },
     {
@@ -2556,7 +2684,7 @@
         "titulo": "Caso Ypê- Procons e Vigilâncias de olho nos produtos ‘vetados’ pela Anvisa",
         "link": "https://novomomento.com.br/caso-ype-procon-olho-produtos-vetados-p-anvisa/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/produtos_ype_2c411e86cc-300x212.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778258794.0
     },
     {
@@ -2620,7 +2748,7 @@
         "titulo": "Denis Andia inicia caravana para cravar marca de ‘nome mais forte da região’",
         "link": "https://novomomento.com.br/denis-andia-crava-marca-nome-mais-forte-regiao/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/denis-andia-300x217.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778257287.0
     },
     {
@@ -2740,7 +2868,7 @@
         "titulo": "Bom Prato Móvel atende moradores do Jardim Conceição em Sumaré",
         "link": "https://novomomento.com.br/bom-prato-movel-no-jardim-conceicao-em-sumare/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-05-at-12.56.02-1-300x168.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778252746.0
     },
     {
@@ -2788,7 +2916,7 @@
         "titulo": "Carro perde o controle e atinge árvore na Av. Brasil, em Nova Odessa",
         "link": "https://novomomento.com.br/carro-perde-o-controle-na-av-brasil-nova-odessa/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Acidente-NO-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778248970.0
     },
     {
@@ -2844,7 +2972,7 @@
         "titulo": "Mãe batendo em filha e filho ameaçando mãe na região",
         "link": "https://novomomento.com.br/mae-batendo-em-filha-e-filho-ameacando-mae-na-regiao/",
         "data": "08/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778244891.0
     },
     {
@@ -2852,7 +2980,7 @@
         "titulo": "Mãe batendo em filha, e filho ameaçando mãe na região",
         "link": "https://novomomento.com.br/mae-batendo-em-filha-e-filho-ameacando-mae/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Ocorrencia-policial-Chat-GPT-300x200.png&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778244891.0
     },
     {
@@ -2916,7 +3044,7 @@
         "titulo": "Fundo Social de Nova Odessa celebra o Dia das Mães na ‘Terça D’ da Melhor Idade",
         "link": "https://novomomento.com.br/fundo-social-nova-odessa-celebra-dia-das-maes/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-05-at-14.36.21-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778238359.0
     },
     {
@@ -2924,7 +3052,7 @@
         "titulo": "Pão caseiro de café na Airfryer: uma pausa para o Dia das Mães!",
         "link": "https://novomomento.com.br/pao-caseiro-cafe-airfryer-pausa-no-dia-das-maes/",
         "data": "08/05/2026 às 10:12",
-        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/20223920d74e5e1270cceff4206608be/imagens/2026/05/06/fa1e772592498460527d00b1f5fff091_medium.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778235170.0
     },
     {
@@ -2932,7 +3060,7 @@
         "titulo": "Bem-Estar Animal realiza feira de adoção neste sábado (9) em Sumaré",
         "link": "https://novomomento.com.br/bem-estar-animal-realiza-feira-de-adocao-neste-sabado-9-em-sumare/",
         "data": "08/05/2026 às 09:05",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778231112.0
     },
     {
@@ -2940,7 +3068,7 @@
         "titulo": "Bem-Estar Animal realiza feira de adoção neste sábado (9) em Sumaré",
         "link": "https://novomomento.com.br/bem-estar-animal-feira-de-adocao-sabado9-sumare/",
         "data": "08/05/2026",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/pets_doacao_34.jpg-300x200.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778231112.0
     },
     {
@@ -2972,7 +3100,7 @@
         "titulo": "Fundo Social de Nova Odessa celebra o Dia das Mães na ‘Terça D’ da Melhor Idade",
         "link": "https://novomomento.com.br/fundo-social-de-nova-odessa-celebra-o-dia-das-maes-na-terca-d-da-melhor-idade/",
         "data": "08/05/2026 às 08:05",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778227559.0
     },
     {
@@ -3020,7 +3148,7 @@
         "titulo": "Pesquisa- 46,3% dos jovens de SP apostaram em bets no 1º trimestre",
         "link": "https://novomomento.com.br/pesquisa-46-jovens-sp-apostar-bets-1o-trimestre/",
         "data": "08/05/2026 às 05:57",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/06/87013da2-apostas111-online-casino-300x201.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778219856.0
     },
     {
@@ -3092,7 +3220,7 @@
         "titulo": "Procon de Nova Odessa dá dicas para compras seguras no Dia das Mães",
         "link": "https://novomomento.com.br/procon-nodessa-dica-compra-segura-dia-das-maes/",
         "data": "08/05/2026 às 00:35",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/04/veja-os-principais-desafios-de-maes-no-verao-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778200546.0
     },
     {
@@ -3100,7 +3228,7 @@
         "titulo": "Dia das Mães: Brasil tem mais de 10 mil músicas com palavra",
         "link": "https://novomomento.com.br/dia-das-maes-mais-de-10-mil-musicas-com-palavra/",
         "data": "08/05/2026 às 00:08",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/04/xuxa-deseja-feliz-ano-novo-com-o-love-300x292.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778198893.0
     },
     {
@@ -3332,7 +3460,7 @@
         "titulo": "Palmeirense e ‘di menor’ são pegos traficando no Bordon 2 em Sumaré",
         "link": "https://novomomento.com.br/palmeirense-dimenor-pegos-trafica-bordon2sumare/",
         "data": "07/05/2026 às 19:33",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-16.02.52-166x300.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778182382.0
     },
     {
@@ -3364,7 +3492,7 @@
         "titulo": "Tribunal de Contas aponta problemas de gestão em Nova Odessa",
         "link": "https://novomomento.com.br/tribunal-de-contas-problemas-gestao-nova-odessa/",
         "data": "07/05/2026 às 19:20",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/TCE-SP-N.O-1-213x300.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778181618.0
     },
     {
@@ -3428,7 +3556,7 @@
         "titulo": "Dissídio beneficia trabalhadores de sociedades de advogados",
         "link": "https://novomomento.com.br/dissidio-beneficia-trabalhador-socieda-advogado/",
         "data": "07/05/2026 às 18:37",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/SEAAC-assembleias-aprovam-de-pautas-de-negociacoes-300x250.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778179067.0
     },
     {
@@ -3492,7 +3620,7 @@
         "titulo": "Jesus e Exu em livros este mês",
         "link": "https://novomomento.com.br/jesus-e-exu-em-livros-este-mes/",
         "data": "07/05/2026 às 18:07",
-        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/64a8e8d576d3505a7823819ae1fa6eb7/imagens/2026/05/06/858453971a62d89ccde5c2e86424724c.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778177248.0
     },
     {
@@ -3588,7 +3716,7 @@
         "titulo": "Petróleo cai, Bradesco sobe e Brasil atrai capital",
         "link": "https://novomomento.com.br/petroleo-cai-bradesco-sobe-brasil-atrai-capital/",
         "data": "07/05/2026 às 17:22",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2020/04/ibovespa-bate-novo-recorde-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778174539.0
     },
     {
@@ -3772,7 +3900,7 @@
         "titulo": "Vídeo mostra massa polar que deve atingir região",
         "link": "https://novomomento.com.br/video-mostra-massa-polar-qe-deve-atingir-regiao/",
         "data": "07/05/2026 às 15:44",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2024/05/0748b2d9-frio-10-graus-regiao-agencia-brasil-300x179.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778168667.0
     },
     {
@@ -3788,7 +3916,7 @@
         "titulo": "Nossa sibipiruna: Cada Galho que caía, doía no coração",
         "link": "https://novomomento.com.br/nossa-sibipiruna-cada-galho-caia-doia-n-coracao/",
         "data": "07/05/2026 às 15:31",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/sibipiruna-300x211.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778167863.0
     },
     {
@@ -3804,7 +3932,7 @@
         "titulo": "Decolar anuncia Rafaela Rezende como diretora-geral no Brasil",
         "link": "https://novomomento.com.br/decolar-traz-rafaela-rezende-diretageral-brasil/",
         "data": "07/05/2026 às 15:09",
-        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/56fa35479a4d2b68952dd13d74dadcb1/imagens/2026/05/05/f8826adc3930dfa7e0cc44151b68ab97_medium.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778166552.0
     },
     {
@@ -3812,7 +3940,7 @@
         "titulo": "Brasil bate recorde histórico com 31 mil transplantes em 2025",
         "link": "https://novomomento.com.br/brasil-recorde-histori-31-mil-transplantes-2025/",
         "data": "07/05/2026 às 15:01",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/08/Transplante-de-sobrancelha-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778166061.0
     },
     {
@@ -3828,7 +3956,7 @@
         "titulo": "Hortolândia: Paço Municipal ganha ambulatório e espaço para cuidados com servidores",
         "link": "https://novomomento.com.br/hortolandia-paco-municipal-ganha-ambulatorio/",
         "data": "07/05/2026 às 14:35",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Saude-Mental-Servidor-2_Easy-Resize.com_-300x200.jpg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778164557.0
     },
     {
@@ -3908,7 +4036,7 @@
         "titulo": "Consciência política e pragmatismo, por Orestes Camargo Neves",
         "link": "https://novomomento.com.br/consciencia-politica-e-pragmatismo-por-orestes/",
         "data": "07/05/2026 às 13:30",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/06/Orestes-Camargo-Neves-300x267.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778160649.0
     },
     {
@@ -3934,6 +4062,22 @@
         "data": "07/05/2026 às 13:05",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
         "timestamp": 1778159104.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Classificados019 confira:",
+        "link": "https://vagas019.com.br/classificados019/",
+        "data": "01/05/2026",
+        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/05/2e96ffce-5910-4c9c-a4f7-b2d8ee1c4ee0-1024x409.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1777657591.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Podcast Papo de Viatura",
+        "link": "https://vagas019.com.br/podcast-papo-de-viatura/",
+        "data": "30/04/2026",
+        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/04/podcast-papo-de-viatura-imagem-.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1777586221.0
     },
     {
         "portal": "Google Notícias",
@@ -4150,6 +4294,14 @@
         "data": "23/04/2026 às 00:17",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1776903458.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Evento Viva Leve – Sábado em Americana",
+        "link": "https://vagas019.com.br/evento-viva-leve-sabado-em-americana/",
+        "data": "22/04/2026",
+        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-16.30.09oooo-819x1024.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1776887458.0
     },
     {
         "portal": "Portal de Americana",
@@ -4664,6 +4816,14 @@
         "timestamp": 1775113200.0
     },
     {
+        "portal": "Vagas 019",
+        "titulo": "Renda extra com o Clube de Pontos",
+        "link": "https://vagas019.com.br/renda-extra-com-o-clube-de-pontos/",
+        "data": "01/04/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1775083692.0
+    },
+    {
         "portal": "Google Notícias",
         "titulo": "Agenda cultural de abril tem a 4ª edição da Rota Cervejeira - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55RGNxTW5sb1VRbldDbnRVZElpOFY3VnJyT19VdHF3SjB1TkYxbjZ4ZmprRmJ3QW1tNkRaSW5QWTNITTRDYlN1amFpdzlOMDBmT0o0TDRKU0I5X001cVZpcFVib280RFY2QmNOWE5fMTlVR2FBbzJiQkd3?oc=5",
@@ -4720,6 +4880,14 @@
         "timestamp": 1774854000.0
     },
     {
+        "portal": "Vagas 019",
+        "titulo": "Clube de Pontos de indicação",
+        "link": "https://vagas019.com.br/clube-de-pontos-de-indicacao/",
+        "data": "27/03/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1774621073.0
+    },
+    {
         "portal": "Google Notícias",
         "titulo": "Procon identifica preço médio dos combustíveis em Americana e intensifica fiscalização - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kaEJBTUJfYlRMbXNjaFFyTUN4TnBhTTUycWpqdTZ1UnZyWGNuMEJRcUlGTHJoczQxTGg0Tng4VkJRRWRQR0JSS3huUWxyeUxNNFp4dGV5aVlrTTlkODNtd2ZzTEdmUHJ4VWVCYVdBejg1dG0tWlhmWklB?oc=5",
@@ -4736,12 +4904,36 @@
         "timestamp": 1774508400.0
     },
     {
+        "portal": "Vagas 019",
+        "titulo": "Dor nos pés, sobrecarga muscular e desconforto?",
+        "link": "https://vagas019.com.br/dor-nos-pes-sobrecarga-muscular-e-desconforto/",
+        "data": "25/03/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1774474272.0
+    },
+    {
         "portal": "Google Notícias",
         "titulo": "Prefeitura de Americana convoca 70 aprovados em concurso público - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rLWNkX0d4WjVDbVBpaHN4WVNNUkdYcFRHdVBKZmFQMTVjYWgtVDlaV1FtZlF1MWd0MTR5VGFlazNlWjVHZERTU2FBRmF3NVFMeGphdGQxUFhXeThiY2lpQnhoWWxQRk8xYWFDWW1lMy1DS091MURYXzF3?oc=5",
         "data": "25/03/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1774422000.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Não encontrou a vaga que deseja?",
+        "link": "https://vagas019.com.br/nao-encontrou-a-vaga-que-deseja/",
+        "data": "24/03/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1774385425.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Emprega FAM 2026",
+        "link": "https://vagas019.com.br/emprega-fam-2026/",
+        "data": "24/03/2026",
+        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/03/empregafam-site-banner-1-1.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1774375769.0
     },
     {
         "portal": "Google Notícias",
@@ -4832,6 +5024,14 @@
         "timestamp": 1773730800.0
     },
     {
+        "portal": "Vagas 019",
+        "titulo": "Qual o melhor dia para pedir demissão?",
+        "link": "https://vagas019.com.br/qual-o-melhor-dia-para-pedir-demissao/",
+        "data": "16/03/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1773683507.0
+    },
+    {
         "portal": "Google Notícias",
         "titulo": "Plantão odontológico aos finais de semana e feriados realiza mil atendimentos em um ano - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KU2UxUElJdVNBRW91WmlqODBfMkxwVVpDUWhLLWV4anU0SUFrM0ZsZjhvUElDZ0hoNHVSM2tRTm1KNTdjLW53aGE4NGVveWkwMkRvNElVX0VqdGFacGVCQzRDVGo4Z0tJZjJGNDRJckdvUWVHbjllNUx3?oc=5",
@@ -4886,6 +5086,14 @@
         "data": "11/03/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1773212400.0
+    },
+    {
+        "portal": "Vagas 019",
+        "titulo": "Home office 2026",
+        "link": "https://vagas019.com.br/home-office-2026/",
+        "data": "10/03/2026",
+        "imagem": "https://vagas019.com.br/wp-content/uploads/2025/10/cropped-logo-vagas019-32x32.png",
+        "timestamp": 1773155868.0
     },
     {
         "portal": "Google Notícias",
@@ -5541,7 +5749,7 @@
         "titulo": "Lula vai a Trump hoje; notas e expectativas",
         "link": "https://novomomento.com.br/lula-vai-a-trump-hoje-notas-e-expectativas/",
         "data": "07/05/2026 às 10:59",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/Lula-na-alemanha-300x200.jpg&w=400&h=200&fit=cover&output=jpg"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "HJ News",
@@ -5555,7 +5763,7 @@
         "titulo": "Funcionários da Coden Ambiental terão reajuste salarial de 5%",
         "link": "https://novomomento.com.br/funcionarios-coden-terao-reajuste-salarial-de-5/",
         "data": "07/05/2026 às 10:35",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/dissidio-Funcionarios-da-Coden-Ambiental-terao-reajuste-salarial-de-548-2025-04-22-300x199.jpg&w=400&h=200&fit=cover&output=jpg"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "Novo Momento",
@@ -5590,14 +5798,14 @@
         "titulo": "Tivoli celebra o Dia das Mães com tributo especial a Fabio Jr.",
         "link": "https://novomomento.com.br/tivoli-dia-das-maes-tributo-especial-a-fabio-jr/",
         "data": "07/05/2026 às 08:35",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "Novo Momento",
         "titulo": "Fundo Social de Sumaré lança Campanha do Agasalho nesta quinta-feira (7)",
         "link": "https://novomomento.com.br/fundo-social-sumare-campanha-agasalho-quinta-7/",
         "data": "07/05/2026 às 06:35",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/06/Prefeito-Henrique-Paraiso-300x200.jpg&w=400&h=200&fit=cover&output=jpg"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "SB24Horas",
@@ -5611,7 +5819,7 @@
         "titulo": "Claude, ChatGPT ou Canva, qual vai bombar em 2026",
         "link": "https://novomomento.com.br/claude-chatgpt-ou-canva-qual-vai-bombar-em-2026/",
         "data": "07/05/2026 às 05:11",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/chatgpt-canva-claude-300x211.jpg&w=400&h=200&fit=cover&output=jpg"
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png"
     },
     {
         "portal": "SB24Horas",
