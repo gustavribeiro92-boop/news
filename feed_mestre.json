@@ -1,6 +1,70 @@
 [
     {
         "portal": "Novo Momento",
+        "titulo": "Santa Bárbara inicia varrição mecanizada; entenda como funciona",
+        "link": "https://novomomento.com.br/santa-barbara-varricao-mecanizada-como-funciona/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778635342.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Governo federal zera ‘taxa das blusinhas’ para compras internacionais de até US$ 50",
+        "link": "https://rapidonoar.com.br/governo-federal-zera-taxa-das-blusinhas-para-compras-internacionais-de-ate-us-50/",
+        "data": "13/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/taxa-das-blusinhas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778633310.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Turista 50+: setor não está preparado para o envelhecimento populacional",
+        "link": "https://novomomento.com.br/turista-50-nao-preparo-envelhecimento-populacio/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778631767.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Morre Zizo Fortunato, ex-vereador de Americana e avô de Maria Giovana",
+        "link": "https://portaldeamericana.com/morre-zizo-fortunato-ex-vereador-de-americana-e-avo-de-maria-giovana/?utm_source=rss&utm_medium=rss&utm_campaign=morre-zizo-fortunato-ex-vereador-de-americana-e-avo-de-maria-giovana",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5781.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778629057.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Policiais da DIG Americana prendem suspeito de roubo de caminhão carregado com combustível e localizam possível rinha de galos - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcDlqNk8tcV81ZkJlM1VScU1QV0JCVEN2cjBOQWFoaWVKa1BVNnVOTnAzMWFySU5sS3dCRjIxRkUycnRfSEJ3T09lTnhUSjBiQ05teTdtcjNWZVNaVWxZanF5bWVBT2VxdkdqVVpOdktIdDdVRTE1S2o1U0o1MnY4c3dZbnExUEVrZEs1NTNJcHoxekE3UG44Snc1OHFscWVaQTVSMG8tOG8xLUVRMkxrckE0YWUzSmpTTS0tMERhbnl3MjlXUndKWmNYMTVCZWlfdEVCbVFibVNjcDU1MEdHME9XVnB4RjlPcWREanZ4d2JEeW9RdWthT3ZFNWMxdW9JRVBVejJYUkFaTEwtaEF3b0NqRG5FQndLZDdKZEVKQm5KTm8?oc=5",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778628900.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Santa Bárbara Rock Fest abre inscrições para bandas e artistas independentes",
+        "link": "https://novomomento.com.br/santa-barbara-rock-fest-inscrico-banda-independ/",
+        "data": "12/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778628032.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Lula assina MP e zera “taxa das blusinhas”",
+        "link": "https://portaldeamericana.com/lula-assina-mp-e-zera-taxa-das-blusinhas/?utm_source=rss&utm_medium=rss&utm_campaign=lula-assina-mp-e-zera-taxa-das-blusinhas",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5776.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778627572.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Recém-nascido é encontrado em lixeira de hospital em Araras",
+        "link": "https://rapidonoar.com.br/recem-nascido-e-encontrado-em-lixeira-de-hospital-em-araras-sp/",
+        "data": "12/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/hospital-sao-leopoldo-mandic-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778627228.0
+    },
+    {
+        "portal": "Novo Momento",
         "titulo": "Ciclista de Americana Luís Guilherme vai competir no Chile",
         "link": "https://novomomento.com.br/ciclista-americana-luis-guilherme-compete-chile/",
         "data": "12/05/2026",
@@ -5673,6 +5737,14 @@
     },
     {
         "portal": "Google Notícias",
+        "titulo": "GAMA é contemplada por programa nacional com novos equipamentos de menor potencial ofensivo - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoUnZPdkRTQUVhTEtIM09rRFdTcEo1ME5YRkpZRldOVWhIaDZjSFRLaUlPc2NBWnNEZC1Uend3ckxjUjJkTFJEUm1HY3lzeWJRVGZ3Y0dRVlRHcE1YTjRYV0pWOVFIb1pNeUotRzlubHJnMHA3QW80YU9R?oc=5",
+        "data": "31/03/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1774940400.0
+    },
+    {
+        "portal": "Google Notícias",
         "titulo": "Americana aplica 1,5 mil vacinas contra gripe na abertura de campanha; imunização segue nas UBSs - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWGduZlQ0bGlBY21McUZveWJiS2I2ZXN5Q0RmTGNqalhxYjMxcnRYM3BDUmUzdVl3b296RzJPLTE1T1BsVVZQZWVJWWF3bDRiSHhhZ0t3R25WdVV0aGVndHZXc1R0d09xTUJ1QTlyVXllYUR0eW9hbGJB?oc=5",
         "data": "30/03/2026",
@@ -5694,6 +5766,14 @@
         "data": "27/03/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "timestamp": 1774621073.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Projeto da nova Lei de Incentivo ao Esporte é reenviado à Câmara - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrYTA5RnFHaTVGLWJtR1pjSlAtWlFTdTFOTnNYUjVuQWNySlJ6RGFEaXhMbjJHYzZLaDVJbWdFUm1ZbERUd1FFQUlqbVBLTWdCbmctMGU3TDVCdGZIbUdLR0U1VS1fYUtzdkt3TDZoVVhSQk5uV0NyeHRR?oc=5",
+        "data": "27/03/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1774594800.0
     },
     {
         "portal": "Google Notícias",
