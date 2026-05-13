@@ -1,5 +1,93 @@
 [
     {
+        "portal": "Notícia FM",
+        "titulo": "Donos de mercados reclamam de ‘furto de rótulos’ da Coca com figurinhas da Copa",
+        "link": "https://noticiafm.com/donos-de-mercados-reclamam-de-furto-de-rotulos-da-coca-com-figurinhas-da-copa/",
+        "data": "13/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/roubo-rotulos-coca-figurinhas-copa-reproducao-x-kdsrenato-559x339.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778672841.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Com Roger Machado pressionado, São Paulo joga em Caxias",
+        "link": "https://rapidonoar.com.br/com-roger-machado-pressionado-sao-paulo-joga-em-caxias/",
+        "data": "13/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/rafael-8-819x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778672507.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Mega-Sena acumula novamente e prêmio principal vai para R$ 60 milhões",
+        "link": "https://rapidonoar.com.br/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-60-milhoes/",
+        "data": "13/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/09/mega-senaa-site.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778672273.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Lula volta a aparecer à frente de FBolsonaro no 2o turno na Quaest",
+        "link": "https://novomomento.com.br/lula-aparecer-frente-fbolsonaro-2o-turno-quaest/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778671544.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Pai acusado de matar e acorrentar filho de 11 anos em SP",
+        "link": "https://novomomento.com.br/pai-acusado-mata-acorrenta-filho-de-11-anos-sp/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778670907.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Tava no HB20 roubado, deu fuga, não conseguiu passar busão e bateu",
+        "link": "https://novomomento.com.br/tava-hb20-roubo-fuga-nao-passou-busao-e-bateu/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778670515.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Carol Santiago é ouro, o 37º pódio do país no Internacional de Berlim",
+        "link": "https://sb24horas.com.br/carol-santiago-e-ouro-o-37o-podio-do-pais-no-internacional-de-berlim/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778668850.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste apresenta LDO nesta quarta-feira (13)",
+        "link": "https://novomomento.com.br/prefeitura-sbarbara-apresenta-ldo-quarta-13/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778668539.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Morre em Americana Zizo Fortunato, 95, empresário, fundador da Acia e avô de Giovana",
+        "link": "https://novomomento.com.br/morre-ex-vereador-zizo-fortunato-avo-de-giovana/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778662811.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "CM de Sumaré tem audiência sobre a Lei de Diretrizes Orçamentárias 2027",
+        "link": "https://novomomento.com.br/cm-de-sumare-tem-audiencia-sobre-a-ldo-2027/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1778661312.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Regulação para IA será flexível e terá níveis de risco, diz Durigan",
+        "link": "https://sb24horas.com.br/regulacao-para-ia-sera-flexivel-e-tera-niveis-de-risco-diz-durigan/",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778657683.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Calopsitas exigem rotina, manejo correto e acompanhamento veterinário",
         "link": "https://novomomento.com.br/calopsita-manejo-reto-acompanha-veterinario/",
@@ -5224,12 +5312,28 @@
         "timestamp": 1776954359.0
     },
     {
+        "portal": "Google Notícias",
+        "titulo": "Americana recebe GIRO PRO Território para qualificação profissional ligada à cultura - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zdnVtcWhWdElQQzBGQUcySUtJUnlHX25henJlVk9VaURvM0ZfNnBYLUJjX3NtNDhldjhzZ2F5eWlxV25mNTVYS1JJMDd5QVJDNWZqMnl3UDg5RW9rMm1ETjROXzdZdGJqcmg5NmIzS2JjMUY5ZHp4bmNB?oc=5",
+        "data": "23/04/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1776952920.0
+    },
+    {
         "portal": "Portal de Americana",
         "titulo": "Nadador de Americana conquista duas medalhas de ouro no Campeonato Sul-Americano",
         "link": "https://portaldeamericana.com/nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano/?utm_source=rss&utm_medium=rss&utm_campaign=nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano",
         "data": "23/04/2026 às 13:51",
         "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Lucas-De-Campeao-Sul-americano-Foto-1.webp&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1776952263.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Primeira edição do evento Viva Leve acontece em Americana neste sábado - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSVNBOTJjeGxINno2aUNSdWtuNVVNR0FDMnBCWkdyZVA4SVdVQUFIUkxLWUR1QXN4ZG1IUU1Ldl92QTN2WEdUX19sWGNGS1dDUVBsYXQzMTJIWlNPeVB4amJVWnRGNV9yZ0pMRDNGNVVRZkF1cXVjUDBR?oc=5",
+        "data": "23/04/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1776927600.0
     },
     {
         "portal": "Portal de Americana",
@@ -6373,6 +6477,14 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qTFpLdXI2a2Q1OFQyU3hSYjBVc2Y0WXhxWWg2akMyNTBTeTlEOVZiTjFkbmVLZzJKOWd2RE42WWtiWWp3Q3dPYk1oV3h5VkpEclNBdm5YX0FhVE43WEFQa3NHNWpxWnFNZm9JM2dIWUl0WWIySHJSVjRB?oc=5",
         "data": "29/01/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "timestamp": 1769673600.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Prefeitura intensifica conscientização sobre a dengue em campanha nas ruas e canais digitais - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xaEw4c1NMMnJ0QmFIaER2NEhvZWJKeGVHY29ueHo1NVJ3SHV5anpYX3NOZHNIUXVIY19XU2drZGdPNWE3TG5SZU5HYlcxUzUwQnYyNzAzVnBUUm5mdUJOdXFGZXRyMFNCYWtEd2xXNXBNbTRvdGR5cFlB?oc=5",
+        "data": "29/01/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
         "timestamp": 1769673600.0
     },
     {
