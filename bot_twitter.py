@@ -3,22 +3,34 @@ import json
 import tweepy
 
 # ==============================================================================
-# 1. PUXANDO O TOKEN SEGURO DO GITHUB ACTIONS
+# 1. PUXANDO AS 4 CREDENCIAIS EXATAS DO SEU GITHUB SECRETS
 # ==============================================================================
+API_KEY = os.environ.get("TWITTER_API_KEY")
+API_SECRET = os.environ.get("TWITTER_API_SECRET")
 ACCESS_TOKEN = os.environ.get("TWITTER_ACCESS_TOKEN")
+ACCESS_TOKEN_SECRET = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
 
-if not ACCESS_TOKEN:
-    print("Erro: A variável TWITTER_ACCESS_TOKEN não foi configurada no GitHub Secrets.")
+# Validação para garantir que o GitHub enviou os dados
+if not all([API_KEY, API_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET]):
+    print("🚨 Erro Crítico: O Python recebeu alguma chave vazia do GitHub!")
+    print(f"Status - API_KEY: {'OK' if API_KEY else 'VAZIA'}")
+    print(f"Status - API_SECRET: {'OK' if API_SECRET else 'VAZIA'}")
+    print(f"Status - ACCESS_TOKEN: {'OK' if ACCESS_TOKEN else 'VAZIA'}")
+    print(f"Status - ACCESS_TOKEN_SECRET: {'OK' if ACCESS_TOKEN_SECRET else 'VAZIA'}")
     exit(1)
 
 # ==============================================================================
-# 2. CONECTANDO VIA OAUTH 2.0 PURO (Forçando o Tweepy a usar apenas o Token)
+# 2. AUTENTICAÇÃO HÍBRIDA (Obrigatória para o plano Free do X)
 # ==============================================================================
-# Passamos o token direto no parâmetro 'bearer_token' para ignorar as chaves antigas
-client = tweepy.Client(bearer_token=ACCESS_TOKEN)
+client = tweepy.Client(
+    consumer_key=API_KEY,
+    consumer_secret=API_SECRET,
+    access_token=ACCESS_TOKEN,
+    access_token_secret=ACCESS_TOKEN_SECRET
+)
 
 # ==============================================================================
-# 3. LER O JSON E DISPARAR
+# 3. LEITURA DO JSON E DISPARO DO TWEET
 # ==============================================================================
 caminho_do_arquivo = 'feed_mestre.json'
 
@@ -29,21 +41,19 @@ try:
         if not noticias:
             print("O arquivo feed_mestre.json está vazio.")
         else:
-            # Pega a notícia mais recente (posição 0)
+            # Pega a notícia na posição 0 (a mais recente)
             noticia_mais_nova = noticias[0]
             titulo = noticia_mais_nova.get('titulo', 'Sem título')
             link = noticia_mais_nova.get('link', 'https://portaldosportais.com')
             
-            # Monta a mensagem limpa
-            mensagem = f"🚨 Atualização no Radar Americana:\n\n{titulo}\n\nLeia mais no Portal: {link}"
+            # Formatação do post
+            mensagem = f"🚨 Atualização no Radar:\n\n{titulo}\n\nLeia mais: {link}"
             
-            print(f"Disparando notícia para o X: {titulo}")
-            
-            # Executa a postagem
+            print(f"Tentando disparar notícia: {titulo}")
             response = client.create_tweet(text=mensagem)
-            print(f"🚀 Sucesso total! Tweet publicado sozinhovelo GitHub. ID: {response.data['id']}")
+            print(f"🚀 SUCESSO! Postado no X. ID: {response.data['id']}")
 
 except FileNotFoundError:
-    print(f"Erro: O arquivo {caminho_do_arquivo} não foi encontrado no repositório.")
+    print(f"Erro: O arquivo {caminho_do_arquivo} não foi encontrado.")
 except Exception as e:
     print(f"Erro ao tentar enviar o tweet: {e}")
