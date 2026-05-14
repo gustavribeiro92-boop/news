@@ -1,5 +1,85 @@
 [
     {
+        "portal": "Notícia de Limeira",
+        "titulo": "Unicamp Limeira ganhará cursos de Inteligência Artificial e Relações Internacionais em 2027",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/unicamp-limeira-ganhara-cursos-de-inteligencia-artificial-e-relacoes-internacionais-em-2027/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "timestamp": 1778726962.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Limeira realiza na próxima semana o 2º Fórum de Saúde Mental",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/limeira-realiza-na-proxima-semana-o-2o-forum-de-saude-mental/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778726752.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Le Cirque é a nova atração do Shopping ParkCity Sumaré",
+        "link": "https://novomomento.com.br/le-cirque-e-a-nova-atracao-do-shopping-parkcity-sumare/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778726150.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Prefeitura reforça sinalização viária em diferentes regiões de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/prefeitura-reforca-sinalizacao-viaria-em-diferentes-regioes-de-limeira/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778725645.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Cursinho Pré-Vestibular Colmeia abre inscrições para vagas do 2º semestre",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/cursinho-pre-vestibular-colmeia-abre-inscricoes-para-vagas-do-2o-semestre/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "timestamp": 1778725518.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Parque Cidade recebe feira de adoção de cães e gatos neste sábado",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/parque-cidade-recebe-feira-de-adocao-de-caes-e-gatos-neste-sabado/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778725259.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "BRK Explica: Descargas na rede de água auxiliam na garantia da qualidade da água",
+        "link": "https://rapidonoar.com.br/brk-explica-descargas-na-rede-de-agua-auxiliam-na-garantia-da-qualidade-da-agua/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/11/brk-estacao-tratamento-agua-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778724773.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Mutirão da Empregabilidade reúne mais de 90 empresas em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/mutirao-da-empregabilidade-reune-mais-de-90-empresas-em-limeira/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778724656.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "Suzano abre inscrições para Programa de Estágio Superior",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/suzano-abre-inscricoes-para-programa-de-estagio-superior-2/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "timestamp": 1778724398.0
+    },
+    {
+        "portal": "Notícia de Limeira",
+        "titulo": "BRK Explica: Descargas na rede de água auxiliam na garantia da qualidade da água",
+        "link": "https://noticiadelimeira.com.br/2026/05/13/brk-explica-descargas-na-rede-de-agua-auxiliam-na-garantia-da-qualidade-da-agua/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778723864.0
+    },
+    {
         "portal": "Rápido no Ar",
         "titulo": "Roger Machado é demitido do São Paulo após eliminação na Copa do Brasil",
         "link": "https://rapidonoar.com.br/roger-machado-e-demitido-do-sao-paulo-apos-eliminacao-na-copa-do-brasil/",
@@ -7918,85 +7998,5 @@
         "data": "12/09/2025",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1757660400.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você já sentiu no bolso a alta dos preços da carne?",
-        "link": "https://www.rftv.com.br/voce-ja-sentiu-no-bolso-a-alta-dos-precos-da-carne/",
-        "data": "22/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1732305782.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você já foi atropelado ?",
-        "link": "https://www.rftv.com.br/voce-ja-foi-atropelado/",
-        "data": "21/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1732220600.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você toma as vacinas recomendadas pelo Ministério da Saúde?",
-        "link": "https://www.rftv.com.br/voce-toma-as-vacinas-recomendadas-pelo-ministerio-da-saude/",
-        "data": "19/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1732046605.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você tem seguro contra furto ou roubo do seu veículo?",
-        "link": "https://www.rftv.com.br/voce-tem-seguro-contra-furto-ou-roubo-do-seu-veiculo/",
-        "data": "18/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1731961246.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você pretende viajar nesse feriado?",
-        "link": "https://www.rftv.com.br/voce-pretende-viajar-nesse-feriado-2/",
-        "data": "14/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1731612804.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você abastece seu carro com etanol quando o preço está mais vantajoso?",
-        "link": "https://www.rftv.com.br/voce-abastece-seu-carro-com-etanol-quando-o-preco-esta-mais-vantajoso/",
-        "data": "13/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1731529415.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você pesquisa antes de comprar na Black Friday?",
-        "link": "https://www.rftv.com.br/voce-pesquisa-antes-de-comprar-na-black-friday/",
-        "data": "12/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1731440699.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você acha que os locais públicos estão adaptados para receber as pessoas idosas?",
-        "link": "https://www.rftv.com.br/voce-acha-que-os-locais-publicos-estao-adaptados-para-receber-as-pessoas-idosas/",
-        "data": "11/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1731355455.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você já teve dificuldades para ser atendido em um posto de saúde?",
-        "link": "https://www.rftv.com.br/voce-ja-teve-dificuldades-para-ser-atendido-em-um-posto-de-saude/",
-        "data": "08/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1731095542.0
-    },
-    {
-        "portal": "Portal RMC",
-        "titulo": "Você já comprou produto falsificado sem saber?",
-        "link": "https://www.rftv.com.br/voce-ja-comprou-produto-falsificado-sem-saber/",
-        "data": "07/11/2024",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
-        "timestamp": 1731006022.0
     }
 ]
