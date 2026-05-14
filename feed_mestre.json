@@ -1,5 +1,77 @@
 [
     {
+        "portal": "Rápido no Ar",
+        "titulo": "Roger Machado é demitido do São Paulo após eliminação na Copa do Brasil",
+        "link": "https://rapidonoar.com.br/roger-machado-e-demitido-do-sao-paulo-apos-eliminacao-na-copa-do-brasil/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/03/roger-machado-1-819x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778723516.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Lucro do Banco do Brasil cai 54% com avanço da crise no agro",
+        "link": "https://sb24horas.com.br/lucro-do-banco-do-brasil-cai-54-com-avanco-da-crise-no-agro/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778721533.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Juventus vence Ferroviária em Araraquara e conquista o título do Paulistão A2",
+        "link": "https://rapidonoar.com.br/juventus-vence-ferroviaria-em-araraquara-e-conquista-o-titulo-do-paulistao-a2/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/juventus-campeao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778720742.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "SBO entrega brinquedos, tablets e calçados recebidos por meio de parceria",
+        "link": "https://novomomento.com.br/sbo-entrega-brinquedos-tablets-e-calcados-recebidos-por-meio-de-parceria/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778718917.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Venda geral de ingressos de jogo de despedida da seleção começa quinta",
+        "link": "https://sb24horas.com.br/venda-geral-de-ingressos-de-jogo-de-despedida-da-selecao-comeca-quinta/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "timestamp": 1778718649.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Corrida Lixo Zero homenageia profissionais da limpeza urbana em Campinas neste domingo",
+        "link": "https://rapidonoar.com.br/corrida-lixo-zero-homenageia-profissionais-da-limpeza-urbana-em-campinas-neste-domingo/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/corrida-lixo-zero-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778717301.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "São Paulo cai no Sul e está eliminado da Copa do Brasil",
+        "link": "https://novomomento.com.br/sao-paulo-cai-no-sul-eliminado-d-copa-do-brasil/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778717168.0
+    },
+    {
+        "portal": "Portal de Americana",
+        "titulo": "Com Morada e Cassiane, Celebra Americana divulga line-up completo",
+        "link": "https://portaldeamericana.com/com-morada-e-cassiane-celebra-americana-divulga-line-up-completo/?utm_source=rss&utm_medium=rss&utm_campaign=com-morada-e-cassiane-celebra-americana-divulga-line-up-completo",
+        "data": "13/05/2026",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5830.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778715960.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Banda Sinfônica do Exército realiza concerto neste domingo em Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGR2U2kzZXBEVkE2S25hVXh5RGxYR2hUQ0h2ZjZaTnZYVWhlVGFMeFBxOGdpbi13YUxPLW92SmJfSHZ4SFB1b3NGcXV3MnhLd0pHMnA3ZktHTFJhNU1wLXZDaUsxbVJraHVfUmhjeW92WTd2Z0l5bkVkY3V6RGN6V2g2SlpZVTNJNmEwclVDNFZIM3VoSFJ3NXlaOU40ZTlLRVh0REFnSU9rbGFQN0M3R2swZW05cDRweEZEcktkRTFaUDNZYTNPNUhsRG1IdW9UdnpLaFV1aHFvUQ?oc=5",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778713915.0
+    },
+    {
         "portal": "Google Notícias",
         "titulo": "Fim da 'taxa das blusinhas': setor têxtil da região mostra insatisfação e teme desemprego - G1",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS0pfdVBLU1hEeFVzUl9wWFVYdldxZ1EyVmtjYTVMMEFWNjl1cWlwYm02V3ctNzV1OXNwZWhGSkVQRGNwVHFoNS0tbXVzRzc3VEYzOW85ckJReUstc2lsakg3NGp4ZUt6TWxVMHdWRUFFUnJsT0VtWEkyYmljTGtVVHc5TFNPSWdVeHJZdnkwU3Z5MExlR2RMRzNBakFzdGxodU1JNWJvR2hGZUdYYWhaV0xPaExXYVdkeVVhdUNFbDNFWWRlaU5mR3NGREdQcGJpUUlsNmRR0gHkAUFVX3lxTFBuTUtNcjdBVEo3c2p1V295ckpUakZRVVhEbFZ0R2ZaOFFNWnBPMUJqNGpzcVlCT0JkQmVfbWF2UnlxbzNZNlQzQ0VLS2RuckNkUWMybU9fR3hOdDVBZGlGQ296NHg3bXdBQl9jbUV6RE9QQTA4VE42eGc1QWUtOEozakR5cXZIY2p3dVBocFFXWkx5MFpBY2VuQWZxb01rZV9kaTRXdGprQUhnVUZIdE1hSUx1ellzTW5SSjlFTUFBMHA1c1JoWUZEOXVBRnJFazE1ZTR1VkNLaWRsa3oyTnU1b05UaQ?oc=5",
@@ -38,6 +110,14 @@
         "data": "13/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "timestamp": 1778708487.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Aeroporto de Americana recebe obras de infraestrutura e modernização - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVZVdEN6b2xYTkVOM08waUdGOWNhX0RySk9rNXFVTUNTdkgycDNjeGtmTTR2Ung0RkoxeDhfSU14ZWRMQ1hOUUp3ZkJSOUZIWGRsaTd1R3h5S1EzeERRQW1XSFByWFFfNWZBeFV1Qm9CMmRtS0V5QjBDb0J6U0UwcXM2RFRRbGUxMFVmbFY1WWhyZm0tWTZiTnNXSU1tajlfc05DRTVrOTNBWDNTRUJLWmNCS2Q4OUZZVmoyTXgybmxMTFY1OU81RFRjNnpFYTJBUE00QVZB?oc=5",
+        "data": "13/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778708400.0
     },
     {
         "portal": "Rápido no Ar",
@@ -2190,6 +2270,14 @@
         "data": "11/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778535336.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Fundo Social de Americana recebe 600 cestas básicas do Governo do Estado - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTEJNUzBIUEhVWjY3TWxLTVBMTXVjQzBtZjhialQ2VkZTdl90aFp2cDBOR1VXaUZvMjBVN2xXOTZFS0hibzV0UC1SQjVjU1J2SFdkNTJwWlBVMDZfbjFUbzNoamFXTTJzaFJwOEg2WnRreTMxOFMyaTgyTV82dFRMVmlTMUR5TVI5a0ViRkRrMWU5NklGNFJ6VjJNNTBKckFtWGZsQWxSY1BCbTJHdzdRb2RMUTFKTWo0dkhXYVBEOG4wYlJEbFc3bGhDbkRJMzdlOFlILURRdGZNdEE?oc=5",
+        "data": "11/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1778533657.0
     },
     {
         "portal": "HJ News",
@@ -7910,82 +7998,5 @@
         "data": "07/11/2024",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
         "timestamp": 1731006022.0
-    },
-    {
-        "portal": "SB24Horas",
-        "titulo": "Cine Kombinha leva cinema itinerante, palhaçaria e arte gratuita para Sertãozinho",
-        "link": "https://sb24horas.com.br/cine-kombinha-leva-cinema-itinerante-palhacaria-e-arte-gratuita-para-sertaozinho/",
-        "data": "07/05/2026 às 13:23",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg"
-    },
-    {
-        "portal": "Americana Post",
-        "titulo": "Anvisa suspende fabricação e determina recolhimento de produtos da marca Ypê",
-        "link": "https://www.americanapost.com.br/anvisa-suspende-fabricacao-e-determina-recolhimento-de-produtos-da-marca-ype/",
-        "data": "07/05/2026 às 13:22",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Dois homens são presos por tráfico de drogas após flagrante em Araras",
-        "link": "https://rapidonoar.com.br/dois-homens-sao-presos-por-trafico-de-drogas-apos-flagrante-em-araras/",
-        "data": "07/05/2026 às 13:09",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/Dois-homens-sao-presos-por-trafico-de-drogas-apos-flagrante-em-Araras-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Dois homens são presos por tráfico de drogas em Sumaré",
-        "link": "https://novomomento.com.br/dois-homens-sao-presos-por-trafico-de-drogas-em-sumare/",
-        "data": "07/05/2026 às 13:05",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Inter de Limeira volta a receber um time pernambucano após 36 anos",
-        "link": "https://rapidonoar.com.br/inter-de-limeira-volta-a-receber-um-time-pernambucano-apos-36-anos/",
-        "data": "07/05/2026 às 12:58",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/romarinho-7-1024x656.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Limeirense sobe com time chinês para a Premier League",
-        "link": "https://rapidonoar.com.br/limeirense-sobe-com-time-chines-para-a-premier-league/",
-        "data": "07/05/2026 às 12:42",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/lucas-marques-1-906x1024.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Praça “José Bellani”, em SBO, entra em nova fase com implantação de acessibilidade",
-        "link": "https://novomomento.com.br/praca-jose-bellani-implantacao-d-acessibilidade/",
-        "data": "07/05/2026 às 12:35",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "São Paulo defende a liderança da Sul-Americana no Chile",
-        "link": "https://rapidonoar.com.br/sao-paulo-defende-a-lideranca-da-sul-americana-no-chile/",
-        "data": "07/05/2026 às 12:34",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/VIAGEM-4-819x1024.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Nosso Clube é a novidade do 50tão de Limeira",
-        "link": "https://rapidonoar.com.br/nosso-clube-e-a-novidade-do-50tao-de-limeira/",
-        "data": "07/05/2026 às 12:28",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/foguinho-2-1024x771.jpg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Comércio do Centro de Americana atende em horário especial das 9 às 18 horas, neste sábado",
-        "link": "https://noticiafm.com/comercio-do-centro-de-americana-atende-em-horario-especial-das-9-as-18-horas-neste-sabado/",
-        "data": "07/05/2026 às 12:25",
-        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-09.17.22-559x419.jpeg&w=400&h=200&fit=cover&output=jpg"
-    },
-    {
-        "portal": "Difusora FM",
-        "titulo": "Adolescente é apreendido após agressão contra gestante em Capivari",
-        "link": "https://difusorapiracicaba.com.br/adolescente-e-apreendido-apos-agressao-contra-gestante-em-capivari/",
-        "data": "07/05/2026 às 12:15",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg"
     }
 ]
