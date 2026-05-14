@@ -3,19 +3,22 @@ import json
 import requests
 
 # ==============================================================================
-# 1. CREDENCIAIS DO OAUTH 2.0 (DO COFRE DO GITHUB)
+# 1. PUXANDO AS CREDENCIAIS COMPATÍVEIS COM O SEU YML
 # ==============================================================================
-CLIENT_ID = os.environ.get("TWITTER_CLIENT_ID")
-REFRESH_TOKEN = os.environ.get("TWITTER_REFRESH_TOKEN")
+CLIENT_ID = os.environ.get("TWITTER_ACCESS_TOKEN")
+REFRESH_TOKEN = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
 
+# Essa validação vai te mostrar exatamente qual chave veio vazia se der erro!
 if not CLIENT_ID or not REFRESH_TOKEN:
-    print("🚨 Erro: TWITTER_CLIENT_ID ou TWITTER_REFRESH_TOKEN não configurados no GitHub.")
+    print("🚨 Erro de mapeamento no GitHub:")
+    print(f"- CLIENT_ID encontrado? {'SIM' if CLIENT_ID else 'NÃO (Vazio)'}")
+    print(f"- REFRESH_TOKEN encontrado? {'SIM' if REFRESH_TOKEN else 'NÃO (Vazio)'}")
     exit(1)
 
 # ==============================================================================
-# 2. PASSO DA MAGIA: USAR O REFRESH TOKEN PARA PEGAR UM ACCESS TOKEN VÁLIDO
+# 2. RENOVANDO O TOKEN DIRETO NO SERVIDOR DO X
 # ==============================================================================
-print("🔄 Renovando credenciais com o servidor do X...")
+print("🔄 Conectando ao X e renovando o token de acesso...")
 url_token = "https://api.twitter.com/2/oauth2/token"
 dados_token = {
     "refresh_token": REFRESH_TOKEN,
@@ -26,17 +29,16 @@ dados_token = {
 resposta_token = requests.post(url_token, data=dados_token)
 
 if resposta_token.status_code != 200:
-    print(f"🚨 Erro ao renovar o token: {resposta_token.status_code}")
+    print(f"🚨 Erro na autenticação do X (Status {resposta_token.status_code}):")
     print(resposta_token.text)
     exit(1)
 
-# Pega o token válido gerado agora
 dados_recebidos = resposta_token.json()
 access_token_valido = dados_recebidos["access_token"]
-print("🔑 Nova chave de acesso gerada com sucesso!")
+print("🔑 Autenticação efetuada com sucesso!")
 
 # ==============================================================================
-# 3. LER O JSON E FAZER O DISPARO VIA POST PURO
+# 3. DISPARANDO A NOTÍCIA MAIS RECENTE
 # ==============================================================================
 caminho_do_arquivo = 'feed_mestre.json'
 
@@ -53,23 +55,21 @@ try:
             
             mensagem = f"🚨 Atualização no Radar:\n\n{titulo}\n\nLeia mais: {link}"
             
-            print(f"Postando notícia: {titulo}")
+            print(f"Preparando postagem: {titulo}")
             
-            # Cabeçalho de autorização oficial da API v2
             headers = {
                 "Authorization": f"Bearer {access_token_valido}",
                 "Content-Type": "application/json",
             }
-            payload = {"text": mensaje}
+            payload = {"text": mensagem}
             
-            # Envia o POST para a rota de Tweets da API v2
             url_tweet = "https://api.twitter.com/2/tweets"
             resposta_tweet = requests.post(url_tweet, json=payload, headers=headers)
             
             if resposta_tweet.status_code == 201:
-                print(f"🚀 SUCESSO TOTAL! Postado no X. ID: {resposta_tweet.json()['data']['id']}")
+                print(f"🚀 VERDE! Tweet publicado com sucesso! ID: {resposta_tweet.json()['data']['id']}")
             else:
-                print(f"🚨 Falha no envio do Tweet. Status: {resposta_tweet.status_code}")
+                print(f"🚨 O Twitter recusou o post. Status: {resposta_tweet.status_code}")
                 print(resposta_tweet.text)
 
 except FileNotFoundError:
