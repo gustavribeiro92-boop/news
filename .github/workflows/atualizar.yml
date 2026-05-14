@@ -21,16 +21,19 @@ jobs:
           python-version: '3.x'
 
       - name: Instalar os programas necessários
-        # 🚀 AQUI: Adicionado o 'tweepy' no final para o robô do Twitter funcionar
+        # 🚀 AQUI: Mantém todas as suas bibliotecas e o tweepy para o Twitter
         run: pip install feedparser feedgen pytz requests tweepy
 
       - name: Rodar o nosso script
         run: python gerador_rss.py
 
       - name: Executar Bot do Twitter
-        # 🔒 AQUI: Injeta o token do cofre do GitHub com segurança na memória do Python
+        # 🔒 AQUI: Injeta as 4 chaves do cofre do GitHub com segurança na memória
         env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
         run: python bot_twitter.py
 
       - name: Salvar os arquivos atualizados
