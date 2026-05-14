@@ -1,31 +1,42 @@
 import os
 import json
-import tweepy
+import requests
 
 # ==============================================================================
-# 1. PUXANDO AS 4 CREDENCIAIS EXATAS DO SEU GITHUB SECRETS
+# 1. CREDENCIAIS DO OAUTH 2.0 (DO COFRE DO GITHUB)
 # ==============================================================================
-API_KEY = os.environ.get("TWITTER_API_KEY")
-API_SECRET = os.environ.get("TWITTER_API_SECRET")
-ACCESS_TOKEN = os.environ.get("TWITTER_ACCESS_TOKEN")
-ACCESS_TOKEN_SECRET = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
+CLIENT_ID = os.environ.get("TWITTER_CLIENT_ID")
+REFRESH_TOKEN = os.environ.get("TWITTER_REFRESH_TOKEN")
 
-if not all([API_KEY, API_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET]):
-    print("🚨 Erro Crítico: O Python recebeu alguma chave vazia do GitHub!")
+if not CLIENT_ID or not REFRESH_TOKEN:
+    print("🚨 Erro: TWITTER_CLIENT_ID ou TWITTER_REFRESH_TOKEN não configurados no GitHub.")
     exit(1)
 
 # ==============================================================================
-# 2. COMBINAÇÃO PERFEITA: Credenciais clássicas apontando para a API v2 moderna
+# 2. PASSO DA MAGIA: USAR O REFRESH TOKEN PARA PEGAR UM ACCESS TOKEN VÁLIDO
 # ==============================================================================
-client = tweepy.Client(
-    consumer_key=API_KEY,
-    consumer_secret=API_SECRET,
-    access_token=ACCESS_TOKEN,
-    access_token_secret=ACCESS_TOKEN_SECRET
-)
+print("🔄 Renovando credenciais com o servidor do X...")
+url_token = "https://api.twitter.com/2/oauth2/token"
+dados_token = {
+    "refresh_token": REFRESH_TOKEN,
+    "grant_type": "refresh_token",
+    "client_id": CLIENT_ID,
+}
+
+resposta_token = requests.post(url_token, data=dados_token)
+
+if resposta_token.status_code != 200:
+    print(f"🚨 Erro ao renovar o token: {resposta_token.status_code}")
+    print(resposta_token.text)
+    exit(1)
+
+# Pega o token válido gerado agora
+dados_recebidos = resposta_token.json()
+access_token_valido = dados_recebidos["access_token"]
+print("🔑 Nova chave de acesso gerada com sucesso!")
 
 # ==============================================================================
-# 3. LEITURA DO JSON E DISPARO DO TWEET
+# 3. LER O JSON E FAZER O DISPARO VIA POST PURO
 # ==============================================================================
 caminho_do_arquivo = 'feed_mestre.json'
 
@@ -36,21 +47,32 @@ try:
         if not noticias:
             print("O arquivo feed_mestre.json está vazio.")
         else:
-            # Pega a notícia na posição 0 (a mais recente)
             noticia_mais_nova = noticias[0]
             titulo = noticia_mais_nova.get('titulo', 'Sem título')
             link = noticia_mais_nova.get('link', 'https://portaldosportais.com')
             
-            # Formatação do post
             mensagem = f"🚨 Atualização no Radar:\n\n{titulo}\n\nLeia mais: {link}"
             
-            print(f"Tentando disparar notícia via API v2 com OAuth 1.0a: {titulo}")
+            print(f"Postando notícia: {titulo}")
             
-            # Método correto e atualizado para a API v2
-            response = client.create_tweet(text=mensagem)
-            print(f"🚀 SUCESSO! Postado no X. ID do Tweet: {response.data['id']}")
+            # Cabeçalho de autorização oficial da API v2
+            headers = {
+                "Authorization": f"Bearer {access_token_valido}",
+                "Content-Type": "application/json",
+            }
+            payload = {"text": mensaje}
+            
+            # Envia o POST para a rota de Tweets da API v2
+            url_tweet = "https://api.twitter.com/2/tweets"
+            resposta_tweet = requests.post(url_tweet, json=payload, headers=headers)
+            
+            if resposta_tweet.status_code == 201:
+                print(f"🚀 SUCESSO TOTAL! Postado no X. ID: {resposta_tweet.json()['data']['id']}")
+            else:
+                print(f"🚨 Falha no envio do Tweet. Status: {resposta_tweet.status_code}")
+                print(resposta_tweet.text)
 
 except FileNotFoundError:
     print(f"Erro: O arquivo {caminho_do_arquivo} não foi encontrado.")
 except Exception as e:
-    print(f"Erro ao tentar enviar o tweet: {e}")
+    print(f"Erro inesperado: {e}")
