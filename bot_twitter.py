@@ -15,15 +15,14 @@ if not all([API_KEY, API_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET]):
     exit(1)
 
 # ==============================================================================
-# 2. AUTENTICAÇÃO FORÇADA VIA API V1.1 (A mais estável para o Plano Free)
+# 2. COMBINAÇÃO PERFEITA: Credenciais clássicas apontando para a API v2 moderna
 # ==============================================================================
-auth = tweepy.OAuth1UserHandler(
+client = tweepy.Client(
     consumer_key=API_KEY,
     consumer_secret=API_SECRET,
     access_token=ACCESS_TOKEN,
     access_token_secret=ACCESS_TOKEN_SECRET
 )
-api = tweepy.API(auth)
 
 # ==============================================================================
 # 3. LEITURA DO JSON E DISPARO DO TWEET
@@ -45,11 +44,11 @@ try:
             # Formatação do post
             mensagem = f"🚨 Atualização no Radar:\n\n{titulo}\n\nLeia mais: {link}"
             
-            print(f"Tentando disparar notícia via API v1.1: {titulo}")
+            print(f"Tentando disparar notícia via API v2 com OAuth 1.0a: {titulo}")
             
-            # Força o disparo usando o método clássico de update_status
-            response = api.update_status(status=mensagem)
-            print(f"🚀 SUCESSO! Postado no X. ID do Tweet: {response.id}")
+            # Método correto e atualizado para a API v2
+            response = client.create_tweet(text=mensagem)
+            print(f"🚀 SUCESSO! Postado no X. ID do Tweet: {response.data['id']}")
 
 except FileNotFoundError:
     print(f"Erro: O arquivo {caminho_do_arquivo} não foi encontrado.")
