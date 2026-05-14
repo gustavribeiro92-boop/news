@@ -3,16 +3,13 @@ import json
 import requests
 
 # ==============================================================================
-# 1. PUXANDO AS CREDENCIAIS COMPATÍVEIS COM O SEU YML
+# 1. PUXANDO AS CREDENCIAIS EXATAS DA SUA FOTO DO GITHUB
 # ==============================================================================
 CLIENT_ID = os.environ.get("TWITTER_ACCESS_TOKEN")
 REFRESH_TOKEN = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
 
-# Essa validação vai te mostrar exatamente qual chave veio vazia se der erro!
 if not CLIENT_ID or not REFRESH_TOKEN:
-    print("🚨 Erro de mapeamento no GitHub:")
-    print(f"- CLIENT_ID encontrado? {'SIM' if CLIENT_ID else 'NÃO (Vazio)'}")
-    print(f"- REFRESH_TOKEN encontrado? {'SIM' if REFRESH_TOKEN else 'NÃO (Vazio)'}")
+    print("🚨 Erro: Chaves de autenticação não foram encontradas no GitHub.")
     exit(1)
 
 # ==============================================================================
