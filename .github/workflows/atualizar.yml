@@ -21,14 +21,13 @@ jobs:
           python-version: '3.x'
 
       - name: Instalar os programas necessários
-        # 🚀 AQUI: Mantém todas as suas bibliotecas e o tweepy para o Twitter
         run: pip install feedparser feedgen pytz requests tweepy
 
       - name: Rodar o nosso script
         run: python gerador_rss.py
 
       - name: Executar Bot do Twitter
-        # 🔒 AQUI: Injeta as 4 chaves do cofre do GitHub com segurança na memória
+        # 🔑 Aqui o GitHub faz o mapeamento usando os nomes exatos da sua foto
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
