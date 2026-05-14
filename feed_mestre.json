@@ -1,5 +1,85 @@
 [
     {
+        "portal": "Notícia FM",
+        "titulo": "Aeroporto de Americana recebe obras de infraestrutura e modernização",
+        "link": "https://noticiafm.com/aeroporto-de-americana-recebe-obras-de-infraestrutura-e-modernizacao/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/55268459610_a8f5f46bfe_o-559x419.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778757900.0
+    },
+    {
+        "portal": "HJ News",
+        "titulo": "ATC celebra 30 anos com grande evento e anuncia nova fase em parceria com a Fly Sports",
+        "link": "https://hjnews.com.br/atc-celebra-30-anos-com-grande-evento-e-anuncia-nova-fase-em-parceria-com-a-fly-sports/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778757671.0
+    },
+    {
+        "portal": "Google Notícias",
+        "titulo": "Começam as obras de ampliação da pista do Aeroporto de Americana-SP para poder receber aviões de maior porte - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2xHTExZbkNPUmx2QXIwdGgteEJwSkFTZHRZcjlOYmtyQzJCRDJOMmJjc2R5X2pSZ050ZVduOXhoTXpZS2pWbUtMdnpNeHZxNndzcXE0UEhORjhVYkZDLUlUemI1MHFMY0hZc25DYUF1cVBGbFFBRXJFSVBYdEVqSGVGeXJ1cEozMzJRUm9kMThvX09mWF9qbFVzV1VQYVNNWU14Q1hUTGpUUHhyQUF2SkdDM1ZVQW5OYUF2TC05M0VLMHJTSWhV0gHHAUFVX3lxTE0zbEdMTFluQ09SbHZBcjB0aC14QnBKQVNkdFlyOU5ia3JDMkJEMk4yYmNzZHlfalJnTnRlV245eGhNellLalZtS0x2ek14dnE2d3NxcTRQSE5GOFViRkMtSVR6YjUwcUxjSFlzbkNhQXVxUEZsUUFFckVJUFh0RWpIZUZ5cnVwSjMzMlFSb2QxOG9fT2ZYX2psVXNXVVBhU01ZTXhDWFRMalRQeHJBQXZKR0MzVlVBbk5hQXZMLTkzRUswclNJaFU?oc=5",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778757462.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Homem é preso com 150 eppendorfs de cocaína após perseguição em Limeira",
+        "link": "https://rapidonoar.com.br/homem-e-preso-com-150-eppendorfs-de-cocaina-apos-perseguicao-em-limeira/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/homem-e-preso-com-150-eppendorfs-de-cocaina-apos-perseguicao-em-limeira-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778756440.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Professor Antônio apresenta resultados positivos em Nova Odessa",
+        "link": "https://novomomento.com.br/professor-antonio-apresenta-resultados-positivos-em-nova-odessa/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "timestamp": 1778756416.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Morador encontra marcas de tiros em casa e caminhonete em Pirassununga",
+        "link": "https://rapidonoar.com.br/morador-encontra-marcas-de-tiros-em-casa-e-caminhonete-em-pirassununga/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/03/plantao-policial-limeira-policia-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778755526.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Pedestre morre após ser atropelado por veículo em Pirassununga",
+        "link": "https://rapidonoar.com.br/pedestre-morre-apos-ser-atropelado-por-veiculo-em-pirassununga/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/08/sirene-policia.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778755080.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Morador persegue e detém suspeito de tentar furtar bicicleta em Leme",
+        "link": "https://rapidonoar.com.br/morador-persegue-e-detem-suspeito-de-tentar-furtar-bicicleta-em-leme/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/06/plantao-policial-capa-site.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778754667.0
+    },
+    {
+        "portal": "Rápido no Ar",
+        "titulo": "Homem procurado pela Justiça é capturado pela Polícia Militar no Jardim Aeroporto em Limeira",
+        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-capturado-pela-policia-militar-no-jardim-aeroporto-em-limeira/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778754164.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Shopping ParkCity Sumaré tem Exposição de Carros Turbos e Aspirados",
+        "link": "https://novomomento.com.br/shopping-parkcity-sumare-tem-exposicao-de-carros-turbos-e-aspirados/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "timestamp": 1778749235.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Doce Veneno: uso de vape e o ‘Pulmão de Pipoca’, entenda",
         "link": "https://novomomento.com.br/doce-veneno-uso-de-vape-pulmao-de-pipoca/",
@@ -6208,6 +6288,14 @@
         "timestamp": 1777791600.0
     },
     {
+        "portal": "Google Notícias",
+        "titulo": "Porteiro — Americana, SP - Portal Salário",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02TDl2aGdYX0Vmbmx5RzhNNHUyNHlNNXkxQWxrVks5WHM0XzRlRTdGU3FDa1NCbVVJUElILWRGTkV3ZlIzWngxNUdlOUdTTjZXaUlwWWVWTlFSanZyVlFzeUNQVzAxN2MxMlhZYmlydTZ4RUFuVHdTX3d3?oc=5",
+        "data": "03/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1777791600.0
+    },
+    {
         "portal": "Portal de Americana",
         "titulo": "Parque Ecológico de Americana confirma a morte do casal de onças-pardas Darwin e Olivia",
         "link": "https://portaldeamericana.com/parque-ecologico-de-americana-confirma-a-morte-do-casal-de-oncas-pardas-darwin-e-olivia/?utm_source=rss&utm_medium=rss&utm_campaign=parque-ecologico-de-americana-confirma-a-morte-do-casal-de-oncas-pardas-darwin-e-olivia",
@@ -7910,93 +7998,5 @@
         "data": "08/12/2025",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1765180800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Programação “EnCantos e Luzes de Natal 2025” tem show da banda Rosa de Saron neste sábado - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KSXdwbWpqUnFaNW5NRE9LWk9WdV9uUVJYbkRKLUpzMW5UcTQzN2R2MEYtQUhub25zYXI0eFlEWmZpSng3QlV3NDUyMDNGenVFczNtVE4tUGxGYzlwMUlncHEtVFUzaGoyak96cXlCaDhXaUNWV0gwYzNn?oc=5",
-        "data": "05/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1764921600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Guarda Municipal de Americana abre concurso público para quatro funções - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZYXpXN1hwVldzZXhscUx2ZlF5RGFpNmZTUURuNjB3Q01WZHB1WjRFTW5tazZoeDVYZ1p1a1JYUFhjWGV1YW1OM0tPakw1ejRabjUxOTRkR0haajhza2VId09BRnowUldNNlJEOXVDYlZRVnhaTVgydFh3?oc=5",
-        "data": "01/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1764576000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Contribuintes de Americana têm até 12 de dezembro para aderir ao Refis 2025 - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlWmRkXzU0WXM4UC1xTHE5d28ycDhHbHhlZUhmd0V5R1I3WnRuTDBUMXlJS19ueXNCWDZvcFNTdHNoR0RnTE54TWZQVFZDUTdmTndKTDNaQmloVVJNam83REdOczUzRF9nWUg1aEFYTHhfUUF6NFJMVGR3?oc=5",
-        "data": "28/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1764316800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura apresenta mudanças no sistema de NFS-e após adesão ao padrão nacional - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRkJqdFA2dFVFb1dyUFVpVDZURGZJZldrSENqUjA1THVUcjFKN3dVVEhUZDlsTzBSMjF5bkdDdGJZTEE2OEtXUEFZWUpLT0FUaVJpS3F6QXNMY3pmeTZ4ZndzMkI4SHJ0bTJQTmZFWkVhQURCQUZHMUh3?oc=5",
-        "data": "27/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1764230400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Rosa de Saron se apresenta em Americana na programação \"EnCantos e Luzes de Natal 2025” - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WbnNTRHZoR0hfb0lGWnVORHpoVmNRMm1UdEtSSk0tOEQ3VDc5c2ZIRlNjTXYzUTdISXZNaWNvLW5SSVUxQnpNRnJhdTNpbTN3SzY5N3lBeDlvSUszQ0hfVzBwY0VpNkpBc0NsOFlaQy1qaUYyb0NNS0N3?oc=5",
-        "data": "17/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1763366400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana lança edital para realização do Feirão Casa Paulista - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zR1gwVE8xTV84YTR2VlVWVTFyUHBvemJSSXZwRGxmaGl5d2hMczNfRGREZEcwVEczWWN3Z0xDcXE2dVZFMTh1UWRjeDBGWWpOV2NRY2tVUDFKREZQdGRZdktxSkpMckY2djFUenpDb0R5QmRxSWJEeFBn?oc=5",
-        "data": "14/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1763107200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "HM, Unacon e UPA São José abrem processo seletivo para seis áreas - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NUS1VaWlPaU9PbnQwMUItaERnV1c4OFVpdktIR045SmEtMW9aZEJDNWhmMnZ1ZGNybFFheUJpYlIyWGVXUDJiZFpUVFJKaXpFX29HMmg5X0hVWGdpTGZtNl9BVDdOaFpjQUs3V2psYmVxZUtnMU11VXNn?oc=5",
-        "data": "14/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1763107200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Festival Celebra Americana acontece nesta sexta e sábado no CCL - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0dmhyLTg5em9BTmZQSENqOHUwMHBiZFp5Qzlzc2VIakkxc0l0amw0X0ZCMUQxdWpYMUUxYjN1dUtqb3IwWklNbndkY3o3eTFWYUszVkx3ZFR0SEZFMFBNMUhoU0ljbV9CVkNwQ2ljR3BLV2VNNktXNEd3?oc=5",
-        "data": "12/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1762934400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Festival Celebra Americana terá a participação de cinco ministérios de igrejas da cidade - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTi13dlhQZ1M1ZzRKUDZycWtmdWd4ZUtvekxKcGNjOGdwaGFBZlV6X1NvWGp2eldZb2lONTJKdXFoMnFzOThOSy1hQUswMmZCQVNaZ2RBZkNoR1RiZEhRbFpDUVBQaEhEZlBjRGUtTEp4NVZ0MS12OUln?oc=5",
-        "data": "06/11/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1762416000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Procon Americana passa a atender em novo endereço a partir de segunda-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBSU53bW4ybHZhcTY4LUVVOHRIX1lGa0dZNlFWNG9rOU51Mm5VYkZ2dkwzcVlCbm54Um9xdGpTVkgxRFZjUmhjaEpjeGx5VDZBUHQwTG0yaGtvWjJ2eVBJaTByRWctbC1TVW1hQ3loNkJRejRQM0JFUzVB?oc=5",
-        "data": "29/10/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1761721200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeito Chico prorroga prazo do Refis 2025 até 12 de dezembro - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2N1ZVV0dZc3RhMnVsRE1lNlZ6Sy00VlZtR1dyaHpQOWxNMlRkdWFJOHRDeGJraktGVGdQc2RDX1o0ZWd5aGVuV0M4RzROYW5wbjNlS0UwODZvODloRmNfYjAyTHZaREVnRm1XZWhsS2ZrTXN6eGVyRTlB?oc=5",
-        "data": "24/10/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1761289200.0
     }
 ]
