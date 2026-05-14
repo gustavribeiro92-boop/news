@@ -1,5 +1,53 @@
 [
     {
+        "portal": "HJ News",
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste inicia instalação de semáforos em cruzamento da Avenida São Paulo",
+        "link": "https://hjnews.com.br/prefeitura-de-santa-barbara-doeste-inicia-instalacao-de-semaforos-em-cruzamento-da-avenida-sao-paulo/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "timestamp": 1778764751.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Dupla vai em cana por traficar drogas em Hortolândia",
+        "link": "https://novomomento.com.br/dupla-vai-em-cana-por-traficar-drogas-em-hortolandia/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778764419.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Judô de Santa Bárbara conquista 18 medalhas em torneio da Federação Paulista",
+        "link": "https://novomomento.com.br/judo-de-santa-barbara-conquista-18-medalhas-em-torneio-da-federacao-paulista/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "timestamp": 1778763649.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "Começam as obras antienchente na Av. Ampelio Gazzetta, em Nova Odessa",
+        "link": "https://novomomento.com.br/comecam-as-obras-antienchente-na-av-ampelio-gazzetta-em-nova-odessa/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "timestamp": 1778762398.0
+    },
+    {
+        "portal": "Notícia FM",
+        "titulo": "Famílias relatam avanços de crianças atendidas pela Equoterapia em Santa Bárbara d’Oeste",
+        "link": "https://noticiafm.com/familias-relatam-avancos-de-criancas-atendidas-pela-equoterapia-em-santa-barbara-doeste/",
+        "data": "14/05/2026",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/Equoterapia_15-559x447.jpg&w=400&h=200&fit=cover&output=jpg",
+        "timestamp": 1778762041.0
+    },
+    {
+        "portal": "Novo Momento",
+        "titulo": "‘Peladão’ é preso por importunar mulheres em Nova Odessa",
+        "link": "https://novomomento.com.br/peladao-e-preso-por-importunar-mulheres-em-nova-odessa/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
+        "timestamp": 1778761272.0
+    },
+    {
         "portal": "Notícia FM",
         "titulo": "Aeroporto de Americana recebe obras de infraestrutura e modernização",
         "link": "https://noticiafm.com/aeroporto-de-americana-recebe-obras-de-infraestrutura-e-modernizacao/",
@@ -72,6 +120,14 @@
         "timestamp": 1778754164.0
     },
     {
+        "portal": "SB24Horas",
+        "titulo": "Governo fará ajuste para proibir bets no Desenrola Fies",
+        "link": "https://sb24horas.com.br/governo-fara-ajuste-para-proibir-bets-no-desenrola-fies/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778753451.0
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "Shopping ParkCity Sumaré tem Exposição de Carros Turbos e Aspirados",
         "link": "https://novomomento.com.br/shopping-parkcity-sumare-tem-exposicao-de-carros-turbos-e-aspirados/",
@@ -86,6 +142,14 @@
         "data": "14/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778745619.0
+    },
+    {
+        "portal": "SB24Horas",
+        "titulo": "Dólar supera R$ 5 e bolsa cai quase 2% em dia de turbulência",
+        "link": "https://sb24horas.com.br/dolar-supera-r-5-e-bolsa-cai-quase-2-em-dia-de-turbulencia/",
+        "data": "14/05/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778737483.0
     },
     {
         "portal": "Notícia de Limeira",
@@ -6624,6 +6688,14 @@
         "timestamp": 1776927600.0
     },
     {
+        "portal": "Google Notícias",
+        "titulo": "Americana sedia 34º Encontro de Servidores e Titulares Fazendários da ASSEFIN-SP na próxima terça - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VblpqalBRdjJ6RmRqMkFDWVdlV0s0YThvRnY0Q3V0T3dISnItMVZweUV6LS1nS0N1ZWM3a3hKeVpOdXNRYWhnZXk3UHY5bnpGS3dRQ3JYXy05STNmTW5vWkJzODVsVW5uYXhZRGZLOFlmVmY2cTRpNFVB?oc=5",
+        "data": "23/04/2026",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1776927600.0
+    },
+    {
         "portal": "Portal de Americana",
         "titulo": "Conta de luz ficará mais cara em Americana e região",
         "link": "https://portaldeamericana.com/conta-de-luz-ficara-mais-cara-em-americana-e-regiao/?utm_source=rss&utm_medium=rss&utm_campaign=conta-de-luz-ficara-mais-cara-em-americana-e-regiao",
@@ -7926,77 +7998,5 @@
         "data": "06/01/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1767686400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Pedidos de isenção do IPTU 2026 podem ser protocolados a partir desta segunda-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5acWctcnpiQ21vSkhqTmpWTWJxVml5OFpLLWNBZFlWQkdkQTU0ZjV3RzR1VzgzV1ZvRWRCRnVGWXptX3JaU0NHUjdTOUNXbzdXMkdycDBsYzlXM3NheXJQU3g1dXdvN08xb0xpV3RJcnEtUUxyNG1zYTdn?oc=5",
-        "data": "05/01/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1767600000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Pedidos de isenção do IPTU 2026 podem ser protocolados a partir de 5 de janeiro - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RczNBMk4wMnNSbHV3WlNmcWFQRkdISC1abkNGclVXU2Jxbi1teklpNFhpMHRhNFo0RFhQTEVMaWZfMFBpVTB0Q1J6aUU1NE1hel9qNmY2dGVGOENfTHJEWlhJTzVEeWh4SWg3Mlg2NDIzb1U1cEs4bXNB?oc=5",
-        "data": "19/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1766131200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Novo formato do carnê do IPTU 2026 de Americana gera economia de R$ 1,5 milhão - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LMG1lZXRobDYzbDlsZGZ6T1I5aE9FM2hpRGprTW5CLWU0R3ltZXF0c3NDMlAyTjEyd0ttYXZlWDlaZFV3djUtNHBkLXJCVDEwMnJHcUtrTFFUZElRLThmT1R4WHd5WV8xcEI3bTZERDc5d05RLS13eWtR?oc=5",
-        "data": "18/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1766044800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Serviços essenciais funcionam normalmente em Americana durante o recesso; confira o que abre e fecha - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yakUtT0laMWFiQUo1czFuekhBVWFJZ1VPV0dXbkhvck8zUWxoMTU3N0NibG1HcVVoT3dRdVNJN1JIUTl1aWJndTFkNXI5Q2RqZFJMdGFQUG1SelJ5ejBpY2dGdWhnN1Q2SkRlanRJNGNvWmRkalVUN1Zn?oc=5",
-        "data": "16/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1765872000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Viaduto Centenário será interditado para limpeza nesta quarta-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DQTltNHl2bXpLdzNtT29uWEFXbTJoMWFNc1dDQ1NUVjB6VXpXZHZBMFdHSGhISkpoRVFUcDJfY19fNW41WVV6M3RuVlViZkRZa1J1bmRtdEtvT1Z2bnpVV1U0SjZfSnd6Q0dpMXRnWU4wVFdnSWJsSnln?oc=5",
-        "data": "16/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1765872000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Escola de Música de Americana abre inscrições para cursos de formação musical em 2026 - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Yal96Z0l0OW1aZTJqbTZHMGpiRWkyWUNEMmlDN0tiSTJjc0Z1MnI4Q3dOTUM5OHF6ZEJIZXB4ZXZoU0FrZWM4TmNDak9HdUFkLU0yT19ra0NVSGt0RTROTURuWlo3UHdWV2JtWmZFbWtULWdrVnlNc0Vn?oc=5",
-        "data": "15/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1765785600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana divulga os vencedores do Concurso de Decoração Natalina 2025 - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jdWxRblFpN2daekVWMWt5ZkkzSHd4RDAtT1lMQ1FTdHV0Tlc5aVJXRDdodE1rdnpLTWlMSWFoRHN5UW1Zb2NwOE54X09GMkdLdm44cWxjY1pvdExtUk1sTHEyMEE4eUpXWWNiazNMRUJPdjdpcVU3djJn?oc=5",
-        "data": "12/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1765526400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Trem Iluminado de Natal da Rumo chega a Americana na próxima segunda-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nd1VlOUpydl9uMzE5WUxUUmNBM09TQTJEYTR2Xy1wS1cxTnJVWlBVQWd2azhQRVBMX1MtTzQ0QmJlMFhveTB0ekgtMnlMT0pROUZMMUVVZXJhNnRPU0p0VXcwT1NJaUxBVnNjY2FFUEhBYzRsQzA2WUx3?oc=5",
-        "data": "09/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1765267200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prazo para aderir ao Refis 2025 em Americana vai até sexta-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYWE9xVjRwY0xkbVBJRVhzQzNyNXNXZ09GSkRkZ3EwcG5ubk1WdnB6aGVhQWZPaVF4ZmJsbTFCbWYxc2R6Zjd4UklFRzNLNlNjWnhBQkViaXRsc2hBNzFfaElsRFlxTWN0Rkh3YU5feUNBRFpqT1VPZU13?oc=5",
-        "data": "08/12/2025",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1765180800.0
     }
 ]
