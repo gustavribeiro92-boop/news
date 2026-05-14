@@ -21,11 +21,17 @@ jobs:
           python-version: '3.x'
 
       - name: Instalar os programas necessários
-        # 🚀 A MÁGICA AQUI: Adicionado o 'requests' para o disfarce do robô funcionar
-        run: pip install feedparser feedgen pytz requests
+        # 🚀 AQUI: Adicionado o 'tweepy' no final para o robô do Twitter funcionar
+        run: pip install feedparser feedgen pytz requests tweepy
 
       - name: Rodar o nosso script
         run: python gerador_rss.py
+
+      - name: Executar Bot do Twitter
+        # 🔒 AQUI: Injeta o token do cofre do GitHub com segurança na memória do Python
+        env:
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        run: python bot_twitter.py
 
       - name: Salvar os arquivos atualizados
         run: |
