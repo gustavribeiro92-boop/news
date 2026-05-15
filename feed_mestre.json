@@ -1,5 +1,698 @@
 [
     {
+        "titulo": "Americana registra abertura de 3,2 mil empresas no 1º quadrimestre",
+        "link": "https://www.americanapost.com.br/americana-registra-abertura-de-32-mil-empresas-no-1o-quadrimestre/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778854020.0,
+        "data": "15/05/2026 14:07"
+    },
+    {
+        "titulo": "Limeirense é eleito o melhor lateral-esquerdo da Série A-2",
+        "link": "https://rapidonoar.com.br/limeirense-e-eleito-o-melhor-lateral-esquerdo-da-serie-a-2/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/dudu-9-1024x576.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778852854.0,
+        "data": "15/05/2026 13:47"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste instala iglus para descarte de materiais recicláveis",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-doeste-instala-iglus-para-descarte-de-materiais-reciclaveis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778852459.0,
+        "data": "15/05/2026 13:40"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste abre inscrições para o 13º Encontro de Corais",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-doeste-abre-inscricoes-para-o-13o-encontro-de-corais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778852345.0,
+        "data": "15/05/2026 13:39"
+    },
+    {
+        "titulo": "DAE intensifica recuperação asfáltica e realiza cerca de 50 reparos em Santa Bárbara d’Oeste nesta semana",
+        "link": "https://sb24horas.com.br/dae-intensifica-recuperacao-asfaltica-e-realiza-cerca-de-50-reparos-em-santa-barbara-doeste-nesta-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778852268.0,
+        "data": "15/05/2026 13:37"
+    },
+    {
+        "titulo": "Ypê pede transparência total à Anvisa e solicita reunião pública sobre processo regulatório",
+        "link": "https://sb24horas.com.br/ype-pede-transparencia-total-a-anvisa-e-solicita-reuniao-publica-sobre-processo-regulatorio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778851953.0,
+        "data": "15/05/2026 13:32"
+    },
+    {
+        "titulo": "Mega-Sena acumula novamente e prêmio principal vai para R$ 65 milhões",
+        "link": "https://rapidonoar.com.br/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-65-milhoes/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2023/08/mega-sena-sorteio-premio-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778851430.0,
+        "data": "15/05/2026 13:23"
+    },
+    {
+        "titulo": "Americana registra abertura de 3,2 mil empresas no 1º quadrimestre",
+        "link": "https://noticiafm.com/americana-registra-abertura-de-32-mil-empresas-no-1o-quadrimestre/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778850718.0,
+        "data": "15/05/2026 13:11"
+    },
+    {
+        "titulo": "Deputado quer multa de R$ 19 mil para quem vazar imagens de câmeras corporais da Polícia",
+        "link": "https://sb24horas.com.br/deputado-quer-multa-de-r-19-mil-para-quem-vazar-imagens-de-cameras-corporais-da-policia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778850093.0,
+        "data": "15/05/2026 13:01"
+    },
+    {
+        "titulo": "IBGE: setor de serviços recua 1,2% em março",
+        "link": "https://sb24horas.com.br/ibge-setor-de-servicos-recua-12-em-marco/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778849206.0,
+        "data": "15/05/2026 12:46"
+    },
+    {
+        "titulo": "CCL recebe nova edição do Brasa Blue Festival e corrida Run Run Casa P neste fim de semana",
+        "link": "https://noticiafm.com/ccl-recebe-nova-edicao-do-brasa-blue-festival-e-corrida-run-run-casa-p-neste-fim-de-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778848937.0,
+        "data": "15/05/2026 12:42"
+    },
+    {
+        "titulo": "Inter de Limeira jogará pela primeira vez na Paraíba",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-jogara-pela-primeira-vez-na-paraiba/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/almeidao-1024x577.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778848604.0,
+        "data": "15/05/2026 12:36"
+    },
+    {
+        "titulo": "Interessados em participar do “Vem de Bike” podem se inscrever em Hortolândia",
+        "link": "https://novomomento.com.br/interessados-em-participar-do-vem-de-bike-podem-se-inscrever-em-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778848250.0,
+        "data": "15/05/2026 12:30"
+    },
+    {
+        "titulo": "Caixa e BB liberam abono salarial para nascidos em maio e junho",
+        "link": "https://rapidonoar.com.br/caixa-e-bb-liberam-abono-salarial-para-nascidos-em-maio-e-junho/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2024/08/caixa-economica-agencia-brasil.png",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778846805.0,
+        "data": "15/05/2026 12:06"
+    },
+    {
+        "titulo": "Jacira conquista recurso para exames na área da saúde",
+        "link": "https://hjnews.com.br/jacira-conquista-recurso-para-exames-na-area-da-saude/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778846797.0,
+        "data": "15/05/2026 12:06"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara d’Oeste instala iglus para descarte de materiais recicláveis",
+        "link": "https://noticiafm.com/prefeitura-de-santa-barbara-doeste-instala-iglus-para-descarte-de-materiais-reciclaveis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778846674.0,
+        "data": "15/05/2026 12:04"
+    },
+    {
+        "titulo": "Isac Newtton quer agarrar a chance para virar titular no Independente",
+        "link": "https://rapidonoar.com.br/isac-newtton-quer-agarrar-a-chance-para-virar-titular-no-independente/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/isac-newtton-1-1024x652.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778845573.0,
+        "data": "15/05/2026 11:46"
+    },
+    {
+        "titulo": "ACIA Itinerante acontece sábado no São Vito",
+        "link": "https://hjnews.com.br/acia-itinerante-acontece-sabado-no-sao-vito/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778845447.0,
+        "data": "15/05/2026 11:44"
+    },
+    {
+        "titulo": "Limeira Basket recebe Avaré hoje na AABB pela Copa São Paulo",
+        "link": "https://rapidonoar.com.br/limeira-basket-recebe-avare-hoje-na-aabb-pela-copa-sao-paulo/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/enterrada-1-1024x700.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778845161.0,
+        "data": "15/05/2026 11:39"
+    },
+    {
+        "titulo": "Área de condomínios está há três anos sem iluminação em Nova Odessa",
+        "link": "https://novomomento.com.br/area-de-condominios-esta-ha-tres-anos-sem-iluminacao-em-nova-odessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778843517.0,
+        "data": "15/05/2026 11:11"
+    },
+    {
+        "titulo": "CBF anuncia ampliação de contrato com técnico Carlo Ancelotti",
+        "link": "https://sb24horas.com.br/cbf-anuncia-ampliacao-de-contrato-com-tecnico-carlo-ancelotti/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778843118.0,
+        "data": "15/05/2026 11:05"
+    },
+    {
+        "titulo": "Campeonato minicampo Adulto de Nova Odessa tem 2ª rodada",
+        "link": "https://novomomento.com.br/campeonato-minicampo-adulto-de-nova-odessa-tem-2a-rodada/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778841031.0,
+        "data": "15/05/2026 10:30"
+    },
+    {
+        "titulo": "Na base, Ponte Preta faz “barba e cabelo” no Leãozinho",
+        "link": "https://rapidonoar.com.br/na-base-ponte-preta-faz-barba-e-cabelo-no-leaozinho/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/base-ponte-1024x998.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778838435.0,
+        "data": "15/05/2026 09:47"
+    },
+    {
+        "titulo": "Sumaré realiza Feirão de Empregos hoje com expectativas",
+        "link": "https://novomomento.com.br/sumare-realiza-feirao-de-empregos-hoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778833940.0,
+        "data": "15/05/2026 08:32"
+    },
+    {
+        "titulo": "Dólar cai para R$ 4,98, e bolsa sobe em dia de alívio",
+        "link": "https://sb24horas.com.br/dolar-cai-para-r-498-e-bolsa-sobe-em-dia-de-alivio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778833247.0,
+        "data": "15/05/2026 08:20"
+    },
+    {
+        "titulo": "Vitória mostra eficiência e elimina Flamengo da Copa do Brasil",
+        "link": "https://sb24horas.com.br/vitoria-mostra-eficiencia-e-elimina-flamengo-da-copa-do-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778818244.0,
+        "data": "15/05/2026 04:10"
+    },
+    {
+        "titulo": "Lucro da Caixa cai 34% no primeiro trimestre com novas regras do BC",
+        "link": "https://sb24horas.com.br/lucro-da-caixa-cai-34-no-primeiro-trimestre-com-novas-regras-do-bc/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778817290.0,
+        "data": "15/05/2026 03:54"
+    },
+    {
+        "titulo": "Americana terá Espaço Lilás para as vítimas de violência - correiodamanha.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT0g5MHltZnhnWDZyUElqV3FqRlRuUklMdUE5Q0dfSHJfbUZGMVpUN2Rnc2p2eEZZalQzSjd1ZlhRVFpDSWtJQ1lVM0h1dFpXdUxHNlY4c1FBRWJhS04weVkxYUtYajl4Rl9LRVZ3Qm4xdHZ6bXJlZlUzWWE1Y05KbDkwZGk3ZmhpampoU2w4TEJDN0FWM21pQk93NlVrNjRYU0Y0WXg0bW1QMnBoSlNwdHRuNzloWVFFaWtOazVVeW9jWFZfbm5KQ2YxV3c1NXJ6U05tcGsxVGtCOW9ZQ3UtQTNpdFVxUVlzRjZ1VDdB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778814180.0,
+        "data": "15/05/2026 03:03"
+    },
+    {
+        "titulo": "Jovem morre após ser baleado no Jardim Primavera em Leme",
+        "link": "https://rapidonoar.com.br/jovem-morre-apos-ser-baleado-no-jardim-primavera-em-leme/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/tiro-bar-leme-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778811245.0,
+        "data": "15/05/2026 02:14"
+    },
+    {
+        "titulo": "Encontros voltados a pacientes com hipertensão e diabetes são realizados em UBS de Limeira",
+        "link": "https://rapidonoar.com.br/encontros-voltados-a-pacientes-com-hipertensao-e-diabetes-sao-realizados-em-ubs-de-limeira/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/encontros-de-diabeticos-e-hipertensos-na-ubs-pq-hipolito-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778810757.0,
+        "data": "15/05/2026 02:05"
+    },
+    {
+        "titulo": "Elektro registra média de sete colisões contra postes por dia em SP e MS",
+        "link": "https://rapidonoar.com.br/elektro-registra-media-de-sete-colisoes-contra-postes-por-dia-em-sp-e-ms/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/03/motorista-bate-poste-abandona-local-3-1024x683.webp",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778810430.0,
+        "data": "15/05/2026 02:00"
+    },
+    {
+        "titulo": "3º Feirão de Empregos de Hortolândia terá transporte público gratuito",
+        "link": "https://novomomento.com.br/feirao-de-empregos-hortolandia-transp-gratuito/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778806803.0,
+        "data": "15/05/2026 01:00"
+    },
+    {
+        "titulo": "“Os pais nem imaginam”: Discord, Reddit e os perigos ocultos que atraem crianças na internet",
+        "link": "https://novomomento.com.br/pais-nem-imaginam-os-perigos-ocultos-internet/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778803280.0,
+        "data": "15/05/2026 00:01"
+    },
+    {
+        "titulo": "Saúde de Nova Odessa realiza audiência na Câmara Municipal",
+        "link": "https://novomomento.com.br/saude-nova-odessa-realiza-audiencia-na-camara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778799640.0,
+        "data": "14/05/2026 23:00"
+    },
+    {
+        "titulo": "Evento neste fim de semana une música, gastronomia e atividades esportivas no CCL em Americana",
+        "link": "https://portaldeamericana.com/evento-neste-fim-de-semana-une-musica-gastronomia-e-atividades-esportivas-no-ccl-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=evento-neste-fim-de-semana-une-musica-gastronomia-e-atividades-esportivas-no-ccl-em-americana",
+        "imagem": "https://portaldeamericana.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-15.14.52-1.jpeg",
+        "portal": "portaldeamericana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1778797232.0,
+        "data": "14/05/2026 22:20"
+    },
+    {
+        "titulo": "CEI Isidoro Bordon: vereadores realizam vistoria no Parque Ecológico",
+        "link": "https://novomomento.com.br/cei-isidoro-bordon-vistoria-no-parque-ecologico/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778792455.0,
+        "data": "14/05/2026 21:00"
+    },
+    {
+        "titulo": "Anvisa adia análise de recurso da Ypê contra suspensão de produtos",
+        "link": "https://difusorapiracicaba.com.br/anvisa-adia-analise-de-recurso-da-ype-contra-suspensao-de-produtos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778792400.0,
+        "data": "14/05/2026 21:00"
+    },
+    {
+        "titulo": "Encontro promove avanços no programa Carta de Crédito Imobiliário",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/encontro-promove-avancos-no-programa-carta-de-credito-imobiliario/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778791019.0,
+        "data": "14/05/2026 20:36"
+    },
+    {
+        "titulo": "Palacete Tatuibi recebe atividades da 24ª Semana Nacional de Museus no sábado",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/palacete-tatuibi-recebe-atividades-da-24a-semana-nacional-de-museus-no-sabado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778790805.0,
+        "data": "14/05/2026 20:33"
+    },
+    {
+        "titulo": "Vigilância Sanitária promove curso de primeiros socorros para creches e educação infantil",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/vigilancia-sanitaria-promove-curso-de-primeiros-socorros-para-creches-e-educacao-infantil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778790608.0,
+        "data": "14/05/2026 20:30"
+    },
+    {
+        "titulo": "Inep recebe recursos para pedidos de isenções do Enem 2026 até dia 19",
+        "link": "https://difusorapiracicaba.com.br/inep-recebe-recursos-para-pedidos-de-isencoes-do-enem-2026-ate-dia-19/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778790600.0,
+        "data": "14/05/2026 20:30"
+    },
+    {
+        "titulo": "Comdema aprova Planos Municipais de Educação Ambiental e de Arborização Urbana",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/comdema-aprova-planos-municipais-de-educacao-ambiental-e-de-arborizacao-urbana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778790276.0,
+        "data": "14/05/2026 20:24"
+    },
+    {
+        "titulo": "Secretaria de Cultura realiza formação antirracista para profissionais na Unidade Regional de Ensino de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/secretaria-de-cultura-realiza-formacao-antirracista-para-profissionais-na-unidade-regional-de-ensino-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778790115.0,
+        "data": "14/05/2026 20:21"
+    },
+    {
+        "titulo": "Limeira realiza plantão de vacinação na UBS Vista Alegre e Parque Cidade neste sábado",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/limeira-realiza-plantao-de-vacinacao-na-ubs-vista-alegre-e-parque-cidade-neste-sabado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778789849.0,
+        "data": "14/05/2026 20:17"
+    },
+    {
+        "titulo": "UBS do Parque Hipólito promove encontro de pacientes com hipertensão e diabetes",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/ubs-do-parque-hipolito-promove-encontro-de-pacientes-com-hipertensao-e-diabetes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778789636.0,
+        "data": "14/05/2026 20:13"
+    },
+    {
+        "titulo": "Entrega de equipamento tecnológico deve agilizar cirurgias de endometriose no Hospital Humanitária de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/entrega-de-equipamento-tecnologico-deve-agilizar-cirurgias-de-endometriose-no-hospital-humanitaria-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778789360.0,
+        "data": "14/05/2026 20:09"
+    },
+    {
+        "titulo": "Telemedicina: Prefeitura lança ‘Consulta Digital’ em quatro UBSs de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/telemedicina-prefeitura-lanca-consulta-digital-em-quatro-ubss-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778789127.0,
+        "data": "14/05/2026 20:05"
+    },
+    {
+        "titulo": "Mega-Sena sorteia prêmio de R$ 60 milhões nesta quinta-feira",
+        "link": "https://difusorapiracicaba.com.br/mega-sena-sorteia-premio-de-r-60-milhoes-nesta-quinta-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778788800.0,
+        "data": "14/05/2026 20:00"
+    },
+    {
+        "titulo": "Seminário Maio Laranja debate combate ao abuso e à exploração sexual de crianças e adolescentes em Americana",
+        "link": "https://hjnews.com.br/seminario-maio-laranja-debate-combate-ao-abuso-e-a-exploracao-sexual-de-criancas-e-adolescentes-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778788311.0,
+        "data": "14/05/2026 19:51"
+    },
+    {
+        "titulo": "GCMs são equipados com novos uniformes e equipamentos em Cordeirópolis",
+        "link": "https://noticiadelimeira.com.br/2026/05/14/gcms-sao-equipados-com-novos-uniformes-e-equipamentos-em-cordeiropolis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778788258.0,
+        "data": "14/05/2026 19:50"
+    },
+    {
+        "titulo": "Adega alvo de operação volta a ser fechada pela PM com quase 500 porções de drogas em Americana",
+        "link": "https://www.americanapost.com.br/adega-alvo-de-operacao-volta-a-ser-fechada-pela-pm-com-quase-500-porcoes-de-drogas-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778787177.0,
+        "data": "14/05/2026 19:32"
+    },
+    {
+        "titulo": "Prefeitura revitaliza sinalização viária na Avenida 9 de Julho",
+        "link": "https://www.americanapost.com.br/prefeitura-revitaliza-sinalizacao-viaria-na-avenida-9-de-julho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778787043.0,
+        "data": "14/05/2026 19:30"
+    },
+    {
+        "titulo": "Lucro do Banco do Brasil cai 54% com avanço da crise no agro",
+        "link": "https://difusorapiracicaba.com.br/lucro-do-banco-do-brasil-cai-54-com-avanco-da-crise-no-agro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778787000.0,
+        "data": "14/05/2026 19:30"
+    },
+    {
+        "titulo": "LDO prevê orçamento R$ 1,1 bilhão para 2027 em Santa Bárbara",
+        "link": "https://hjnews.com.br/ldo-preve-orcamento-r-11-bilhao-para-2027-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778786296.0,
+        "data": "14/05/2026 19:18"
+    },
+    {
+        "titulo": "Obras do Parque do Jd. Amanda, em Hortolândia, estão aceleradas",
+        "link": "https://novomomento.com.br/obras-do-parque-do-jd-amanda-em-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778785249.0,
+        "data": "14/05/2026 19:00"
+    },
+    {
+        "titulo": "Com recorde de público, 41ª Festa das Nações é oficialmente aberta no Engenho Central",
+        "link": "https://difusorapiracicaba.com.br/com-recorde-de-publico-41a-festa-das-nacoes-e-oficialmente-aberta-no-engenho-central/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778785200.0,
+        "data": "14/05/2026 19:00"
+    },
+    {
+        "titulo": "Prefeitura lança política de segurança digital nas escolas municipais",
+        "link": "https://difusorapiracicaba.com.br/prefeitura-lanca-politica-de-seguranca-digital-nas-escolas-municipais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778783400.0,
+        "data": "14/05/2026 18:30"
+    },
+    {
+        "titulo": "Jamais vou endossar proximidade de um candidato com um criminoso, diz Zema",
+        "link": "https://portaldeamericana.com/jamais-vou-endossar-proximidade-de-um-candidato-com-um-criminoso-diz-zema/?utm_source=rss&utm_medium=rss&utm_campaign=jamais-vou-endossar-proximidade-de-um-candidato-com-um-criminoso-diz-zema",
+        "imagem": "https://portaldeamericana.com/wp-content/uploads/2026/05/Zema-Dirceu-Aurelio-Imprensa-MG.webp",
+        "portal": "portaldeamericana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1778783349.0,
+        "data": "14/05/2026 18:29"
+    },
+    {
+        "titulo": "DAE realiza desinsetização na rede de esgoto da Chácara Machadinho",
+        "link": "https://www.americanapost.com.br/dae-realiza-desinsetizacao-na-rede-de-esgoto-da-chacara-machadinho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778782890.0,
+        "data": "14/05/2026 18:21"
+    },
+    {
+        "titulo": "Aeroporto de Americana recebe obras de infraestrutura e modernização",
+        "link": "https://www.americanapost.com.br/aeroporto-de-americana-recebe-obras-de-infraestrutura-e-modernizacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1778782556.0,
+        "data": "14/05/2026 18:15"
+    },
+    {
+        "titulo": "Gutão do Lanche pede construção de calçada no canteiro central da Estrada da Balsa",
+        "link": "https://hjnews.com.br/gutao-do-lanche-pede-construcao-de-calcada-no-canteiro-central-da-estrada-da-balsa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778782289.0,
+        "data": "14/05/2026 18:11"
+    },
+    {
+        "titulo": "Procon divulga palestras gratuitas sobre orientação financeira e jogos e apostas",
+        "link": "https://hjnews.com.br/procon-divulga-palestras-gratuitas-sobre-orientacao-financeira-e-jogos-e-apostas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778782182.0,
+        "data": "14/05/2026 18:09"
+    },
+    {
+        "titulo": "Procon divulga palestras gratuitas sobre orientação financeira e jogos e apostas - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sdXVyVllINXJLUENpT1FFNTk1VlBlQUlqcVVtMktZOUYzQVdSTFZnRF9VdGtXNW1jLWhWVkZvNVBWZUp6WFVhNWV4YjFzWVFvektGbXBJeFBnTGppVlRLWnhHNjRKN1E1NzZLd00xOEowRUQyTHk5RUpR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778781900.0,
+        "data": "14/05/2026 18:05"
+    },
+    {
+        "titulo": "Hantavírus: OMS confirma oito casos de cepa que causou surto em navio",
+        "link": "https://difusorapiracicaba.com.br/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778781600.0,
+        "data": "14/05/2026 18:00"
+    },
+    {
+        "titulo": "Governo cria subsídio de até R$ 0,89 para segurar preço da gasolina",
+        "link": "https://difusorapiracicaba.com.br/governo-cria-subsidio-de-ate-r-089-para-segurar-preco-da-gasolina/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778781600.0,
+        "data": "14/05/2026 18:00"
+    },
+    {
+        "titulo": "CEU das Artes de Santa Bárbara d’Oeste é reconhecido nacionalmente por programação cultural e conquista prêmio do Ministério da Cultura",
+        "link": "https://hjnews.com.br/ceu-das-artes-de-santa-barbara-doeste-e-reconhecido-nacionalmente-por-programacao-cultural-e-conquista-premio-do-ministerio-da-cultura/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778780236.0,
+        "data": "14/05/2026 17:37"
+    },
+    {
+        "titulo": "CCL recebe nova edição do Brasa Blue Festival e corrida Run Run Casa P neste fim de semana",
+        "link": "https://hjnews.com.br/ccl-recebe-nova-edicao-do-brasa-blue-festival-e-corrida-run-run-casa-p-neste-fim-de-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778780086.0,
+        "data": "14/05/2026 17:34"
+    },
+    {
+        "titulo": "Encceja 2026: prazo de inscrição termina sexta-feira (15)",
+        "link": "https://difusorapiracicaba.com.br/encceja-2026-prazo-de-inscricao-termina-sexta-feira-15/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778779800.0,
+        "data": "14/05/2026 17:30"
+    },
+    {
+        "titulo": "Tarcísio defende Flávio Bolsonaro e diz que áudios com Daniel Vorcaro não afetam pré-candidatura do senador",
+        "link": "https://noticiafm.com/tarcisio-defende-flavio-bolsonaro-e-diz-que-audios-com-daniel-vorcaro-nao-afetam-pre-candidatura-do-senador/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778779244.0,
+        "data": "14/05/2026 17:20"
+    },
+    {
+        "titulo": "PF aponta ligação de Vorcaro com o jogo do bicho e a milícia no RJ",
+        "link": "https://noticiafm.com/pf-aponta-ligacao-de-vorcaro-com-o-jogo-do-bicho-e-a-milicia-no-rj/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778778351.0,
+        "data": "14/05/2026 17:05"
+    },
+    {
+        "titulo": "Feira Noturna de Nova Odessa tem atração musical hoje",
+        "link": "https://novomomento.com.br/feira-noturna-nova-odessa-atracao-musical-hoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778778023.0,
+        "data": "14/05/2026 17:00"
+    },
+    {
+        "titulo": "Comerciantes de rua participam de capacitação voltada à expansão dos negócios",
+        "link": "https://difusorapiracicaba.com.br/comerciantes-de-rua-participam-de-capacitacao-voltada-a-expansao-dos-negocios/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778778000.0,
+        "data": "14/05/2026 17:00"
+    },
+    {
+        "titulo": "Xanddy revela pressão para terminar com Carla Perez no auge da fama",
+        "link": "https://noticiafm.com/25178-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778776269.0,
+        "data": "14/05/2026 16:31"
+    },
+    {
+        "titulo": "Copa do Mundo: Ana Maria Braga apresentará o Mais Você nos Estados Unidos",
+        "link": "https://noticiafm.com/copa-do-mundo-ana-maria-braga-apresentara-o-mais-voce-nos-estados-unidos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778776125.0,
+        "data": "14/05/2026 16:28"
+    },
+    {
+        "titulo": "Grazi Massafera conta como ela e Cauã Reymond criam a filha, Sofia, e lembra ausência de seu pai na infância: ‘Hoje ele escolhe se fazer presente’",
+        "link": "https://noticiafm.com/grazi-massafera-conta-como-ela-e-caua-reymond-criam-a-filha-sofia-e-lembra-ausencia-de-seu-pai-na-infancia-hoje-ele-escolhe-se-fazer-presente/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778775974.0,
+        "data": "14/05/2026 16:26"
+    },
+    {
+        "titulo": "Barcelona intensifica contato por João Pedro para vaga de Lewandowski",
+        "link": "https://noticiafm.com/barcelona-intensifica-contato-por-joao-pedro-para-vaga-de-lewandowski/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778775578.0,
+        "data": "14/05/2026 16:19"
+    },
+    {
+        "titulo": "Neymar rebate provocação de torcedores do Coritiba",
+        "link": "https://noticiafm.com/neymar-rebate-provocacao-de-torcedores-do-coritiba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778775295.0,
+        "data": "14/05/2026 16:14"
+    },
+    {
         "portal": "Novo Momento",
         "titulo": "DAE reforma filtros das Estações de Tratamento de Água de Americana",
         "link": "https://novomomento.com.br/dae-reforma-filtros-das-estacoes-de-americana/",
@@ -7382,621 +8075,5 @@
         "data": "10/04/2026 às 15:50",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "timestamp": 1775836211.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "4ª Rota Cervejeira de Americana movimenta o CCL no primeiro dia de evento - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhZzBuN05RM3FfZ1VibmtJZVE2a0ZsOGVsTkNqZ24wOTFmYjZwQnVVMGprb1JvaWpOTFV3VjhkVXRkTXhhMzd4akdNZmVMOEtzR1h6VXZwVmFKYld0alpfekVOY05YSDA3UjUxaWNybDBJVTZfcmFGX0dR?oc=5",
-        "data": "10/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1775804400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe secretária estadual e inicia implantação do programa SuperAção SP - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxM1FzbWJvU00tZFlIekFNdlIwZkducXdhTE42enVYMHJPMDM0emhmeDBKdWY1SHFNNUJhT1BybzVFSEVmcUY1U19nejNoRVlMNVludi1COWdkeGIyQmxUakZ5NENrNHpYYllIX3pjTk82WGNSQnJQWEZn?oc=5",
-        "data": "10/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775804400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Circuito Sesc de Artes 2026 acontece neste domingo na Praça Vó Palmira, em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRkNVMTZMUmFNR1Y3ZmhWZ1RfSWhLQkxDVUNRb0FTVXRLNDNSMXBpc2FmZzJvUVRaSTM3U3VSbG9ic0lIcUFyc0tseVZ0eDRSS05pNVM5NGtqXzBYNEpManlWX0paelZ2cHJPTC1KakliZjFycWI4bHR3?oc=5",
-        "data": "10/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "timestamp": 1775804400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Teatro de Americana recebe stand-up “Lado a Lado” com Thiago Ventura nesta sexta-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uRmpJZzVnTnhkSk5GMldlWDczdXVSeUkydFRScEpNazl6ZmQzMlhZSW1mS3lpYllxcDFub2xaWng1U19nRGc4UmJYbkZHQmFNUE5xUzc2N2lQMWlBWTdBc3RJUkRJU0V4MV9LYWRXak83T29QOHQtVWR3?oc=5",
-        "data": "10/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1775804400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Centro Cívico de Americana recebe 1º Open de Tênis neste fim de semana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdVQ1ZnVzdnB2QnBPWVJqQlYwcDNWemk5aWtNdnVVY2hpTXd5Vnh0OGdNcUlZQmNrMmhCV245N21kN3R0TVotcTU2RjJjWERKdFhzZ1Z2UERWbC1lRnpGSEswR2NGc0stSkdKbzNjamNVb1NCdVpIOThB?oc=5",
-        "data": "09/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775718000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Rota Cervejeira de Americana acontece neste fim de semana com oito bandas e 10 cervejarias - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aTk1XY0VlZThzMTVWV05ZN0hGRHM3ZGhwZWZlb1lnQ3BGbUJaOXlUd05ZSVcyOEpCLW5XZW9xWUVKTHk4WEg2MWFNRG15SXNmcVNDSVE0QWNkNGN5NmpDRFBVOWtmS24yYmxOcXBGVGhxSFdiYnFZeTl3?oc=5",
-        "data": "09/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775718000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Rota Cervejeira de Americana começa nesta sexta-feira com entrada solidária - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41eWR2RDJ0bWhUSG5IS1UydnJiSEFLSk1WcnBpVjdmblNnV1RyODAtak5QM2Qtdm1ZZkF4a21BdmNWY2dya21NaHgtRUNBSk9zYzczNThielEtUmhsdnF4LW5BUjhLTmlLLUdxYkhiX0ZUcFFhQjZURldR?oc=5",
-        "data": "08/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775631600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT Americana oferece 110 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LSFRoX1VZUGdfckI2cnNULWZoY0QyQzM1bm9EMWRmRVRiZTFMbmlXUDZvSnZDVWxOYVdMckd1SlpuazNjeG5CLTVhOXVKZFN4VnpId1FMRnVucXhoazJySWpvRzFPQ2o5alVlRWd0T1NJMVFaTFJybDVB?oc=5",
-        "data": "03/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1775199600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana registra 2,6 mil pedidos de isenção de IPTU; prazo vai até 30 de abril - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiN0ZQZFJVZzByekJ3bmlYM2xXeGVnT1JNaFFtOGZWMkVhcDE4UmdWN1RqbkJuYlRmZ1RnZk5HSnh3RUZzQkNpWGc0cjI3MEZrdnlNUVZ1Z3ZtcVdydUVoZkNiT0hDSFBzSXJ2a3R6T3NSc1JobW0wS1NB?oc=5",
-        "data": "02/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775113200.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Renda extra com o Clube de Pontos",
-        "link": "https://vagas019.com.br/renda-extra-com-o-clube-de-pontos/",
-        "data": "01/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1775083692.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Agenda cultural de abril tem a 4ª edição da Rota Cervejeira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55RGNxTW5sb1VRbldDbnRVZElpOFY3VnJyT19VdHF3SjB1TkYxbjZ4ZmprRmJ3QW1tNkRaSW5QWTNITTRDYlN1amFpdzlOMDBmT0o0TDRKU0I5X001cVZpcFVib280RFY2QmNOWE5fMTlVR2FBbzJiQkd3?oc=5",
-        "data": "01/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1775026800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Parque Ecológico e Jardim Botânico de Americana abrem normalmente no feriado prolongado - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdGoyM29Od3ZoSTJDUV9Vb05RSnlsc1VONG01ZGFWV2hlQ3VUU2xfZFhmTXJKS3plbVhZQ1ExVWtUYlpXdU11NTl2WmFXQ1RORlIySVRaRVJhNmQ2ei0xaWFVbWV4ckp2RmozbDIwVkpXMm44ODZ1WC1B?oc=5",
-        "data": "01/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1775026800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana registra saldo positivo de 572 empregos em fevereiro - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyZ2E1V24yb0xIMXByWHQ3NUNXWUN0Q3NhSmlaaUFLeGJPMWhGQmNRTjA0SEtmQlBBc2J4U1VBeUhMb0ZJTjJIcTQ4NGU4cHdjcnhYMFVuTzJnZ19PMEQ4S3FBUy1aa095OVFYSTRTX2ZlZHlqdWF2OW1R?oc=5",
-        "data": "01/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1775026800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeito Chico Sardelli anuncia adesão de Americana ao programa Universaliza SP - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00LUQ5WHBmeUlndEFhcXBLZWlWdU9TRE1VVXVidElQMjRsWHZiUUYyZnI2QUxHMzgxU3diRC1Na21pUkdNRmhSLXhvdTdETHpYOENHUDhJNWl5MHFjLWNrZnRvRlRGVEFERVoyQUNsaHdCNlVuSUtkbUJR?oc=5",
-        "data": "01/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1775026800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Serviços essenciais funcionam normalmente em Americana durante ponto facultativo e feriado - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcGFXTGlPX1VtblRwclBnUmhHUVBfbl9BRDBob05aWWpsTlNQWktkYjV5TmNZa0xBQk1nMUZZZ3N2Tm1EelNVYWZVbGF2LTAyZExVSVFfRUw5MWExWkNwcDFnUElYY0Nnb2ZVRDRYNXdiaUNWN0ZmcUtB?oc=5",
-        "data": "31/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1774940400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "GAMA é contemplada por programa nacional com novos equipamentos de menor potencial ofensivo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoUnZPdkRTQUVhTEtIM09rRFdTcEo1ME5YRkpZRldOVWhIaDZjSFRLaUlPc2NBWnNEZC1Uend3ckxjUjJkTFJEUm1HY3lzeWJRVGZ3Y0dRVlRHcE1YTjRYV0pWOVFIb1pNeUotRzlubHJnMHA3QW80YU9R?oc=5",
-        "data": "31/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1774940400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana aplica 1,5 mil vacinas contra gripe na abertura de campanha; imunização segue nas UBSs - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWGduZlQ0bGlBY21McUZveWJiS2I2ZXN5Q0RmTGNqalhxYjMxcnRYM3BDUmUzdVl3b296RzJPLTE1T1BsVVZQZWVJWWF3bDRiSHhhZ0t3R25WdVV0aGVndHZXc1R0d09xTUJ1QTlyVXllYUR0eW9hbGJB?oc=5",
-        "data": "30/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1774854000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeito Chico anuncia implantação de serviço móvel para cães e gatos em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80U1ZkeklRRzNKZEJjLWZxbXpob1d2NC1yOXdrQlJkcThvb3cySDQ1V1JtcWhHQ253UDhsR2tqUWZDclFZVU80MDFEQXo5dHVKWE5jSzhaVkdoRC1jRlliV0ZBUmVRblpVNXM2M0dwSzdiYUhNVmZVZkln?oc=5",
-        "data": "30/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1774854000.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Clube de Pontos de indicação",
-        "link": "https://vagas019.com.br/clube-de-pontos-de-indicacao/",
-        "data": "27/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1774621073.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Projeto da nova Lei de Incentivo ao Esporte é reenviado à Câmara - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrYTA5RnFHaTVGLWJtR1pjSlAtWlFTdTFOTnNYUjVuQWNySlJ6RGFEaXhMbjJHYzZLaDVJbWdFUm1ZbERUd1FFQUlqbVBLTWdCbmctMGU3TDVCdGZIbUdLR0U1VS1fYUtzdkt3TDZoVVhSQk5uV0NyeHRR?oc=5",
-        "data": "27/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1774594800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Procon identifica preço médio dos combustíveis em Americana e intensifica fiscalização - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kaEJBTUJfYlRMbXNjaFFyTUN4TnBhTTUycWpqdTZ1UnZyWGNuMEJRcUlGTHJoczQxTGg0Tng4VkJRRWRQR0JSS3huUWxyeUxNNFp4dGV5aVlrTTlkODNtd2ZzTEdmUHJ4VWVCYVdBejg1dG0tWlhmWklB?oc=5",
-        "data": "26/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1774556520.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana inicia vacinação contra a gripe neste sábado em nove UBSs - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41cFVSeXlKdXlyLUhpNWR0MC15cWlMSlVVdWs2dXJENGdVS2FtMFV5N1F3TG1GSWtKUGUtZi13YnRVdTZweTlGUjRPTzBJUGJuQjNxazFkTUhTY2dSeXJtWWNSNHRXak5DYmNNdVVSU2JZVE1mMDZ5NWlR?oc=5",
-        "data": "26/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1774508400.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Dor nos pés, sobrecarga muscular e desconforto?",
-        "link": "https://vagas019.com.br/dor-nos-pes-sobrecarga-muscular-e-desconforto/",
-        "data": "25/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1774474272.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana convoca 70 aprovados em concurso público - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rLWNkX0d4WjVDbVBpaHN4WVNNUkdYcFRHdVBKZmFQMTVjYWgtVDlaV1FtZlF1MWd0MTR5VGFlazNlWjVHZERTU2FBRmF3NVFMeGphdGQxUFhXeThiY2lpQnhoWWxQRk8xYWFDWW1lMy1DS091MURYXzF3?oc=5",
-        "data": "25/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1774422000.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Não encontrou a vaga que deseja?",
-        "link": "https://vagas019.com.br/nao-encontrou-a-vaga-que-deseja/",
-        "data": "24/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1774385425.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Emprega FAM 2026",
-        "link": "https://vagas019.com.br/emprega-fam-2026/",
-        "data": "24/03/2026",
-        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/03/empregafam-site-banner-1-1.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1774375769.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "“Americana, Café & Viola” terá café gratuito, comida de rua e chopp para acompanhar a música raiz - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VaExWVVB6RWZPTXl0cE9UV0s2aXVLU3RjdnBuZVJkLWdzVUU3RlRvVFFZQTItbmJYZkdZVGNqXzVPcGxsZ2Jvd3ZacEtWT0VYVXFwRXN4UVAtUDAtSDMwZFBiQ3Q0SmR3U2F1S25VQ2FlemNwNWluajRR?oc=5",
-        "data": "24/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1774335600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Teatro Municipal de Americana recebe stand up “Meus 15 Anos!”, com Bruna Louise - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcnRtRVdPUVA1cEh0TFpNMTRzX0ExOFFjVXpxTjNDV0dWUmlmRm14WmdMeUZBVUxpenlNTm5CdVZXdHF1dUMta1YtekxiUkNqZDdPSEFLa3NVdml3a3phNXVBQmNpcWdYVGFTYUthS0xiYmNuU2dzMkJ3?oc=5",
-        "data": "24/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1774335600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT Americana oferece 142 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sT0I3V0htamk1T25sdmlTN0dDMFBydTFBNTlnRk1ab3ctSk52bFg2czg4R2FZWWZRdDIyNC1MQUgzYV8wZGJDX0lpX25DTTktdzk3VUdxajhsaXk4X3F6N1VkVWFxUzI5Nm9BTXJyTXhYdnBfazBOWXpR?oc=5",
-        "data": "20/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1773990000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeito Chico atende pedido dos servidores para conceder reajuste salarial de 8,36% e 15% na cesta - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qOEJIMzZleE5fSE95TzIwdXBKQW1YSWszOUttNHNSbFM0STJtcjd3OWxobkNsNVd5ZURhTnlUN2xHNWJyLXJzS0RIUFY0WmoxaUFWNFpIb1VTZDBfTHM0dU94MTJCaVc0V0RCeGxfbzhNR19VWWM1VGFn?oc=5",
-        "data": "20/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1773990000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Oficina gratuita sobre criação de efeitos especiais segue com inscrições abertas no MAC Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSUVoVHFUTkYwNHdGeUZjdmE3a3dibkhpMEFGeWRMY2JXXzFmU0thOGtUa1BHMG1JcnBqOTZHbThfVDJUZkhnZ3hWY1dTWTFBZnYwVExyZWZ0ZWdmak9RUEl4aTFsZkZBUEhGSDdGd1pNQzh1cTZsUHRn?oc=5",
-        "data": "20/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773990000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Semana da Água de Americana terá abertura neste domingo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11ZFh2SHNkVkRTSFY1T25Fa3BtUmVTeDhUZXdaX0JUMTE3QXZJR21kY2FLUXJCcWJ5NUdaWG5oazlGTmVqTDhlWU4yWGc3YTNLNGg0cUJSZ2ZiMkEzbXMxZWhHUmlLSXVBRkhTUzVhcnNnMHJfdmZpMzJ3?oc=5",
-        "data": "20/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
-        "timestamp": 1773990000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana terá musical e Auto de Páscoa para celebrar a Paixão de Cristo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DRG9QR3FXVXZvaFRERFRVQ2gwMXJLblpZNTZhSnJyeXhIZ2lZVlFLRC1rVnZSYXUzbGJqS29fd1A1d0s2bXBqOXZhcXRfWU01OVZmX25MYlQ2YXRqNmtMMGRZT1ZNck1WVThDa0tvWlRSc2JLMGRRUVZn?oc=5",
-        "data": "18/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773817200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe carreta de saúde da mulher na Praça Comendador Müller a partir desta sexta-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHcURGUmxzUkpfQ1RQVUZpVlB1UlFmc0l1Mm5CZnJSMV84WWJrM3NBblU5ZjV2bWlXcGdVRDNKQXdjSXRSanRMMmNaRkNIX3ZLQi1IdzFsUGliTGJkS3NXa1R0Wk1jZHQ4X2pOckg4eEc3bk9KN0Nsb0pn?oc=5",
-        "data": "18/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1773817200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Iniciada a pintura da nova quadra de basquete 3x3 do CCL de Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wLThHOUdGOTgtVEIwWVBUWU1sbDIyU2hyYWFTOG9pNk1hQTVJZ0R0Y3g0VmJHRWYzZ0pvTFlldktEUnFFWUF2OGZIeGtxeTR4Z3h4U3QxVWdDTzh5bFZlZHVQcGZnYWVfRmFoNEMzX3d0Rmo1MTNmYVln?oc=5",
-        "data": "18/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773817200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Saúde de Americana passa a oferecer método contraceptivo de alta eficácia e longa duração - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YNlJLYkZkeDZ3WUVtVGdwZTJjNHFoeXNaZXpZWUpBamxPS05xdGswWEE2cGwzb1NxVHlMbjI3WjVjcE9xTDZQUlljaEF1ODd3NjNxc0xYVG9hX2FzU2dvdHloR3hnRWxTNzBMYXdXU3dTb1NhZU1Ma1d3?oc=5",
-        "data": "17/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1773759000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe evento de consagração da Diocese com procissão pelas ruas do Centro neste sábado - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jZ01lV2xoTU5TaGhrQzdqY0N2cXJDamprUVpZcGtfMG0ycE1rczJWajdySk9HU0VUeE85VkxZdDdKRGZaWVlJZ2RlRzFyTlRGN25LdkdGR2pKT0JVLWV4Ylpaa08tdDlkcENRWV9lSVVMWnZ4a1MxbzF3?oc=5",
-        "data": "17/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1773730800.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Qual o melhor dia para pedir demissão?",
-        "link": "https://vagas019.com.br/qual-o-melhor-dia-para-pedir-demissao/",
-        "data": "16/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1773683507.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Plantão odontológico aos finais de semana e feriados realiza mil atendimentos em um ano - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KU2UxUElJdVNBRW91WmlqODBfMkxwVVpDUWhLLWV4anU0SUFrM0ZsZjhvUElDZ0hoNHVSM2tRTm1KNTdjLW53aGE4NGVveWkwMkRvNElVX0VqdGFacGVCQzRDVGo4Z0tJZjJGNDRJckdvUWVHbjllNUx3?oc=5",
-        "data": "16/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773644400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana sedia capacitação de profissionais de saúde sobre manejo clínico das arboviroses - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IODNCdm01OVRxOWdmSXdZcVBGcTRhUi1tLU5Ka19XMEhkeE5MMUYzR3NSbTJBdGExM05jWnlHbTQteVNmN0VYQ3BLVUpwcERjUENNd3dqQVF0YzI2NjZwMW1WY3ltbXM3QXBPaUpCWFphOUZRMWJzdlJB?oc=5",
-        "data": "13/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1773432660.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Feirão Casa Paulista vai até domingo na Secretaria de Habitação em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtaEtOUlVPaDZDWnN5akZMWGh0T0JsZGxDYmZFZGt3MERPRDUwNWpKcFV0MnlBbHFqeXl6R2hpeUwzU0JzcUdEcHBfX1ZDTnNZQWhST3J0RTlhb0tOYWlyaWFQUmZWbkJoVVpoM1hWaEczSmE0dFpoMml3?oc=5",
-        "data": "13/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773385200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT Americana anuncia 122 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zVGV1Rl80cGlzT1VpUXdOM0gyNnFIMjc3OU9UM2llM240YXNQdnRtaHhibEhoQk5zWnJOTnlQams4Nnp5Wk1nR1B1RkdjaTRva1ZYUGc2QXppajljRnlnalVhSTRQRzRDUWxvbWtzSGRTTmhVWXJqZnJB?oc=5",
-        "data": "13/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1773385200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana publica edital para realização de festivais culturais com recursos do Fundo Municipal - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fRHFjNWc5MDlFTVVYbTJGeURBaXk4WU90Z0VVUFJGdU0zTGhXWEhwLWwxek9wX1JXWFZ5TnEyLWZvaGcxZGwxNVBjS1gwS2ZYWEx6a1Mxcm5rSkhnZ2pLMEVjbUhYcU5vVW8xdXZqRDNnM2stZUlVbEpR?oc=5",
-        "data": "13/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1773385200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Feirão Casa Paulista começa nesta sexta-feira com oferta de cartas de crédito habitacional - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ORV9vUjJfMi1CeVRrZFBPaEtuR2V0WnZIckxGVFlXRmtwcXNCTGVObFdhLU9iTmRKNTBqVS1qS01iRGpiNkZkU0MzRjBiUVJBamF4cktBNXhYdlhUa3pscWZFTXRjUXpBLXVuWXZETktmcUZEV0x3VlFn?oc=5",
-        "data": "12/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773298800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Escolinhas de handebol têm inscrições abertas para aulas gratuitas no Centro Cívico e Nova Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3UFVRbXVjbTg0N0JjblhRQmtkUGRnNXZWejNTX09EMk9IMVR4S3c1TWI3QndkclpyYnFENy1HRWdjU0U4NldaZjlob01vT3lGLUs1N0tqVzdlWklZTnJqQUMwNmM3RUUxbzNfdlRtVzdQZEFscklvemhB?oc=5",
-        "data": "12/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1773298800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Seleção pública do Cismetro tem 18 vagas na saúde em Americana; inscrições vão até domingo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yaGdlNXZRUlVtRDlwdnJwd3o1M1ExajR6QkFXT0loSmVGczVXVzRWbmtsb3M3Ykk1eFV0Z09IS2t1NDh1cDdDREpLUHFvZzhxVmVzcG9JMFFJRWlZdjAxT1M4Z2tSYjBiMmpRYWZWX2tDZjF3U2k1THRR?oc=5",
-        "data": "11/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1773212400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana fará revitalização do calçamento de toda a extensão da Avenida Brasil - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ydFAyazhPSkt0ZUhZSmpzWDJ1MnVsOXY4XzByYjdFay00RHdZVDhpN2hFU1hWRVRUT3lSZkExbHdUUXREajY4dTd1QkRCWi1GemRkemhqZmhOYVZ5cmZBVk1aV3RuMnJ4NGFlT3ZFQ1VHR2ppRlU0Tnhn?oc=5",
-        "data": "11/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1773212400.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Home office 2026",
-        "link": "https://vagas019.com.br/home-office-2026/",
-        "data": "10/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1773155868.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Teatro Municipal de Americana recebe musical à luz de velas com clássicos do cinema - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sdEpud1k5bzVHSDNTNzhyVzhtLTNONmI1bV9STnJYc2V2b0NwN3h5aEQ5ZXo0UFl2djBkU250Zl93eXRYSmRBVUE5RXJXWGZvRnQ2d0VNbXhDYmExNERtdzRvV285VzZIZ3l3V093SEF5NXd3a1NsZkl3?oc=5",
-        "data": "09/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1773039600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeito Chico entrega escrituras de imóveis de interesse social para 82 famílias de Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0dWZXNlE3dmhQd0g4TFprZ1JocWtXcDlwOHhka1Z4bUlQSjdBLWdobWNrSWJiZ3lOT0FUWjYyd2hfc1AtbENMdGF6NkRHNm4wQ0ZGdmdEUEFGMFBka3J5aW9WR1NwY1k5SDhtaU03NnBYUzlSdk9nSVlR?oc=5",
-        "data": "06/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1772784000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT de Americana anuncia 194 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPX3lfMGU2dGl4cC1PYXlEUmFsa3R6WUZHdzFxX1FLMDM1VkpLMmhoMGhQLXdTdTZKcGtHMEh1XzNBTzZTRTJKOEFhZDVLSlpSQldhbGhvVDJEalV1bUFHQi1lV0pEZDBEQ0Y2TUhHYjVSbzl2Ri1STzhn?oc=5",
-        "data": "06/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1772784000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana vai ampliar em 25% o quadro de cuidadores nas escolas municipais - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcmoyVmxhdWwya2pVSHNwWDhHWHk1RjNiLXBlczZGTkZubTVEVFBqT0FHQzJobGwzcndETXJIRm1mcDFlZ1EtbGhGXzlSVFJJcWpfcmRWYzM5dTRTTXZzSHc0RUFaMG12UkdPaUJldDVKUXdVLVB0aC1n?oc=5",
-        "data": "05/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1772697600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe Feirão Casa Paulista com oferta de cartas de crédito habitacional - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81QlN0WWdYQlZhdEcweVF5bTlmekxDdllJdm9CVXJJdnl0Uk1XdTFrTjE1N2FlSU4wMVhxZzJvWXhJXzVpSHFZQ1NGQkFvejI4ZDN5NVI4VmQ0a1NycXlYVjRYdkR0dEtNNGFSRTQtSmNWTThPWVhwcGRB?oc=5",
-        "data": "04/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772611200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana lança edital para patrocínio de eventos de 2026 - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oUHJxczhGVkxIdHREZUNHeGZWcHItWC1YMC0tZVItRVNIOC14Q1RJaWw5RExwS3ktN3ZKTW5rT0pmM0M3aGlnVUxhbmNEODd5bG9ZYUdoY212OHZLZTNnLVhydVQzLXJJT3NlYVNJaTdhM3AxUE5OVXN3?oc=5",
-        "data": "04/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1772611200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Banda Municipal de Americana faz homenagem ao Dia Internacional da Mulher nesta sexta - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85TmNmdEJ6U21vNFdFMVlURG1qbi1Vc1ZFeVVEYUd1RmZTWWFxa2lDV09rZVhGS0pTYTRqWldDQXhob1NiNHQ3NER4c0xOemM3X09MS0FvdktlU1lTMDdWaTJBaGhVY2lMa25JQTJmM09SMGltMGRzRFhR?oc=5",
-        "data": "04/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772611200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Agenda cultural de março tem a 2ª edição do “Americana, Café & Viola” - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMRnQzN1l0REhFcXhuVnI3S3FKNUxTNUN4X0tnTGpkSjhsSGQ4YllBWGtTeDZiS2N4Y0VSUWtlNnd0bmlpdEExTURfbTktaHhuVXAtX2gxai1xWWQ0anhkcGZSUmVmejhrdkJOdjBoaDJkMGtVa2NPdE53?oc=5",
-        "data": "03/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1772524800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana inicia recapeamento noturno no Centro - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44OFhVUWRLQ0szOW9HZmplSmFrQU9WenJGUzlOUEZGbTJyZ3BBYXpnSUhab0tzaGxVazNBajJLU2wzTkZ4WTg5V25qLTB3enZYdzBJRElDaWpIUHdXZW9RQXQwMDZUczRQVm1ESk1CMFlIcHpMZTZBVHF3?oc=5",
-        "data": "03/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772524800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Orquestra Municipal de Americana inicia temporada 2026 nesta quinta-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0waUk3VzJLeTFjLUNoQmIzc0hHOXA1YklJTGZaRThra3piQ1pNZGx1djdrMkk1REZYYmFzWTV1MVFCcXl1RE5SdS1CMDJsUXlmeGRQWGVYNUlHc1NGZUNvMmMwMGM3VHYwZTdMb3BFYjRPMVBNMEhQMkhB?oc=5",
-        "data": "03/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772524800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana lança calendário com shows de Edson e Hudson, Paralamas, CPM22, Morada e outras atrações - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LaEFFLVJyN3V3NWFRaE5uZl9wdXU1VTFJeXpGZFZNTzJBVUtBeFQ1Z2JDdmdzeXBTczZzclpMVVpwZHlVOGdpeWN6cHZZNkJMTEtPYzY3Zk1PcXQwMWZGMEZMeTRYdXBpUEVXTmRDaUJIYUoxMnJRaVRn?oc=5",
-        "data": "02/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1772438400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Gigantinho Campo: primeira rodada é marcada por goleadas nos gramados de Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aei1hcVAyVFdiQVRvdnN2bTI4eUNqWjBkYUU4M3Ribm1aS0prVi1YYjN4UTdGZ1FQU01tMElnYUtlWWRBN3RjdHVrT09hTnFKR0ozWUlPRlBhTEJCLV9lUWp2emtXQkFKd3RFNzIzVHVHc1RfUHFzYVhR?oc=5",
-        "data": "02/03/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772438400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Educação de Jovens e Adultos está com matrículas abertas em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaXlOSjdpOS1WRGFOUU5mMng3VDlKY0NLNFUxQVBLVVhmeVoycDZiWG00Y1J6b2xHczE1UmtZaEtLNFFfME5pdjBfNW5zN1RaakI3X0lvMkx4OHdmblk2V1Zrc0FBbHhrTksxZ0h3djdGS0FzV3BhbDBn?oc=5",
-        "data": "25/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1772006400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "5º Gigantinho Campo começa neste final de semana com partidas em quatro categorias - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwa09ZOFFZM3NwcURVN0ZOWHMtbXhRXzExYVBSaFdSbFlDZkt0cVc2OUZ2aGVobWtTX3lRWlIwZGtnMnVQMDdwWWlYOGoxVXVoZXhxcjRmUFRJYXFFVkxtbXdIbDU5YTQ5RUQycE5Ic0pCRG1VUnlDNEtn?oc=5",
-        "data": "25/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1772006400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Escolinha de ginástica artística masculina tem vagas abertas para aulas gratuitas no Centro Cívico - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JU3lPRXBZVzFQZFNRLUtoOGZqaWViOFJuUHdiczRXVFVSOHRITTNiRTZrQmdLLVN6TnlHM2Z6dHcxQWthQjBGZ0ttLVBEWVA2dU92REIzNlg3MGZuM09pV0laSHVRLVNZR0tySDdEc1V6XzhTNUpQMUJ3?oc=5",
-        "data": "24/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1771920000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana inicia imunização contra VSR e amplia proteção a bebês prematuros - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oeDVrbDduNS1yZWowLXZDMmt2eTg1OFRXenNxZXhGSVJxQjhVUXg3cHNSX1NDbnV5ajJJS3VNUXptT24wZGxuYzh1YW50VFUzTVNvUEtDaXY2RDZKT3g3Y0l3T0pObVRaQ1hRYzFoMXdnWUR5NVBnaEd3?oc=5",
-        "data": "23/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1771833600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT de Americana anuncia 119 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvYzk5M2N0ZUVWYzl6U3R4WlpzV292QktRWnp2RW11V1NiR2FXSm9fal94YndDbGdQZ3NkaTc3SklrMHFhSVJWRG1yWXNmQXVYU2FKWWdwaDRWYlNvVnZXYk9Mb2hmc3JVRFdLQmV6cmRwTUttb1JxS0J3?oc=5",
-        "data": "20/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1771574400.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Hospital Municipal de Americana abre processo seletivo para duas funções - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GcGRhNnlNNm94S1V0aUFPWDlZS1Rpa2dFb1F2Y2NhUE8tUjc4cmNoUlNuNGwtVXdUQlVnTXFQdlhIS1U0RUJoNE5HNlduYlRHNlotTHNSYXcxMW5rV3U5bFZ1QVAxeGhpTExWaDJRdnZfSnBLd3dtZmpR?oc=5",
-        "data": "19/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1771488000.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "PAT de Americana anuncia 136 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpQTVsX2pwQWNCRXotSU1XLWtIc1FzcUdyX1d0bExBd21jbFkxdENTVkxVVU1aS2drVkxCM216eWhrWEhrUDVobXBPS2p0dXRtQjlNV2V0SEsxc29xSjk1Y1o0NjBuX1dLcl9UV21zeGJCdUYzcnpPRXd3?oc=5",
-        "data": "13/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1770969600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Hospital Municipal e UPA São José abrem processos seletivos para contratações em quatro áreas - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kalg2QllaWllUUjVvanBEazhPSVhHZlNjaXhydWRSMVVqaUt3VVNjMUEyM05lSFdlbkZlMTA1c0hrNXJaY3ZNZWNKTk05QklJWDFobXFkQ0R1cUJoRXBjZjZzVlpFazBLUndBbDJXQjRJQjZ6YXEtWTN3?oc=5",
-        "data": "12/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1770883200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura de Americana convoca mais 46 aprovados em concurso público - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HZ2VZYWtBYkxXUjZNVy1aemQtSnV1SHE3elEzXzZqWmg0WUxwNFFSM2tsOXpPektHZWxUUUtMMnQ3ZTVUcmpoUTFGM0R6Zm9ldDYtRnhyMFlGdV9Qd3J4OU5OczBLR1FLXzlidFFYMXp0UmsyRm9PS2V3?oc=5",
-        "data": "12/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1770883200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana confirma óbito por dengue em 2026 - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GVGx1VEc1Q2RnXzBPUUJKVHBEVXdxSUE5Q1lBSmFUQ3I4ZkhyYzJCTC1ITlNBM3FWQ3lMQWJSak5raEdCX202dTVKX0NOWllndFJZSnV5MFZCb2RWMjJTNjBnMEoxTkhQd2ZQRGlRdEhuOGp3bVNnNHp3?oc=5",
-        "data": "12/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1770883200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Serviços essenciais funcionam normalmente durante o Carnaval; confira o que abre e fecha - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pMjVjQTB4MS01andvOHJIaXk0VFIyU2ZOeEdVNnBtYXRsNnpXaVl1Y0lHb3FwNGM4dVp3cnZ0dmpwOFZoa1dfV2FiTFAxUllucEp6eFkzLW4xRXVDNWlMaDM0WlU4R2ZrRmk1Rzk0bUx2NlRZbEhtNGlB?oc=5",
-        "data": "12/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1770883200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Carnaval de Americana “Fissura Folia” terá diversas atrações musicais e opções gastronômicas no CCL - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SDdHS0p2SXhqUzRaR2xNVTVMYTRCOF9SS2JuaE5QcjFVZDQ5LUVSODR3TlNrcEh1NThXN3ZLanhHenRrN29UMVNvLWctOTBjcFBWaXZTTm5hWVFwaFAyZHZ0WV92c2Rmc0tpUjh0eGwxVm15VXpSX0l3?oc=5",
-        "data": "11/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1770796800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Gama reforça canal de denúncias de maus-tratos a animais em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OVk14SEZqenkyTlBZUFhsZ1JYOU10N21takFGMjR2cXFiR20wN2FIR1Jpc0hqLW1xRG1JYlE2cDdmRGdCX09TUlYwUzVSUGtYMDNJbjNHUHZzUmlxemRSb0M1eWNwX1JnZG1rS0RQNXctTmdCUWlQV1Rn?oc=5",
-        "data": "11/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1770796800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Educação de Americana oferece 50 vagas de estágio - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VcVZtQlgwenpfUVBhMXlBSldKck9mQi1VMjJFZ0NHaXJJZEh4UGlNS1U0RkVQQl9zUFR5Z0dfeFVJdFpnUnRFcWJtaWFOZmVtaHR1M3Rrdl9mQ1RhcVdHSHRnRVlqV3RKcG9BVVQ3SWdYT0xVbEx5QWhR?oc=5",
-        "data": "06/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1770364800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "CCL recebe festival gastronômico com entrada solidária neste sábado e domingo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84UHJZWjE5emlEV3dLYmU3b0g2Rl9GQ0hKaENJWVo4eVhKYXh5S21BUUVyRm14SDRRbE9Ea0NYX1J3SC1LY1lVM0hZeU9FTlBHRlM1OFpVOW1zMVJfeG5xZU9ob2xKZDAxX1lFVEFGdUYtUzlKQ2VJU1Fn?oc=5",
-        "data": "06/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1770364800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Prefeitura entrega revitalização e oficializa denominação do CAPS Flávia Mingotte na segunda-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xVXFLM2d6WTlfa1pZLXBxenZsSzNDekQ2M3RsVEQ3UmRQNDdXZnZfbHRpS3J3dTIxY0ZocnBvLWlZTFlCc0pLci13SWd0UmZPZFI5N2VwWkhHaUFud1RRNXdYUy1fSUtVRkw2a21lUEdLT3d0?oc=5",
-        "data": "06/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1770364800.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Comitê promove capacitação do protocolo de atendimento às mulheres vítimas de violência - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rMnJReFdUZlJJMGdzdVh6ZF9QajMwdXc1VTY1SFdxOUFqRnRkOGIxTFJ1Nk5NTDRlY0lVOElLR1QwS3ZyOEJRVzRTejJWZGc0QlJ4U205SThNSWo2ZnVLcGhtZGFZNDNXUU9aajd6elVIaTRvTUZ3TUNn?oc=5",
-        "data": "05/02/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1770278400.0
     }
 ]
