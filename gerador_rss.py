@@ -116,8 +116,16 @@ def nome_curto_portal(url):
     return 'portal'
 
 def extrair_melhor_imagem(entry, url):
+    # Procura em múltiplas tags de imagem comuns em feeds RSS
     if entry.get('media_content'):
         return entry.media_content[0].get('url', '')
+    if entry.get('links'):
+        for link in entry.links:
+            if 'image' in link.get('type', ''):
+                return link.get('href', '')
+    if entry.get('description'):
+        match = re.search(r'<img [^>]*src="([^"]+)"', entry.description)
+        if match: return match.group(1)
     return ''
 
 # ==========================================
@@ -126,6 +134,7 @@ def extrair_melhor_imagem(entry, url):
 lista_final = []
 links_processados = set()
 
+# Tenta carregar o que já existe para manter o histórico
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
@@ -134,17 +143,16 @@ if os.path.exists('feed_mestre.json'):
                 if noticia.get('link') not in links_processados:
                     lista_final.append(noticia)
                     links_processados.add(noticia.get('link'))
-    except Exception as e:
-        print(f"Erro ao ler feed antigo: {e}")
+    except Exception: pass
 
+# Processa os novos feeds
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
-        print(f"[{nome_curto_portal(url)}] Lendo feed...")
+        print(f"[{nome_curto_portal(url)}] Sincronizando...")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
-            
             if not link_noticia or link_noticia in links_processados:
                 continue
                 
@@ -153,7 +161,7 @@ for url in FEEDS:
             imagem_original = extrair_melhor_imagem(entry, url)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
-            # Formatação segura da data real
+            # 🕒 CAPTURA DA DATA REAL DA NOTÍCIA
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_real = time.mktime(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
@@ -161,8 +169,8 @@ for url in FEEDS:
             else:
                 timestamp_real = time.time()
                 
-            # Adicionando o campo "data" formatado para o seu HTML renderizar
-            data_formatada = datetime.fromtimestamp(timestamp_real).strftime("%d/%m/%Y %H:%M")
+            # Formatação para o seu HTML exibir "15/05/2026"
+            data_str = datetime.fromtimestamp(timestamp_real).strftime("%d/%m/%Y %H:%M")
             
             noticia_objeto = {
                 'titulo': titulo_seguro,
@@ -171,19 +179,21 @@ for url in FEEDS:
                 'portal': portal_nome,
                 'logo_portal': LOGOS_PORTAIS.get(portal_nome, LINK_FALLBACK_PADRAO),
                 'timestamp': timestamp_real,
-                'data': data_formatada # <-- O CAMPO QUE FALTAVA!
+                'data': data_str  # <--- ESSENCIAL PARA O SEU SITE
             }
             
             lista_final.append(noticia_objeto)
             links_processados.add(link_noticia)
             
     except Exception as e:
-        print(f"Erro ao processar feed {url}: {e}")
+        print(f"Erro em {url}: {e}")
 
+# Ordena pela data real (mais novas primeiro)
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
+# Salva o arquivo JSON final
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 O Hub de Notícias da RMC foi atualizado com sucesso!")
+    print("✅ Feed atualizado com sucesso!")
