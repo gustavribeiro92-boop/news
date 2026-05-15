@@ -116,40 +116,54 @@ def nome_curto_portal(url):
     return 'portal'
 
 def extrair_melhor_imagem(entry, url):
-    # Função simulada simplificada para o fluxo rodar sem travar
-    return entry.get('media_content', [{}])[0].get('url', '') if entry.get('media_content') else ''
+    if entry.get('media_content'):
+        return entry.media_content[0].get('url', '')
+    return ''
 
 # ==========================================
 # 3. PROCESSO PRINCIPAL DE AGREGÇÃO
 # ==========================================
 lista_final = []
+links_processados = set()
 
+# Puxa o histórico antigo primeiro e blinda contra duplicações
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                lista_final.append(noticia)
+                # Usa o link como RG da notícia para não duplicar
+                if noticia.get('link') not in links_processados:
+                    lista_final.append(noticia)
+                    links_processados.add(noticia.get('link'))
     except Exception as e:
         print(f"Erro ao ler feed antigo: {e}")
 
-# Processamento fictício das urls
+# Processamento dos Feeds Novos
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
-        print(f"[{nome_curto_portal(url)}] Descarregou {len(feed.entries)} notícias.")
+        print(f"[{nome_curto_portal(url)}] Lendo feed...")
         
-        for entry in feed.entries[:100]:
+        for entry in feed.entries[:30]:  # Puxa as 30 mais recentes de cada portal
             link_noticia = entry.get('link', '')
-            if not link_noticia:
+            
+            # Se a notícia já está no nosso arquivo, ele ignora e vai pra próxima!
+            if not link_noticia or link_noticia in links_processados:
                 continue
                 
             titulo_seguro = entry.get('title', 'Notícia')
             portal_nome = nome_curto_portal(url)
             imagem_original = extrair_melhor_imagem(entry, url)
-            
-            # Executa a sua inteligência de categorização de imagem
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
+            
+            # 🕒 A MÁGICA DA DATA REAL VOLTOU AQUI!
+            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                timestamp_real = time.mktime(entry.published_parsed)
+            elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                timestamp_real = time.mktime(entry.updated_parsed)
+            else:
+                timestamp_real = time.time() # Só usa o tempo de agora se o portal for ruim e não mandar data
             
             noticia_objeto = {
                 'titulo': titulo_seguro,
@@ -157,18 +171,23 @@ for url in FEEDS:
                 'imagem': imagem_final,
                 'portal': portal_nome,
                 'logo_portal': LOGOS_PORTAIS.get(portal_nome, LINK_FALLBACK_PADRAO),
-                'timestamp': time.time()
+                'timestamp': timestamp_real
             }
+            
             lista_final.append(noticia_objeto)
+            links_processados.add(link_noticia)
+            
     except Exception as e:
         print(f"Erro ao processar feed {url}: {e}")
 
-# Ordenação e limite
+# Ordena puxando os timestamps maiores (mais recentes) pro topo!
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+
+# Mantém o arquivo limpo só com as 1000 mais recentes
 lista_final = lista_final[:1000]
 
 # TRAVA DE SEGURANÇA MÁXIMA
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 O Hub de Notícias da RMC foi atualizado com sucesso e com segurança!")
+    print("🎉 O Hub de Notícias da RMC foi atualizado com sucesso e ordem cronológica corrigida!")
