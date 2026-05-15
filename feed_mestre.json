@@ -1,5 +1,293 @@
 [
     {
+        "titulo": "Promotoria de Habitação e Urbanismo da Capital instaura inquérito civil no caso do Jaguaré",
+        "link": "https://rapidonoar.com.br/promotoria-de-habitacao-e-urbanismo-da-capital-instaura-inquerito-civil-no-caso-do-jaguare/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/explosao-jaguare-sp-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778871961.0,
+        "data": "15/05/2026 19:06"
+    },
+    {
+        "titulo": "Acipi promove roda de conversa gratuita para fortalecer o empreendedorismo feminino em Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/acipi-promove-roda-de-conversa-gratuita-para-fortalecer-o-empreendedorismo-feminino-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778871600.0,
+        "data": "15/05/2026 19:00"
+    },
+    {
+        "titulo": "Piscinas municipais de Limeira registram mais de 21 mil acessos durante a temporada de verão",
+        "link": "https://noticiadelimeira.com.br/2026/05/15/piscinas-municipais-de-limeira-registram-mais-de-21-mil-acessos-durante-a-temporada-de-verao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778870301.0,
+        "data": "15/05/2026 18:38"
+    },
+    {
+        "titulo": "Inscrições de estabelecimentos para o Festival Gastronômico de Inverno 2026 seguem até 24 de maio",
+        "link": "https://sb24horas.com.br/inscricoes-de-estabelecimentos-para-o-festival-gastronomico-de-inverno-2026-seguem-ate-24-de-maio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/frio.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778870145.0,
+        "data": "15/05/2026 18:35"
+    },
+    {
+        "titulo": "Fundo Social de Solidariedade de Santa Bárbara recebe 500 cestas básicas do Governo do Estado",
+        "link": "https://sb24horas.com.br/fundo-social-de-solidariedade-de-santa-barbara-recebe-500-cestas-basicas-do-governo-do-estado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778870082.0,
+        "data": "15/05/2026 18:34"
+    },
+    {
+        "titulo": "Entidades são selecionadas para Alimentação no Festival Raízes de SBO",
+        "link": "https://novomomento.com.br/entidades-selecionadas-festival-raizes-de-sbo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778869830.0,
+        "data": "15/05/2026 18:30"
+    },
+    {
+        "titulo": "Simulado de acidente de trânsito será realizado na avenida Independência na próxima terça-feira, 19/05",
+        "link": "https://difusorapiracicaba.com.br/simulado-de-acidente-de-transito-sera-realizado-na-avenida-independencia-na-proxima-terca-feira-19-05/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778869800.0,
+        "data": "15/05/2026 18:30"
+    },
+    {
+        "titulo": "Espetáculo da Mostra Senac de Artes Cênicas muda de local devido às chuvas",
+        "link": "https://sb24horas.com.br/espetaculo-da-mostra-senac-de-artes-cenicas-muda-de-local-devido-as-chuvas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778869774.0,
+        "data": "15/05/2026 18:29"
+    },
+    {
+        "titulo": "Limeira terá fim de semana com programação cultural, gastronômica e religiosa",
+        "link": "https://noticiadelimeira.com.br/2026/05/15/limeira-tera-fim-de-semana-com-programacao-cultural-gastronomica-e-religiosa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778869773.0,
+        "data": "15/05/2026 18:29"
+    },
+    {
+        "titulo": "13ª Conferência Municipal de Cultura debate o tema “Cultura e Território” em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/15/13a-conferencia-municipal-de-cultura-debate-o-tema-cultura-e-territorio-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778869341.0,
+        "data": "15/05/2026 18:22"
+    },
+    {
+        "titulo": "Região do Parque Novo Mundo em Limeira recebe o mutirão da dengue neste sábado (16)",
+        "link": "https://rapidonoar.com.br/regiao-do-parque-novo-mundo-em-limeira-recebe-o-mutirao-da-dengue-neste-sabado-16/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2025/08/mutirao-da-dengue-limeira-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778869263.0,
+        "data": "15/05/2026 18:21"
+    },
+    {
+        "titulo": "Fundada há 150 anos por imigrantes americanos, essa cidade brasileira hoje está entre as melhores do país para viver - Terra Brasil Notícias",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTlllSXJGd1RvUVFlWWFPdFZGRlJRbmkxMWV1VTIwYnl0cnRBNm52ZzFIZnh1TlVIVmVCZkp4RWd5MXpiNGRxUDdQeWNRUUpPcTFOS1BBSmtORUJBWlhzbnA5TVNHcDhtX1IxZ1BaUmFWQ19xNjhxRURBYm9uZW5tWGZpY1g4R1RaUzA4ZTFObWg5a0RpckhoZTJfeGpFVlFjNmw0ek1oNGRfSTBIdDM4aGlIZVVjSElFekkxYktIUUJMZFdmMHNhYUxqRjlNaFg4cmRhbzJkS3lPbFZ2alk0WjYwYmIzZmhLc2NLbw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778869200.0,
+        "data": "15/05/2026 18:20"
+    },
+    {
+        "titulo": "Lula manda indireta para Flávio durante visita a hospital em SP: ‘Aqui, não tem dinheiro do Vorcaro’",
+        "link": "https://noticiafm.com/lula-manda-indireta-para-flavio-durante-visita-a-hospital-em-sp-aqui-nao-tem-dinheiro-do-vorcaro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778869037.0,
+        "data": "15/05/2026 18:17"
+    },
+    {
+        "titulo": "Dia do Assistente Social: Seprosom celebra os profissionais que transformam realidades em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/15/dia-do-assistente-social-seprosom-celebra-os-profissionais-que-transformam-realidades-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1778868910.0,
+        "data": "15/05/2026 18:15"
+    },
+    {
+        "titulo": "Flávio Bolsonaro sobre áudio para Vorcaro: ‘Não tenho que justificar nada para ninguém’",
+        "link": "https://noticiafm.com/flavio-bolsonaro-sobre-audio-para-vorcaro-nao-tenho-que-justificar-nada-para-ninguem/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778868900.0,
+        "data": "15/05/2026 18:15"
+    },
+    {
+        "titulo": "Ypê pede chave PIX de clientes que compraram produtos suspensos; saiba como pedir reembolso",
+        "link": "https://noticiafm.com/ype-pede-chave-pix-de-clientes-que-compraram-produtos-suspensos-saiba-como-pedir-reembolso/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778868759.0,
+        "data": "15/05/2026 18:12"
+    },
+    {
+        "titulo": "Família procura por homem desaparecido em Piracicaba",
+        "link": "https://rapidonoar.com.br/familia-procura-por-homem-desaparecido-em-piracicaba-2/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/desaparecimento-nino-piracicaba-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778868608.0,
+        "data": "15/05/2026 18:10"
+    },
+    {
+        "titulo": "Zé Felipe posta com os filhos e fãs ‘avisam’ sobre término de Virginia e Vini Jr",
+        "link": "https://noticiafm.com/ze-felipe-posta-com-os-filhos-e-fas-avisam-sobre-termino-de-virginia-e-vini-jr/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778868511.0,
+        "data": "15/05/2026 18:08"
+    },
+    {
+        "titulo": "Filha de Grazi Massafera, Sofia impressiona pela altura em aparição rara na TV",
+        "link": "https://noticiafm.com/filha-de-grazi-massafera-sofia-impressiona-pela-altura-em-aparicao-rara-na-tv/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778868388.0,
+        "data": "15/05/2026 18:06"
+    },
+    {
+        "titulo": "Dorival Jr está de volta ao São Paulo",
+        "link": "https://rapidonoar.com.br/dorival-jr-esta-de-volta-ao-sao-paulo/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/dorival-12-1024x575.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778868297.0,
+        "data": "15/05/2026 18:04"
+    },
+    {
+        "titulo": "Inscrições de estabelecimentos para o Festival Gastronômico de Inverno 2026 seguem até 24 de maio",
+        "link": "https://hjnews.com.br/inscricoes-de-estabelecimentos-para-o-festival-gastronomico-de-inverno-2026-seguem-ate-24-de-maio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/frio.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778868269.0,
+        "data": "15/05/2026 18:04"
+    },
+    {
+        "titulo": "Três Graças: saiba tudo o que está em jogo no último capítulo da novela das 9",
+        "link": "https://noticiafm.com/tres-gracas-saiba-tudo-o-que-esta-em-jogo-no-ultimo-capitulo-da-novela-das-9/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778868258.0,
+        "data": "15/05/2026 18:04"
+    },
+    {
+        "titulo": "Fundo Social de Solidariedade de Santa Bárbara recebe 500 cestas básicas do Governo do Estado",
+        "link": "https://hjnews.com.br/fundo-social-de-solidariedade-de-santa-barbara-recebe-500-cestas-basicas-do-governo-do-estado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1778868083.0,
+        "data": "15/05/2026 18:01"
+    },
+    {
+        "titulo": "Capacitação ensina cuidados essenciais na manipulação de alimentos",
+        "link": "https://difusorapiracicaba.com.br/capacitacao-ensina-cuidados-essenciais-na-manipulacao-de-alimentos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778868000.0,
+        "data": "15/05/2026 18:00"
+    },
+    {
+        "titulo": "Medina, Filipinho e Alejo avançam às oitavas de etapa na Nova Zelândia",
+        "link": "https://sb24horas.com.br/medina-filipinho-e-alejo-avancam-as-oitavas-de-etapa-na-nova-zelandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778867989.0,
+        "data": "15/05/2026 17:59"
+    },
+    {
+        "titulo": "Coluna Pimba com as curtas do esporte",
+        "link": "https://rapidonoar.com.br/coluna-pimba-com-as-curtas-do-esporte-138/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/barra-5-893x1024.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778867976.0,
+        "data": "15/05/2026 17:59"
+    },
+    {
+        "titulo": "CEO da McLaren envia carta à FIA e cobra fim de múltipla propriedade de equipes na F1",
+        "link": "https://noticiafm.com/ceo-da-mclaren-envia-carta-a-fia-e-cobra-fim-de-multipla-propriedade-de-equipes-na-f1/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778867874.0,
+        "data": "15/05/2026 17:57"
+    },
+    {
+        "titulo": "COB fecha patrocínio milionário para ciclo olímpico até Los Angeles 2028",
+        "link": "https://noticiafm.com/cob-fecha-patrocinio-milionario-para-ciclo-olimpico-ate-los-angeles-2028/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778867688.0,
+        "data": "15/05/2026 17:54"
+    },
+    {
+        "titulo": "Dorival Júnior é o novo técnico do São Paulo",
+        "link": "https://noticiafm.com/dorival-junior-e-o-novo-tecnico-do-sao-paulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778867550.0,
+        "data": "15/05/2026 17:52"
+    },
+    {
+        "titulo": "Maio Amarelo: Piracicaba registra aumento de batidas de veículos contra postes da rede elétrica",
+        "link": "https://difusorapiracicaba.com.br/maio-amarelo-piracicaba-registra-aumento-de-batidas-de-veiculos-contra-postes-da-rede-eletrica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778866200.0,
+        "data": "15/05/2026 17:30"
+    },
+    {
+        "titulo": "Sumaré entrega revitalização da Praça do Sol, na região do Matão",
+        "link": "https://novomomento.com.br/sumare-entrega-revitalizacao-da-praca-do-sol-na-regiao-do-matao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778866195.0,
+        "data": "15/05/2026 17:29"
+    },
+    {
+        "titulo": "Sumaré alerta para golpes com falsos fiscais da Vigilância Sanitária",
+        "link": "https://novomomento.com.br/sumare-alerta-para-golpes-com-falsos-fiscais-da-vigilancia-sanitaria/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778865605.0,
+        "data": "15/05/2026 17:20"
+    },
+    {
         "titulo": "Assistente virtual da Prefeitura de Limeira  passa a abrir protocolos de serviços públicos pelo WhatsApp",
         "link": "https://rapidonoar.com.br/assistente-virtual-da-prefeitura-de-limeira-passa-a-abrir-protocolos-de-servicos-publicos-pelo-whatsapp/",
         "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/lia-limeira-1024x683.jpg",
@@ -83,6 +371,15 @@
     {
         "titulo": "Homem que ateou fogo na companheira em Piracicaba é preso por delegada da Mulher",
         "link": "https://rapidonoar.com.br/homem-que-ateou-fogo-na-companheira-em-piracicaba-e-preso-por-delegada-da-mulher/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/preso-por-incendiar-a-companheira-em-piracicaba-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778861925.0,
+        "data": "15/05/2026 16:18"
+    },
+    {
+        "titulo": "Homem que ateou fogo na companheira em Piracicaba é preso por delegada da Mulher",
+        "link": "https://rapidonoar.com.br/homem-que-ateou-fogo-na-companheira-em-piracicaba-e-preso-por-delegada-da-mulher-sp/",
         "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/preso-por-incendiar-a-companheira-em-piracicaba-1024x683.jpg",
         "portal": "rapidonoar",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
@@ -303,6 +600,15 @@
         "portal": "noticiafm",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
         "timestamp": 1778848937.0,
+        "data": "15/05/2026 12:42"
+    },
+    {
+        "titulo": "MP denuncia por homicídio motorista que provocou morte de jovem no Jardim Ipiranga em Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbEtiTW9PaWFjU1prWkNOcjZ0QlcyTWYyeEtqckVjakZ6cHFlVUx3aEowalRpeW5LZ1ZuZ0c3N1A0ZWYtajk1MmJ1RjRUalZFQXg2T2JDbjE5WTR4ZVV5MExvbUdsTnl5R05QU2RHOUdKdmQ2NEVKTEMtSFl2dm1FSS13cDB1MGh0OWN2TWFPdWZZRlVIeW8yYjZrYV9QYjcyZ2Q0ZEFkaXdlU0J1dHA1VWZqYmgtaGR1aXhJRkpncVNUVHBaZlNEa1hKZzU3bzh5OGEtb0JiNVVINk1GM0NRWUtiOHp4ekk2RHVwVVVjVF83YmcxbnBCVmhn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778848920.0,
         "data": "15/05/2026 12:42"
     },
     {
@@ -5752,6 +6058,15 @@
         "timestamp": 1778269816.0
     },
     {
+        "titulo": "Meio Ambiente aborda biodiversidade em ação educativa com alunos da Casa da Criança Graúna - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hQTlZMHZYcENjM19yQy1rbS00b0U0YjNkeHp3aDFESml1RklrcU1rQmVEVzRaV1BSM1YtQ2h1cGtVeVJaZGZmUTkxQ1RTT1hGeFZiR1NkMzVSR0xDd0E3WS0yd0JycmFuTDlCYW9LczBtNzBHWE1nRGF3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778269560.0,
+        "data": "08/05/2026 19:46"
+    },
+    {
         "portal": "Rápido no Ar",
         "titulo": "Helicóptero da família de Henrique e Juliano faz pouso de emergência no Tocantins",
         "link": "https://rapidonoar.com.br/helicoptero-da-familia-de-henrique-e-juliano-faz-pouso-de-emergencia-no-tocantins/",
@@ -7822,285 +8137,5 @@
         "data": "23/04/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1776927600.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Conta de luz ficará mais cara em Americana e região",
-        "link": "https://portaldeamericana.com/conta-de-luz-ficara-mais-cara-em-americana-e-regiao/?utm_source=rss&utm_medium=rss&utm_campaign=conta-de-luz-ficara-mais-cara-em-americana-e-regiao",
-        "data": "23/04/2026 às 01:39",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1776908346.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "McDonald’s abre nova unidade no Americana Shopping nesta sexta-feira",
-        "link": "https://portaldeamericana.com/mcdonalds-abre-nova-unidade-no-americana-shopping-nesta-sexta-feira/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-abre-nova-unidade-no-americana-shopping-nesta-sexta-feira",
-        "data": "23/04/2026 às 00:17",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1776903458.0
-    },
-    {
-        "portal": "Vagas 019",
-        "titulo": "Evento Viva Leve – Sábado em Americana",
-        "link": "https://vagas019.com.br/evento-viva-leve-sabado-em-americana/",
-        "data": "22/04/2026",
-        "imagem": "https://wsrv.nl/?url=vagas019.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-16.30.09oooo-819x1024.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776887458.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Vereadora se envolve em acidente ao chegar para sessão da Câmara em Americana",
-        "link": "https://portaldeamericana.com/vereadora-se-envolve-em-acidente-ao-chegar-para-sessao-da-camara-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=vereadora-se-envolve-em-acidente-ao-chegar-para-sessao-da-camara-em-americana",
-        "data": "22/04/2026 às 19:33",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4416.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776886423.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Vigilância Sanitária e Polícia Civil interditam clínica após denúncia em Americana",
-        "link": "https://portaldeamericana.com/vigilancia-sanitaria-e-policia-civil-interditam-clinica-apos-denuncia-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=vigilancia-sanitaria-e-policia-civil-interditam-clinica-apos-denuncia-em-americana",
-        "data": "22/04/2026 às 19:26",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4414.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776886017.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Tarcísio nomeia coronel Glauce Cavalli como primeira mulher a comandar a PM de São Paulo",
-        "link": "https://portaldeamericana.com/tarcisio-nomeia-coronel-glauce-cavalli-como-primeira-mulher-a-comandar-a-pm-de-sao-paulo/?utm_source=rss&utm_medium=rss&utm_campaign=tarcisio-nomeia-coronel-glauce-cavalli-como-primeira-mulher-a-comandar-a-pm-de-sao-paulo",
-        "data": "22/04/2026 às 18:48",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/coronel-Glauce-Cavalli.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776883717.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Rede anuncia maior academia de Americana em novo espaço na Avenida Antônio Pinto Duarte",
-        "link": "https://portaldeamericana.com/rede-anuncia-maior-academia-de-americana-em-novo-espaco-na-avenida-antonio-pinto-duarte/?utm_source=rss&utm_medium=rss&utm_campaign=rede-anuncia-maior-academia-de-americana-em-novo-espaco-na-avenida-antonio-pinto-duarte",
-        "data": "22/04/2026 às 18:35",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4402.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776882953.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Guarda Municipal apreende simulacro de arma após monitoramento em praça de Americana",
-        "link": "https://portaldeamericana.com/guarda-municipal-apreende-simulacro-de-arma-apos-monitoramento-em-praca-de-americana/?utm_source=rss&utm_medium=rss&utm_campaign=guarda-municipal-apreende-simulacro-de-arma-apos-monitoramento-em-praca-de-americana",
-        "data": "22/04/2026 às 16:54",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-13.47.21.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776876885.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Mutirão atende 248 mulheres com implante contraceptivo gratuito em Americana",
-        "link": "https://portaldeamericana.com/mutirao-atende-248-mulheres-com-implante-contraceptivo-gratuito-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=mutirao-atende-248-mulheres-com-implante-contraceptivo-gratuito-em-americana",
-        "data": "22/04/2026 às 14:58",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/mutirao-para-insercao-gratuita-do-Implanon.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776869901.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "GAMA apreende adolescentes com moto furtada no Terramérica",
-        "link": "https://portaldeamericana.com/gama-apreende-adolescentes-com-moto-furtada-no-terramerica/?utm_source=rss&utm_medium=rss&utm_campaign=gama-apreende-adolescentes-com-moto-furtada-no-terramerica",
-        "data": "22/04/2026 às 14:51",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-11.32.33.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776869509.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Alta de carnes e cervejas deixa o churrasco mais caro",
-        "link": "https://portaldeamericana.com/alta-de-carnes-e-cervejas-deixa-o-churrasco-mais-caro/?utm_source=rss&utm_medium=rss&utm_campaign=alta-de-carnes-e-cervejas-deixa-o-churrasco-mais-caro",
-        "data": "22/04/2026 às 14:32",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4383.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776868347.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana terá aulas gratuitas de tênis nas quadras do Centro Cívico a partir de maio - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MRjJQbjE2Z1daa0ZiZ2ZlRW93RlJ0cDZQNUFTV2VlbHJOQUxBUXlPeE1LMk9KT3pLWHZORGxaZWs4c0M1MGZ0TGFSd3piczllMTJlRV9nUkNwTTBlYUd3UVo5TXRhR1RQUVAwZ2dKZmZSWndzYXNRMnJB?oc=5",
-        "data": "22/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "timestamp": 1776841200.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "“Os Saltimbancos” chega ao Teatro Municipal de Americana com dança e música ao vivo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xRzFkVWN3bVE4WGVGVXdobVBqREMtWE9xWWxIbnNLS0RMWmdiZWJSVnhXTVNZSUZHTkZNOXMxZE5yR2V6Yy1QbkdUb0NHQXdEcW5yV3R5U0loQWszbHhoS2M0WUt4WjJmdFlTdVY0alpRelZnN3pKNkZB?oc=5",
-        "data": "22/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1776841200.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Colisão entre carretas deixa motorista ferido na Rodovia Anhanguera",
-        "link": "https://portaldeamericana.com/colisao-entre-carretas-deixa-motorista-ferido-na-rodovia-anhanguera/?utm_source=rss&utm_medium=rss&utm_campaign=colisao-entre-carretas-deixa-motorista-ferido-na-rodovia-anhanguera",
-        "data": "21/04/2026 às 17:29",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4351.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776792572.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Segunda edição do Pork’s Festival acontece em Americana de sexta a domingo - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EdXRubUJ3M3hhcWlBZG1FdUREWDhIN0pSNzBiQ3pab1l1Qlo1cDJpREtvXzkyR3k3Y2VDeF9PRFJ0dmQtVFFnbDNMV1FnRG13QlFiNDR2WlF3Tm15S3FPTVQxNVVCWWJvV3FRa3BRLVUtWHJUeXdLQ3BR?oc=5",
-        "data": "21/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1776754800.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Romi promove feirão de emprego com vagas em diferentes áreas em Santa Bárbara d’Oeste",
-        "link": "https://portaldeamericana.com/romi-promove-feirao-de-emprego-com-vagas-em-diferentes-areas-em-santa-barbara-doeste/?utm_source=rss&utm_medium=rss&utm_campaign=romi-promove-feirao-de-emprego-com-vagas-em-diferentes-areas-em-santa-barbara-doeste",
-        "data": "20/04/2026 às 23:24",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4315.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776727494.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Feira Noivas & Festas chega à 10ª edição em Americana com entrada gratuita e sorteios de R$ 5 mil",
-        "link": "https://portaldeamericana.com/feira-noivas-festas-chega-a-10a-edicao-em-americana-com-entrada-gratuita-e-sorteios-de-r-5-mil/?utm_source=rss&utm_medium=rss&utm_campaign=feira-noivas-festas-chega-a-10a-edicao-em-americana-com-entrada-gratuita-e-sorteios-de-r-5-mil",
-        "data": "20/04/2026 às 22:43",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4310.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776725013.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Ex-vereador Major Crivelari morre vítima de câncer no fígado",
-        "link": "https://portaldeamericana.com/ex-vereador-major-crivelari-morre-vitima-de-cancer-no-figado/?utm_source=rss&utm_medium=rss&utm_campaign=ex-vereador-major-crivelari-morre-vitima-de-cancer-no-figado",
-        "data": "20/04/2026 às 21:01",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4303.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776718876.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "GAMA recupera carro furtado e prende suspeito na região da Praia Azul",
-        "link": "https://portaldeamericana.com/gama-recupera-carro-furtado-e-prende-suspeito-na-regiao-da-praia-azul/?utm_source=rss&utm_medium=rss&utm_campaign=gama-recupera-carro-furtado-e-prende-suspeito-na-regiao-da-praia-azul",
-        "data": "20/04/2026 às 20:21",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/f863f10a-30cf-4169-a174-ba79f5b7f89a.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776716492.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "9º Encontro de Carros Antigos de Americana acontece neste final de semana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAybnVVOGFCQ2ZtZWF4ZnEtaTJXcHFJc3pHVENoSl9RNUw4emJTbkhNeHpMRHhmbVdMN0hZVWhLTktVS040RmRfQ3BNRkZEZVFJdUtBdmVhS29CbVQxamoxTlZuVlIzZGU3UVhQNGVrRk51TVpBQ0Z5d1l3?oc=5",
-        "data": "20/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1776668400.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Pai de Ana Paula, Gerardo Renault foi deputado federal por dois mandatos",
-        "link": "https://portaldeamericana.com/pai-de-ana-paula-gerardo-renault-foi-deputado-federal-por-dois-mandatos/?utm_source=rss&utm_medium=rss&utm_campaign=pai-de-ana-paula-gerardo-renault-foi-deputado-federal-por-dois-mandatos",
-        "data": "20/04/2026 às 03:47",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Gerardo-Renault-foi-deputado-federal-por-dois-mandatos.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776656851.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Medicamento contra progressão do Alzheimer chega ao País em junho",
-        "link": "https://portaldeamericana.com/medicamento-contra-progressao-do-alzheimer-chega-ao-pais-em-junho/?utm_source=rss&utm_medium=rss&utm_campaign=medicamento-contra-progressao-do-alzheimer-chega-ao-pais-em-junho",
-        "data": "20/04/2026 às 03:03",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/lecanemabe.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776654196.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Brasileiro de 35 anos desaparece em Buenos Aires após marcar encontro",
-        "link": "https://portaldeamericana.com/brasileiro-de-35-anos-desaparece-em-buenos-aires-apos-marcar-encontro/?utm_source=rss&utm_medium=rss&utm_campaign=brasileiro-de-35-anos-desaparece-em-buenos-aires-apos-marcar-encontro",
-        "data": "20/04/2026 às 02:59",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Danilo-Neves-Pereira.avif&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776653950.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Pai de Ana Paula Renault morre em Belo Horizonte após complicações de saúde",
-        "link": "https://portaldeamericana.com/pai-de-ana-paula-renault-morre-em-belo-horizonte-apos-complicacoes-de-saude/?utm_source=rss&utm_medium=rss&utm_campaign=pai-de-ana-paula-renault-morre-em-belo-horizonte-apos-complicacoes-de-saude",
-        "data": "20/04/2026 às 01:04",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4270.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776647051.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Rádio do ex-prefeito Omar Najar tem a pior audiência da cidade, diz o Ibope",
-        "link": "https://portaldeamericana.com/radio-do-ex-prefeito-omar-najar-tem-a-pior-audiencia-da-cidade-diz-o-ibope/?utm_source=rss&utm_medium=rss&utm_campaign=radio-do-ex-prefeito-omar-najar-tem-a-pior-audiencia-da-cidade-diz-o-ibope",
-        "data": "19/04/2026 às 21:58",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4228.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776635907.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Itaú encerra atividades de agência na Avenida Campos Salles",
-        "link": "https://portaldeamericana.com/itau-encerra-atividades-de-agencia-na-avenida-campos-salles/?utm_source=rss&utm_medium=rss&utm_campaign=itau-encerra-atividades-de-agencia-na-avenida-campos-salles",
-        "data": "19/04/2026 às 21:57",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4230.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776635860.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Após série de furtos, hamburgueria encerra atividades e coloca ponto à venda em Americana",
-        "link": "https://portaldeamericana.com/apos-serie-de-furtos-hamburgueria-encerra-atividades-e-coloca-ponto-a-venda-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=apos-serie-de-furtos-hamburgueria-encerra-atividades-e-coloca-ponto-a-venda-em-americana",
-        "data": "19/04/2026 às 21:06",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4229.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776632784.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Supermercados Pague Menos é eleito melhor varejo alimentar nacional em prêmio da 3M",
-        "link": "https://portaldeamericana.com/supermercados-pague-menos-e-eleito-melhor-varejo-alimentar-nacional-em-premio-da-3m/?utm_source=rss&utm_medium=rss&utm_campaign=supermercados-pague-menos-e-eleito-melhor-varejo-alimentar-nacional-em-premio-da-3m",
-        "data": "19/04/2026 às 20:33",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Supermercados-Pague-Menos-e-eleito-melhor-varejo-alimentar-nacional-em-premio-da-3M.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776630807.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Deputado de vídeo polêmico destinou R$ 6 milhões para Americana",
-        "link": "https://portaldeamericana.com/deputado-de-video-polemico-destinou-r-6-milhoes-para-americana/?utm_source=rss&utm_medium=rss&utm_campaign=deputado-de-video-polemico-destinou-r-6-milhoes-para-americana",
-        "data": "19/04/2026 às 18:32",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4114.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776623569.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Prefeitura revitaliza sinalização viária de toda a extensão da Avenida Iacanga",
-        "link": "https://portaldeamericana.com/prefeitura-revitaliza-sinalizacao-viaria-de-toda-a-extensao-da-avenida-iacanga/?utm_source=rss&utm_medium=rss&utm_campaign=prefeitura-revitaliza-sinalizacao-viaria-de-toda-a-extensao-da-avenida-iacanga",
-        "data": "19/04/2026 às 18:29",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Prefeitura-revitaliza-sinalizacao-viaria-de-toda-a-extensao-da-Avenida-Iacanga.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776623395.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "sem dinheiro público, projeto prevê plantio de 90 de palmeiras imperiais na Avenida Brasil",
-        "link": "https://portaldeamericana.com/sem-dinheiro-publico-projeto-preve-plantio-de-90-de-palmeiras-imperiais-na-avenida-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=sem-dinheiro-publico-projeto-preve-plantio-de-90-de-palmeiras-imperiais-na-avenida-brasil",
-        "data": "19/04/2026 às 14:26",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4141.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776608799.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Americana Shopping ganha restaurante de culinária Japonesa NoHashi",
-        "link": "https://portaldeamericana.com/americana-shopping-ganha-restaurante-de-culinaria-japonesa-nohashi/?utm_source=rss&utm_medium=rss&utm_campaign=americana-shopping-ganha-restaurante-de-culinaria-japonesa-nohashi",
-        "data": "18/04/2026 às 23:15",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4130.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776554154.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Residenciais Jatobá e Manacá avançam para entrega e reforçam atuação da Pura Construtora na região",
-        "link": "https://portaldeamericana.com/residenciais-jatoba-e-manaca-avancam-para-entrega-e-reforcam-atuacao-da-pura-construtora-na-regiao/?utm_source=rss&utm_medium=rss&utm_campaign=residenciais-jatoba-e-manaca-avancam-para-entrega-e-reforcam-atuacao-da-pura-construtora-na-regiao",
-        "data": "17/04/2026 às 21:59",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4092.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776463164.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Morre Oscar Schmidt, ícone do basquete brasileiro, aos 68 anos em SP",
-        "link": "https://portaldeamericana.com/morre-oscar-schmidt-icone-do-basquete-brasileiro-aos-68-anos-em-sp/?utm_source=rss&utm_medium=rss&utm_campaign=morre-oscar-schmidt-icone-do-basquete-brasileiro-aos-68-anos-em-sp",
-        "data": "17/04/2026 às 20:28",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4083.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776457723.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Mutirão oferece Implanon gratuito neste sábado em Americana",
-        "link": "https://portaldeamericana.com/mutirao-oferece-implanon-gratuito-neste-sabado-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=mutirao-oferece-implanon-gratuito-neste-sabado-em-americana",
-        "data": "17/04/2026 às 19:39",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4079.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776454796.0
     }
 ]
