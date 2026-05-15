@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Anvisa mantém suspensão de produtos da Ypê após avaliação de risco sanitário",
+        "link": "https://rapidonoar.com.br/anvisa-mantem-suspensao-de-produtos-da-ype-apos-avaliacao-de-risco-sanitario/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/face-ype-detergente-1-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778854328.0,
+        "data": "15/05/2026 14:12"
+    },
+    {
+        "titulo": "Anvisa mantém suspensão de linhas da Ypê após apontar risco sanitário",
+        "link": "https://rapidonoar.com.br/anvisa-mantem-suspensao-de-linhas-da-ype-apos-apontar-risco-sanitario/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/face-ype-detergente-1-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778854293.0,
+        "data": "15/05/2026 14:11"
+    },
+    {
         "titulo": "Americana registra abertura de 3,2 mil empresas no 1º quadrimestre",
         "link": "https://www.americanapost.com.br/americana-registra-abertura-de-32-mil-empresas-no-1o-quadrimestre/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
@@ -8059,21 +8077,5 @@
         "data": "10/04/2026 às 16:07",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
         "timestamp": 1775837245.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Super Saldão Pague Menos oferece descontos em 40 lojas neste fim de semana",
-        "link": "https://portaldeamericana.com/super-saldao-pague-menos-oferece-descontos-em-40-lojas-neste-fim-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=super-saldao-pague-menos-oferece-descontos-em-40-lojas-neste-fim-de-semana",
-        "data": "10/04/2026 às 15:57",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2025/08/Pague-Menos-12-site-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1775836620.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Presidente do PT confirma que Lula será candidato à reeleição",
-        "link": "https://portaldeamericana.com/presidente-do-pt-confirma-que-lula-sera-candidato-a-reeleicao/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-do-pt-confirma-que-lula-sera-candidato-a-reeleicao",
-        "data": "10/04/2026 às 15:50",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1775836211.0
     }
 ]
