@@ -116,7 +116,6 @@ def nome_curto_portal(url):
     return 'portal'
 
 def extrair_melhor_imagem(entry, url):
-    # Procura em múltiplas tags de imagem comuns em feeds RSS
     if entry.get('media_content'):
         return entry.media_content[0].get('url', '')
     if entry.get('links'):
@@ -134,7 +133,7 @@ def extrair_melhor_imagem(entry, url):
 lista_final = []
 links_processados = set()
 
-# Tenta carregar o que já existe para manter o histórico
+# Carrega histórico antigo para não perder as de ontem
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
@@ -145,7 +144,7 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# Processa os novos feeds
+# Raspa os portais
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
@@ -161,7 +160,7 @@ for url in FEEDS:
             imagem_original = extrair_melhor_imagem(entry, url)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
-            # 🕒 CAPTURA DA DATA REAL DA NOTÍCIA
+            # Pega a data real que o portal diz que publicou
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_real = time.mktime(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
@@ -169,7 +168,6 @@ for url in FEEDS:
             else:
                 timestamp_real = time.time()
                 
-            # Formatação para o seu HTML exibir "15/05/2026"
             data_str = datetime.fromtimestamp(timestamp_real).strftime("%d/%m/%Y %H:%M")
             
             noticia_objeto = {
@@ -179,7 +177,7 @@ for url in FEEDS:
                 'portal': portal_nome,
                 'logo_portal': LOGOS_PORTAIS.get(portal_nome, LINK_FALLBACK_PADRAO),
                 'timestamp': timestamp_real,
-                'data': data_str  # <--- ESSENCIAL PARA O SEU SITE
+                'data': data_str
             }
             
             lista_final.append(noticia_objeto)
@@ -188,12 +186,12 @@ for url in FEEDS:
     except Exception as e:
         print(f"Erro em {url}: {e}")
 
-# Ordena pela data real (mais novas primeiro)
+# Ordena a lista da mais nova para a mais velha baseada no timestamp
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
-# Salva o arquivo JSON final
+# Salva
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("✅ Feed atualizado com sucesso!")
+    print("✅ Feed principal da RMC atualizado com sucesso!")
