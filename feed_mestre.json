@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "Praça Barão de Araras terá encontro de autos antigos neste domingo",
+        "link": "https://rapidonoar.com.br/praca-barao-de-araras-tera-encontro-de-autos-antigos-neste-domingo/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2024/05/encontro-carros-antigos-araras-01-1-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778877351.0,
+        "data": "15/05/2026 20:35"
+    },
+    {
+        "titulo": "Americana (SP): Festão do Peão completa 40 anos com novo palco e 16 shows - diário do estado",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnFpR3RyYjJWS3ZIbXFzUUxNaF84QzdDSjItZElYSUplQ2NZTEJxeTFwd201Y0VIb1hrZHBsRzRvUmNrRmx6Z1lhUm5nem5ybGdTYm1kY3RKdnQ4dXlORmt0U2F2Z3h0LVQ4bWVsa1Z1a0s4QW16NUZTbDV3dHBINV9SWU9xN1JvRTgtY3ppSlhER3RUVlpLcmZ3UnIwRk8yak9iWHZB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778877095.0,
+        "data": "15/05/2026 20:31"
+    },
+    {
+        "titulo": "Hortolândia arrecada 1.282 peças no Dia D da Campanha do Agasalho",
+        "link": "https://novomomento.com.br/hortolandia-arrecada-1-282-pecas-no-dia-d-da-campanha-do-agasalho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778877045.0,
+        "data": "15/05/2026 20:30"
+    },
+    {
+        "titulo": "Caixa já renegociou R$ 820 milhões no novo Desenrola Brasil",
+        "link": "https://difusorapiracicaba.com.br/caixa-ja-renegociou-r-820-milhoes-no-novo-desenrola-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778877000.0,
+        "data": "15/05/2026 20:30"
+    },
+    {
+        "titulo": "Região do Nova Europa e Centro recebem o Só Cacareco na próxima semana em Limeira",
+        "link": "https://rapidonoar.com.br/regiao-do-nova-europa-e-centro-recebem-o-so-cacareco-na-proxima-semana-em-limeira/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2022/08/base-12-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778876336.0,
+        "data": "15/05/2026 20:18"
+    },
+    {
+        "titulo": "Vigilância Sanitária encontra produtos irregulares e caminhão clandestino em empresa interditada de Limeira",
+        "link": "https://rapidonoar.com.br/vigilancia-sanitaria-encontra-produtos-irregulares-e-caminhao-clandestino-em-empresa-interditada-de-limeira/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/gcm-caminhao-prisao-1-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778876033.0,
+        "data": "15/05/2026 20:13"
+    },
+    {
+        "titulo": "Piracicaba integra programação da 24ª Semana Nacional de Museus",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-integra-programacao-da-24a-semana-nacional-de-museus/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778875200.0,
+        "data": "15/05/2026 20:00"
+    },
+    {
+        "titulo": "Anvisa mantém suspensão de fabricação e venda de produtos Ypê",
+        "link": "https://difusorapiracicaba.com.br/anvisa-mantem-suspensao-de-fabricacao-e-venda-de-produtos-ype/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778875200.0,
+        "data": "15/05/2026 20:00"
+    },
+    {
+        "titulo": "ABC Paulista ganha Cidade da Polícia Civil do Governo de São Paulo",
+        "link": "https://rapidonoar.com.br/abc-paulista-ganha-cidade-da-policia-civil-do-governo-de-sao-paulo/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/cidade-da-policia-civil-no-abc-paulista-01-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778875187.0,
+        "data": "15/05/2026 19:59"
+    },
+    {
+        "titulo": "ACIL realiza sorteio da campanha de Dia das Mães; veja os ganhadores",
+        "link": "https://rapidonoar.com.br/acil-realiza-sorteio-da-campanha-de-dia-das-maes-veja-os-ganhadores/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/sorteio-premio-acil-limeira-1-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778874874.0,
+        "data": "15/05/2026 19:54"
+    },
+    {
+        "titulo": "Campeonato Guilherme Guido de Natação acontece neste sábado em Limeira",
+        "link": "https://rapidonoar.com.br/campeonato-guilherme-guido-de-natacao-acontece-neste-sabado-em-limeira/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/campeonato-de-natacao-em-limeira-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778873734.0,
+        "data": "15/05/2026 19:35"
+    },
+    {
+        "titulo": "Homem é preso após atear fogo na companheira durante discussão no centro de Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/homem-e-preso-apos-atear-fogo-na-companheira-durante-discussao-no-centro-de-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778873400.0,
+        "data": "15/05/2026 19:30"
+    },
+    {
+        "titulo": "Educação Digital: MP instaura Procedimento Administrativo de Acompanhamento em Campinas",
+        "link": "https://rapidonoar.com.br/educacao-digital-mp-instaura-procedimento-administrativo-de-acompanhamento-em-campinas/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2023/03/ministerio-publico-de-SP-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778873022.0,
+        "data": "15/05/2026 19:23"
+    },
+    {
         "titulo": "Promotoria de Habitação e Urbanismo da Capital instaura inquérito civil no caso do Jaguaré",
         "link": "https://rapidonoar.com.br/promotoria-de-habitacao-e-urbanismo-da-capital-instaura-inquerito-civil-no-caso-do-jaguare/",
         "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/explosao-jaguare-sp-1024x683.jpg",
@@ -11,6 +128,15 @@
     {
         "titulo": "Acipi promove roda de conversa gratuita para fortalecer o empreendedorismo feminino em Piracicaba",
         "link": "https://difusorapiracicaba.com.br/acipi-promove-roda-de-conversa-gratuita-para-fortalecer-o-empreendedorismo-feminino-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1778871600.0,
+        "data": "15/05/2026 19:00"
+    },
+    {
+        "titulo": "CBF anuncia ampliação de contrato com técnico Carlo Ancelotti",
+        "link": "https://difusorapiracicaba.com.br/cbf-anuncia-ampliacao-de-contrato-com-tecnico-carlo-ancelotti/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "portal": "difusorapiracicaba",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
@@ -466,6 +592,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
         "timestamp": 1778855450.0,
         "data": "15/05/2026 14:30"
+    },
+    {
+        "titulo": "MAC Americana exibe o clássico sul-coreano de guerra “Rio Nakdong” - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ0wtOFotSmxXbnhLTkNQNUQ3d29hMDBtZmtKcVZWOVl5dUlpUGQzN2djZTdVbUtmRldnbkpxUUdaUWVjdHd4TGd3SW9EdnlPcGFUN3lMLTdEbFZxVHY4ak8zQ2NCMkh2WHRmbDRkckRmUHJmN2tLaTJjRld2T3AzRmlKRTY5RnpaU1htMlNLbGpkZnRTdksxRTBnZkQxczVYd3ZCZU1fcnhjeS1sdmg5VzYwRklueGxDb21SMVhqQUVEbUpBQUctNlRBUHd3T2N3ZmVwQjBRUmZCLXcxZ1YtOQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778855328.0,
+        "data": "15/05/2026 14:28"
     },
     {
         "titulo": "Idoso fica ferido após ser atingido por tijolo em Araras",
@@ -8017,125 +8152,5 @@
         "data": "26/04/2026 às 15:38",
         "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4786.jpeg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1777217908.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Americana ainda não tem previsão para permitir sepultamento de pets em cemitérios",
-        "link": "https://portaldeamericana.com/americana-ainda-nao-tem-previsao-para-permitir-sepultamento-de-pets-em-cemiterios/?utm_source=rss&utm_medium=rss&utm_campaign=americana-ainda-nao-tem-previsao-para-permitir-sepultamento-de-pets-em-cemiterios",
-        "data": "25/04/2026 às 23:16",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4636.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1777159017.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Prefeito Chico Sardelli anuncia maior recuperação asfáltica da história de Americana",
-        "link": "https://portaldeamericana.com/prefeito-chico-sardelli-anuncia-maior-recuperacao-asfaltica-da-historia-de-americana/?utm_source=rss&utm_medium=rss&utm_campaign=prefeito-chico-sardelli-anuncia-maior-recuperacao-asfaltica-da-historia-de-americana",
-        "data": "24/04/2026 às 20:53",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4583.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1777064027.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Unacon conquista premiação em congresso estadual de saúde",
-        "link": "https://portaldeamericana.com/hospital-municipal-de-americana-e-unacon-conquistam-premiacao-em-congresso-estadual-de-saude/?utm_source=rss&utm_medium=rss&utm_campaign=hospital-municipal-de-americana-e-unacon-conquistam-premiacao-em-congresso-estadual-de-saude",
-        "data": "24/04/2026 às 19:31",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/unnamed-9.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1777059095.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Vôlei masculino de Americana estreia com vitória sobre Santa Bárbara na Copa Regional - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ySjU5Qnp4QndoYVY4dmZSRmlTNWRfOFlURUI2RlBCWFRTRG1UaHVxeWh6NHBCRWFkbHVfdkktdGNybkxSUXRkOGNVdVlEU19pNXdvTEpRVFJ0OUVwV0sxNkVBZ1FHbzNhYko5RHJPc1BKckRMbzgtSFZ3?oc=5",
-        "data": "24/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1777038900.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Segunda via de fatura do DAE pode ser acessada em página provisória durante manutenção do site - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlY2xZUXpKZ25veXZkWVdGWGJUSHRfcTYwdW0zQnhYYmZFeG5CUHI4aG02S3R5UExMaXAyNmlLbjJFUTlpX0FscjFxN3dNLUl2dE9mUGNkbXR6R0sxQkEyQ1p1clk0aTRKc194UWRkQ2FZZ1ZIQ0tVenln?oc=5",
-        "data": "24/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
-        "timestamp": 1777014000.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Homem é preso após furtar residência e esconder objetos no telhado",
-        "link": "https://portaldeamericana.com/homem-e-preso-apos-furtar-residencia-e-esconder-objetos-no-telhado/?utm_source=rss&utm_medium=rss&utm_campaign=homem-e-preso-apos-furtar-residencia-e-esconder-objetos-no-telhado",
-        "data": "24/04/2026 às 03:18",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4562.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1777000707.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Nadador de Americana conquista duas medalhas de ouro no Campeonato Sul-Americano",
-        "link": "https://portaldeamericana.com/nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano-2/?utm_source=rss&utm_medium=rss&utm_campaign=nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano-2",
-        "data": "23/04/2026 às 20:50",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/IMG_4541.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776977449.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Nova empresa assume coleta de lixo em Santa Bárbara a partir de segunda",
-        "link": "https://portaldeamericana.com/nova-empresa-assume-coleta-de-lixo-em-santa-barbara-a-partir-de-segunda/?utm_source=rss&utm_medium=rss&utm_campaign=nova-empresa-assume-coleta-de-lixo-em-santa-barbara-a-partir-de-segunda",
-        "data": "23/04/2026 às 20:48",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/68edd2fe-1495-42f0-8cda-5e9faa9ab29b.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776977290.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Clínica misturava Mounjaro com soro fisiológico, aponta polícia",
-        "link": "https://portaldeamericana.com/clinica-misturava-mounjaro-com-soro-fisiologico-aponta-policia/?utm_source=rss&utm_medium=rss&utm_campaign=clinica-misturava-mounjaro-com-soro-fisiologico-aponta-policia",
-        "data": "23/04/2026 às 16:20",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-12.06.59.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776961248.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Rompimento de adutora afeta abastecimento na Praia Azul em Americana",
-        "link": "https://portaldeamericana.com/rompimento-de-adutora-afeta-abastecimento-na-praia-azul-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=rompimento-de-adutora-afeta-abastecimento-na-praia-azul-em-americana",
-        "data": "23/04/2026 às 14:54",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/DAE-2.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776956070.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Mulher de 28 anos morre após sofrer infarto em academia",
-        "link": "https://portaldeamericana.com/mulher-de-28-anos-morre-apos-sofrer-infarto-em-academia/?utm_source=rss&utm_medium=rss&utm_campaign=mulher-de-28-anos-morre-apos-sofrer-infarto-em-academia",
-        "data": "23/04/2026 às 14:25",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-11.09.15.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776954359.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe GIRO PRO Território para qualificação profissional ligada à cultura - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zdnVtcWhWdElQQzBGQUcySUtJUnlHX25henJlVk9VaURvM0ZfNnBYLUJjX3NtNDhldjhzZ2F5eWlxV25mNTVYS1JJMDd5QVJDNWZqMnl3UDg5RW9rMm1ETjROXzdZdGJqcmg5NmIzS2JjMUY5ZHp4bmNB?oc=5",
-        "data": "23/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1776952920.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Nadador de Americana conquista duas medalhas de ouro no Campeonato Sul-Americano",
-        "link": "https://portaldeamericana.com/nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano/?utm_source=rss&utm_medium=rss&utm_campaign=nadador-de-americana-conquista-duas-medalhas-de-ouro-no-campeonato-sul-americano",
-        "data": "23/04/2026 às 13:51",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/04/Lucas-De-Campeao-Sul-americano-Foto-1.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1776952263.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Primeira edição do evento Viva Leve acontece em Americana neste sábado - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RSVNBOTJjeGxINno2aUNSdWtuNVVNR0FDMnBCWkdyZVA4SVdVQUFIUkxLWUR1QXN4ZG1IUU1Ldl92QTN2WEdUX19sWGNGS1dDUVBsYXQzMTJIWlNPeVB4amJVWnRGNV9yZ0pMRDNGNVVRZkF1cXVjUDBR?oc=5",
-        "data": "23/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1776927600.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana sedia 34º Encontro de Servidores e Titulares Fazendários da ASSEFIN-SP na próxima terça - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VblpqalBRdjJ6RmRqMkFDWVdlV0s0YThvRnY0Q3V0T3dISnItMVZweUV6LS1nS0N1ZWM3a3hKeVpOdXNRYWhnZXk3UHY5bnpGS3dRQ3JYXy05STNmTW5vWkJzODVsVW5uYXhZRGZLOFlmVmY2cTRpNFVB?oc=5",
-        "data": "23/04/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1776927600.0
     }
 ]
