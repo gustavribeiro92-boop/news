@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Santa Bárbara inicia instalação de semáforos em cruzamento da Avenida São Paulo",
+        "link": "https://novomomento.com.br/santa-barbara-inicia-instalacao-de-semaforos-em-cruzamento-da-avenida-sao-paulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778970784.0,
+        "data": "16/05/2026 22:33"
+    },
+    {
+        "titulo": "Obituário de Limeira e região: Confira os falecimentos ocorridos neste sábado (16)",
+        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-confira-os-falecimentos-ocorridos-neste-sabado-16/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2024/07/luto-cemiterio-obituario-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778970191.0,
+        "data": "16/05/2026 22:23"
+    },
+    {
+        "titulo": "Condenação de homem que matou morador de rua em São Paulo é mantida pelo TJSP",
+        "link": "https://rapidonoar.com.br/condenacao-de-homem-que-matou-morador-de-rua-em-sao-paulo-e-mantida-pelo-tjsp/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2024/07/tjsp-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778969080.0,
+        "data": "16/05/2026 22:04"
+    },
+    {
+        "titulo": "Veículo T-Cross capota em rua central de Araras e deixa feridos leves",
+        "link": "https://rapidonoar.com.br/veiculo-t-cross-capota-em-rua-central-de-araras-e-deixa-feridos-leves/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/capotamento-no-centro-de-araras-1024x683.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778965848.0,
+        "data": "16/05/2026 21:10"
+    },
+    {
         "titulo": "“Desafio de Judô com Rafaela Silva” ajuda a formar esportistas em Hortolândia",
         "link": "https://novomomento.com.br/desafio-de-judo-com-rafaela-silva-ajuda-a-formar-esportistas-em-hortolandia/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
@@ -8193,37 +8229,5 @@
         "data": "07/05/2026 às 17:03",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
         "timestamp": 1778173431.0
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Bruna Lombardi lembra entrevista com Donald Trump e pergunta ‘absurda’: ‘Já adorava o poder’",
-        "link": "https://noticiafm.com/bruna-lombardi-lembra-entrevista-com-donald-trump-e-pergunta-absurda-ja-adorava-o-poder/",
-        "data": "07/05/2026 às 17:01",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1778173263.0
-    },
-    {
-        "portal": "Difusora FM",
-        "titulo": "Abril: GCM realizou 45 prisões, 29 em flagrante, e 16 recapturas de pessoas procuradas pela Justiça",
-        "link": "https://difusorapiracicaba.com.br/abril-gcm-realizou-45-prisoes-29-em-flagrante-e-16-recapturas-de-pessoas-procuradas-pela-justica/",
-        "data": "07/05/2026 às 17:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1778173200.0
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Seleção não terá zaga titular em amistoso pré-Copa devido à final da Liga dos Campeões",
-        "link": "https://noticiafm.com/selecao-nao-tera-zaga-titular-em-amistoso-pre-copa-devido-a-final-da-liga-dos-campeoes/",
-        "data": "07/05/2026 às 16:57",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
-        "timestamp": 1778173077.0
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Valverde é levado para hospital após briga com Tchouaméni em treino do Real Madrid, diz jornal",
-        "link": "https://noticiafm.com/valverde-e-levado-para-hospital-apos-briga-com-tchouameni-em-treino-do-real-madrid-diz-jornal/",
-        "data": "07/05/2026 às 16:54",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1778172851.0
     }
 ]
