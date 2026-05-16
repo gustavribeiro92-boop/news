@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Inscrições de estabelecimentos para o Festival Gastronômico de Inverno 2026 de Santa Bárbara seguem até 24 de maio",
+        "link": "https://noticiafm.com/inscricoes-de-estabelecimentos-para-o-festival-gastronomico-de-inverno-2026-de-santa-barbara-seguem-ate-24-de-maio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/frio.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778935182.0,
+        "data": "16/05/2026 12:39"
+    },
+    {
+        "titulo": "Audiência Pública: Nova Odessa presta contas do 1º quadrimestre",
+        "link": "https://novomomento.com.br/audiencia-publica-nova-odessa-presta-contas-do-1o-quadrimestre/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778934937.0,
+        "data": "16/05/2026 12:35"
+    },
+    {
+        "titulo": "Americana tem Festival Afro hoje",
+        "link": "https://novomomento.com.br/americana-tem-feira-afro-hoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778933904.0,
+        "data": "16/05/2026 12:18"
+    },
+    {
+        "titulo": "Vereadoras (Esther e Leonora) ‘estrelam’ programas de TV",
+        "link": "https://novomomento.com.br/vereadoras-esther-leonora-estrela-programas-tv/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778933280.0,
+        "data": "16/05/2026 12:08"
+    },
+    {
+        "titulo": "Hospital Municipal de Americana abre processo seletivo para vagas administrativas",
+        "link": "https://noticiafm.com/hospital-municipal-de-americana-abre-processo-seletivo-para-vagas-administrativas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778932675.0,
+        "data": "16/05/2026 11:57"
+    },
+    {
+        "titulo": "Neblina intensa marca início do sábado em Americana",
+        "link": "https://portaldeamericana.com/neblina-intensa-marca-inicio-do-sabado-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=neblina-intensa-marca-inicio-do-sabado-em-americana",
+        "imagem": "https://portaldeamericana.com/wp-content/uploads/2026/05/IMG_5914.jpeg",
+        "portal": "portaldeamericana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1778929816.0,
+        "data": "16/05/2026 11:10"
+    },
+    {
         "titulo": "Troca de figurinhas da Copa movimenta comércios e colecionadores",
         "link": "https://novomomento.com.br/troca-de-figurinhas-da-copa-movimenta-comercios-e-colecionadores/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
@@ -8144,53 +8198,5 @@
         "data": "07/05/2026 às 13:30",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
         "timestamp": 1778160632.0
-    },
-    {
-        "portal": "SB24Horas",
-        "titulo": "OBA prorroga inscrições e realiza aulão oficial ao vivo com revisão para a prova de 2026",
-        "link": "https://sb24horas.com.br/oba-prorroga-inscricoes-e-realiza-aulao-oficial-ao-vivo-com-revisao-para-a-prova-de-2026/",
-        "data": "07/05/2026 às 13:28",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1778160496.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Dois homens são presos por tráfico de drogas em Sumaré",
-        "link": "https://novomomento.com.br/dois-presos-por-trafico-de-drogas-em-sumare/",
-        "data": "07/05/2026 às 13:05",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1778159104.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Churrasco, música e entrada gratuita: festival promete agitar Americana neste fim de semana",
-        "link": "https://portaldeamericana.com/churrasco-musica-e-entrada-gratuita-festival-promete-agitar-americana-neste-fim-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=churrasco-musica-e-entrada-gratuita-festival-promete-agitar-americana-neste-fim-de-semana",
-        "data": "06/05/2026",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_5472.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778108193.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Guarda Municipal solta 11 saruês após reabilitação em Americana",
-        "link": "https://portaldeamericana.com/guarda-municipal-solta-11-sarues-apos-reabilitacao-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=guarda-municipal-solta-11-sarues-apos-reabilitacao-em-americana",
-        "data": "06/05/2026",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/soltura-guarda-municipal-americana.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778094364.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "DAE começa a receber equipamentos da nova Estação de Tratamento de Água de Americana",
-        "link": "https://portaldeamericana.com/dae-comeca-a-receber-equipamentos-da-nova-estacao-de-tratamento-de-agua-de-americana/?utm_source=rss&utm_medium=rss&utm_campaign=dae-comeca-a-receber-equipamentos-da-nova-estacao-de-tratamento-de-agua-de-americana",
-        "data": "06/05/2026",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-15.58.12.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778093934.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Dólar cai a R$ 4,91 e fecha no menor valor em 27 meses",
-        "link": "https://portaldeamericana.com/dolar-cai-a-r-491-e-fecha-no-menor-valor-em-27-meses/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-cai-a-r-491-e-fecha-no-menor-valor-em-27-meses",
-        "data": "05/05/2026",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2019/01/dolar-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778020808.0
     }
 ]
