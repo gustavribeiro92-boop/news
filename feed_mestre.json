@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Saúde SP faz alerta e convoca população para vacinação contra a gripe",
+        "link": "https://noticiafm.com/saude-sp-faz-alerta-e-convoca-populacao-para-vacinacao-contra-a-gripe/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778942217.0,
+        "data": "16/05/2026 14:36"
+    },
+    {
+        "titulo": "Legislação no setor audiovisual é tema de oficina do Pontos MIS de Hortolândia",
+        "link": "https://novomomento.com.br/legislacao-no-setor-audiovisual-e-tema-de-oficina-do-pontos-mis-de-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778942127.0,
+        "data": "16/05/2026 14:35"
+    },
+    {
+        "titulo": "Centro Cívico de Americana recebe torneio de duplas de tênis; inscrições vão até segunda-feira - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRkNNbms2bVpwNHVwWGI5MFRwMmJKRUVOUVd2ak9aS2J6eEdCbVdhTkh3dWl0clhLdGJvaER5Q2hHSmxXWG5oME5DOTVsREVNSnlva3NUbUdjTUg2QWRBS1VBUTh5bG92T1g1VndsOFA5MklURW00U2JHUXhsYXNPTW1HbVNxM3MtZDczcHhJRExfNEtuRWVTWE9DaVNQbndKcGlCN3JyUkRkNkZDcFBzUk5FU1JIT0dGcnk0VDRNMFB2enVrZDBKamhUTVVFUFVGVjVZYk5pUEVVMUt6WUJfR19sZ09WaEtrbVdiTXJ5T1dFc1pGLVpv?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1778941800.0,
+        "data": "16/05/2026 14:30"
+    },
+    {
+        "titulo": "Desenvolve Santa Bárbara oferece 1.024 vagas de emprego; veja como se inscrever",
+        "link": "https://sb24horas.com.br/desenvolve-santa-barbara-oferece-1-024-vagas-de-emprego-veja-como-se-inscrever/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778940816.0,
+        "data": "16/05/2026 14:13"
+    },
+    {
+        "titulo": "Coluna Pimba com as curtas do esporte",
+        "link": "https://rapidonoar.com.br/coluna-pimba-com-as-curtas-do-esporte-139/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/andreas-2-1024x576.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778940003.0,
+        "data": "16/05/2026 14:00"
+    },
+    {
+        "titulo": "Interligação de rede de reforço pode causar intermitência no abastecimento na região do Zanaga na segunda-feira",
+        "link": "https://noticiafm.com/interligacao-de-rede-de-reforco-pode-causar-intermitencia-no-abastecimento-na-regiao-do-zanaga-na-segunda-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
+        "portal": "noticiafm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1778939223.0,
+        "data": "16/05/2026 13:47"
+    },
+    {
+        "titulo": "Leãozinho busca a reabilitação hoje em Águas de Lindóia",
+        "link": "https://rapidonoar.com.br/leaozinho-busca-a-reabilitacao-hoje-em-aguas-de-lindoia/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/maes-1-1024x570.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778938843.0,
+        "data": "16/05/2026 13:40"
+    },
+    {
+        "titulo": "Brutos recebe Piracicaba hoje no Ginásio Flamboyant",
+        "link": "https://rapidonoar.com.br/brutos-recebe-piracicaba-hoje-no-ginasio-flamboyant/",
+        "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/brutos-base-1024x640.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1778938133.0,
+        "data": "16/05/2026 13:28"
+    },
+    {
         "titulo": "Inscrições de estabelecimentos para o Festival Gastronômico de Inverno 2026 de Santa Bárbara seguem até 24 de maio",
         "link": "https://noticiafm.com/inscricoes-de-estabelecimentos-para-o-festival-gastronomico-de-inverno-2026-de-santa-barbara-seguem-ate-24-de-maio/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/frio.jpg",
@@ -52,6 +124,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1778929816.0,
         "data": "16/05/2026 11:10"
+    },
+    {
+        "titulo": "Caixa e BB liberam abono salarial para nascidos em maio e junho",
+        "link": "https://sb24horas.com.br/caixa-e-bb-liberam-abono-salarial-para-nascidos-em-maio-e-junho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1778929004.0,
+        "data": "16/05/2026 10:56"
     },
     {
         "titulo": "Troca de figurinhas da Copa movimenta comércios e colecionadores",
@@ -8126,77 +8207,5 @@
         "data": "07/05/2026 às 14:33",
         "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/54276899197_781359705a_k-1024x576-1-559x314.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778164386.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "“Hantavírus pode virar uma nova pandemia?” Infectologista esclarece mitos e verdades",
-        "link": "https://novomomento.com.br/hantavirus-pandemia-infectologista-esclarece/",
-        "data": "07/05/2026 às 14:17",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1778163454.0
-    },
-    {
-        "portal": "SB24Horas",
-        "titulo": "Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026",
-        "link": "https://sb24horas.com.br/industria-nacional-varia-01-em-marco-e-acumula-alta-de-31-em-2026/",
-        "data": "07/05/2026 às 14:08",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1778162934.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "Anvisa manda recolher produtos da Ypê",
-        "link": "https://portaldeamericana.com/anvisa-manda-recolher-produtos-da-ype/?utm_source=rss&utm_medium=rss&utm_campaign=anvisa-manda-recolher-produtos-da-ype",
-        "data": "07/05/2026 às 13:57",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/detergente-guia-completo-ypedia-1.webp&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778162221.0
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Americana recebe partida beneficente com grandes nomes do futebol brasileiro neste sábado",
-        "link": "https://noticiafm.com/americana-recebe-partida-beneficente-com-grandes-nomes-do-futebol-brasileiro-neste-sabado/",
-        "data": "07/05/2026 às 13:43",
-        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/Campo-do-Centro-Civico-559x314.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778161421.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Tráfico dá cana para dois homens e 1 adolescente em Americana",
-        "link": "https://novomomento.com.br/trafico-cana-dois-homens-adolescente-americana/",
-        "data": "07/05/2026 às 13:37",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Policia.png",
-        "timestamp": 1778161063.0
-    },
-    {
-        "portal": "Portal de Americana",
-        "titulo": "PF: Ex-ministro de Bolsonaro recebia de Vorcaro mesada de R$ 300 mil, que pode ter chegado a R$ 500 mil",
-        "link": "https://portaldeamericana.com/pf-ex-ministro-de-bolsonaro-recebia-de-vorcaro-mesada-de-r-300-mil-que-pode-ter-chegado-a-r-500-mil/?utm_source=rss&utm_medium=rss&utm_campaign=pf-ex-ministro-de-bolsonaro-recebia-de-vorcaro-mesada-de-r-300-mil-que-pode-ter-chegado-a-r-500-mil",
-        "data": "07/05/2026 às 13:36",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/CIRO-NOGUEIRA-BOLSONARO.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778160977.0
-    },
-    {
-        "portal": "Americana Post",
-        "titulo": "DAE começa a receber equipamentos da nova Estação de Tratamento de Água de Americana",
-        "link": "https://www.americanapost.com.br/dae-comeca-a-receber-equipamentos-da-nova-estacao-de-tratamento-de-agua-de-americana/",
-        "data": "07/05/2026 às 13:35",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/dae.jpeg",
-        "timestamp": 1778160938.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Consciência política e pragmatismo, por Orestes Camargo Neves",
-        "link": "https://novomomento.com.br/consciencia-politica-e-pragmatismo-por-orestes/",
-        "data": "07/05/2026 às 13:30",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
-        "timestamp": 1778160649.0
-    },
-    {
-        "portal": "Americana Post",
-        "titulo": "Centro Cívico recebe partida beneficente neste sábado. Ademir da Guia, ídolo palmeirense, tem presença confirmada",
-        "link": "https://www.americanapost.com.br/centro-civico-recebe-partida-beneficente-neste-sabado-ademir-da-guia-idolo-palmeirense-tem-presenca-confirmada/",
-        "data": "07/05/2026 às 13:30",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1778160632.0
     }
 ]
