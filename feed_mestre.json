@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Santa Bárbara instala iglus para descarte de recicláveis",
+        "link": "https://novomomento.com.br/santa-barbara-instala-iglu-descarte-reciclaveis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778994701.0,
+        "data": "17/05/2026 05:11"
+    },
+    {
+        "titulo": "Xadrez de Sumaré se destaca em etapa regional dos Jogos Estaduais",
+        "link": "https://novomomento.com.br/xadrez-de-sumare-se-destaca-em-etapa-regional-dos-jogos-estaduais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1778985318.0,
+        "data": "17/05/2026 02:35"
+    },
+    {
         "titulo": "Mãe e filho que trabalham juntos fazendo entregas ficam feridos em acidente na área central de Limeira",
         "link": "https://rapidonoar.com.br/mae-e-filho-que-trabalham-juntos-fazendo-entregas-ficam-feridos-em-acidente-na-area-central-de-limeira/",
         "imagem": "https://rapidonoar.com.br/wp-content/uploads/2026/05/queda-de-mae-e-filho-motoboys-limeira-02-1024x683.jpg",
@@ -8220,21 +8238,5 @@
         "data": "07/05/2026 às 17:21",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1778174518.0
-    },
-    {
-        "portal": "Notícia de Limeira",
-        "titulo": "Mutirão da dengue percorre o Vista Alegre neste sábado em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/05/07/mutirao-da-dengue-percorre-o-vista-alegre-neste-sabado-em-limeira/",
-        "data": "07/05/2026 às 17:20",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "timestamp": 1778174432.0
-    },
-    {
-        "portal": "Notícia FM",
-        "titulo": "Lula orientou toda a comitiva brasileira a falar apenas português em reunião com Trump",
-        "link": "https://noticiafm.com/lula-orientou-toda-a-comitiva-brasileira-a-falar-apenas-portugues-em-reuniao-com-trump/",
-        "data": "07/05/2026 às 17:18",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1778174318.0
     }
 ]
