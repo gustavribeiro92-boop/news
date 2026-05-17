@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Sumaré avança na implantação do Botão do Pânico contra violência",
+        "link": "https://novomomento.com.br/sumare-avanca-na-implantacao-do-botao-do-panico-contra-violencia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779051936.0,
+        "data": "17/05/2026 21:05"
+    },
+    {
         "titulo": "Corinthians vai perdendo no RJ-Botafogo",
         "link": "https://novomomento.com.br/corinthians-vai-perdendo-no-rj-botafogo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
@@ -54,6 +63,15 @@
         "data": "17/05/2026 19:05"
     },
     {
+        "titulo": "Câmara de Americana debate regras para instalação de antenas de telecomunicação em audiências públicas - Jornal Americanense",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVHFldFZvRUVQY1hNNkJxUWtBczhfWXBnMjBEZWtzUVo5WUk1a1kzYUFRS2x1M1VDcDk2REJzVEtMOHZGUncyY25yM084a1QwZWVBaWl6TGl6ZFdWQUtpTk1tUTFJUXg5NkVqWDN1X2lJaUVQbFkwT0FzLS1LdzhXa3JZMW1LVmI4YVcwS0o3dnRLajg2ZGpickhtSm5yaldiMEhCLTl6eVh1aEtuY0ZqajJqeVdCcnBKaEhob1JLSzBQSzRLUTV3REJEZnZnNEF4ckxjZ1pkNWxzZDdWYktZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1779044082.0,
+        "data": "17/05/2026 18:54"
+    },
+    {
         "titulo": "Coritiba ofusca festa para Neymar e derrota Santos pelo Brasileirão",
         "link": "https://sb24horas.com.br/coritiba-ofusca-festa-para-neymar-e-derrota-santos-pelo-brasileirao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -79,6 +97,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779037550.0,
         "data": "17/05/2026 17:05"
+    },
+    {
+        "titulo": "Thiago Linns realiza show no aniversário de Nova Odessa - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3dQbnJMN0NEYWZuQ00wMzhDYkRwWVV6VFdtVE5YV3Z0MWExN1E1Z0RpV2lVN0hpbFo0V3FRaGJzaTZEcEpSdndCUGJFV2FaY0hydWl5VXBPNklXc0ZLWVV3TXgzcmNrazBNUzNadXhFZkw3RF9lNkVqM3h3RUlDQTFWQnBuTWd4Ql9JclZvS2RIVGFDaEhvVy1DUXZmRlZXSmtJVmIwVzVXcnhDNEFOTEMxNl9ZOTgzZDZKUTdybWVBa0s3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1779032220.0,
+        "data": "17/05/2026 15:37"
     },
     {
         "titulo": "Servidores da CM de Nova Odessa recebem treinamento de combate a incêndios",
@@ -8239,29 +8266,5 @@
         "data": "07/05/2026 às 19:19",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
         "timestamp": 1778181560.0
-    },
-    {
-        "portal": "Difusora FM",
-        "titulo": "Quase 30% dos microempreendedores individuais estão no Cadastro Único",
-        "link": "https://difusorapiracicaba.com.br/quase-30-dos-microempreendedores-individuais-estao-no-cadastro-unico/",
-        "data": "07/05/2026 às 19:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1778180400.0
-    },
-    {
-        "portal": "Notícia de Limeira",
-        "titulo": "Prefeitura articula construção de 100 novas unidades habitacionais em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/05/07/prefeitura-articula-construcao-de-100-novas-unidades-habitacionais-em-limeira/",
-        "data": "07/05/2026 às 18:58",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1778180322.0
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Definida a foto que vai virar busto do lendário Pepe no Limeirão",
-        "link": "https://rapidonoar.com.br/definida-a-foto-que-vai-virar-busto-do-lendario-pepe-no-limeirao/",
-        "data": "07/05/2026 às 18:56",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/busto-pepe-1024x959.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778180178.0
     }
 ]
