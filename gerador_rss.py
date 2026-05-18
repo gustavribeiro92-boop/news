@@ -45,8 +45,8 @@ LOGOS_PORTAIS = {
     'vagas019': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp'
 }
 
-# A MÁGICA AQUI: O logo foi exterminado. A imagem de emergência no Python agora é a de Americana!
-LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
+# AQUI ESTÁ A CORREÇÃO NO PYTHON!
+LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 
 # ==========================================
 # 2. INTELIGÊNCIA DAS IMAGENS
@@ -66,7 +66,7 @@ IMAGENS_CATEGORIA = {
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -209,7 +209,6 @@ for url in FEEDS:
                 url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
             
-            # Fuso Horário Atualizado e Limpo
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
@@ -243,4 +242,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado e limpo de logos!")
+    print("🎉 Hub de Notícias atualizado e limpo de avisos!")
