@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Piracicaba integra programação da 24ª Semana Nacional de Museus",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-integra-programacao-da-24a-semana-nacional-de-museus-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779103800,
+        "data": "18/05/2026 11:30"
+    },
+    {
         "titulo": "Bom Prato Móvel atende moradores do Jardim Conceição e do Parque Itália em Sumaré",
         "link": "https://noticiafm.com/bom-prato-movel-atende-moradores-do-jardim-conceicao-e-do-parque-italia-em-sumare/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
@@ -8304,13 +8313,5 @@
         "data": "08/05/2026 às 07:52",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1778226766.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Americana recebe partida beneficente com boleiragem neste sábado (9)",
-        "link": "https://novomomento.com.br/americana-beneficen-boleiragem-neste-sabado-9/",
-        "data": "08/05/2026 às 07:05",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "timestamp": 1778223918.0
     }
 ]
