@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Independente conquista a 5ª vitória com nova goleada",
+        "link": "https://rapidonoar.com.br/independente-conquista-a-5a-vitoria-com-nova-goleada/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779102201,
+        "data": "18/05/2026 11:03"
+    },
+    {
+        "titulo": "Festa das Nações se despede de Piracicaba após dias de recorde de público",
+        "link": "https://difusorapiracicaba.com.br/festa-das-nacoes-se-despede-de-piracicaba-apos-dias-de-recorde-de-publico/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779102000,
+        "data": "18/05/2026 11:00"
+    },
+    {
         "titulo": "Hospital Municipal de Americana abre processo seletivo para vagas administrativas",
         "link": "https://www.americanapost.com.br/hospital-municipal-de-americana-abre-processo-seletivo-para-vagas-administrativas/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -8286,21 +8304,5 @@
         "data": "08/05/2026 às 01:36",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/REDE-ESGOTO-BRK-LIMEIRA-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778204188.0
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Operação Intruder investiga invasão e venda ilegal de dados de sistemas públicos de São Paulo",
-        "link": "https://rapidonoar.com.br/operacao-intruder-investiga-invasao-e-venda-ilegal-de-dados-de-sistemas-publicos-de-sao-paulo/",
-        "data": "08/05/2026 às 01:23",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/VIATURA-POLICIA-CIVIL-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778203405.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Americana recebe evento gastronômico Brasa Blue Festival neste fim de semana no CCL - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EV05fRnlweV9wQ21Rb3VPSG94ZGhoWXRyZjlVNXVyUGZGQkVlcnduekZkU08ydmVocFBhS1lhQVN4WGdyUHpZbWRsX0o0bFZ4c0ZUQlVxUTRHLVdpbS1SYXM4bW9hcW9MREFtZ3hCdjlVNEtSOWhVNmNB?oc=5",
-        "data": "08/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
-        "timestamp": 1778201940.0
     }
 ]
