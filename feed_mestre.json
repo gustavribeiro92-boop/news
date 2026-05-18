@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "71º Salão de Belas Artes de Piracicaba abre inscrições",
+        "link": "https://difusorapiracicaba.com.br/71o-salao-de-belas-artes-de-piracicaba-abre-inscricoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779105600,
+        "data": "18/05/2026 12:00"
+    },
+    {
         "titulo": "Caixa começa a pagar Bolsa Família de maio",
         "link": "https://rapidonoar.com.br/caixa-comeca-a-pagar-bolsa-familia-de-maio-2/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/05/dinheiro-falso-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -8310,13 +8319,5 @@
         "data": "08/05/2026 às 08:18",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/Motorista-perde-controle-e-bate-carro-contra-arvore-em-Limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "timestamp": 1778228285.0
-    },
-    {
-        "portal": "SB24Horas",
-        "titulo": "Novos conselheiros tomam posse e reforçam fiscalização da assistência social em Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/novos-conselheiros-tomam-posse-e-reforcam-fiscalizacao-da-assistencia-social-em-santa-barbara-doeste/",
-        "data": "08/05/2026 às 08:14",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
-        "timestamp": 1778228097.0
     }
 ]
