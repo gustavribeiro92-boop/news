@@ -20,7 +20,7 @@ FEEDS = [
     'https://jornalojogo.com.br/feed/',
     'https://noticiadelimeira.com.br/feed/',
     'https://noticiafm.com.br/feed/',
-    'https://novomomento.com.br/feed/',
+    'https://novomomento.com.br/feed/atom/',  # <--- A PORTA DOS FUNDOS DO NOVO MOMENTO
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
@@ -158,7 +158,6 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# 🛡️ CABEÇALHO LIMPO MAS AGRESSIVO CONTRA CACHE (Sem sujar a URL)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Cache-Control': 'no-cache, no-store, must-revalidate',
@@ -169,17 +168,18 @@ headers = {
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        print(f"📡 [{portal_nome}] Requisitando feed limpo...")
+        print(f"📡 [{portal_nome}] Requisitando feed...")
         resposta = requests.get(url, headers=headers, timeout=15)
         
-        # LOG DE DIAGNÓSTICO PROFISSIONAL
-        print(f"📊 [{portal_nome}] Resposta do Servidor: Status {resposta.status_code}")
+        # LOG VISUAL PARA O GITHUB ACTIONS
+        print(f"  ↳ Status Code: {resposta.status_code}")
         
         if resposta.status_code != 200:
+            print(f"  ❌ Falha: O portal {portal_nome} bloqueou a leitura ou está fora do ar.")
             continue
             
         feed = feedparser.parse(resposta.content)
-        print(f"✅ [{portal_nome}] Sincronizado. Entradas encontradas: {len(feed.entries)}")
+        print(f"  ✅ Entradas encontradas: {len(feed.entries)}")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
@@ -214,9 +214,8 @@ for url in FEEDS:
             links_processados.add(link_noticia)
             
     except Exception as e:
-        print(f"🚨 Erro ao processar o portal {portal_nome}: {e}")
+        print(f"🚨 Erro crítico no portal {portal_nome}: {e}")
 
-# Ordenação cronológica real
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
