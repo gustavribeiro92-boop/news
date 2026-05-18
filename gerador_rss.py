@@ -26,7 +26,8 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    'https://news.google.com/rss/search?q=Americana+SP&hl=pt-BR&gl=BR&ceid=BR:pt-419',
+    # 🚀 A MÁGICA AQUI: Adicionado 'when:7d' para obrigar o Google a trazer apenas notícias recentes!
+    'https://news.google.com/rss/search?q=Americana+SP+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419',
     'https://vagas019.com.br/feed/'
 ]
 
@@ -65,7 +66,7 @@ IMAGENS_CATEGORIA = {
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -87,7 +88,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         nova_imagem = IMAGENS_CATEGORIA['saude']
     elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'chuva', 'clima', 'tempo']):
         nova_imagem = IMAGENS_CATEGORIA['frio']
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia']):
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia', 'aeroporto']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
     elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade', 'cei']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
@@ -179,9 +180,10 @@ for url in FEEDS:
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
-        # 🚀 O RETORNO DA REGRA DE OURO (Google com Robô Puro)
+        # 🚀 A MÁGICA: O Google é lido por um robô puro e com fura-cache acoplado!
         if 'news.google' in url:
-            feed = feedparser.parse(url)
+            url_requisicao = f"{url}&nocache={int(time.time())}"
+            feed = feedparser.parse(url_requisicao) 
         else:
             url_requisicao = url
             if 'novomomento' in url:
@@ -242,4 +244,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Google News online e Logos extintos!")
+    print("🎉 Hub de Notícias atualizado! Google News está de volta para o jogo.")
