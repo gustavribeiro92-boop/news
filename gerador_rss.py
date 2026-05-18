@@ -8,7 +8,8 @@ import email.utils
 from datetime import datetime, timezone, timedelta
 import requests 
 
-# 🚀 REMOVIDO o disfarce global. Vamos usar o disfarce apenas nos jornais locais para não zangar a Google!
+# DISFARCE CONFIGURADO NA BIBLIOTECA
+feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
 # ==========================================
 # 1. LISTA DE FEEDS E LOGOS
@@ -25,7 +26,8 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    'https://news.google.com/rss/search?q=Americana+SP+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419',
+    # 🚀 GOOGLE NEWS RESTRITO A 48 HORAS: Proíbe o Google de trazer notícias antigas
+    'https://news.google.com/rss/search?q=Americana+SP+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419',
     'https://vagas019.com.br/feed/'
 ]
 
@@ -167,39 +169,37 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# O Disfarce Pesado (Apenas para jornais locais)
+# Cabeçalhos super realistas para não assustar firewalls
 headers_navegador = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Connection': 'keep-alive'
 }
 
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        print(f"📡 [{portal_nome}] A extrair dados...")
+        print(f"📡 [{portal_nome}] Puxando dados...")
         
-        # 🚀 O TRATAMENTO VIP PARA A GOOGLE: Robô Oficial + Destruidor de Cache
         if 'news.google' in url:
-            headers_google = {
-                'User-Agent': 'Python-urllib/3.10',
-                'Cache-Control': 'no-cache, no-store, must-revalidate'
-            }
-            url_requisicao = f"{url}&v={int(time.time())}"
-            resposta = requests.get(url_requisicao, headers=headers_google, timeout=15)
-            feed = feedparser.parse(resposta.content)
-            
+            # Google recebe acesso limpo sem fura-cache
+            resposta = requests.get(url, headers=headers_navegador, timeout=15)
         else:
-            url_requisicao = url
-            if 'novomomento' in url:
-                url_requisicao = f"{url}?v={int(time.time())}"
+            # 🚀 ALGORITMO DUPLO IMPACTO: Tentativa 1 com Fura Cache
+            url_req = f"{url}?v={int(time.time())}"
+            resposta = requests.get(url_req, headers=headers_navegador, timeout=15)
             
-            resposta = requests.get(url_requisicao, headers=headers_navegador, timeout=15)
-            if resposta.status_code != 200:
-                print(f"  ❌ Falha: Status {resposta.status_code}")
-                continue
-            feed = feedparser.parse(resposta.content)
+            # Se o firewall do O Jogo, Vagas019 ou Rede Família bloquear, tenta a URL limpa!
+            if resposta.status_code in [403, 404, 406, 503]:
+                print(f"  ⚠️ Firewall detectado em {portal_nome}. Tentando acesso limpo...")
+                resposta = requests.get(url, headers=headers_navegador, timeout=15)
+
+        if resposta.status_code != 200:
+            print(f"  ❌ Falha absoluta: Status {resposta.status_code}")
+            continue
             
+        feed = feedparser.parse(resposta.content)
         print(f"  ✅ Sincronizado: {len(feed.entries)} entradas.")
         
         for entry in feed.entries[:30]: 
@@ -249,4 +249,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! O Google Notícias está limpo de caches.")
+    print("🎉 Hub de Notícias atualizado! Sistema Duplo Impacto ativado.")
