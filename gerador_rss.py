@@ -65,7 +65,7 @@ IMAGENS_CATEGORIA = {
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -179,19 +179,19 @@ for url in FEEDS:
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
-        # 🚀 AQUI MATAMOS O ERRO: Tratamos o Google com disfarce e fura-cache também!
-        url_requisicao = url
-        if 'novomomento' in url:
-            url_requisicao = f"{url}?v={int(time.time())}"
-        elif 'news.google' in url:
-            # Google usa & em vez de ? no final da URL
-            url_requisicao = f"{url}&v={int(time.time())}" 
+        # 🚀 O RETORNO DA REGRA DE OURO (Google com Robô Puro)
+        if 'news.google' in url:
+            feed = feedparser.parse(url)
+        else:
+            url_requisicao = url
+            if 'novomomento' in url:
+                url_requisicao = f"{url}?v={int(time.time())}"
             
-        resposta = requests.get(url_requisicao, headers=headers_navegador, timeout=15)
-        if resposta.status_code != 200:
-            print(f"  ❌ Falha: Status {resposta.status_code}")
-            continue
-        feed = feedparser.parse(resposta.content)
+            resposta = requests.get(url_requisicao, headers=headers_navegador, timeout=15)
+            if resposta.status_code != 200:
+                print(f"  ❌ Falha: Status {resposta.status_code}")
+                continue
+            feed = feedparser.parse(resposta.content)
             
         print(f"  ✅ Sincronizado: {len(feed.entries)} entradas.")
         
@@ -242,4 +242,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! O Google Notícias voltou com tudo.")
+    print("🎉 Hub de Notícias atualizado! Google News online e Logos extintos!")
