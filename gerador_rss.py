@@ -45,7 +45,8 @@ LOGOS_PORTAIS = {
     'vagas019': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp'
 }
 
-LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
+# A MÁGICA AQUI: O logo foi exterminado. A imagem de emergência no Python agora é a de Americana!
+LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
 
 # ==========================================
 # 2. INTELIGÊNCIA DAS IMAGENS
@@ -65,7 +66,7 @@ IMAGENS_CATEGORIA = {
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -77,7 +78,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         nova_imagem = IMAGENS_CATEGORIA['empregos']
     elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio', 'imposto', 'mega-sena', 'prêmio']):
         nova_imagem = IMAGENS_CATEGORIA['economia']
-    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros']):
+    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morre', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
     elif any(p in t for p in ['câmara', 'prefeito', 'prefeitura', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado', 'lula', 'bolsonaro', 'tarcísio', 'governo']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
@@ -108,7 +109,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
 
     link_limpo = str(imagem_atual).lower()
     
-    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar']
+    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'gemini']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
@@ -208,7 +209,7 @@ for url in FEEDS:
                 url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
             
-            # 🕒 Fuso Horário Atualizado (Sem Warning no log)
+            # Fuso Horário Atualizado e Limpo
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
@@ -242,4 +243,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado e limpo de avisos!")
+    print("🎉 Hub de Notícias atualizado e limpo de logos!")
