@@ -4,6 +4,7 @@ import json
 import time
 import os
 import calendar
+import email.utils
 from datetime import datetime
 import requests 
 
@@ -20,7 +21,7 @@ FEEDS = [
     'https://jornalojogo.com.br/feed/',
     'https://noticiadelimeira.com.br/feed/',
     'https://noticiafm.com.br/feed/',
-    'https://novomomento.com.br/feed/atom/',  # <--- A PORTA DOS FUNDOS DO NOVO MOMENTO
+    'https://novomomento.com.br/feed/atom/',
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
@@ -69,30 +70,29 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     f = str(fonte).lower()
     nova_imagem = None
 
-    if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo']):
+    # 🚀 DICIONÁRIO GIGANTE: Muito mais difícil uma notícia escapar agora
+    if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo', 'trabalho']):
         nova_imagem = IMAGENS_CATEGORIA['empregos']
-    elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio']):
+    elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio', 'imposto']):
         nova_imagem = IMAGENS_CATEGORIA['economia']
-    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação']):
+    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
-    elif any(p in t for p in ['câmara', 'prefeito', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado']):
+    elif any(p in t for p in ['câmara', 'prefeito', 'prefeitura', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado', 'lula', 'bolsonaro', 'tarcísio', 'governo']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
-    elif any(p in t for p in ['dae', 'bomba', 'abastecimento', 'água', 'esgoto', 'reforma filtros', 'reservatório', 'estação de tratamento']):
+    elif any(p in t for p in ['dae', 'bomba', 'abastecimento', 'água', 'esgoto', 'reforma filtros', 'reservatório', 'estação de tratamento', 'vazamento']):
         nova_imagem = IMAGENS_CATEGORIA['dae']
-    elif any(p in t for p in ['saúde', 'hospital', 'hm', 'dengue', 'vacina', 'médico', 'consulta', 'ubs', 'posto de saúde', 'cuidados paliativos']):
+    elif any(p in t for p in ['saúde', 'hospital', 'hm', 'dengue', 'vacina', 'médico', 'consulta', 'ubs', 'posto de saúde', 'cuidados paliativos', 'doença', 'paciente']):
         nova_imagem = IMAGENS_CATEGORIA['saude']
-    elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'mínima']):
+    elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'mínima', 'chuva', 'clima', 'tempo']):
         nova_imagem = IMAGENS_CATEGORIA['frio']
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto']):
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
-    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade']):
+    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade', 'cei']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'libertadores', 'tênis', 'atc']):
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'libertadores', 'tênis', 'atc', 'basquete', 'vôlei']):
         nova_imagem = IMAGENS_CATEGORIA['esportes']
-    elif any(p in t for p in ['show', 'festa', 'teatro', 'cinema', 'evento', 'exposição', 'cultura', 'aniversário', 'celebrar']):
+    elif any(p in t for p in ['show', 'festa', 'teatro', 'cinema', 'evento', 'exposição', 'cultura', 'aniversário', 'celebrar', 'festival']):
         nova_imagem = IMAGENS_CATEGORIA['eventos']
-    elif 'americana' in t:
-        nova_imagem = IMAGENS_CATEGORIA['americana']
 
     if 'vagas019' in f or 'vagas 019' in f:
         if not nova_imagem:
@@ -111,8 +111,10 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
 
+    # 🚀 O GRANDE TRUQUE: Se não tem imagem na matéria e NENHUMA categoria bateu,
+    # ele coloca a foto da cidade de Americana em vez de colocar o logotipo!
     if not imagem_atual or is_lixo or is_fallback:
-        return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
+        return nova_imagem if nova_imagem else IMAGENS_CATEGORIA['americana']
 
     return imagem_atual
 
@@ -168,18 +170,16 @@ headers = {
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        print(f"📡 [{portal_nome}] Requisitando feed...")
+        print(f"📡 [{portal_nome}] Requisitando feed limpo...")
         resposta = requests.get(url, headers=headers, timeout=15)
         
-        # LOG VISUAL PARA O GITHUB ACTIONS
-        print(f"  ↳ Status Code: {resposta.status_code}")
+        print(f"📊 [{portal_nome}] Resposta do Servidor: Status {resposta.status_code}")
         
         if resposta.status_code != 200:
-            print(f"  ❌ Falha: O portal {portal_nome} bloqueou a leitura ou está fora do ar.")
             continue
             
         feed = feedparser.parse(resposta.content)
-        print(f"  ✅ Entradas encontradas: {len(feed.entries)}")
+        print(f"✅ [{portal_nome}] Sincronizado. Entradas encontradas: {len(feed.entries)}")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
