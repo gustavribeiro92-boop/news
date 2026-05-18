@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Homem de 51 anos morre atropelado na SP-304",
+        "link": "https://www.americanapost.com.br/homem-de-51-anos-morre-atropelado-na-sp-304/",
+        "imagem": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f8.png",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1779100894,
+        "data": "18/05/2026 10:41"
+    },
+    {
         "titulo": "Limpeza e zeladoria chegam a Praça do Pastel, em Hortolândia",
         "link": "https://novomomento.com.br/limpeza-e-zeladoria-chegam-a-praca-do-pastel-em-hortolandia/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
@@ -7,6 +16,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779100524.0,
         "data": "18/05/2026 10:35"
+    },
+    {
+        "titulo": "Piracicaba tem mais de 400 vagas abertas em cursos técnicos gratuitos",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-tem-mais-de-400-vagas-abertas-em-cursos-tecnicos-gratuitos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779100200,
+        "data": "18/05/2026 10:30"
+    },
+    {
+        "titulo": "Homem de 51 anos morre após ser atropelado na SP-304 em Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3JGZGhDM2prbm1NRmtjV21saHQ2dmdQWHFIVElxR2xKdGFqMDNfQTRPR2hFdDdHdjZCWnEzcm54a1pYeEI1RTZhdUpEWkVXYlY4M3FHTnNLZ084eDNWbzc1VXZUNm1JeDNVeGE2cWxWNTlIM3pYdHJMWFBXRlVROVEzUm01dlBjeDFmRk1LMnNpc3MtMkZabFpLSUhSdGxrUFpidndVekZGbVVNUXZsbWtXVXZYbnVzWVNrNlJHUVJoTllOb0ZaVG9oVzNaOWlrSEE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1779100020,
+        "data": "18/05/2026 10:27"
     },
     {
         "titulo": "Aplicativo do Bolsa Família tem novas funcionalidades a partir de hoje",
@@ -20,6 +47,15 @@
     {
         "titulo": "Tráfico, facada e roubo levam três maiores e um menor pra cadeia",
         "link": "https://novomomento.com.br/trafico-facada-e-roubo-levam-tres-maiores-e-um-menor-pra-cadeia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779099531,
+        "data": "18/05/2026 10:18"
+    },
+    {
+        "titulo": "Tráfico, facada e roubo levam 3 e 1 menor pra cadeia",
+        "link": "https://novomomento.com.br/trafico-facada-roubo-tres-maiores-menor-cadeia/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "novomomento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -83,6 +119,15 @@
     {
         "titulo": "Benedito Dias e Luiz Antônio Leite recebem títulos de cidadão americanense",
         "link": "https://novomomento.com.br/benedito-dias-e-luiz-antonio-leite-recebem-titulos-de-cidadao-americanense/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779096932,
+        "data": "18/05/2026 09:35"
+    },
+    {
+        "titulo": "Benedito Dias e Luiz Antônio Leite recebem títulos de cidadão americanense",
+        "link": "https://novomomento.com.br/benedito-dias-la-leite-titulo-cidad-americanens/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "novomomento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -8256,45 +8301,5 @@
         "data": "08/05/2026 às 00:35",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
         "timestamp": 1778200546.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Dia das Mães: Brasil tem mais de 10 mil músicas com palavra",
-        "link": "https://novomomento.com.br/dia-das-maes-mais-de-10-mil-musicas-com-palavra/",
-        "data": "08/05/2026 às 00:08",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
-        "timestamp": 1778198893.0
-    },
-    {
-        "portal": "Google Notícias",
-        "titulo": "Reservas do São Paulo empatam com O'Higgins na Copa Sul-Americana - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFRqQjQyVXNsQUphVXhNY0pKd3NXY0ZNbkVvcWxOVHR4cUR3US1PbUFlWXlMWjhObHM0Uk1ITExxbTYybXAxb1ZFOEtQWVZCLTlPSkVZR0ZXZlNHelFNNkdlSk1URHM4RTVlZy02MnNkOGkzQVlLLVV4VWV5Zi1UYWdEN1FFa0R3cElvTXl4dEtwR1RrWmVhTUVnOXQ2czhGLWY1b28tOVg2LVFsWEtjcFVReVNZLUI2dnQ0MGYySFBSb1BmRFpxWFU2UTF3T1dscVo4YW8yV2dVSjV3MHg0?oc=5",
-        "data": "07/05/2026",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "timestamp": 1778198050.0
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Mulher é presa por tráfico de drogas durante Operação Impacto no Odécio Degan, em Limeira",
-        "link": "https://rapidonoar.com.br/mulher-e-presa-por-trafico-de-drogas-durante-operacao-impacto-no-odecio-degan-em-limeira/",
-        "data": "07/05/2026 às 23:48",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/droga-trafico-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778197702.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Mulher de 34 morre em clínica de Americana",
-        "link": "https://novomomento.com.br/mulher-de-34-anos-morre-em-clinica-de-americana/",
-        "data": "07/05/2026 às 23:44",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1778197447.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Leoncine discute políticas pras mulheres e Mizzoni quer saber dos pontos de ônibus",
-        "link": "https://novomomento.com.br/leoncine-politica-mulher-mizzoni-ponto-d-onibus/",
-        "data": "07/05/2026 às 23:35",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg",
-        "timestamp": 1778196934.0
     }
 ]
