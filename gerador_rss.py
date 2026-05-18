@@ -5,8 +5,11 @@ import time
 import os
 import calendar
 import email.utils
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import requests 
+
+# DISFARCE CONFIGURADO NA BIBLIOTECA
+feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
 # ==========================================
 # 1. LISTA DE FEEDS E LOGOS
@@ -18,7 +21,7 @@ FEEDS = [
     'https://jornalojogo.com.br/feed/',
     'https://noticiadelimeira.com.br/feed/',
     'https://noticiafm.com.br/feed/',
-    'https://novomomento.com.br/feed/atom/',  # 🚀 A PORTA DOS FUNDOS (Desvia do cache travado)
+    'https://novomomento.com.br/feed/atom/',
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
@@ -45,7 +48,7 @@ LOGOS_PORTAIS = {
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 # ==========================================
-# 2. INTELIGÊNCIA DAS IMAGENS (Dicionário Massivo)
+# 2. INTELIGÊNCIA DAS IMAGENS
 # ==========================================
 IMAGENS_CATEGORIA = {
     'politica': 'https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg',
@@ -105,14 +108,12 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
 
     link_limpo = str(imagem_atual).lower()
     
-    # TRATOR IMPLACÁVEL V2 (Resgatado do seu histórico)
     palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
     is_logo_nosso = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values())
 
-    # Se a foto é lixo ou um logo repetido, usa a Categoria. Se não tiver categoria, usa a de Americana.
     if not imagem_atual or is_lixo or is_fallback or is_logo_nosso:
         return nova_imagem if nova_imagem else IMAGENS_CATEGORIA['americana']
 
@@ -167,7 +168,6 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# O Disfarce Perfeito resgatado
 headers_navegador = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -179,11 +179,14 @@ for url in FEEDS:
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
-        # 🚀 A MÁGICA DE DISTINÇÃO (O Google não gosta de disfarce)
         if 'news.google' in url:
             feed = feedparser.parse(url)
         else:
-            resposta = requests.get(url, headers=headers_navegador, timeout=15)
+            url_requisicao = url
+            if 'novomomento' in url:
+                url_requisicao = f"{url}?v={int(time.time())}"
+            
+            resposta = requests.get(url_requisicao, headers=headers_navegador, timeout=15)
             if resposta.status_code != 200:
                 print(f"  ❌ Falha: Status {resposta.status_code}")
                 continue
@@ -200,13 +203,12 @@ for url in FEEDS:
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
-            # OTIMIZADOR DE IMAGENS (wsrv.nl)
             todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
             if not any(nossa.split('/')[-1] in imagem_final for nossa in todas_nossas_imagens) and 'wsrv.nl' not in imagem_final:
                 url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
             
-            # Fuso Horário de Brasília
+            # 🕒 Fuso Horário Atualizado (Sem Warning no log)
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
@@ -214,8 +216,9 @@ for url in FEEDS:
             else:
                 timestamp_utc = time.time()
                 
+            fuso_br = timezone(timedelta(hours=-3))
+            data_str = datetime.fromtimestamp(timestamp_utc, fuso_br).strftime("%d/%m/%Y %H:%M")
             timestamp_br = timestamp_utc - (3 * 3600)
-            data_str = datetime.utcfromtimestamp(timestamp_br).strftime("%d/%m/%Y %H:%M")
             
             noticia_objeto = {
                 'titulo': titulo_seguro,
@@ -236,8 +239,7 @@ for url in FEEDS:
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
-# Trava de Segurança Máxima
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Motor Híbrido ativado.")
+    print("🎉 Hub de Notícias atualizado e limpo de avisos!")
