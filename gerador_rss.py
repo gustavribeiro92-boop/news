@@ -4,11 +4,10 @@ import json
 import time
 import os
 import calendar
-import email.utils
 from datetime import datetime
 import requests 
 
-# 🛡️ DISFARCE GLOBAL: Faz o feedparser se passar 100% por um navegador real
+# DISFARCE CONFIGURADO NA BIBLIOTECA
 feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
 # ==========================================
@@ -100,8 +99,6 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
             nova_imagem = IMAGENS_CATEGORIA['empregos']
 
     link_limpo = str(imagem_atual).lower()
-    
-    # 🛡️ BLINDAGEM MÁXIMA ANTI-LOGO TUDO JUNTO:
     palavras_lixo = [
         'logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 
         'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 
@@ -161,24 +158,28 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
+# 🛡️ CABEÇALHO LIMPO MAS AGRESSIVO CONTRA CACHE (Sem sujar a URL)
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Cache-Control': 'no-cache, no-store, must-revalidate',
+    'Pragma': 'no-cache',
+    'Expires': '0'
+}
+
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        # 🚀 O SEGREDO ESTÁ AQUI: Geramos um número aleatório para furar o cache do WordPress!
-        url_furadora_de_cache = f"{url}?nocache={int(time.time())}"
-        print(f"[{portal_nome}] Puxando notícias diretas do servidor...")
+        print(f"📡 [{portal_nome}] Requisitando feed limpo...")
+        resposta = requests.get(url, headers=headers, timeout=15)
         
-        # Tenta varrer pelo feedparser puro
-        feed = feedparser.parse(url_furadora_de_cache)
+        # LOG DE DIAGNÓSTICO PROFISSIONAL
+        print(f"📊 [{portal_nome}] Resposta do Servidor: Status {resposta.status_code}")
         
-        # Se vier vazio, tenta forçar usando o requests
-        if not feed.entries:
-            print(f"⚠️ [{portal_nome}] Vazio. Forçando pelo plano B...")
-            headers = {'User-Agent': feedparser.USER_AGENT, 'Accept': '*/*'}
-            req = requests.get(url_furadora_de_cache, headers=headers, timeout=15)
-            feed = feedparser.parse(req.content)
-
-        print(f"[{portal_nome}] Sucesso! Encontrou {len(feed.entries)} entradas.")
+        if resposta.status_code != 200:
+            continue
+            
+        feed = feedparser.parse(resposta.content)
+        print(f"✅ [{portal_nome}] Sincronizado. Entradas encontradas: {len(feed.entries)}")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
@@ -189,17 +190,10 @@ for url in FEEDS:
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
-            # Fuso Horário Correto
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
                 timestamp_utc = calendar.timegm(entry.updated_parsed)
-            elif 'published' in entry:
-                try:
-                    dt = email.utils.parsedate_to_datetime(entry.published)
-                    timestamp_utc = dt.timestamp()
-                except Exception:
-                    timestamp_utc = time.time()
             else:
                 timestamp_utc = time.time()
                 
@@ -222,13 +216,11 @@ for url in FEEDS:
     except Exception as e:
         print(f"🚨 Erro ao processar o portal {portal_nome}: {e}")
 
+# Ordenação cronológica real
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
-# Prevenção: só sobrescreve se realmente achar conteúdo bom
-if len(lista_final) > 10:
+if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Atualização forçada na RMC concluída com sucesso!")
-else:
-    print("⚠️ Poucas notícias retornaram. Mantendo o arquivo antigo por segurança.")
+    print("🎉 Hub de Notícias atualizado com sucesso!")
