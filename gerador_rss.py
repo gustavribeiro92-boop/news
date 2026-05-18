@@ -4,6 +4,7 @@ import json
 import time
 import os
 import calendar
+import email.utils
 from datetime import datetime
 import requests 
 
@@ -66,6 +67,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     f = str(fonte).lower()
     nova_imagem = None
 
+    # Lógica inteligente de categorização por palavras-chave
     if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo']):
         nova_imagem = IMAGENS_CATEGORIA['empregos']
     elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio']):
@@ -95,17 +97,21 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         if not nova_imagem:
             nova_imagem = IMAGENS_CATEGORIA['empregos']
 
-    if 'novomomento' in f or 'novo momento' in f:
-        return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
-
+    # 🛡️ BLINDAGEM MÁXIMA ANTI-LOGO: Adicionado os nomes dos portais para impedir vazamento de logos nos cards
     link_limpo = str(imagem_atual).lower()
-    
-    # 🛡️ FILTRO DE LIXO TURBINADO: Agora pega icones, logos camuflados e avatares
-    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'wp-includes', 'site']
+    palavras_lixo = [
+        'logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 
+        'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 
+        'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', 
+        '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'wp-includes', 'site',
+        'sb24horas', 'difusorapiracicaba', 'hjnews', 'jornalojogo', 'noticiadelimeira', 
+        'noticiafm', 'novomomento', 'portaldeamericana', 'rapidonoar', 'redefamilia', 'vagas019'
+    ]
 
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
 
+    # Se a imagem capturada for vazia, for um logo do portal ou imagem padrão, usa a da categoria ou fallback
     if not imagem_atual or is_lixo or is_fallback:
         return nova_imagem if nova_imagem else LINK_FALLBACK_PADRAO
 
@@ -118,15 +124,27 @@ def nome_curto_portal(url):
     return 'portal'
 
 def extrair_melhor_imagem(entry):
+    # 1. Tenta extrair pela tag padrão media_content
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url', '')
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href', '')
-    if 'description' in entry:
-        match = re.search(r'<img [^>]*src="([^"]+)"', entry.description)
+    
+    # 2. Tenta extrair pelas tags de enclosures do feed
+    if 'enclosures' in entry:
+        for enc in entry.enclosures:
+            if enc.get('type', '').startswith('image/'):
+                return enc.get('href', '')
+
+    # 3. Varre de forma agressiva a descrição, resumo e conteúdo completo atrás de tags <img>
+    html_alvo = ""
+    if 'description' in entry: html_alvo += entry.description
+    if 'summary' in entry: html_alvo += entry.summary
+    if 'content' in entry:
+        for c in entry.content: html_alvo += c.value
+        
+    if html_alvo:
+        match = re.search(r'<img [^>]*src=["\']([^"\']+)["\']', html_alvo)
         if match: return match.group(1)
+        
     return ''
 
 # ==========================================
@@ -135,7 +153,6 @@ def extrair_melhor_imagem(entry):
 lista_final = []
 links_processados = set()
 
-# Carrega histórico antigo (Cache)
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
@@ -146,19 +163,25 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# 🛡️ CAMUFLAGEM DE ROBÔ: O Python agora finge ser o Google Chrome
+# 🛡️ CABEÇALHO AVANÇADO DE NAVEGADOR COM PARÂMETROS DE ACEITAÇÃO (Fura o bloqueio dos portais)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7'
 }
 
-# Raspa os portais furando o bloqueio
 for url in FEEDS:
+    portal_nome = nome_curto_portal(url)
     try:
-        print(f"[{nome_curto_portal(url)}] Sincronizando...")
+        print(f"[{portal_nome}] Baixando conteúdo...")
         
-        # Fazemos a requisição com o disfarce primeiro, e depois passamos para o leitor RSS
         resposta = requests.get(url, headers=headers, timeout=15)
-        feed = feedparser.parse(resposta.content)
+        if resposta.status_code != 200:
+            print(f"⚠️ Aviso [{portal_nome}]: Servidor retornou status {resposta.status_code}")
+            continue
+            
+        feed = feedparser.parse(resposta.text if resposta.text else resposta.content)
+        print(f"[{portal_nome}] Encontrou {len(feed.entries)} entradas.")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
@@ -166,19 +189,24 @@ for url in FEEDS:
                 continue
                 
             titulo_seguro = entry.get('title', 'Notícia')
-            portal_nome = nome_curto_portal(url)
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
-            # 🕒 O MOTOR DE TEMPO PRECISO (Fuso Horário do Brasil garantido)
+            # Captura precisa de tempo UTC
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
                 timestamp_utc = calendar.timegm(entry.updated_parsed)
+            elif 'published' in entry:
+                try:
+                    dt = email.utils.parsedate_to_datetime(entry.published)
+                    timestamp_utc = dt.timestamp()
+                except Exception:
+                    timestamp_utc = time.time()
             else:
                 timestamp_utc = time.time()
                 
-            # Ajuste cravado para o Fuso de Brasília (UTC-3)
+            # Conversão matemática perfeita para o horário de Brasília (UTC-3)
             timestamp_br = timestamp_utc - (3 * 3600)
             data_str = datetime.utcfromtimestamp(timestamp_br).strftime("%d/%m/%Y %H:%M")
             
@@ -196,14 +224,13 @@ for url in FEEDS:
             links_processados.add(link_noticia)
             
     except Exception as e:
-        print(f"Erro em {url}: {e}")
+        print(f"🚨 Erro crítico ao processar o portal {portal_nome}: {e}")
 
-# Ordena da mais nova para a mais velha com base no tempo de Brasília
+# Ordenação rigorosa por data real de Brasília
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
 
-# Salva o resultado
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("✅ Feed principal da RMC atualizado com sucesso e bloqueios furados!")
+    print("🎉 O Hub de Notícias da RMC foi completamente atualizado e corrigido!")
