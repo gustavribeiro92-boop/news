@@ -12,7 +12,7 @@ import requests
 feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
 # ==========================================
-# 1. LISTA DE FEEDS E LOGOS (Sincronizados com o WordPress)
+# 1. LISTA DE FEEDS E LOGOS
 # ==========================================
 FEEDS = [
     'https://americanapost.com.br/feed/',
@@ -48,7 +48,7 @@ LOGOS_PORTAIS = {
 LINK_FALLBACK_PADRAO = 'https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png'
 
 # ==========================================
-# 2. INTELIGÊNCIA DAS IMAGENS
+# 2. INTELIGÊNCIA DAS IMAGENS (Com os resgates do dia 08/05)
 # ==========================================
 IMAGENS_CATEGORIA = {
     'politica': 'https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg',
@@ -61,8 +61,11 @@ IMAGENS_CATEGORIA = {
     'eventos': 'https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg',
     'saude': 'https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg',
     'policia': 'https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg',
-    'frio': 'https://portaldosportais.com/wp-content/uploads/2026/05/frio.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
+    'frio': 'https://portaldosportais.com/wp-content/uploads/2026/05/pexels-ammy-singh-294201421-14965455-scaled.jpg',
+    'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
+    'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
+    'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -70,53 +73,55 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     f = str(fonte).lower()
     nova_imagem = None
 
-    if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo', 'trabalho', 'vaga']):
-        nova_imagem = IMAGENS_CATEGORIA['empregos']
-    elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio', 'imposto', 'mega-sena', 'prêmio', 'dinheiro']):
-        nova_imagem = IMAGENS_CATEGORIA['economia']
-    elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros', 'suspeito', 'delegacia']):
+    # Dicionário de Categorias
+    if any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
-    elif any(p in t for p in ['câmara', 'prefeito', 'prefeitura', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado', 'lula', 'bolsonaro', 'tarcísio', 'governo', 'audiência', 'mandato', 'política']):
+    elif any(p in t for p in ['câmara', 'prefeito', 'prefeitura', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
-    elif any(p in t for p in ['dae', 'bomba', 'abastecimento', 'água', 'esgoto', 'reforma filtros', 'reservatório', 'estação de tratamento', 'vazamento']):
-        nova_imagem = IMAGENS_CATEGORIA['dae']
-    elif any(p in t for p in ['saúde', 'hospital', 'hm', 'dengue', 'vacina', 'médico', 'consulta', 'ubs', 'posto de saúde', 'cuidados paliativos', 'doença', 'paciente', 'samu', 'medicamento']):
+    elif any(p in t for p in ['saúde', 'hospital', 'hm', 'dengue', 'vacina', 'médico', 'consulta', 'ubs', 'posto de saúde', 'paciente', 'samu']):
         nova_imagem = IMAGENS_CATEGORIA['saude']
-    elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'mínima', 'chuva', 'clima', 'tempo']):
+    elif any(p in t for p in ['dae', 'bomba', 'abastecimento', 'água', 'esgoto', 'vazamento', 'reservatório']):
+        nova_imagem = IMAGENS_CATEGORIA['dae']
+    elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria']):
         nova_imagem = IMAGENS_CATEGORIA['frio']
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia', 'aeroporto', 'pavimentação']):
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'pavimentação']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
-    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade', 'cei']):
+    elif any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'indústria', 'comércio', 'economia', 'inflação', 'mega-sena']):
+        nova_imagem = IMAGENS_CATEGORIA['economia']
+    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'cei']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'libertadores', 'tênis', 'atc', 'basquete', 'vôlei', 'sesi']):
+    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'tênis', 'sesi']):
         nova_imagem = IMAGENS_CATEGORIA['esportes']
-    elif any(p in t for p in ['show', 'festa', 'teatro', 'cinema', 'evento', 'exposição', 'cultura', 'aniversário', 'celebrar', 'festival', 'banda', 'sinfônica']):
+    elif any(p in t for p in ['show', 'festa', 'teatro', 'cinema', 'evento', 'exposição', 'cultura', 'aniversário', 'celebrar', 'festival']):
         nova_imagem = IMAGENS_CATEGORIA['eventos']
+    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
+        nova_imagem = IMAGENS_CATEGORIA['transito']
+    elif 'campinas' in t:
+        nova_imagem = IMAGENS_CATEGORIA['campinas']
+    elif any(p in t for p in ['santa bárbara', 'sbo']):
+        nova_imagem = IMAGENS_CATEGORIA['sbo']
 
     if 'vagas019' in f or 'vagas 019' in f:
         if not nova_imagem:
             nova_imagem = IMAGENS_CATEGORIA['empregos']
 
     link_limpo = str(imagem_atual).lower()
-    palavras_lixo = [
-        'logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 
-        'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 
-        'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', 
-        '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'wp-includes', 'site',
-        'sb24horas', 'difusorapiracicaba', 'hjnews', 'jornalojogo', 'noticiadelimeira', 
-        'noticiafm', 'novomomento', 'portaldeamericana', 'rapidonoar', 'redefamilia', 'vagas019',
-        'gemini_generated_image', 'portaldosportais', 'novo momento', 'americana post', 'portal de americana'
-    ]
-
+    
+    # Lista de sujeira base (nomes de arquivos quebrados)
+    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'kyijbwc6', 'images.jpg', 'download.jpg', 'sem-foto', 'placeholder', 'blank', '150x150']
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
-    is_fallback_gemini = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
+    
+    # 🚀 O FIM DOS LOGOS VAZADOS (Sacada do seu código de 08/05)
+    # Verifica se a imagem atual é LITERALMENTE um dos nossos logos salvos no WordPress
+    is_nossa_imagem_generica = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values()) or (LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo)
 
-    if not imagem_atual or is_lixo or is_fallback_gemini:
+    # Se veio sem foto, se a foto é um logo do portal, ou se é lixo...
+    if not imagem_atual or is_lixo or is_nossa_imagem_generica:
+        # Põe a imagem da categoria, se não tiver categoria, põe a de Americana!
         return nova_imagem if nova_imagem else IMAGENS_CATEGORIA['americana']
 
     return imagem_atual
 
-# 🕒 Tradutor de link para o padrão esperado pelo JavaScript do seu site
 def nome_curto_portal(url):
     if 'americanapost' in url: return 'americana post'
     if 'difusorapiracicaba' in url: return 'difusorapiracicaba'
@@ -139,17 +144,14 @@ def extrair_melhor_imagem(entry):
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 return link.get('href', '')
-    
     html_alvo = ""
     if 'description' in entry: html_alvo += entry.description
     if 'summary' in entry: html_alvo += entry.summary
     if 'content' in entry:
         for c in entry.content: html_alvo += c.value
-        
     if html_alvo:
         match = re.search(r'<img [^>]*src=["\']([^"\']+)["\']', html_alvo)
         if match: return match.group(1)
-        
     return ''
 
 # ==========================================
@@ -168,7 +170,6 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# 🛡️ CABEÇALHO COMPLETO DE NAVEGADOR (Fura o 403 do SB24Horas e O Jogo)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -178,21 +179,17 @@ headers = {
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        # Fura-cache dinâmico exclusivo para o Novo Momento
         url_requisicao = url
         if 'novomomento' in url:
-            url_requisicao = f"{url}?v={int(time.time())}"
+            url_requisicao = f"{url}?v={int(time.time())}" # Fura Cache
             
         print(f"📡 [{portal_nome}] Puxando dados...")
         resposta = requests.get(url_requisicao, headers=headers, timeout=15)
-        
-        print(f"📊 [{portal_nome}] Resposta do Servidor: Status {resposta.status_code}")
         
         if resposta.status_code != 200:
             continue
             
         feed = feedparser.parse(resposta.content)
-        print(f"  ✅ Sincronizado: {len(feed.entries)} entradas.")
         
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '')
@@ -202,6 +199,12 @@ for url in FEEDS:
             titulo_seguro = entry.get('title', 'Notícia')
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
+            
+            # 🚀 O OTIMIZADOR WSRV.NL (Sacada do seu código de 08/05 para o site voar)
+            todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
+            if not any(nossa.split('/')[-1] in imagem_final for nossa in todas_nossas_imagens) and 'wsrv.nl' not in imagem_final:
+                url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
+                imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
             
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 timestamp_utc = calendar.timegm(entry.published_parsed)
@@ -235,4 +238,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado com sucesso e nomes sincronizados!")
+    print("🎉 O Hub RMC atingiu sua forma final: Anti-Logo e Ultra-Rápido!")
