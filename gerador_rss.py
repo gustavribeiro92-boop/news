@@ -8,8 +8,11 @@ import email.utils
 from datetime import datetime
 import requests 
 
+# DISFARCE CONFIGURADO NA BIBLIOTECA
+feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+
 # ==========================================
-# 1. LISTA DE FEEDS E LOGOS
+# 1. LISTA DE FEEDS E LOGOS (Sincronizados com o WordPress)
 # ==========================================
 FEEDS = [
     'https://americanapost.com.br/feed/',
@@ -18,7 +21,7 @@ FEEDS = [
     'https://jornalojogo.com.br/feed/',
     'https://noticiadelimeira.com.br/feed/',
     'https://noticiafm.com.br/feed/',
-    'https://novomomento.com.br/feed/',  # Deixamos limpo aqui, e injetamos o fura-cache lá embaixo
+    'https://novomomento.com.br/feed/',
     'https://portaldeamericana.com/feed/',
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
@@ -28,14 +31,14 @@ FEEDS = [
 ]
 
 LOGOS_PORTAIS = {
-    'americanapost': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png',
+    'americana post': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png',
     'difusorapiracicaba': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg',
     'hjnews': 'https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg',
     'jornalojogo': 'https://portaldosportais.com/wp-content/uploads/2026/05/O-JOGO_LOGO.png',
     'noticiadelimeira': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg',
-    'noticiafm': 'https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png',
-    'novomomento': 'https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png',
-    'portaldeamericana': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif',
+    'noticia fm': 'https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png',
+    'novo momento': 'https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png',
+    'portal de americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif',
     'rapidonoar': 'https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png',
     'redefamilia': 'https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png',
     'sb24horas': 'https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg',
@@ -67,7 +70,6 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
     f = str(fonte).lower()
     nova_imagem = None
 
-    # DICIONÁRIO EXPANDIDO PARA NÃO ESCAPAR NADA
     if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo', 'trabalho', 'vaga']):
         nova_imagem = IMAGENS_CATEGORIA['empregos']
     elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio', 'imposto', 'mega-sena', 'prêmio', 'dinheiro']):
@@ -96,8 +98,6 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
             nova_imagem = IMAGENS_CATEGORIA['empregos']
 
     link_limpo = str(imagem_atual).lower()
-    
-    # 🛡️ FILTRO ANTI-LIXO EXTREMO
     palavras_lixo = [
         'logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 
         'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 
@@ -105,24 +105,31 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'wp-includes', 'site',
         'sb24horas', 'difusorapiracicaba', 'hjnews', 'jornalojogo', 'noticiadelimeira', 
         'noticiafm', 'novomomento', 'portaldeamericana', 'rapidonoar', 'redefamilia', 'vagas019',
-        'gemini_generated_image', 'portaldosportais'
+        'gemini_generated_image', 'portaldosportais', 'novo momento', 'americana post', 'portal de americana'
     ]
 
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback_gemini = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
 
-    # 🚀 O FIM DOS LOGOS NOS CARDS:
-    # Se a notícia não tem imagem útil, usa a da Categoria. 
-    # Se nenhuma categoria bater, usa a imagem GERAL DA CIDADE DE AMERICANA! NUNCA MAIS O LOGO.
     if not imagem_atual or is_lixo or is_fallback_gemini:
         return nova_imagem if nova_imagem else IMAGENS_CATEGORIA['americana']
 
     return imagem_atual
 
+# 🕒 Tradutor de link para o padrão esperado pelo JavaScript do seu site
 def nome_curto_portal(url):
-    for chave in LOGOS_PORTAIS.keys():
-        if chave in url:
-            return chave
+    if 'americanapost' in url: return 'americana post'
+    if 'difusorapiracicaba' in url: return 'difusorapiracicaba'
+    if 'hjnews' in url: return 'hjnews'
+    if 'jornalojogo' in url: return 'jornalojogo'
+    if 'noticiadelimeira' in url: return 'noticiadelimeira'
+    if 'noticiafm' in url: return 'noticia fm'
+    if 'novomomento' in url: return 'novo momento'
+    if 'portaldeamericana' in url: return 'portal de americana'
+    if 'rapidonoar' in url: return 'rapidonoar'
+    if 'redefamilia' in url: return 'redefamilia'
+    if 'sb24horas' in url: return 'sb24horas'
+    if 'vagas019' in url: return 'vagas019'
     return 'portal'
 
 def extrair_melhor_imagem(entry):
@@ -161,16 +168,17 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# CABEÇALHO PURO PARA NÃO DAR ERRO 403 NO JORNAL O JOGO
+# 🛡️ CABEÇALHO COMPLETO DE NAVEGADOR (Fura o 403 do SB24Horas e O Jogo)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-    'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7'
 }
 
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        # 🚀 O FURA-CACHE DEFINITIVO: Aplicado SÓ no Novo Momento de forma segura
+        # Fura-cache dinâmico exclusivo para o Novo Momento
         url_requisicao = url
         if 'novomomento' in url:
             url_requisicao = f"{url}?v={int(time.time())}"
@@ -178,8 +186,9 @@ for url in FEEDS:
         print(f"📡 [{portal_nome}] Puxando dados...")
         resposta = requests.get(url_requisicao, headers=headers, timeout=15)
         
+        print(f"📊 [{portal_nome}] Resposta do Servidor: Status {resposta.status_code}")
+        
         if resposta.status_code != 200:
-            print(f"  ❌ Falha: Status {resposta.status_code}")
             continue
             
         feed = feedparser.parse(resposta.content)
@@ -218,7 +227,7 @@ for url in FEEDS:
             links_processados.add(link_noticia)
             
     except Exception as e:
-        print(f"🚨 Erro no portal {portal_nome}: {e}")
+        print(f"🚨 Erro crítico no portal {portal_nome}: {e}")
 
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:1000]
@@ -226,4 +235,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Fim dos logos e cache destruído.")
+    print("🎉 Hub de Notícias atualizado com sucesso e nomes sincronizados!")
