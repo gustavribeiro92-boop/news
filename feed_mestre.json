@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Jovem de Santa Bárbara d’Oeste está desaparecida",
+        "link": "https://portaldeamericana.com/jovem-de-santa-barbara-doeste-esta-desaparecida/?utm_source=rss&utm_medium=rss&utm_campaign=jovem-de-santa-barbara-doeste-esta-desaparecida",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_6199.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779104788,
+        "data": "18/05/2026 11:46"
+    },
+    {
         "titulo": "Projeto “Com Eles e por Elas” fortalece ações nas escolas de Sumaré",
         "link": "https://novomomento.com.br/projeto-com-eles-e-por-elas-escolas-de-sumare/",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-14.34.11-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
@@ -8306,13 +8315,5 @@
         "data": "08/05/2026 às 08:03",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1778227433.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Americana se destaca na geração de empregos",
-        "link": "https://novomomento.com.br/americana-se-destaca-na-geracao-de-empregos-2/",
-        "data": "08/05/2026 às 08:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "timestamp": 1778227246.0
     }
 ]
