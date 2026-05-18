@@ -8,8 +8,7 @@ import email.utils
 from datetime import datetime, timezone, timedelta
 import requests 
 
-# DISFARCE CONFIGURADO NA BIBLIOTECA
-feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+# 🚀 REMOVIDO o disfarce global. Vamos usar o disfarce apenas nos jornais locais para não zangar a Google!
 
 # ==========================================
 # 1. LISTA DE FEEDS E LOGOS
@@ -26,7 +25,6 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    # 🚀 A MÁGICA AQUI: Adicionado 'when:7d' para obrigar o Google a trazer apenas notícias recentes!
     'https://news.google.com/rss/search?q=Americana+SP+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419',
     'https://vagas019.com.br/feed/'
 ]
@@ -88,7 +86,7 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
         nova_imagem = IMAGENS_CATEGORIA['saude']
     elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'chuva', 'clima', 'tempo']):
         nova_imagem = IMAGENS_CATEGORIA['frio']
-    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia', 'aeroporto']):
+    elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
     elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade', 'cei']):
         nova_imagem = IMAGENS_CATEGORIA['educacao']
@@ -169,6 +167,7 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
+# O Disfarce Pesado (Apenas para jornais locais)
 headers_navegador = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -178,12 +177,18 @@ headers_navegador = {
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        print(f"📡 [{portal_nome}] Puxando dados...")
+        print(f"📡 [{portal_nome}] A extrair dados...")
         
-        # 🚀 A MÁGICA: O Google é lido por um robô puro e com fura-cache acoplado!
+        # 🚀 O TRATAMENTO VIP PARA A GOOGLE: Robô Oficial + Destruidor de Cache
         if 'news.google' in url:
-            url_requisicao = f"{url}&nocache={int(time.time())}"
-            feed = feedparser.parse(url_requisicao) 
+            headers_google = {
+                'User-Agent': 'Python-urllib/3.10',
+                'Cache-Control': 'no-cache, no-store, must-revalidate'
+            }
+            url_requisicao = f"{url}&v={int(time.time())}"
+            resposta = requests.get(url_requisicao, headers=headers_google, timeout=15)
+            feed = feedparser.parse(resposta.content)
+            
         else:
             url_requisicao = url
             if 'novomomento' in url:
@@ -244,4 +249,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Google News está de volta para o jogo.")
+    print("🎉 Hub de Notícias atualizado! O Google Notícias está limpo de caches.")
