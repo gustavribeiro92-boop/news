@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Limpeza e zeladoria chegam a Praça do Pastel, em Hortolândia",
+        "link": "https://novomomento.com.br/limpeza-e-zeladoria-chegam-a-praca-do-pastel-em-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novomomento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779100524.0,
+        "data": "18/05/2026 10:35"
+    },
+    {
+        "titulo": "Americana recebe pela primeira vez o Festival Sabores e Luzes da Coreia - band.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0pDMHNRSTBtVi1BY0Q3QllPZWotVTV5aDdxSTl4RkpzamFKUTZ5MmJtMi13d2JOd1h3dGZrRE0xQVZiek1vc29vTFRNdnpTTFRqSXBSUmV3bGx4OWJUQVpKdE5zQWJkUWRuM3pfcU04bHFXUkJNRE1ib2JnYjRWdFJIRWdJM2picnZJb2tJM0p3QUFUNXBKV3NSMTJ1LVpLd241dllxTkdCQWp4TU1HMUt5X2RPVU41eDRia1hkRzZITUE4WlpzQWhhNk9mUHZJTlpyLXFDUHZSVUZrSk40?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "timestamp": 1779098407.0,
+        "data": "18/05/2026 10:00"
+    },
+    {
+        "titulo": "Sesi Araraquara vence o Cerrado e encosta na liderança da LBF",
+        "link": "https://sb24horas.com.br/sesi-araraquara-vence-o-cerrado-e-encosta-na-lideranca-da-lbf/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779092147.0,
+        "data": "18/05/2026 08:15"
+    },
+    {
+        "titulo": "Botafogo vence Corinthians pelo Brasileirão com três de Arthur Cabral",
+        "link": "https://sb24horas.com.br/botafogo-vence-corinthians-pelo-brasileirao-com-tres-de-arthur-cabral/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779067216.0,
+        "data": "18/05/2026 01:20"
+    },
+    {
         "titulo": "Mãe denuncia bullying, agressões e supostas ameaças dentro de escola em Limeira",
         "link": "https://noticiadelimeira.com.br/2026/05/17/mae-denuncia-bullying-agressoes-e-supostas-ameacas-dentro-de-escola-em-limeira/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
@@ -8241,37 +8277,5 @@
         "data": "07/05/2026 às 20:01",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "timestamp": 1778184093.0
-    },
-    {
-        "portal": "Difusora FM",
-        "titulo": "Brasil bate recorde de transplantes em 2025",
-        "link": "https://difusorapiracicaba.com.br/brasil-bate-recorde-de-transplantes-em-2025/",
-        "data": "07/05/2026 às 20:00",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1778184000.0
-    },
-    {
-        "portal": "Notícia de Limeira",
-        "titulo": "Limeira oferece agendamento presencial para 450 vagas no mutirão de castração no Parque Cidade",
-        "link": "https://noticiadelimeira.com.br/2026/05/07/limeira-oferece-agendamento-presencial-para-450-vagas-no-mutirao-de-castracao-no-parque-cidade/",
-        "data": "07/05/2026 às 19:59",
-        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778183963.0
-    },
-    {
-        "portal": "SB24Horas",
-        "titulo": "Após décadas de espera, Prefeitura inicia pavimentação histórica no Jardim Adélia em Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/apos-decadas-de-espera-prefeitura-inicia-pavimentacao-historica-no-jardim-adelia-em-santa-barbara-doeste/",
-        "data": "07/05/2026 às 19:57",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
-        "timestamp": 1778183846.0
-    },
-    {
-        "portal": "Rápido no Ar",
-        "titulo": "Lula e Trump se reúnem na Casa Branca e discutem comércio, tarifas e segurança",
-        "link": "https://rapidonoar.com.br/lula-e-trump-se-reunem-na-casa-branca-e-discutem-comercio-tarifas-e-seguranca-sp/",
-        "data": "07/05/2026 às 19:55",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/lula-trump-eua-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "timestamp": 1778183731.0
     }
 ]
