@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Hospital Municipal de Americana abre processo seletivo para vagas administrativas",
+        "link": "https://www.americanapost.com.br/hospital-municipal-de-americana-abre-processo-seletivo-para-vagas-administrativas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "americanapost",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1779101635,
+        "data": "18/05/2026 10:53"
+    },
+    {
         "titulo": "Homem de 51 anos morre atropelado na SP-304",
         "link": "https://www.americanapost.com.br/homem-de-51-anos-morre-atropelado-na-sp-304/",
         "imagem": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f8.png",
@@ -8293,13 +8302,5 @@
         "data": "08/05/2026",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
         "timestamp": 1778201940.0
-    },
-    {
-        "portal": "Novo Momento",
-        "titulo": "Procon de Nova Odessa dá dicas para compras seguras no Dia das Mães",
-        "link": "https://novomomento.com.br/procon-nodessa-dica-compra-segura-dia-das-maes/",
-        "data": "08/05/2026 às 00:35",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_wk6240wk6240wk62-1.png",
-        "timestamp": 1778200546.0
     }
 ]
