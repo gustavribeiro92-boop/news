@@ -1,5 +1,329 @@
 [
     {
+        "titulo": "Dark Horse: Saiu o trailer do filme do Bolsonaro",
+        "link": "https://novomomento.com.br/dark-horse-saiu-o-trailer-do-filme-do-bolsonaro/",
+        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/64a8e8d576d3505a7823819ae1fa6eb7/imagens/2026/04/20/2667d43dc89545e3aba42478e607fbcf_medium.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779201440,
+        "data": "19/05/2026 14:37"
+    },
+    {
+        "titulo": "Dominguinho: João Gomes, Mestrinho e Jota.Pê fazem show em Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVVyN2JieExWbG5fWFNERTlpUHVnVmU2NW1ybmUwb01Cd24zSzJ2OFJkTGlPaTQ3aWxtbF91Q1d4ZVBCNm9SY2pZV2Q4TWRDZ1JpX0lrRmFLci1ZWWVVNVBudXdCVGZlSllnSnhZY180TVR1Z2ltNWpmdGRmcDgyWGd3cF8wY0xDYVA0M3o3RWVBRnI2R0FHLVEteV9JcFJ3bENfdWl2dWQ5bnRydHdOUjZQN0djVEpmVmxRR3AyT0dobE9jb3pWVm9kUU1lVFgwSTFRZ9IB4wFBVV95cUxOWGNVTmxnS2c3X01IU2RITWtnX1A2bzdHVENHdTR1SVZzSmFPU0JDQVhGbzVreUxqSUljZ3I4RnJOQTV6aG5OMmppZGZTZ041RVc5TVlyN0FHeFBnWFhCU2ZPbUhNY28tcHpTYXlYem1SSW9UZzQzVUw3T0IyU2lZLWc5T1c0THFzSlVTR3RmbDlVM0Z4ai1hMjlaRTFUT01hc3doZkZXeWNIZDFsUktheExyQzN5Vjh2dE42YzUtbXpYODlvd0p2ZEpGSmg2SWgxYWlTQ0xVRm9uYUhqM19pYld6aw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779201319,
+        "data": "19/05/2026 14:35"
+    },
+    {
+        "titulo": "Novo asfalto começa a ser aplicado em trecho da rua Cristiano Cleopath",
+        "link": "https://difusorapiracicaba.com.br/novo-asfalto-comeca-a-ser-aplicado-em-trecho-da-rua-cristiano-cleopath/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779201000,
+        "data": "19/05/2026 14:30"
+    },
+    {
+        "titulo": "Homem conhecido como “Carpa” é preso em ação de policiais da Deic em Piracicaba",
+        "link": "https://rapidonoar.com.br/homem-conhecido-como-carpa-e-preso-em-acao-de-policiais-da-deic-em-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/prisao-carpa-piracicaba-02-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779200890,
+        "data": "19/05/2026 14:28"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara inicia nova turma do programa “Saúde Sem Tabaco”",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-inicia-nova-turma-do-programa-saude-sem-tabaco-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779200875,
+        "data": "19/05/2026 14:27"
+    },
+    {
+        "titulo": "FHO realiza primeiro plantio do Projeto Carbono Zero no Campus Santa Bárbara d’Oeste",
+        "link": "https://sb24horas.com.br/fho-realiza-primeiro-plantio-do-projeto-carbono-zero-no-campus-santa-barbara-doeste/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779200713,
+        "data": "19/05/2026 14:25"
+    },
+    {
+        "titulo": "Sebrae-SP abre inscrições para aceleração de estúdios de games nas regiões de Campinas e Piracicaba",
+        "link": "https://sb24horas.com.br/sebrae-sp-abre-inscricoes-para-aceleracao-de-estudios-de-games-nas-regioes-de-campinas-e-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779200546,
+        "data": "19/05/2026 14:22"
+    },
+    {
+        "titulo": "Trump diz que ‘talvez’ volte a atacar o Irã em meio a impasse nas negociações",
+        "link": "https://noticiafm.com/trump-diz-que-talvez-volte-a-atacar-o-ira-em-meio-a-impasse-nas-negociacoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779200218,
+        "data": "19/05/2026 14:16"
+    },
+    {
+        "titulo": "Trabalhadores são resgatados de condições análogas à escravidão em Sumaré",
+        "link": "https://novomomento.com.br/trabalhadores-sao-resgatados-de-condicoes-analogas-a-escravidao-em-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779199537,
+        "data": "19/05/2026 14:05"
+    },
+    {
+        "titulo": "Elenco se reapresenta e dá largada na preparação para a partida diante do Velo Clube",
+        "link": "https://difusorapiracicaba.com.br/elenco-se-reapresenta-e-da-largada-na-preparacao-para-a-partida-diante-do-velo-clube/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779199200,
+        "data": "19/05/2026 14:00"
+    },
+    {
+        "titulo": "INSS: novas regras do empréstimo consignado passam a valer nesta terça; biometria será obrigatória",
+        "link": "https://noticiafm.com/inss-novas-regras-do-emprestimo-consignado-passam-a-valer-nesta-terca-biometria-sera-obrigatoria/",
+        "imagem": "https://wsrv.nl/?url=s.w.org/images/core/emoji/17.0.2/72x72/1f50e.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779198760,
+        "data": "19/05/2026 13:52"
+    },
+    {
+        "titulo": "PL tentou barrar divulgação de pesquisa que mostrou queda de Flávio Bolsonaro",
+        "link": "https://portaldeamericana.com/pl-tentou-barrar-divulgacao-de-pesquisa-que-mostrou-queda-de-flavio-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=pl-tentou-barrar-divulgacao-de-pesquisa-que-mostrou-queda-de-flavio-bolsonaro",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/Flavio-Bolsonaro.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779198630,
+        "data": "19/05/2026 13:50"
+    },
+    {
+        "titulo": "Flávio admite reunião com Vorcaro, quando banqueiro estava com tornozeleira eletrônica, ‘para botar ponto final na questão’ de filme",
+        "link": "https://noticiafm.com/flavio-admite-reuniao-com-vorcaro-quando-banqueiro-estava-com-tornozeleira-eletronica-para-botar-ponto-final-na-questao-de-filme/",
+        "imagem": "https://wsrv.nl/?url=s.w.org/images/core/emoji/17.0.2/72x72/1f3a5.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779198490,
+        "data": "19/05/2026 13:48"
+    },
+    {
+        "titulo": "Namorando Juliano Floss, Marina Sena repensa ideia de casamento, mas rejeita divisão de bens: ‘Lutei tanto para conseguir o que consegui’",
+        "link": "https://noticiafm.com/namorando-juliano-floss-marina-sena-repensa-ideia-de-casamento-mas-rejeita-divisao-de-bens-lutei-tanto-para-conseguir-o-que-consegui/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779198344,
+        "data": "19/05/2026 13:45"
+    },
+    {
+        "titulo": "Chay Suede sobre romance com personagem de Letícia Colin em ‘Quem Ama Cuida’: ‘Talvez frustre’",
+        "link": "https://noticiafm.com/chay-suede-sobre-romance-com-personagem-de-leticia-colin-em-quem-ama-cuida-talvez-frustre/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779198047,
+        "data": "19/05/2026 13:40"
+    },
+    {
+        "titulo": "Zé Felipe comenta em foto de Virginia e debocha de post de Vini Jr.: ‘Fica bem’",
+        "link": "https://noticiafm.com/ze-felipe-comenta-em-foto-de-virginia-e-debocha-de-post-de-vini-jr-fica-bem/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779197737,
+        "data": "19/05/2026 13:35"
+    },
+    {
+        "titulo": "BYD e Mercedes destaques em leilão de carros elétricos hoje",
+        "link": "https://novomomento.com.br/byd-mercedes-destaque-leilao-carro-eletricohoje/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2024/05/9875bb20-picapebyd-300x204.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779197557,
+        "data": "19/05/2026 13:32"
+    },
+    {
+        "titulo": "Quadrilha do golpe do falso advogado que movimentou cerca de R$ 10 milhões é alvo de operação",
+        "link": "https://rapidonoar.com.br/quadrilha-do-golpe-do-falso-advogado-que-movimentou-cerca-de-r-10-milhoes-e-alvo-de-operacao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/operacao-falso-advogado-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779197431,
+        "data": "19/05/2026 13:30"
+    },
+    {
+        "titulo": "Consignados: INSS passa a exigir biometria facial a partir desta terça",
+        "link": "https://difusorapiracicaba.com.br/consignados-inss-passa-a-exigir-biometria-facial-a-partir-desta-terca/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779197400,
+        "data": "19/05/2026 13:30"
+    },
+    {
+        "titulo": "João Pedro comunicará ao Chelsea que tem interesse em se transferir para o Barcelona, diz jornal",
+        "link": "https://noticiafm.com/joao-pedro-comunicara-ao-chelsea-que-tem-interesse-em-se-transferir-para-o-barcelona-diz-jornal/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779197350,
+        "data": "19/05/2026 13:29"
+    },
+    {
+        "titulo": "Convocados de Portugal para a Copa do Mundo 2026; veja a lista",
+        "link": "https://noticiafm.com/convocados-de-portugal-para-a-copa-do-mundo-2026-veja-a-lista/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779196697,
+        "data": "19/05/2026 13:18"
+    },
+    {
+        "titulo": "Festa, choro e promessa a Raphinha: como Neymar reagiu ao ser convocado para a Copa",
+        "link": "https://noticiafm.com/festa-choro-e-promessa-a-raphinha-como-neymar-reagiu-ao-ser-convocado-para-a-copa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779196496,
+        "data": "19/05/2026 13:14"
+    },
+    {
+        "titulo": "A 10 dias do fim do prazo, 40% não enviaram declaração do IRPF",
+        "link": "https://difusorapiracicaba.com.br/a-10-dias-do-fim-do-prazo-40-nao-enviaram-declaracao-do-irpf/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779195600,
+        "data": "19/05/2026 13:00"
+    },
+    {
+        "titulo": "Ju Massaoka reacende alerta sobre PMMA e falta de transparência em procedimentos estéticos",
+        "link": "https://novomomento.com.br/ju-massaoka-alerta-pmma-transparencia-estetica/",
+        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/aee2f952-3231-436d-a46e-08d9f0b2efaa/77e15fc6-f654-4d80-a966-d565ea035e39.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779194771,
+        "data": "19/05/2026 12:46"
+    },
+    {
+        "titulo": "Supermercados preferem flexibilização da CLT ao fim da escala 6&#215;1",
+        "link": "https://novomomento.com.br/supermercado-prefere-flexibil-clt-fim-escala-61/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/Supermercado-2-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779194734,
+        "data": "19/05/2026 12:45"
+    },
+    {
+        "titulo": "Grupo Savegnago participa de painéis sobre sucessão, cultura e gestão na APAS Show 2026",
+        "link": "https://noticiafm.com/grupo-savegnago-participa-de-paineis-sobre-sucessao-cultura-e-gestao-na-apas-show-2026/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-12.27.53-559x372.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779194119,
+        "data": "19/05/2026 12:35"
+    },
+    {
+        "titulo": "Grupo Savegnago debate sucessão, gestão e inovação no varejo durante a APAS Show 2026",
+        "link": "https://difusorapiracicaba.com.br/grupo-savegnago-debate-sucessao-gestao-e-inovacao-no-varejo-durante-a-apas-show-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779193800,
+        "data": "19/05/2026 12:30"
+    },
+    {
+        "titulo": "Imunização contra a gripe alcança 16,2 mil doses em Santa Bárbara",
+        "link": "https://novomomento.com.br/imunizacao-gripe-16-mil-doses-em-santa-barbara/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/dia-d-gripe-04-300x214.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779192322,
+        "data": "19/05/2026 12:05"
+    },
+    {
+        "titulo": "Ancelotti convoca Neymar para a Copa do Mundo e anuncia lista da seleção brasileira",
+        "link": "https://difusorapiracicaba.com.br/ancelotti-convoca-neymar-para-a-copa-do-mundo-e-anuncia-lista-da-selecao-brasileira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779192000,
+        "data": "19/05/2026 12:00"
+    },
+    {
+        "titulo": "Comissão de Meio Ambiente analisa informações sobre gestão de resíduos e fluxo de materiais recicláveis em Americana",
+        "link": "https://hjnews.com.br/comissao-de-meio-ambiente-analisa-informacoes-sobre-gestao-de-residuos-e-fluxo-de-materiais-reciclaveis-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779191101,
+        "data": "19/05/2026 11:45"
+    },
+    {
+        "titulo": "Loja oferece figurinhas da Copa para clientes trocar em Sumaré",
+        "link": "https://novomomento.com.br/loja-oferece-figurinha-copa-trocar-em-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779191056,
+        "data": "19/05/2026 11:44"
+    },
+    {
+        "titulo": "Câmara aprova dez projetos e 27 moções, além de encaminhar 26 requerimentos à Prefeitura",
+        "link": "https://noticiadelimeira.com.br/2026/05/19/camara-aprova-dez-projetos-e-27-mocoes-alem-de-encaminhar-26-requerimentos-a-prefeitura/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779190770,
+        "data": "19/05/2026 11:39"
+    },
+    {
+        "titulo": "Vereadores de olho nas Mães atípicas e alergia alimentar em Santa Bárbara",
+        "link": "https://novomomento.com.br/vereador-olho-mae-atipica-alergia-alimentar-sb/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/celso-avila-mae-atipica-300x211.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779190719,
+        "data": "19/05/2026 11:38"
+    },
+    {
+        "titulo": "Começa hoje o tríduo na Capela de Santa Rita em SBO - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkhpN3dWQW9lbGw3Wk9uSzQxY0Q5d19xSXZzejB5RWNCc3FRdVdwZGludFpxMDUydndld0prXzRHN0VDanJHZUZqUm1uMzdqSm1aM3hkR2Jnd25PMVVsRzhlZE5xMmxib0xKUDhOWDJhWHNrVHlZWUw4UVlvc3BqWFNRQVRPODQ5Nk1MalY0eFFya2k1aTI5TnNPSGF4UnJwLWFiYmQzbjY3dm9JREFGMmwxVndldExmOHVVOUNqRQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779190605,
+        "data": "19/05/2026 11:36"
+    },
+    {
+        "titulo": "Indústria de Limeira reforça competitividade internacional e amplia capacidade produtiva em 2026",
+        "link": "https://noticiadelimeira.com.br/2026/05/19/industria-de-limeira-reforca-competitividade-internacional-e-amplia-capacidade-produtiva-em-2026-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779190527,
+        "data": "19/05/2026 11:35"
+    },
+    {
+        "titulo": "Maio Laranja: Limeira reforça ações de combate à exploração sexual de crianças e adolescentes",
+        "link": "https://noticiadelimeira.com.br/2026/05/19/maio-laranja-limeira-reforca-acoes-de-combate-a-exploracao-sexual-de-criancas-e-adolescentes/",
+        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779190120,
+        "data": "19/05/2026 11:28"
+    },
+    {
         "titulo": "Juninho Dias sugere criação da “Praça dos Autistas” em Americana",
         "link": "https://hjnews.com.br/juninho-dias-sugere-criacao-da-praca-dos-autistas-em-americana/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
@@ -92,6 +416,15 @@
     {
         "titulo": "Jogo do São Paulo hoje pela Copa Sul-Americana: que horas começa e onde assistir - UOL",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcU8zUndYaVdveTNWZFoyZXNJSUNoa0l2QXBjeE9QdWNTLXloRW8yX0FMQm42VE5zUzU4VVRTZVN2eXVOdVg3a3hNY2xMejNVNkJUbGRfc2xIVlhTX2g5ZVZER1hfcEx6a29hbzdtN0tqd2luUGlqZDk2WjN5Y3I2dmZFUHZQZ1hicFM3UUtkb0VxajFQa3c2Vl94N3l5UkhWZm8xVkRqSjNpa1dLNk5KWjlWSUt4MUhkU2t2NDgxTlJYSWlXSUEtMnhPTEVDbkZmUVU4T2dHQ0tCNU56eHdDdXVOQU1vRlJaSmtsZDFsekMxXzVoMEVmaWlwSQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779188400,
+        "data": "19/05/2026 11:00"
+    },
+    {
+        "titulo": "Jogo do São Paulo hoje pela Copa Sul-Americana: que horas começa e onde assistir - UOL",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNkVNWU54cHhORjZSLXJLM3pYNDlIeGp6QTJwR3JSVWxnWTRZNTQ3bTk5WkIxTEhzSS1scnRzTDZHSEMzY0N0eVI0OTdna1VMTGlKdlJTVTNvdW1RdGUyZ1ZPbmdfYXVMbWVuY2xvblB5bHB5VUlvZ3h4RmZvWHJROWlwZjhsSVZyNzFOVzhNWVpaanJIM2cxZEJWRHFHdllkYm84NHdFdVVNZHN6Z3pYdU1Sa3VhUFloVTU2Z0VPN0tUMmNTQnk0ODRyOGVJOFZ6NDlpMUozcU9nSVJrbzd0MEJDcFJNbGJWdDNsaUFfTzl1T2haRTg2TXVWY1Jqd2lyOEdsWlpPNGgwUi10Z3l0dFZPZENnOU5Pd1VNSA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
         "portal": "Google Notícias",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -358,6 +691,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1779180944,
         "data": "19/05/2026 08:55"
+    },
+    {
+        "titulo": "Banco de Sangue de Americana faz apelo por doações de sangue O negativo - Portal Veloz",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaThLSnpoV2VNbUlub3RnbmpLRUhvOEFhZU9ELUl0bWpqNHVnU0phR3NJVHlVSEpqQjEzN19YWkFWc1A4TFUwT3JzX0hpX19JakoyOVBNc2psRmtsX0M2QTRsOEVNSl9xR0RSTGw3cjZyeTRnZGpCTDBWZG52OXVLTHdLcGVHTlBYb3pXWGZoZHNRZFAzY1lxSGRHM05jMnJn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779180552,
+        "data": "19/05/2026 08:49"
     },
     {
         "titulo": "Interligação de rede de reforço pode causar intermitência no abastecimento na região do Zanaga nesta terça-feira",
