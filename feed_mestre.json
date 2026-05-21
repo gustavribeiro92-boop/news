@@ -1,5 +1,194 @@
 [
     {
+        "titulo": "Carreta do SUS oferece cerca de 1.400 exames de tomografia em Piracicaba e região",
+        "link": "https://difusorapiracicaba.com.br/carreta-do-sus-oferece-cerca-de-1-400-exames-de-tomografia-em-piracicaba-e-regiao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779361200,
+        "data": "21/05/2026 11:00"
+    },
+    {
+        "titulo": "Classificado, Corinthians enfrenta o Peñarol no Uruguai",
+        "link": "https://rapidonoar.com.br/classificado-corinthians-enfrenta-o-penarol-no-uruguai/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/face-trio-2-1024x524.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779360899,
+        "data": "21/05/2026 10:54"
+    },
+    {
+        "titulo": "Procon-SP promove palestra educação financeira online e gratuitamente nesta sexta (22)",
+        "link": "https://noticiafm.com/procon-sp-promove-palestra-educacao-financeira-online-e-gratuitamente-nesta-sexta-22/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/album-dinheiros-variados-divulgacao-1024x704-1-559x384.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779360196,
+        "data": "21/05/2026 10:43"
+    },
+    {
+        "titulo": "Nova Odessa tem Mostra de Música Dança: tradição de décadas passadas",
+        "link": "https://novomomento.com.br/nova-odessa-mostra-de-musica-e-danca-tradicao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779359763,
+        "data": "21/05/2026 10:36"
+    },
+    {
+        "titulo": "Prefeitura de Americana protocola propostas para o Orçamento Estadual de 2027 - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGlrbEVndXg2RDY5V3prX2poLWFaUjVDVmJmVnZXSC00Ym8zVzZacXFKXzY5XzZkcjl0UHh1aG5OUG8yclgybXlCbUN6ejJyRHdRZzJHeUlrTnE0YmNfVWlUWnJ6ckFodEdibXBJS3AzelE1ZGtiQ0ZQYVBsRUMwN2dSTGcyUUFIMzJveHE4YkpybE9JUzBFQjVNREYxVllQSjJmLXc2aWVvQi1nSXlSYzk1dHRPdGJObE5uTDRLa3Q2cThZcXBjcjlFbGEyRlFzZHUzeWROc3FVV1dDY0JtbndB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779359640,
+        "data": "21/05/2026 10:34"
+    },
+    {
+        "titulo": "Estudo revela que sites e blogs são a principal fonte de informação de 42% dos brasileiros",
+        "link": "https://sb24horas.com.br/estudo-revela-que-sites-e-blogs-sao-a-principal-fonte-de-informacao-de-42-dos-brasileiros/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779359475,
+        "data": "21/05/2026 10:31"
+    },
+    {
+        "titulo": "Ceará tem descoberta de petróleo no sertão",
+        "link": "https://novomomento.com.br/ceara-tem-descoberta-de-petroleo/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/petroleo-ceara-300x250.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779357963,
+        "data": "21/05/2026 10:06"
+    },
+    {
+        "titulo": "Nova Odessa vacina em escolas para atualizar caderneta dos jovens",
+        "link": "https://novomomento.com.br/nova-odessa-vacina-em-escolas-caderneta-jovens/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/02/vacinacao-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779357786,
+        "data": "21/05/2026 10:03"
+    },
+    {
+        "titulo": "Influenciadora Deolane Bezerra é presa em ação da Polícia Civil de SP",
+        "link": "https://rapidonoar.com.br/influenciadora-deolane-bezerra-e-presa-em-acao-da-policia-civil-de-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/09/Deolane-bezerra-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779357606,
+        "data": "21/05/2026 10:00"
+    },
+    {
+        "titulo": "Homem é preso por tentativa de feminicídio e tentativa de homicídio no Cecap em Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/homem-e-preso-por-tentativa-de-feminicidio-e-tentativa-de-homicidio-no-cecap-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779356607,
+        "data": "21/05/2026 09:43"
+    },
+    {
+        "titulo": "Gestão de Paulo Monaro na Câmara é aprovada pelo TCE-SP",
+        "link": "https://sb24horas.com.br/gestao-de-paulo-monaro-na-camara-e-aprovada-pelo-tce-sp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779356426,
+        "data": "21/05/2026 09:40"
+    },
+    {
+        "titulo": "Prefeitura de Americana protocola propostas para o Orçamento Estadual de 2027",
+        "link": "https://noticiafm.com/prefeitura-de-americana-protocola-propostas-para-o-orcamento-estadual-de-2027/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/0c81275e65e3b0a4831eb973ed030cc6-559x314.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779356402,
+        "data": "21/05/2026 09:40"
+    },
+    {
+        "titulo": "Influenciadora Deolane Bezerra é presa em operação que apura ligação com o PCC",
+        "link": "https://portaldeamericana.com/influenciadora-deolane-bezerra-e-presa-em-operacao-que-apura-ligacao-com-o-pcc/?utm_source=rss&utm_medium=rss&utm_campaign=influenciadora-deolane-bezerra-e-presa-em-operacao-que-apura-ligacao-com-o-pcc",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_6484.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779356340,
+        "data": "21/05/2026 09:39"
+    },
+    {
+        "titulo": "Venda irregular termina em apreensão de 215 kg de peixes e doação - Portal iG",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbE9LcUZ0N3VGYmtoZjRoakNXQ3pTOWt2djFNMUVQVUZpYXpzLTU3Zy1QbnhXWlZYeERsejV0X1F4a3ZvenN6ZG16djZkWmVpbW00SHIyTWpQbnVYcHFRZFltMTZ2bWg1YVRxNmtrbFhpc3NWUzVDZUdIRFRQZ2Y0VFBoS08za2pjS01Cai0waGlqTHUwRjBhX0VaODZ2UU1aN1pWUm9ES2U5cGtHQTB2M3p6QdIBuAFBVV95cUxObjJsamMybXE4MkcyQ0NPcHoyQ3A1SkJtUFFvdjFoRlpTVEQyWVJXb0RkTXRqbWhMVmxjUkxyc3ZZY3JMVk1rQy0ya3ZMSE9LcVRKTVFHOGc5X2w1VGtlWHpra0tNNzVnMEcwSi05aUdpWTVYUUN4VndUN1hhZGw2Z1VMNFpWcFJkMG5zOFVzUENpM051YUJyRUVfWHY3bGFEU1ljYktXVWh0dUhxWnF5SVhJMmpmcEdM?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779355620,
+        "data": "21/05/2026 09:27"
+    },
+    {
+        "titulo": "Marta volta à seleção feminina para 2 amistosos contra EUA no Brasil",
+        "link": "https://sb24horas.com.br/marta-volta-a-selecao-feminina-para-2-amistosos-contra-eua-no-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779355245,
+        "data": "21/05/2026 09:20"
+    },
+    {
+        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 4",
+        "link": "https://rapidonoar.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-4-4/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/12/bolsa-familia-cartao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779355190,
+        "data": "21/05/2026 09:19"
+    },
+    {
+        "titulo": "Edícula escondia laboratório de drogas em Hortolândia: 2 presos",
+        "link": "https://novomomento.com.br/edicula-laboratorio-de-drogas-em-hortolandia/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-20-at-21.01.38-300x169.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779354378,
+        "data": "21/05/2026 09:06"
+    },
+    {
+        "titulo": "Deolane Bezerra é presa em operação contra lavagem de dinheiro do PCC",
+        "link": "https://noticiafm.com/deolane-bezerra-e-presa-em-operacao-contra-lavagem-de-dinheiro-do-pcc/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/deolane-bezerra-559x419.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779353597,
+        "data": "21/05/2026 08:53"
+    },
+    {
+        "titulo": "TEDx Carioba este sábado no TM Americana",
+        "link": "https://novomomento.com.br/tedx-carioba-este-sabado-no-tm-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779352121,
+        "data": "21/05/2026 08:28"
+    },
+    {
+        "titulo": "Sindicato Servidores Americana ataca deputados em nota (escala 6&#215;1)",
+        "link": "https://novomomento.com.br/sindicato-americana-ataca-deputado-nota-escala6/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779351522,
+        "data": "21/05/2026 08:18"
+    },
+    {
+        "titulo": "CM de Nova Odessa presta homenagem a agentes de segurança pública",
+        "link": "https://novomomento.com.br/cm-de-nova-odessa-presta-homenagem-a-agentes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779350595,
+        "data": "21/05/2026 08:03"
+    },
+    {
         "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 4",
         "link": "https://sb24horas.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-4-3/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
