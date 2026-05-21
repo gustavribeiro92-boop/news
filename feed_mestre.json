@@ -1,5 +1,203 @@
 [
     {
+        "titulo": "Tarcísio lidera 1º e 2º turnos em SP, diz Paraná Pesquisas",
+        "link": "https://portaldeamericana.com/tarcisio-lidera-1o-e-2o-turnos-em-sp-diz-parana-pesquisas/?utm_source=rss&utm_medium=rss&utm_campaign=tarcisio-lidera-1o-e-2o-turnos-em-sp-diz-parana-pesquisas",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779381614,
+        "data": "21/05/2026 16:40"
+    },
+    {
+        "titulo": "Corpo de mulher que foi atropelada na Anhanguera será sepultado nesta sexta em Limeira",
+        "link": "https://rapidonoar.com.br/corpo-de-mulher-que-foi-atropelada-na-anhanguera-sera-sepultado-nesta-sexta-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/claudenice-neves-de-souza-atropelada-anhanguera-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779381319,
+        "data": "21/05/2026 16:35"
+    },
+    {
+        "titulo": "App 99 desenvolve tecnologia para monitorar motociclistas parceiros",
+        "link": "https://sb24horas.com.br/app-99-desenvolve-tecnologia-para-monitorar-motociclistas-parceiros/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779381045,
+        "data": "21/05/2026 16:30"
+    },
+    {
+        "titulo": "João Fonseca conhece chave em Roland Garros e pode enfrentar Djoko",
+        "link": "https://sb24horas.com.br/joao-fonseca-conhece-chave-em-roland-garros-e-pode-enfrentar-djoko/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779380145,
+        "data": "21/05/2026 16:15"
+    },
+    {
+        "titulo": "Comércio exterior é destaque na economia de Sumaré perante a RMC",
+        "link": "https://novomomento.com.br/comercio-exterior-destaque-economia-sumare-rmc/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/10/Sumare-lidera-geracao-de-empregos-na-RMC-pelo-segundo-mes-consecutivo-e-bate-novo-recorde-em-setembro-300x240.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779379432,
+        "data": "21/05/2026 16:03"
+    },
+    {
+        "titulo": "Prefeitura de Americana abre inscrições para curso gratuito de licenciamento ambiental",
+        "link": "https://hjnews.com.br/prefeitura-de-americana-abre-inscricoes-para-curso-gratuito-de-licenciamento-ambiental/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779379389,
+        "data": "21/05/2026 16:03"
+    },
+    {
+        "titulo": "MovieCOMtodos terá nova edição neste domingo com exibição de “Super Mario: Galaxy”",
+        "link": "https://sb24horas.com.br/moviecomtodos-tera-nova-edicao-neste-domingo-com-exibicao-de-super-mario-galaxy/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779379268,
+        "data": "21/05/2026 16:01"
+    },
+    {
+        "titulo": "Brasileiros com diabetes defendem uso de tecnologias no tratamento",
+        "link": "https://difusorapiracicaba.com.br/brasileiros-com-diabetes-defendem-uso-de-tecnologias-no-tratamento/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779379200,
+        "data": "21/05/2026 16:00"
+    },
+    {
+        "titulo": "Governo Digital com diretrizes para modernização dos serviços públicos é regulamentado em Campinas",
+        "link": "https://rapidonoar.com.br/governo-digital-com-diretrizes-para-modernizacao-dos-servicos-publicos-e-regulamentado-em-campinas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/governo-digital-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779378442,
+        "data": "21/05/2026 15:47"
+    },
+    {
+        "titulo": "Execução de rivais em Guarulhos rende pena de quase 50 anos a cada traficante envolvido",
+        "link": "https://rapidonoar.com.br/execucao-de-rivais-em-guarulhos-rende-pena-de-quase-50-anos-a-cada-traficante-envolvido/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/02/Justica-Sao-Paulo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779377549,
+        "data": "21/05/2026 15:32"
+    },
+    {
+        "titulo": "Produção audiovisual e direitos autorais são temas de oficina gratuita no MISP",
+        "link": "https://difusorapiracicaba.com.br/producao-audiovisual-e-direitos-autorais-sao-temas-de-oficina-gratuita-no-misp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779377400,
+        "data": "21/05/2026 15:30"
+    },
+    {
+        "titulo": "Santa Bárbara terá Campanha de Doação de Sangue no dia 6 de junho",
+        "link": "https://sb24horas.com.br/santa-barbara-tera-campanha-de-doacao-de-sangue-no-dia-6-de-junho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779376687,
+        "data": "21/05/2026 15:18"
+    },
+    {
+        "titulo": "Cursos de Ciências Biológicas e Educação Física da FHO conquistam nota máxima no Enade das Licenciaturas",
+        "link": "https://sb24horas.com.br/cursos-de-ciencias-biologicas-e-educacao-fisica-da-fho-conquistam-nota-maxima-no-enade-das-licenciaturas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779376548,
+        "data": "21/05/2026 15:15"
+    },
+    {
+        "titulo": "Primeiros certificados do Selo Agro de Limeira são entregues a produtores rurais",
+        "link": "https://rapidonoar.com.br/primeiros-certificados-do-selo-agro-de-limeira-sao-entregues-a-produtores-rurais/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/selo-agro-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779376484,
+        "data": "21/05/2026 15:14"
+    },
+    {
+        "titulo": "Saúde de Santa Bárbara apresenta prestação de contas do 1º quadrimestre em audiência pública no dia 27",
+        "link": "https://sb24horas.com.br/saude-de-santa-barbara-apresenta-prestacao-de-contas-do-1o-quadrimestre-em-audiencia-publica-no-dia-27/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779375951,
+        "data": "21/05/2026 15:05"
+    },
+    {
+        "titulo": "Hospital Regional de Piracicaba realizou mais de 1.500 cirurgias ortopédicas em 2025",
+        "link": "https://rapidonoar.com.br/hospital-regional-de-piracicaba-realizou-mais-de-1-500-cirurgias-ortopedicas-em-2025/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/05/hospital-regional-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779375722,
+        "data": "21/05/2026 15:02"
+    },
+    {
+        "titulo": "IPVA 2026: 5ª parcela para placas com final 8 pode ser paga até esta quinta-feira (21)",
+        "link": "https://difusorapiracicaba.com.br/ipva-2026-5a-parcela-para-placas-com-final-8-pode-ser-paga-ate-esta-quinta-feira-21/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779375600,
+        "data": "21/05/2026 15:00"
+    },
+    {
+        "titulo": "Maio Amarelo: Santa Bárbara d’Oeste tem ações educativas até dia 30",
+        "link": "https://sb24horas.com.br/maio-amarelo-santa-barbara-doeste-tem-acoes-educativas-ate-dia-30/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779375428,
+        "data": "21/05/2026 14:57"
+    },
+    {
+        "titulo": "“Dia D” da Campanha do Agasalho será neste sábado com arrecadação em sistema drive-thru no CSU",
+        "link": "https://sb24horas.com.br/dia-d-da-campanha-do-agasalho-sera-neste-sabado-com-arrecadacao-em-sistema-drive-thru-no-csu/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779375360,
+        "data": "21/05/2026 14:56"
+    },
+    {
+        "titulo": "Polícia Militar de Limeira recupera carro furtado um dia após o crime",
+        "link": "https://rapidonoar.com.br/policia-militar-de-limeira-recupera-carro-furtado-um-dia-apos-o-crime/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/carro-furtado-recuperado-abilio-pedro-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779375228,
+        "data": "21/05/2026 14:53"
+    },
+    {
+        "titulo": "Santa Bárbara segue com vacinação contra a gripe nas UBSs; Município tem 18,2 mil doses aplicadas",
+        "link": "https://sb24horas.com.br/santa-barbara-segue-com-vacinacao-contra-a-gripe-nas-ubss-municipio-tem-182-mil-doses-aplicadas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779374964,
+        "data": "21/05/2026 14:49"
+    },
+    {
+        "titulo": "FHO abre inscrições para transferência em Santa Bárbara com bolsas de 50% por mérito",
+        "link": "https://sb24horas.com.br/fho-abre-inscricoes-para-transferencia-em-santa-barbara-com-bolsas-de-50-por-merito/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779374508,
+        "data": "21/05/2026 14:41"
+    },
+    {
         "titulo": "XV estreará na Copa Paulista Rivalo em Araras, diante do União São João, em julho",
         "link": "https://difusorapiracicaba.com.br/xv-estreara-na-copa-paulista-rivalo-em-araras-diante-do-uniao-sao-joao-em-julho/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
@@ -384,6 +582,15 @@
         "portal": "difusorapiracicaba",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779356607,
+        "data": "21/05/2026 09:43"
+    },
+    {
+        "titulo": "São Paulo ofensivo para vencer na Sul-Americana 2026 na reestreia de Dorival Jr - OneFootball",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHdKcVYybWMxSzQ3SXg3Vk5xM3hFeGQyMTRVX0FDSWwwa0JwVHNOQ3lSMVQ1MktTZ3NzNWlRd3E0MzF4VGQ0TDZqZzJFR192TDdMczdHdV9tTUdSb3VmWThBY3FxYjZ0bkpYUVF3d0NhLU4yMmJsNm4zVFpYQ0ZXTW5Gc3NGREpTazBQNmN2ZkcxX0FXTFppbnd5cHg4S0xzdGhtd1dKTFlPN1ZJVjRiV3J5Ml9LMkFjMEZjNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779356600,
         "data": "21/05/2026 09:43"
     },
     {
@@ -2221,6 +2428,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1779215271,
         "data": "19/05/2026 18:27"
+    },
+    {
+        "titulo": "O preço da reconstrução: São Paulo investe R$ 2,2 milhões em nova comissão antes de decisão na Sul-Americana - The Football",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDdTa1B4Qy1ZZ1Brcl93SV9vZXlqa0JaSHpIWDhrOTU2MHYxT25mUUljY2JYbXVsSFMtSG85YzlLN2kxQVg5dUo4aDF6eC1ib0t6TEIweDljOEE5eWhjekhDWFpRUzlGOUxFOVdsc1RMYUZ3R1RKWGJ5SjNpMGR5V3hwUldEWlp4alNxcnQwNTgzbUNxUnBhY3lWQTVLZlIwX0ZBOWNURWJJMGNFNEJqdk4wNGx4a3pNUTdyU3RLWjBNQjZLdnFpQjNSRzBfMFNRNlExdkticl8?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779214465,
+        "data": "19/05/2026 18:14"
     },
     {
         "titulo": "Cidadania Itinerante realiza 101 serviços na passagem por Sumaré",
