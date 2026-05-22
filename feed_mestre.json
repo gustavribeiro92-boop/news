@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Receita de torta de tapioca",
+        "link": "https://novomomento.com.br/receita-de-torta-de-tapioca/",
+        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/28bae473b73d03504902c6d1ccada8e6/imagens/2026/05/20/795772e5427497d9dcbcc6a38081ab46_medium.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779417085,
+        "data": "22/05/2026 02:31"
+    },
+    {
+        "titulo": "Briga entre inquilino e locatário termina com homem esfaqueado no Jardim Boa Esperança, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/22/briga-entre-inquilino-e-locatario-termina-com-homem-esfaqueado-no-jardim-boa-esperanca-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779414386,
+        "data": "22/05/2026 01:46"
+    },
+    {
+        "titulo": "Jovem fica em estado grave após sofrer queimaduras com acetona em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/22/jovem-fica-em-estado-grave-apos-sofrer-queimaduras-com-acetona-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779413932,
+        "data": "22/05/2026 01:38"
+    },
+    {
+        "titulo": "Fiação com lâmpadas do circo enroscada em árvores põe em risco segurança do trecho, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/22/fiacao-com-lampadas-do-circo-enroscada-em-arvores-poe-em-risco-seguranca-do-trecho-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779413596,
+        "data": "22/05/2026 01:33"
+    },
+    {
+        "titulo": "Novo Desenrola renegocia quase R$ 12 bilhões em dívidas",
+        "link": "https://sb24horas.com.br/novo-desenrola-renegocia-quase-r-12-bilhoes-em-dividas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779412969,
+        "data": "22/05/2026 01:22"
+    },
+    {
+        "titulo": "Festival de Gala da CIA de Dança JK em Santa Bárbara hoje",
+        "link": "https://novomomento.com.br/festival-gala-cia-dancajk-santa-barbara-hoje/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/espetaculo-gala-cia-jk-300x215.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779407320,
+        "data": "21/05/2026 23:48"
+    },
+    {
+        "titulo": "Vereadora cobra Prefeitura sobre possível abertura de venda de jazigos em cemitérios de Limeira",
+        "link": "https://rapidonoar.com.br/vereadora-cobra-prefeitura-sobre-possivel-abertura-de-venda-de-jazigos-em-cemiterios-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/02/cemiterio-Parque-Limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779406460,
+        "data": "21/05/2026 23:34"
+    },
+    {
+        "titulo": "Campinas é a 2ª cidade do país com melhor qualidade de vida entre municípios não capitais com mais de 500 mil habitantes",
+        "link": "https://rapidonoar.com.br/campinas-e-a-2a-cidade-do-pais-com-melhor-qualidade-de-vida-entre-municipios-nao-capitais-com-mais-de-500-mil-habitantes/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/11/campinas-cidade--1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779405236,
+        "data": "21/05/2026 23:13"
+    },
+    {
+        "titulo": "Goleiro Manuel Neuer é convocado pela Alemanha para a Copa do Mundo",
+        "link": "https://sb24horas.com.br/goleiro-manuel-neuer-e-convocado-pela-alemanha-para-a-copa-do-mundo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779405044,
+        "data": "21/05/2026 23:10"
+    },
+    {
         "titulo": "Não só Brasil e Argentina: quais seleções sul-americanas podem surpreender em 2026?",
         "link": "https://rapidonoar.com.br/nao-so-brasil-e-argentina-quais-selecoes-sul-americanas-podem-surpreender-em-2026/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/1x-beat-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -81,6 +162,15 @@
         "data": "21/05/2026 20:03"
     },
     {
+        "titulo": "Polícia Civil prende mulher em operação contra venda e aplicação de canetas emagrecedoras - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb19UbFQ0dlBKU05JN0NEYUZ1bzFES3NCaW1yNVo1VlhBbWN2ellYWHFRZ0VTYnBoajNSUHZ5XzZKSGZRZUZJcGItbTczT0phODJvZm94eEFIZlY3S2VWQVQtclo2ZG9TRnBnZ2ppRGhFN241b0xXdER4N1ViQTU2OFBJWkVVbEhCSWlfZ3lNYVo1ZHlqRmc3T2ZtSWVoc1pFbnpuUkRGLVd0aS1aVGEzSUZ1YXY1NXp4dE9PYmRXR2U4UVdpV19ZYk5tOFcyajczODJ4V2lyU2tHT2V2d1FXSVJtWE55bkV6dk1FVkVxYjlkQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779392820,
+        "data": "21/05/2026 19:47"
+    },
+    {
         "titulo": "Pena para motorista de van acusado de estupro é de 135 anos",
         "link": "https://rapidonoar.com.br/pena-para-motorista-de-van-acusado-de-estupro-e-de-135-anos/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/estupro-motorosta-de-van-cidade-de-colina-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -106,6 +196,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779390302,
         "data": "21/05/2026 19:05"
+    },
+    {
+        "titulo": "Últimas vagas: inscrições para limpeza e coleta de recicláveis na Festa do Peão terminam dia 28 - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY0FlVUk5WnBiZ3lEUjhyLTVEdjZFcDZQZjJ0NTljU25nZzdSTVhDUE9ITXBxZWVMVFVtaDcxeWZvSnUxd3FFQWpLSXhOY3I5OUZicUtIRW5tV0JaX1djMHNTR1ZYZHpmS3dqVUFhdTBReVFjTmZVYkRuM1Q4MVJkanowNk5XUlc2NXk1RnpHUTNxTm0wOVFjTlN0cldkUWZvQ0N6UUNKQTF3cTNEejdDdXdCMlhaNDFYT3RhLXZFRDJwelc2eU5NWnNUTHNkLVpnNlJmQlN4R1pTYm9KNEgtN0xzYXZFZ2ZuNkNWaWZNS3dVb1pMZ2JMUA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779390240,
+        "data": "21/05/2026 19:04"
     },
     {
         "titulo": "Acidente na Piracicaba – Saltinho deixa um morto e outro gravemente ferido",
@@ -367,6 +466,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779377400,
         "data": "21/05/2026 15:30"
+    },
+    {
+        "titulo": "Prefeitura de Americana abre inscrições para curso gratuito de licenciamento ambiental - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZdGFzTXRMMDlNT05EN0UzUGl4LVRGQi1RVUQxNFNjd0dSbjhHYXhXUTFHdzVRUFkxejQzcWotSFgzRXpKMFZteDRMZ05JNExpczJjaWVvM1p6NXlCZEtyS25Jb1Mwb3k4eTRCc2JraTNSQkhkS09weGhn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779377100,
+        "data": "21/05/2026 15:25"
     },
     {
         "titulo": "Santa Bárbara terá Campanha de Doação de Sangue no dia 6 de junho",
@@ -1674,6 +1782,15 @@
         "data": "20/05/2026 15:28"
     },
     {
+        "titulo": "Diretoria do São Paulo vê Sul-Americana como 'única chance de título' - UOL",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXNGTkE0YWpDaE9XT1JKeEtPc0NFX3hzZEVXclFhUzhTdnRWU1BJVDdCTHppRU54Y2NCSUtydWQ0RWpqSG1iazhDTnJqMDVYckVLNzZqZEhORmNzYkZUOWpfWThPc2VSQ0VNY2JKc3Rwa2JSNnBLZ3dxa3J4OFlLNGZTZHhjaE5HcEIySkJPOHJfclpKRkpEaHhrMzkwdzlIRldVX2p1MG5ya0pzQVJJWkVJVTJKbjZRYnc4S2FqT3VGaGFCZmhLZ05uM2hGTzlUa1E4cm0tYXhxbGhqUHY3ODRsMUlJVDQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779290690,
+        "data": "20/05/2026 15:24"
+    },
+    {
         "titulo": "ACISB manifesta solidariedade após incêndio em loja das Casas Bahia no Centro de Santa Bárbara d’Oeste",
         "link": "https://sb24horas.com.br/acisb-manifesta-solidariedade-apos-incendio-em-loja-das-casas-bahia-no-centro-de-santa-barbara-doeste/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -1726,6 +1843,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1779289054,
         "data": "20/05/2026 14:57"
+    },
+    {
+        "titulo": "Americana recebe espetáculo inspirado em “Grande Sertão: Veredas” no dia 27 - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrUnRYQXpDZkhISU5tRk9XUzJ3aGxtcTZhSm1ST2tLb1lPTy1FWEpEM3hWXzlXdUFfejhvYXlSbVZUY0t3OHlmOU00Y1AwUUNENk5wWlBSUklDT2hjTzVKYWtMd0FMTHltRHg1WVZNNGlra1hBcFc4TUdR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779288840,
+        "data": "20/05/2026 14:54"
     },
     {
         "titulo": "Suzano leva lançamentos de higiene e consumo à APAS Show e reforça diferenciação no varejo",
@@ -2016,6 +2142,15 @@
         "data": "20/05/2026 11:18"
     },
     {
+        "titulo": "Jogo do Santos hoje pela Copa Sul-Americana: que horas começa e onde assistir - UOL",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTVk5UXJtR0hMRGxzaFNGbC1SVjIySmMwS0RjcTdpZy1ja0djbDhEODFGMUJtWHNWcUllV2Z5WXl5SFVKdFpPQjZLbURkYkw2QTQ3U3ZnYUI0UTd4M2JwYUNjUUpnU3NFR01EZXl0TEV4U3V4STVobktocDZLWGtnWHdralBQVWlJSmxtXzdPZU9QY1U2cmhHa3NUOHotYzlpZGtQcDNEaXo0R1ZtRkFSUk1VQ25uQnppQ0UwRy1GQXZJTnV3c2JwYU1iblE0bURHU0V3eHlZVUV3WkZON1hKblNOMUcxVFpzelI1akN5ZC1YQmxGSE9r?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779274800,
+        "data": "20/05/2026 11:00"
+    },
+    {
         "titulo": "Escola Municipal de Música promove aula aberta de blues no CCL - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmlzQUZBUDBtb0dSSWNGUUhhMWstdFhxbzc3MlhyazdQd0lXRzJuVWFFMTJXUUN2Y0dMdGU1aHNheXRvZXU5TFAyRjBPMm5FNzkxNkZZNnR6dUE2LWxSRVBGeXF2VWlYWXd3OEN2WU9XV21uTkdBYnFKOUtZSmxMYkVZWV9lS2hDLVVJN25PVV9yb0lJSGtfMWlYZERrSkVCaVlHSlZHNzhnbzFjRjg2MGxFdjhnSDF4Wnl2U19QQ2h0b1FRTko4VmViRENCUQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
@@ -2248,6 +2383,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1779266323,
         "data": "20/05/2026 08:38"
+    },
+    {
+        "titulo": "São Paulo empata com o Millonarios na Copa Sul-Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGg0TS1acFY3Z0E3dnd4NUJHVFNEZ2lVSFJ4VHFMTG5yNzlNMEtYOUZycTdBU1hvWDluQnhUV2xLUzRHX01tcWROTnZxQ2hZcTBBQWkwbF9kQlVDTjl0cXFyNjVxM1J3MHI1M1pVTlhkNGY1UEZKNnZOSm1zZHRQLVNpeHdmWVZfVE84MjVfbW9lbGxzYlJIU01PM2E1MWw0M0Z0QlVoLVZkRUpZM2xiQjE4OWpqRkhEbUdKZHFDSkh1a3I4V3ZDYnBpNWg1NHVfUkw5eVh3TUplVWhkcGfSAewBQVVfeXFMTnZhZnprOXFRb1plQmJXSmF0OGJaTjhoR05wRkUzcUdUNWFGSk9Vb2FRelpWYnE4Wk1KaDRKTHJwUWxpY21ncTZmVHVFZzloZFpzMVFHUHhPSlU3eFJJRml5Q280U0p5SENvS1U2d2xmRUFMUExnRTZrOFdaRVBkVW1ENUVUbHFvZ1BpM3dNZ3doaThhbXlXRk5EZjZTdmd1VE51Tm96ZzBkSEZWMEtveFJWRUpWZFBJRUdvWXhCaFpRNDVaR0kwZ2c0ODJNRlNybHBiOXFyZU9PNm5Eb3k2aFNSb3hfVTEtaHRWZXA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779266140,
+        "data": "20/05/2026 08:35"
     },
     {
         "titulo": "Palmeiras recebe Cerro e pode garantir classificação antecipada",
