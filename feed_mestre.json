@@ -1,5 +1,275 @@
 [
     {
+        "titulo": "Museu da Imigração recebe exposição com 150 obras e destaca trabalho artístico desenvolvido pela Studio Art",
+        "link": "https://sb24horas.com.br/museu-da-imigracao-recebe-exposicao-com-150-obras-e-destaca-trabalho-artistico-desenvolvido-pela-studio-art/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779448194,
+        "data": "22/05/2026 11:09"
+    },
+    {
+        "titulo": "Organização divulga alteração no trânsito durante a 11ª Corrida São Vicente Meia Maratona Tivoli Shopping",
+        "link": "https://sb24horas.com.br/organizacao-divulga-alteracao-no-transito-durante-a-11a-corrida-sao-vicente-meia-maratona-tivoli-shopping/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779447900,
+        "data": "22/05/2026 11:05"
+    },
+    {
+        "titulo": "Rovina de olho na Abdo Najar e Mizzoni pede salas de aula na Emei",
+        "link": "https://novomomento.com.br/rovina-olho-abdo-najar-mizzoni-salas-daula-emei/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/01/58bb6cd3-jean-mizzoni-300x211.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779447614,
+        "data": "22/05/2026 11:00"
+    },
+    {
+        "titulo": "Adolescente é apreendido pelo BAEP após roubo de veículo em Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/adolescente-e-apreendido-pelo-baep-apos-roubo-de-veiculo-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779447600,
+        "data": "22/05/2026 11:00"
+    },
+    {
+        "titulo": "Campeonato Amador 1ª Divisão tem penúltima rodada da fase de classificação - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSWFFUUNUckVUUHVha090dkU3UXl1T1ZTdlZ6TjdkQWlma3R0b0VtVERNa3NqeXloLXgzcTBjelA1Uk1vU0FOZzVOUjM5NS0ycmNWTER1cWdGTkphdEprUFZKU0liQ2ZBWXFtVldISWFydWg1ZTA5eXUzYi1TeVNVWmQ5WExVWWM4Y3A4MWNZYU0yS0E0N1otZklRT1Y0MGgxLVRPYUdycWt6OUdvWFZ5dmx2NkNrX1NpM0YxaEpPLUJnNUJhc2xTekZHelpjRm1SRDEtMXNDNUZnQ1NDeGs1UzJXMA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779446760,
+        "data": "22/05/2026 10:46"
+    },
+    {
+        "titulo": "Independente faz reunião com toda comissão técnica",
+        "link": "https://rapidonoar.com.br/independente-faz-reuniao-com-toda-comissao-tecnica/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/reuniao-galo-1024x738.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779445158,
+        "data": "22/05/2026 10:19"
+    },
+    {
+        "titulo": "Polícia Militar localiza motocicleta roubada e prende suspeito após investigação em Araras",
+        "link": "https://rapidonoar.com.br/policia-militar-localiza-motocicleta-roubada-e-prende-suspeito-apos-investigacao-em-araras-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/policia-militar-localiza-motocicleta-roubada-e-prende-suspeito-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779444965,
+        "data": "22/05/2026 10:16"
+    },
+    {
+        "titulo": "Gama resgata cachorro do mato ferido no Jd Alvorada esta quinta",
+        "link": "https://novomomento.com.br/gama-resgata-cachorro-do-mato-ferido-jdalvorada/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/cachorro-do-mato-2-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779444892,
+        "data": "22/05/2026 10:14"
+    },
+    {
+        "titulo": "Escola para TEA e previdência privada geram dúvidas no IR; saiba mais",
+        "link": "https://sb24horas.com.br/escola-para-tea-e-previdencia-privada-geram-duvidas-no-ir-saiba-mais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779444886,
+        "data": "22/05/2026 10:14"
+    },
+    {
+        "titulo": "A.C Duck conquista o tetra na Supercopa Legends de Limeira",
+        "link": "https://rapidonoar.com.br/a-c-duck-conquista-o-tetra-na-supercopa-legends-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/duck-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779444584,
+        "data": "22/05/2026 10:09"
+    },
+    {
+        "titulo": "Radical Vest lança promoção com jeans a partir de R$ 59,99 em Americana",
+        "link": "https://portaldeamericana.com/radical-vest-lanca-promocao-com-jeans-a-partir-de-r-5999-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=radical-vest-lanca-promocao-com-jeans-a-partir-de-r-5999-em-americana",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/6533a89b-2325-4fee-acac-df6917b9973a.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779444010,
+        "data": "22/05/2026 10:00"
+    },
+    {
+        "titulo": "Cachorro-do-mato ferido é resgatado em Americana - Portal Veloz",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2xyMGllajM3UE1ZVE8tSFdERUlROXNab2hZeDBiang4MzctV3JWX1M3N2lxODJkSGdpWlJLNmhGaTU0UkNvZlo4cFdZdmJ4ZUpPMTJXa1lBZld3NlAzZmd5bXZRaENlZDZURmtfS1ozcnV4cGhmbXJFYnZ5VW56SW1n?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779443346,
+        "data": "22/05/2026 09:49"
+    },
+    {
+        "titulo": "Cachorro-do-mato ferido é resgatado pela Guarda Municipal em área de horta",
+        "link": "https://portaldeamericana.com/cachorro-do-mato-ferido-e-resgatado-pela-guarda-municipal-em-area-de-horta/?utm_source=rss&utm_medium=rss&utm_campaign=cachorro-do-mato-ferido-e-resgatado-pela-guarda-municipal-em-area-de-horta",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_6531.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779443001,
+        "data": "22/05/2026 09:43"
+    },
+    {
+        "titulo": "Farmacêutica é presa suspeita de aplicar remédios para emagrecer em salão de unhas em Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTV9yVUhGdEgzajNKZjRyYVRxVXdyMXNYUWtxZVN4bDZYVGhyUFhtVHZpVXNULTFuWGUtSWNQbTBpeWdaNHVUQ3ktdl9nT3AwMFpPY181TjVIaEljbmZ6VFgyS1pwbGIwWjN4bVdQU3c1bklVTng5WFlXVURPZzFIWGZiazJNUFV4WkJwMi1sVjRzU3RabEpXS1FGR3V4RkNWeXJ1ZTdyV0ttVUV1Y2FLVjUtQmtFUXJncHY0THBJWTc1bUlxRXVrUzlIMkdreHNxYjhzNURqaFdKUTViR2psTERiVmh6ZUJ0czNyZzd1TzR6UdIBgAJBVV95cUxQMHJnNDBTNjFMVXd0ZDRnc0lNdDhYbElhM0ZveFg1b3EyMElvVS0wVkFGbURuY2pSTWJJOGUtNTZKUVROWGx3X3g2ZG9xQmtPbnB5ejdlM3VET202TlpkRmZ2U0hqQW9pQ3EwWDRSRHVwejRQUTkzVGJRUm5fTW55Y2NQWk11QlExTldhWkpSVVEwYm94N29SY2N5RXUxVzh6amJha2JNMTFDVENsVFpPRWVSY0lxd1FRc0g2RXhIRmEtN0hvUkNPMVFESm1XLWh5R0JpNTE3TmJzbDN2T2xkSV96QU41X3VmSnlIRGYwZ1lEQzExRW8xb09GOXNwNVpX?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779442723,
+        "data": "22/05/2026 09:38"
+    },
+    {
+        "titulo": "Com reforço de novas funcionalidades, app SP Mulher Segura ganha campanha nas redes para incentivar downloads",
+        "link": "https://noticiafm.com/com-reforco-de-novas-funcionalidades-app-sp-mulher-segura-ganha-campanha-nas-redes-para-incentivar-downloads/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/55285217811_eb2ae3e96c_o-1024x683-1-559x373.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779442551,
+        "data": "22/05/2026 09:35"
+    },
+    {
+        "titulo": "Operação da Polícia Civil flagra furto de energia e crime ambiental em ferros-velhos de Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/operacao-da-policia-civil-flagra-furto-de-energia-e-crime-ambiental-em-ferros-velhos-de-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779442445,
+        "data": "22/05/2026 09:34"
+    },
+    {
+        "titulo": "Nova Odessa avalia alimentação e corpo de 700 alunos da rede municipal",
+        "link": "https://novomomento.com.br/nova-odessa-avalia-nutricao-alunos-rede-municip/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-09.45.00-300x225.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779442263,
+        "data": "22/05/2026 09:31"
+    },
+    {
+        "titulo": "Escolas municipais de Hortolândia recebem kits de uniformes de inverno",
+        "link": "https://novomomento.com.br/escolas-municipais-hortolandia-kits-inverno/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Kits-de-inverno-1-300x224.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779441999,
+        "data": "22/05/2026 09:26"
+    },
+    {
+        "titulo": "Santa Bárbara d’Oeste terá Campanha de Doação de Sangue no dia 6 de junho",
+        "link": "https://noticiafm.com/santa-barbara-doeste-tera-campanha-de-doacao-de-sangue-no-dia-6-de-junho/",
+        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/doacao-de-sangue-01-559x399.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779440849,
+        "data": "22/05/2026 09:07"
+    },
+    {
+        "titulo": "Mulher em surto mobiliza Samu e GCM em frente à Escola Brasil em Limeira",
+        "link": "https://rapidonoar.com.br/mulher-em-surto-mobiliza-samu-e-gcm-em-frente-a-escola-brasil-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/mulher-em-surto-mobiliza-samu-e-gcm-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779440584,
+        "data": "22/05/2026 09:03"
+    },
+    {
+        "titulo": "Pré-candidatos: o que fazer e o que não fazer antes da campanha eleitoral",
+        "link": "https://sb24horas.com.br/pre-candidatos-o-que-fazer-e-o-que-nao-fazer-antes-da-campanha-eleitoral/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779440532,
+        "data": "22/05/2026 09:02"
+    },
+    {
+        "titulo": "Fazendinha e Real Ferroviário decidem 2ª divisão do futsal barbarense",
+        "link": "https://novomomento.com.br/fazendinha-e-real-ferroviario-decidem-2a-div/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/futsal-2-divisao-fazendinha-credito-reclic-300x214.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779440195,
+        "data": "22/05/2026 08:56"
+    },
+    {
+        "titulo": "Receita libera consulta a restituição do IR hoje, maior da história",
+        "link": "https://novomomento.com.br/receita-consulta-restitui-ir-hoje-maio-historia/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2023/10/90cfb68c-receita-federal-americana-300x182.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779439820,
+        "data": "22/05/2026 08:50"
+    },
+    {
+        "titulo": "6º Encontro de Câmaras Setoriais de Cultura será realizado no dia 30 de maio em Santa Bárbara d’Oeste",
+        "link": "https://hjnews.com.br/6o-encontro-de-camaras-setoriais-de-cultura-sera-realizado-no-dia-30-de-maio-em-santa-barbara-doeste/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779438197,
+        "data": "22/05/2026 08:23"
+    },
+    {
+        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 5",
+        "link": "https://rapidonoar.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-5-5/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/08/bolsa-familia-nis-5.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779438195,
+        "data": "22/05/2026 08:23"
+    },
+    {
+        "titulo": "Tremor de terra é registrado no Rio de Janeiro",
+        "link": "https://hjnews.com.br/tremor-de-terra-e-registrado-no-rio-de-janeiro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779437996,
+        "data": "22/05/2026 08:19"
+    },
+    {
+        "titulo": "MovieCOMtodos terá nova edição neste domingo com exibição de “Super Mario: Galaxy”",
+        "link": "https://hjnews.com.br/moviecomtodos-tera-nova-edicao-neste-domingo-com-exibicao-de-super-mario-galaxy/",
+        "imagem": "https://wsrv.nl/?url=s.w.org/images/core/emoji/17.0.2/72x72/1f4cc.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779437835,
+        "data": "22/05/2026 08:17"
+    },
+    {
+        "titulo": "Americana vai contratar mais 40 cuidadores pra educação",
+        "link": "https://novomomento.com.br/americana-contrata-mais-40-cuidadores-educacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779436986,
+        "data": "22/05/2026 08:03"
+    },
+    {
+        "titulo": "Supermercadistas da região participam do Festival Apas Show em São Paulo - liberal.com.br",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGlsOXIxYTg4MjdFdEphSHIxa0wwX05QSFZuYjFLdzFJQ25HSDRCSl9tdzVYc1FEcFF6aUVwdm54Yl8yWHZmMVdvcnZYbjk0RGg5a2VhYmVvWWZiVVBfMDhOZjU0ZWcxeGVFZFlGX3Y0cE9NTzJXWnpObmtDMHBOMEJwczdCTkFlMG12MVJhQzhCa1JOX2FzMFpHVW92c21sYmFPaDUwRXdVWjMySmZR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779436860,
+        "data": "22/05/2026 08:01"
+    },
+    {
+        "titulo": "São Paulo x Boston River: Onde assistir ao jogo da 6ª rodada da fase de grupos da Copa Sul-Americana - Máquina do Esporte",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEpWZDhQVGhLeUpDeWlxdU9CZWZ2MVFSbGhLeEo4MW1fOXNxd0FwZ3RGbFNicjVGOWp6TWkwNmxubVJ4RVhrZ09KVVdTdmtzSWhQajZyazVsQXhrbGNad3Fha2o4UWhOODhvQmdHMERvYzFLbWJRQkRrZXpxd18zenhKRnEzN1V5NGRVQUdub1kySHNmaXNLNlUxME9XTThqOUNsNkRTa3BXT3R2ZEhYRzJnZ2VJZnFXdlNjWjk1blBNU19vT3FWN1FtNDB0LVEtZTNDSXBFNmlMS0NON0NZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779435000,
+        "data": "22/05/2026 07:30"
+    },
+    {
         "titulo": "Nova Odessa inicia montagem da estrutura para a festa de 121 anos",
         "link": "https://novomomento.com.br/nova-odessa-infraestrutura-festa-de-121-anos/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/events-scaled.jpg",
@@ -18,6 +288,15 @@
         "data": "22/05/2026 06:13"
     },
     {
+        "titulo": "Flamengo recebe pontos de partida da Libertadores cancelado",
+        "link": "https://sb24horas.com.br/flamengo-recebe-pontos-de-partida-da-libertadores-cancelado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779429946,
+        "data": "22/05/2026 06:05"
+    },
+    {
         "titulo": "Resort da região abre 80 vagas para hoje",
         "link": "https://novomomento.com.br/resort-da-regiao-abre-80-vagas-para-hoje/",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2025/11/royal-palm-plaza-300x210.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -25,6 +304,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779429652,
         "data": "22/05/2026 06:00"
+    },
+    {
+        "titulo": "Consumo de café sobe 2,44% no primeiro quadrimestre deste ano",
+        "link": "https://sb24horas.com.br/consumo-de-cafe-sobe-244-no-primeiro-quadrimestre-deste-ano/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779428931,
+        "data": "22/05/2026 05:48"
     },
     {
         "titulo": "Verbas de R$ 300 mil beneficiam a Etec em Nova Odessa",
@@ -151,6 +439,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1779400840,
         "data": "21/05/2026 22:00"
+    },
+    {
+        "titulo": "Projeto Praia Azul conquista título do Gigantinho Sub-15 diante de grande público no Centro Cívico - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdEZ5cTA3NTY5dXJHVXloU3QxbGpZZEZqTzFVLW93ZklrbDVmZkY0UXZkMzhQMTV0N0xOMFlwRDFpaEM4VU1mNzB0RGNUcEh0MS02Uk5peFJBVlBzdlExUDNoc011WGJwM29yV0VEenlWVWFtNE5xb3FsLXVRNWowTy1wVm4zY2hHWnlnZVpjcHlNZGFFMGdsczBGdkRTVEI4OWxlQlh4VnFpMEE0UldNbmg2QlNiSkxJcHlNRmF2STl3QWtGVlpnOXI0d3VRcnpOWVF2aWVLUkRfcmdia2JxQ01SRHI2Z3cxMXZzNFpNXzR3TWZuUS1iLUphREo0UQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779399780,
+        "data": "21/05/2026 21:43"
     },
     {
         "titulo": "Chevrolet aposta em Sonic após sucesso do VW Tera",
