@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Dinheiro de clientes do Master migrou para bancos maiores, informa BC",
+        "link": "https://sb24horas.com.br/dinheiro-de-clientes-do-master-migrou-para-bancos-maiores-informa-bc/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779764093,
+        "data": "26/05/2026 02:54"
+    },
+    {
+        "titulo": "Lucas Dé leva o nome de Americana pra seleção de natação",
+        "link": "https://novomomento.com.br/lucas-de-leva-americana-pra-selecao-de-natacao/",
+        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/04/Todos-Pela-Natacao-03-300x207.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779755628,
+        "data": "26/05/2026 00:33"
+    },
+    {
+        "titulo": "Legado da Rio 2016, Centro de Treinamento Paralímpico completa 10 anos",
+        "link": "https://sb24horas.com.br/legado-da-rio-2016-centro-de-treinamento-paralimpico-completa-10-anos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779753776,
+        "data": "26/05/2026 00:02"
+    },
+    {
+        "titulo": "PM prende homem por porte ilegal de arma com numeração suprimida na área rural de Limeira",
+        "link": "https://rapidonoar.com.br/pm-prende-homem-por-porte-ilegal-de-arma-com-numeracao-suprimida-na-area-rural-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/arma-prisao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779752298,
+        "data": "25/05/2026 23:38"
+    },
+    {
+        "titulo": "Quentão funcional sem álcool",
+        "link": "https://novomomento.com.br/quentao-funcional-sem-alcool/",
+        "imagem": "https://wsrv.nl/?url=s3.us-east-1.wasabisys.com/wasabi.cse360.com.br/email-editor-files/aee2f952-3231-436d-a46e-08d9f0b2efaa/d75f5522-372d-4d8a-a46a-0e5e7984e426.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779751670,
+        "data": "25/05/2026 23:27"
+    },
+    {
+        "titulo": "Operação Huracan: PM Ambiental e MP fazem vistoria para prevenir incêndios em área rural de Piracicaba",
+        "link": "https://rapidonoar.com.br/operacao-huracan-pm-ambiental-e-mp-fazem-vistoria-para-prevenir-incendios-em-area-rural-de-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/operacao-pm-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779749939,
+        "data": "25/05/2026 22:58"
+    },
+    {
         "titulo": "São Paulo perde Luciano e Sabino para decisão na Sul-Americana - Terra",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUHBuTFJyVzRzVWpxOWc3U0VtMnVfenlLSHFpdmpFSmZYQW16RE1aZlhtelNnNTZwS3lCT2o1SGRlYXlxX05qRmhfaVpXTVZsV2JibEs3Z1htdUw2Z0hGbTlpV2ZjdGlTMHBmdnF1d20xb285bGk2eWo2LWZGRmNPYW5xbXAzV0Fub05tTkJGT0FfZGZNMEV0M2wtb2I5SkZkdXNNRlhJWDdqWlZjWTFGN0NzUEtrVlFwWEJNLXhUYVJ1N0lyYTlyYWdtSjcyZzNGSXlnNVdUczBfX25qMmpCMWVhZFJBTlk?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
@@ -81,6 +135,15 @@
         "data": "25/05/2026 21:20"
     },
     {
+        "titulo": "São Paulo tenta confirmar vaga nas oitavas contra o Boston River - iG Esportes",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWZ5c1FmcWFFeUhENE5jd3ZFOE5VdlFuVHRpeGM5M2pZdFhWbVNvLVhVSWtwQjFlNnlSVzVzbThBSEVBRDJQMFhYdWZQTWI0S0FWTGRHTTJqUEpndXl4akkzMmJMdnF6cmhLREdCNHg5eXhQZkpxM3pkUW5pOXN3LUY3Z1FUVldqaEJiR1BJMHNxcWNMQ2VaLUN5cHBiV05scm1Wc2xDUktNaXpmN3FSSDRGeThDbDE3TE9XanFralLSAcYBQVVfeXFMTmx2d0RzMkdLNUIyMlU1Rng2bGRsOW5fd1c1TFVPRm1BYVRNTloyTFFWS3kzUE9LbnFoZ01FalBKX2RHTXNkNHRjX2I2cGJCVnpqUnBmVF82WlR2SENNQ2U1LTdDdFN5Wjl2em1zSWxHN1YtcGtpcVA0azhKTXVlMFhjZ1d6ZE5EdHVUekFIeUdsbmYwUFBJTHdhWTRZSE9PWTV3aVNrdzJlOVRmclNBQWItQXI3SGx6MEwySGhNYm1QbmNuS1pn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779743640,
+        "data": "25/05/2026 21:14"
+    },
+    {
         "titulo": "Carro usado em furtos é localizado pela GCM em Limeira",
         "link": "https://rapidonoar.com.br/carro-usado-em-furtos-e-localizado-pela-gcm-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/carro-usado-crime-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -133,6 +196,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1779739200,
         "data": "25/05/2026 20:00"
+    },
+    {
+        "titulo": "São Paulo x Boston River: horário, onde assistir e escalações pela Sul-Americana - Terra",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamxUVTB1dlFaWUhiNFBmWjhkZDdHRTU0LU1paC1kdHhMLVhaM0MtZDg3TFdEM3Y0b0NxSFJtOHVvWGhra1VZMTJSVmJpVGdLMDBZZmxGWG8wR2hrX1Myd0dZTi1CMXhPNmVkcXdNOW4zUEVBS2dndXR2THJWaTVmZzh1SWpBWGpKLWc5LURVR1BOVlBad2hOMURGbkpseTFaYTNacG5VRVhJU1FuTFZIU3ExV00wQzlFMkgzcWdXajNYRnhqMXFiZkhVeFFRZ2plbDVzX0R2WlEwYWY4RGFCeS05Mkxobk1mS1lxT3V5cw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
+        "portal": "Google Notícias",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779737460,
+        "data": "25/05/2026 19:31"
     },
     {
         "titulo": "Grupos de whatsapp fazem propaganda de pré-candidatos na região",
@@ -8926,77 +8998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779122310,
         "data": "18/05/2026 16:38"
-    },
-    {
-        "titulo": "Região de Campinas registra queda de 22,6% nas mortes no trânsito no primeiro quadrimestre",
-        "link": "https://sb24horas.com.br/regiao-de-campinas-registra-queda-de-226-nas-mortes-no-transito-no-primeiro-quadrimestre/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1779122020,
-        "data": "18/05/2026 16:33"
-    },
-    {
-        "titulo": "Fazenda eleva para 4,5% estimativa de inflação com guerra e petróleo",
-        "link": "https://difusorapiracicaba.com.br/fazenda-eleva-para-45-estimativa-de-inflacao-com-guerra-e-petroleo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/financas-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779121800,
-        "data": "18/05/2026 16:30"
-    },
-    {
-        "titulo": "UPA Dona Rosa promove roda de conversa sobre combate ao abuso e à exploração sexual infantil - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jYWZqemt5aWZaLVRpYXRnT2ZEN3UyMFBvVnQwUjZtR1lpdmF5RWF1QVZCUThLNDVMT29zT21sdEhTVG9pVmxTTGlqZy1YM0JwUHl4NEhHaVN0bldVN1NSZE5xOUttUjdBUjUwaUxtM1VOS0FNTkpyLV9n?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779121620,
-        "data": "18/05/2026 16:27"
-    },
-    {
-        "titulo": "Fique por dentro do futebol pelo Brasil",
-        "link": "https://rapidonoar.com.br/fique-por-dentro-do-futebol-pelo-brasil-4/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/felipe-anderson-6-819x1024.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779121578,
-        "data": "18/05/2026 16:26"
-    },
-    {
-        "titulo": "Tênis de mesa de Americana conquista pódios na Liga Paulista - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CcDM5Qi03bmY5ZUlmeUNIODJ3NWZ4THU3VDFISDQ0bzlfQ3lmQXBiakdBbEFYaXhTcmpabjlDOEpvYWRNZ3JTbUFUTUdkWTg1TTFpOWV3cTBUbkI2MVFMaXJidmo3R2hEanVJQm0zNlhhdXFz?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779121560,
-        "data": "18/05/2026 16:26"
-    },
-    {
-        "titulo": "Prefeito Chico abre Seminário Maio Laranja com participação de 350 pessoas no Unisal - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE1FMlFReUdMdC1VLXRWSDRFYWFhdlVldE9ZLURCcFlpYi16TW9oRVJBRG5IaW44VWRxTWpWcG1ZamxtNlY4TVlLeU1SQ1FHa0xSYnRTbllqa3BTSjNTeVMwUTVzQ1ozamoxNzNvc1JhX0VQaFRMdGpn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779121080,
-        "data": "18/05/2026 16:18"
-    },
-    {
-        "titulo": "Mulher desaparecida é encontrada em porta-malas do próprio carro - liberal.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0llczBLUmNjQm5ackszSVhVTW5wQUNYYnVGaFhjeUEtMllFczRsRm5hdmIwclk4MjRjYWZNbkoxZjBBLVh6eDBReHFFa0FYa0EtVlM5RF9RZFZOWTNvMTd4ZzdBOHpTYUttMldzZ1A0OEZwZDZhN25uNXc5dlY3VFI4RUJXQ1NlamtKNDVaZ0ZFeWZ6enZDSktNLVJrYmI0Q21NSzJXaWM?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779120720,
-        "data": "18/05/2026 16:12"
-    },
-    {
-        "titulo": "Biblioteca Municipal de Iracemápolis será ponto de troca de figurinhas à sextas",
-        "link": "https://rapidonoar.com.br/biblioteca-municipal-de-iracemapolis-sera-ponto-de-troca-de-figurinhas-a-sextas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/07/Biblioteca-Municipal-Iracemapolis-Maria-Dezonne-Pacheco-Fernandes-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779120371,
-        "data": "18/05/2026 16:06"
     }
 ]
