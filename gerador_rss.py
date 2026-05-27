@@ -72,47 +72,24 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
 
     if any(p in t for p in ['vagas', 'pat', 'emprego', 'estágio', 'ciee', 'contrata', 'processo seletivo', 'trabalho']):
         nova_imagem = IMAGENS_CATEGORIA['empregos']
-    elif any(p in t for p in ['indústria', 'comércio', 'economia', 'mercado', 'inflação', 'venda', 'negócio', 'imposto', 'mega-sena', 'prêmio']):
-        nova_imagem = IMAGENS_CATEGORIA['economia']
     elif any(p in t for p in ['gama', 'polícia', 'pm', 'preso', 'furto', 'roubo', 'acidente', 'baep', 'guarda', 'golpe', 'tráfico', 'arma', 'violência', 'crime', 'homicídio', 'morre', 'morte', 'assalto', 'tiroteio', 'drogas', 'investigação', 'morreu', 'atropelado', 'corpo', 'vítima', 'fatal', 'incêndio', 'bombeiros']):
         nova_imagem = IMAGENS_CATEGORIA['policia']
     elif any(p in t for p in ['câmara', 'prefeito', 'prefeitura', 'vereador', 'sardelli', 'eleição', 'projeto', 'lei', 'tce', 'tse', 'votação', 'deputado', 'lula', 'bolsonaro', 'tarcísio', 'governo']):
         nova_imagem = IMAGENS_CATEGORIA['politica']
-    elif any(p in t for p in ['dae', 'bomba', 'abastecimento', 'água', 'esgoto', 'reforma filtros', 'reservatório', 'estação de tratamento', 'vazamento']):
-        nova_imagem = IMAGENS_CATEGORIA['dae']
-    elif any(p in t for p in ['saúde', 'hospital', 'hm', 'dengue', 'vacina', 'médico', 'consulta', 'ubs', 'posto de saúde', 'cuidados paliativos', 'doença', 'paciente', 'medicamento']):
-        nova_imagem = IMAGENS_CATEGORIA['saude']
-    elif any(p in t for p in ['frio', 'geada', 'inverno', 'temperatura', 'frente fria', 'chuva', 'clima', 'tempo']):
-        nova_imagem = IMAGENS_CATEGORIA['frio']
     elif any(p in t for p in ['asfalto', 'obra', 'iluminação', 'reforma', 'praça', 'infraestrutura', 'recapeamento', 'viaduto', 'trânsito', 'rodovia']):
         nova_imagem = IMAGENS_CATEGORIA['infraestrutura']
-    elif any(p in t for p in ['escola', 'creche', 'educação', 'univesp', 'fatec', 'aluno', 'professor', 'enem', 'curso', 'aula', 'faculdade', 'cei']):
-        nova_imagem = IMAGENS_CATEGORIA['educacao']
-    elif any(p in t for p in ['futebol', 'rio branco', 'campeonato', 'jogo', 'atleta', 'esporte', 'ginásio', 'torneio', 'medalha', 'copa', 'libertadores', 'tênis', 'sesi']):
-        nova_imagem = IMAGENS_CATEGORIA['esportes']
-    elif any(p in t for p in ['show', 'festa', 'teatro', 'cinema', 'evento', 'exposição', 'cultura', 'aniversário', 'celebrar', 'festival', 'sinfônica']):
-        nova_imagem = IMAGENS_CATEGORIA['eventos']
-    elif any(p in t for p in ['rodovia', 'anhanguera', 'sp-304', 'trânsito', 'pedágio', 'motorista', 'ônibus']):
-        nova_imagem = IMAGENS_CATEGORIA['transito']
-    elif 'campinas' in t:
-        nova_imagem = IMAGENS_CATEGORIA['campinas']
-    elif any(p in t for p in ['santa bárbara', 'sbo']):
-        nova_imagem = IMAGENS_CATEGORIA['sbo']
-
+    
     if 'vagas019' in f or 'vagas 019' in f:
-        if not nova_imagem:
-            nova_imagem = IMAGENS_CATEGORIA['empregos']
+        if not nova_imagem: nova_imagem = IMAGENS_CATEGORIA['empregos']
 
     link_limpo = str(imagem_atual).lower()
-    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'gemini']
+    palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
     is_fallback = LINK_FALLBACK_PADRAO.split('/')[-1].lower() in link_limpo
-    is_logo_nosso = any(logo.split('/')[-1].lower() in link_limpo for logo in LOGOS_PORTAIS.values())
-
-    if not imagem_atual or is_lixo or is_fallback or is_logo_nosso:
+    
+    if not imagem_atual or is_lixo or is_fallback:
         return nova_imagem if nova_imagem else IMAGENS_CATEGORIA['americana']
-
     return imagem_atual
 
 def nome_curto_portal(url):
@@ -128,28 +105,20 @@ def nome_curto_portal(url):
     if 'redefamilia' in url: return 'redefamilia'
     if 'sb24horas' in url: return 'sb24horas'
     if 'vagas019' in url: return 'vagas019'
-    if 'news.google' in url: return 'Google Notícias'
     return 'portal'
 
 def extrair_melhor_imagem(entry):
-    if 'media_content' in entry and len(entry.media_content) > 0:
+    if hasattr(entry, 'media_content') and entry.media_content:
         return entry.media_content[0].get('url', '')
-    if 'links' in entry:
+    if hasattr(entry, 'links'):
         for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href', '')
-    html_alvo = ""
-    if 'description' in entry: html_alvo += entry.description
-    if 'summary' in entry: html_alvo += entry.summary
-    if 'content' in entry:
-        for c in entry.content: html_alvo += c.value
-    if html_alvo:
-        match = re.search(r'<img [^>]*src=["\']([^"\']+)["\']', html_alvo)
-        if match: return match.group(1)
-    return ''
+            if 'image' in link.get('type', ''): return link.get('href', '')
+    html_alvo = getattr(entry, 'summary', '') + getattr(entry, 'description', '')
+    match = re.search(r'<img [^>]*src=["\']([^"\']+)["\']', html_alvo)
+    return match.group(1) if match else ''
 
 # ==========================================
-# 3. PROCESSO PRINCIPAL DE AGREGAÇÃO
+# 3. PROCESSO PRINCIPAL
 # ==========================================
 lista_final = []
 assinaturas_processadas = set()
@@ -159,88 +128,37 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                titulo_antigo = noticia.get('titulo', '')
-                link_antigo = noticia.get('link', '')
-                assinatura = f"{titulo_antigo}-{link_antigo}"
-                if assinatura not in assinaturas_processadas:
-                    lista_final.append(noticia)
-                    assinaturas_processadas.add(assinatura)
-    except Exception: pass
+                assinatura = f"{noticia.get('titulo')}-{noticia.get('link')}"
+                lista_final.append(noticia)
+                assinaturas_processadas.add(assinatura)
+    except: pass
 
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        print(f"📡 [{portal_nome}] Puxando dados...")
-        
-        headers_navegador = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
-        headers_googlebot = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
-        
-        if 'news.google' in url:
-            resposta = requests.get(url, headers=headers_navegador, timeout=15)
-        elif 'jornalojogo' in url:
-            resposta = requests.get(url, headers=headers_googlebot, timeout=15)
-        else:
-            url_req = f"{url}?v={int(time.time())}"
-            resposta = requests.get(url_req, headers=headers_navegador, timeout=15)
-            if resposta.status_code in [403, 404, 406, 503]:
-                resposta = requests.get(url, headers=headers_googlebot, timeout=15)
-
-        if resposta.status_code != 200:
-            continue
-            
+        resposta = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
         feed = feedparser.parse(resposta.content)
-        adicionados = 0
         for entry in feed.entries[:30]: 
-            link_noticia = entry.get('link', '') or entry.get('id', '')
-            if not link_noticia:
-                link_noticia = f"{url}#noticia-sem-link-{random.randint(1000,9999)}"
+            link = entry.get('link', entry.get('id', ''))
+            titulo = entry.get('title', 'Sem Título')
+            assinatura_nova = f"{titulo}-{link}"
             
-            titulo_seguro = entry.get('title', 'Sem Título')
-            assinatura_nova = f"{titulo_seguro}-{link_noticia}"
-            
-            if assinatura_nova in assinaturas_processadas:
-                continue
+            if assinatura_nova in assinaturas_processadas: continue
                 
-            imagem_original = extrair_melhor_imagem(entry)
-            imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
+            img = categorizar_noticia(titulo, extrair_melhor_imagem(entry), portal_nome)
             
-            todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
-            if not any(nossa.split('/')[-1] in imagem_final for nossa in todas_nossas_imagens) and 'wsrv.nl' not in imagem_final:
-                url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
-                imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
-            
-            timestamp_utc = time.time()
-            try:
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    timestamp_utc = calendar.timegm(entry.published_parsed)
-                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                    timestamp_utc = calendar.timegm(entry.updated_parsed)
-            except: pass
-                
-            fuso_br = timezone(timedelta(hours=-3))
-            data_str = datetime.fromtimestamp(timestamp_utc, fuso_br).strftime("%d/%m/%Y %H:%M")
-            timestamp_br = timestamp_utc - (3 * 3600)
-            
-            noticia_objeto = {
-                'titulo': titulo_seguro,
-                'link': link_noticia,
-                'imagem': imagem_final,
-                'portal': portal_nome,
-                'logo_portal': LOGOS_PORTAIS.get(portal_nome, LINK_FALLBACK_PADRAO),
-                'timestamp': timestamp_br,
-                'data': data_str
+            noticia_obj = {
+                'titulo': titulo, 'link': link, 'imagem': img, 
+                'portal': portal_nome, 'data': datetime.now().strftime("%d/%m/%Y %H:%M"),
+                'timestamp': time.time()
             }
-            
-            lista_final.append(noticia_objeto)
+            lista_final.append(noticia_obj)
             assinaturas_processadas.add(assinatura_nova)
-            adicionados += 1
-            
-    except Exception as e:
-        print(f"🚨 Erro no portal {portal_nome}: {e}")
+    except Exception as e: print(f"Erro em {portal_nome}: {e}")
 
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-lista_final = lista_final[:2000] # Limite aumentado para 2000
+lista_final = lista_final[:2000]
 
-if len(lista_final) > 0:
-    with open('feed_mestre.json', 'w', encoding='utf-8') as f:
-        json.dump(lista_final, f, ensure_ascii=False, indent=4)
+with open('feed_mestre.json', 'w', encoding='utf-8') as f:
+    json.dump(lista_final, f, ensure_ascii=False, indent=4)
+print("🎉 Hub atualizado com sucesso!")
