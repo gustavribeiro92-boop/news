@@ -5,11 +5,9 @@ import time
 import os
 import calendar
 import email.utils
+import random
 from datetime import datetime, timezone, timedelta
 import requests 
-
-# DISFARCE CONFIGURADO NA BIBLIOTECA
-feedparser.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
 # ==========================================
 # 1. LISTA DE FEEDS E LOGOS
@@ -26,7 +24,6 @@ FEEDS = [
     'https://rapidonoar.com.br/feed/',
     'https://redefamilia.com.br/feed/',
     'https://sb24horas.com.br/feed/',
-    # 🚀 GOOGLE NEWS RESTRITO A 48 HORAS: Proíbe o Google de trazer notícias antigas
     'https://news.google.com/rss/search?q=Americana+SP+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419',
     'https://vagas019.com.br/feed/'
 ]
@@ -108,7 +105,6 @@ def categorizar_noticia(titulo, imagem_atual, fonte):
             nova_imagem = IMAGENS_CATEGORIA['empregos']
 
     link_limpo = str(imagem_atual).lower()
-    
     palavras_lixo = ['logo', 'logotipo', 'default', 'padrao', 'fallback', '0addff39', 'americana-post', 'kyijbwc6', 'o-jogo', 'images.jpg', 'images.png', 'download.jpg', 'download.png', 'cropped', 'nm-site', 'sem-foto', 'placeholder', 'blank', 'thumb', 'marca', 'capa', '150x150', '300x200', '300x300', 'logo-vagas', 'icon', 'avatar', 'gemini']
     
     is_lixo = any(lixo in link_limpo for lixo in palavras_lixo)
@@ -169,45 +165,54 @@ if os.path.exists('feed_mestre.json'):
                     links_processados.add(noticia.get('link'))
     except Exception: pass
 
-# Cabeçalhos super realistas para não assustar firewalls
-headers_navegador = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-    'Connection': 'keep-alive'
-}
-
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
+        # Disfarce Padrão
+        headers_navegador = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+            'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        }
+        # Disfarce Pesado Anti-Firewall
+        headers_googlebot = {
+            'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+            'Accept': '*/*'
+        }
+        
         if 'news.google' in url:
-            # Google recebe acesso limpo sem fura-cache
             resposta = requests.get(url, headers=headers_navegador, timeout=15)
+        elif 'jornalojogo' in url:
+            # Passe VIP para furar o O Jogo
+            resposta = requests.get(url, headers=headers_googlebot, timeout=15)
         else:
-            # 🚀 ALGORITMO DUPLO IMPACTO: Tentativa 1 com Fura Cache
             url_req = f"{url}?v={int(time.time())}"
             resposta = requests.get(url_req, headers=headers_navegador, timeout=15)
             
-            # Se o firewall do O Jogo, Vagas019 ou Rede Família bloquear, tenta a URL limpa!
+            # Se o Vagas 019 ou Rede Família bloquearem, usa o Googlebot como Plano B
             if resposta.status_code in [403, 404, 406, 503]:
-                print(f"  ⚠️ Firewall detectado em {portal_nome}. Tentando acesso limpo...")
-                resposta = requests.get(url, headers=headers_navegador, timeout=15)
+                print(f"  ⚠️ Firewall bloqueou. Usando Força Bruta (Googlebot)...")
+                resposta = requests.get(url, headers=headers_googlebot, timeout=15)
 
         if resposta.status_code != 200:
             print(f"  ❌ Falha absoluta: Status {resposta.status_code}")
             continue
             
         feed = feedparser.parse(resposta.content)
-        print(f"  ✅ Sincronizado: {len(feed.entries)} entradas.")
+        print(f"  ✅ Lido: {len(feed.entries)} entradas.")
         
+        adicionados = 0
         for entry in feed.entries[:30]: 
-            link_noticia = entry.get('link', '')
-            if not link_noticia or link_noticia in links_processados:
+            # 🚀 TRAVA VAGAS 019: Se o site não der link, a gente cria um link temporário só para não perder a notícia!
+            link_noticia = entry.get('link', '') or entry.get('id', '')
+            if not link_noticia:
+                link_noticia = f"{url}#noticia-sem-link-{random.randint(1000,9999)}"
+                
+            if link_noticia in links_processados:
                 continue
                 
-            titulo_seguro = entry.get('title', 'Notícia')
+            titulo_seguro = entry.get('title', 'Sem Título')
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
@@ -216,12 +221,14 @@ for url in FEEDS:
                 url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
                 imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
             
-            if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                timestamp_utc = calendar.timegm(entry.published_parsed)
-            elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                timestamp_utc = calendar.timegm(entry.updated_parsed)
-            else:
-                timestamp_utc = time.time()
+            timestamp_utc = time.time()
+            try:
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    timestamp_utc = calendar.timegm(entry.published_parsed)
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    timestamp_utc = calendar.timegm(entry.updated_parsed)
+            except:
+                pass
                 
             fuso_br = timezone(timedelta(hours=-3))
             data_str = datetime.fromtimestamp(timestamp_utc, fuso_br).strftime("%d/%m/%Y %H:%M")
@@ -239,6 +246,10 @@ for url in FEEDS:
             
             lista_final.append(noticia_objeto)
             links_processados.add(link_noticia)
+            adicionados += 1
+            
+        # Essa linha vai nos dizer a verdade crua no log do GitHub
+        print(f"  📥 Salvos no JSON: {adicionados} matérias.")
             
     except Exception as e:
         print(f"🚨 Erro no portal {portal_nome}: {e}")
@@ -249,4 +260,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Sistema Duplo Impacto ativado.")
+    print("🎉 Hub de Notícias atualizado! Erros de RSS do Vagas 019 ignorados à força.")
