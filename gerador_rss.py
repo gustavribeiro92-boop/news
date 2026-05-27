@@ -4,6 +4,7 @@ import json
 import time
 import os
 import calendar
+import email.utils
 import random
 from datetime import datetime, timezone, timedelta
 import requests 
@@ -118,7 +119,7 @@ def extrair_melhor_imagem(entry):
     return match.group(1) if match else ''
 
 # ==========================================
-# 3. PROCESSO PRINCIPAL
+# 3. PROCESSO PRINCIPAL DE AGREGAÇÃO
 # ==========================================
 lista_final = []
 assinaturas_processadas = set()
@@ -128,37 +129,102 @@ if os.path.exists('feed_mestre.json'):
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                assinatura = f"{noticia.get('titulo')}-{noticia.get('link')}"
-                lista_final.append(noticia)
-                assinaturas_processadas.add(assinatura)
-    except: pass
+                titulo_antigo = noticia.get('titulo', '')
+                link_antigo = noticia.get('link', '')
+                assinatura = f"{titulo_antigo}-{link_antigo}"
+                if assinatura not in assinaturas_processadas:
+                    lista_final.append(noticia)
+                    assinaturas_processadas.add(assinatura)
+    except Exception: pass
 
 for url in FEEDS:
     portal_nome = nome_curto_portal(url)
     try:
-        resposta = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        print(f"📡 [{portal_nome}] Puxando dados...")
+        
+        headers_navegador = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+            'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        }
+        headers_googlebot = {
+            'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+            'Accept': '*/*'
+        }
+        
+        if 'news.google' in url:
+            resposta = requests.get(url, headers=headers_navegador, timeout=15)
+        elif 'jornalojogo' in url:
+            resposta = requests.get(url, headers=headers_googlebot, timeout=15)
+        else:
+            url_req = f"{url}?v={int(time.time())}"
+            resposta = requests.get(url_req, headers=headers_navegador, timeout=15)
+            if resposta.status_code in [403, 404, 406, 503]:
+                print(f"  ⚠️ Firewall bloqueou. Usando Força Bruta (Googlebot)...")
+                resposta = requests.get(url, headers=headers_googlebot, timeout=15)
+
+        if resposta.status_code != 200:
+            print(f"  ❌ Falha absoluta: Status {resposta.status_code}")
+            continue
+            
         feed = feedparser.parse(resposta.content)
+        print(f"  ✅ Lido: {len(feed.entries)} entradas.")
+        
+        adicionados = 0
         for entry in feed.entries[:30]: 
-            link = entry.get('link', entry.get('id', ''))
-            titulo = entry.get('title', 'Sem Título')
-            assinatura_nova = f"{titulo}-{link}"
-            
-            if assinatura_nova in assinaturas_processadas: continue
+            link_noticia = entry.get('link', '') or entry.get('id', '')
+            if not link_noticia:
+                link_noticia = f"{url}#noticia-sem-link-{random.randint(1000,9999)}"
                 
-            img = categorizar_noticia(titulo, extrair_melhor_imagem(entry), portal_nome)
+            titulo_seguro = entry.get('title', 'Sem Título')
             
-            noticia_obj = {
-                'titulo': titulo, 'link': link, 'imagem': img, 
-                'portal': portal_nome, 'data': datetime.now().strftime("%d/%m/%Y %H:%M"),
-                'timestamp': time.time()
+            assinatura_nova = f"{titulo_seguro}-{link_noticia}"
+            if assinatura_nova in assinaturas_processadas:
+                continue
+                
+            imagem_original = extrair_melhor_imagem(entry)
+            imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
+            
+            todas_nossas_imagens = list(LOGOS_PORTAIS.values()) + list(IMAGENS_CATEGORIA.values()) + [LINK_FALLBACK_PADRAO]
+            if not any(nossa.split('/')[-1] in imagem_final for nossa in todas_nossas_imagens) and 'wsrv.nl' not in imagem_final:
+                url_sem_http = imagem_final.replace('https://', '').replace('http://', '')
+                imagem_final = f"https://wsrv.nl/?url={url_sem_http}&w=400&h=200&fit=cover&output=jpg"
+            
+            timestamp_utc = time.time()
+            try:
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    timestamp_utc = calendar.timegm(entry.published_parsed)
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    timestamp_utc = calendar.timegm(entry.updated_parsed)
+            except:
+                pass
+                
+            fuso_br = timezone(timedelta(hours=-3))
+            data_str = datetime.fromtimestamp(timestamp_utc, fuso_br).strftime("%d/%m/%Y %H:%M")
+            timestamp_br = timestamp_utc - (3 * 3600)
+            
+            noticia_objeto = {
+                'titulo': titulo_seguro,
+                'link': link_noticia,
+                'imagem': imagem_final,
+                'portal': portal_nome,
+                'logo_portal': LOGOS_PORTAIS.get(portal_nome, LINK_FALLBACK_PADRAO),
+                'timestamp': timestamp_br,
+                'data': data_str
             }
-            lista_final.append(noticia_obj)
+            
+            lista_final.append(noticia_objeto)
             assinaturas_processadas.add(assinatura_nova)
-    except Exception as e: print(f"Erro em {portal_nome}: {e}")
+            adicionados += 1
+            
+        print(f"  📥 Salvos no JSON: {adicionados} matérias.")
+            
+    except Exception as e:
+        print(f"🚨 Erro no portal {portal_nome}: {e}")
 
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
 lista_final = lista_final[:2000]
 
-with open('feed_mestre.json', 'w', encoding='utf-8') as f:
-    json.dump(lista_final, f, ensure_ascii=False, indent=4)
-print("🎉 Hub atualizado com sucesso!")
+if len(lista_final) > 0:
+    with open('feed_mestre.json', 'w', encoding='utf-8') as f:
+        json.dump(lista_final, f, ensure_ascii=False, indent=4)
+    print("🎉 Hub de Notícias atualizado! Vagas 019 resgatado das cinzas do RSS.")
