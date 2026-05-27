@@ -4,7 +4,6 @@ import json
 import time
 import os
 import calendar
-import email.utils
 import random
 from datetime import datetime, timezone, timedelta
 import requests 
@@ -153,16 +152,20 @@ def extrair_melhor_imagem(entry):
 # 3. PROCESSO PRINCIPAL DE AGREGAÇÃO
 # ==========================================
 lista_final = []
-links_processados = set()
+assinaturas_processadas = set() # 🚀 NOVA LÓGICA: O detector de fraudes de link
 
 if os.path.exists('feed_mestre.json'):
     try:
         with open('feed_mestre.json', 'r', encoding='utf-8') as f:
             dados_antigos = json.load(f)
             for noticia in dados_antigos:
-                if noticia.get('link') not in links_processados:
+                titulo_antigo = noticia.get('titulo', '')
+                link_antigo = noticia.get('link', '')
+                assinatura = f"{titulo_antigo}-{link_antigo}" # Título e Link juntos
+                
+                if assinatura not in assinaturas_processadas:
                     lista_final.append(noticia)
-                    links_processados.add(noticia.get('link'))
+                    assinaturas_processadas.add(assinatura)
     except Exception: pass
 
 for url in FEEDS:
@@ -170,12 +173,10 @@ for url in FEEDS:
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
-        # Disfarce Padrão
         headers_navegador = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
             'Accept': 'application/rss+xml, application/xml, text/xml, */*'
         }
-        # Disfarce Pesado Anti-Firewall
         headers_googlebot = {
             'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
             'Accept': '*/*'
@@ -184,15 +185,11 @@ for url in FEEDS:
         if 'news.google' in url:
             resposta = requests.get(url, headers=headers_navegador, timeout=15)
         elif 'jornalojogo' in url:
-            # Passe VIP para furar o O Jogo
             resposta = requests.get(url, headers=headers_googlebot, timeout=15)
         else:
             url_req = f"{url}?v={int(time.time())}"
             resposta = requests.get(url_req, headers=headers_navegador, timeout=15)
-            
-            # Se o Vagas 019 ou Rede Família bloquearem, usa o Googlebot como Plano B
             if resposta.status_code in [403, 404, 406, 503]:
-                print(f"  ⚠️ Firewall bloqueou. Usando Força Bruta (Googlebot)...")
                 resposta = requests.get(url, headers=headers_googlebot, timeout=15)
 
         if resposta.status_code != 200:
@@ -204,15 +201,17 @@ for url in FEEDS:
         
         adicionados = 0
         for entry in feed.entries[:30]: 
-            # 🚀 TRAVA VAGAS 019: Se o site não der link, a gente cria um link temporário só para não perder a notícia!
             link_noticia = entry.get('link', '') or entry.get('id', '')
             if not link_noticia:
                 link_noticia = f"{url}#noticia-sem-link-{random.randint(1000,9999)}"
                 
-            if link_noticia in links_processados:
+            titulo_seguro = entry.get('title', 'Sem Título')
+            
+            # 🚀 A MÁGICA FINAL: Só ignora se Título e Link forem EXATAMENTE iguais a algo já salvo
+            assinatura_nova = f"{titulo_seguro}-{link_noticia}"
+            if assinatura_nova in assinaturas_processadas:
                 continue
                 
-            titulo_seguro = entry.get('title', 'Sem Título')
             imagem_original = extrair_melhor_imagem(entry)
             imagem_final = categorizar_noticia(titulo_seguro, imagem_original, portal_nome)
             
@@ -245,10 +244,9 @@ for url in FEEDS:
             }
             
             lista_final.append(noticia_objeto)
-            links_processados.add(link_noticia)
+            assinaturas_processadas.add(assinatura_nova)
             adicionados += 1
             
-        # Essa linha vai nos dizer a verdade crua no log do GitHub
         print(f"  📥 Salvos no JSON: {adicionados} matérias.")
             
     except Exception as e:
@@ -260,4 +258,4 @@ lista_final = lista_final[:1000]
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Erros de RSS do Vagas 019 ignorados à força.")
+    print("🎉 Hub de Notícias atualizado! Vagas 019 resgatado das cinzas do RSS.")
