@@ -112,6 +112,42 @@
         "timestamp": 1779886627.3199024
     },
     {
+        "titulo": "Fundo Social de Americana recebe doações de roupas infantis produzidas no curso de Costura Industrial do Cuca",
+        "link": "https://noticiafm.com/fundo-social-de-americana-recebe-doacoes-de-roupas-infantis-produzidas-no-curso-de-costura-industrial-do-cuca/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779876344,
+        "data": "27/05/2026 10:05"
+    },
+    {
+        "titulo": "Começa obra do Centro de Reabilitação Física em Hortolândia",
+        "link": "https://novomomento.com.br/comeca-obra-centro-reabilita-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779876316,
+        "data": "27/05/2026 10:05"
+    },
+    {
+        "titulo": "Guarda Civil localiza carro queimado com corpo carbonizado em área rural de Capivari",
+        "link": "https://difusorapiracicaba.com.br/guarda-civil-localiza-carro-queimado-com-corpo-carbonizado-em-area-rural-de-capivari/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779876000,
+        "data": "27/05/2026 10:00"
+    },
+    {
+        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 8",
+        "link": "https://sb24horas.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-8-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779875809,
+        "data": "27/05/2026 09:56"
+    },
+    {
         "titulo": "Taekwondo de Sumaré conquista 10 medalhas na 4ª etapa do Campeonato Paulista",
         "link": "https://novomomento.com.br/taekwondo-sumare-10-medalhas-campeonat-paulista/",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-26-at-2.33.09-PM-300x226.jpeg&w=400&h=200&fit=cover&output=jpg",
@@ -9110,5 +9146,95 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779209878,
         "data": "19/05/2026 16:57"
+    },
+    {
+        "titulo": "Você já sentiu no bolso a alta dos preços da carne?",
+        "link": "https://www.rftv.com.br/voce-ja-sentiu-no-bolso-a-alta-dos-precos-da-carne/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1732294982,
+        "data": "22/11/2024 17:03"
+    },
+    {
+        "titulo": "Você já foi atropelado ?",
+        "link": "https://www.rftv.com.br/voce-ja-foi-atropelado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1732209800,
+        "data": "21/11/2024 17:23"
+    },
+    {
+        "titulo": "Você toma as vacinas recomendadas pelo Ministério da Saúde?",
+        "link": "https://www.rftv.com.br/voce-toma-as-vacinas-recomendadas-pelo-ministerio-da-saude/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1732035805,
+        "data": "19/11/2024 17:03"
+    },
+    {
+        "titulo": "Você tem seguro contra furto ou roubo do seu veículo?",
+        "link": "https://www.rftv.com.br/voce-tem-seguro-contra-furto-ou-roubo-do-seu-veiculo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731950446,
+        "data": "18/11/2024 17:20"
+    },
+    {
+        "titulo": "Você pretende viajar nesse feriado?",
+        "link": "https://www.rftv.com.br/voce-pretende-viajar-nesse-feriado-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731602004,
+        "data": "14/11/2024 16:33"
+    },
+    {
+        "titulo": "Você abastece seu carro com etanol quando o preço está mais vantajoso?",
+        "link": "https://www.rftv.com.br/voce-abastece-seu-carro-com-etanol-quando-o-preco-esta-mais-vantajoso/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731518615,
+        "data": "13/11/2024 17:23"
+    },
+    {
+        "titulo": "Você pesquisa antes de comprar na Black Friday?",
+        "link": "https://www.rftv.com.br/voce-pesquisa-antes-de-comprar-na-black-friday/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731429899,
+        "data": "12/11/2024 16:44"
+    },
+    {
+        "titulo": "Você acha que os locais públicos estão adaptados para receber as pessoas idosas?",
+        "link": "https://www.rftv.com.br/voce-acha-que-os-locais-publicos-estao-adaptados-para-receber-as-pessoas-idosas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731344655,
+        "data": "11/11/2024 17:04"
+    },
+    {
+        "titulo": "Você já teve dificuldades para ser atendido em um posto de saúde?",
+        "link": "https://www.rftv.com.br/voce-ja-teve-dificuldades-para-ser-atendido-em-um-posto-de-saude/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1731084742,
+        "data": "08/11/2024 16:52"
+    },
+    {
+        "titulo": "Você já comprou produto falsificado sem saber?",
+        "link": "https://www.rftv.com.br/voce-ja-comprou-produto-falsificado-sem-saber/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "redefamilia",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logotipo.png",
+        "timestamp": 1730995222,
+        "data": "07/11/2024 16:00"
     }
 ]
