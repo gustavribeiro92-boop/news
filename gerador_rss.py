@@ -62,7 +62,7 @@ IMAGENS_CATEGORIA = {
     'transito': 'https://portaldosportais.com/wp-content/uploads/2026/05/transito-scaled.jpg',
     'campinas': 'https://portaldosportais.com/wp-content/uploads/2026/05/download.jpg',
     'sbo': 'https://portaldosportais.com/wp-content/uploads/2026/05/images-1.jpg',
-    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg'
+    'americana': 'https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg'
 }
 
 def categorizar_noticia(titulo, imagem_atual, fonte):
@@ -152,7 +152,7 @@ def extrair_melhor_imagem(entry):
 # 3. PROCESSO PRINCIPAL DE AGREGAÇÃO
 # ==========================================
 lista_final = []
-assinaturas_processadas = set() # 🚀 NOVA LÓGICA: O detector de fraudes de link
+assinaturas_processadas = set()
 
 if os.path.exists('feed_mestre.json'):
     try:
@@ -161,8 +161,7 @@ if os.path.exists('feed_mestre.json'):
             for noticia in dados_antigos:
                 titulo_antigo = noticia.get('titulo', '')
                 link_antigo = noticia.get('link', '')
-                assinatura = f"{titulo_antigo}-{link_antigo}" # Título e Link juntos
-                
+                assinatura = f"{titulo_antigo}-{link_antigo}"
                 if assinatura not in assinaturas_processadas:
                     lista_final.append(noticia)
                     assinaturas_processadas.add(assinatura)
@@ -173,14 +172,8 @@ for url in FEEDS:
     try:
         print(f"📡 [{portal_nome}] Puxando dados...")
         
-        headers_navegador = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-            'Accept': 'application/rss+xml, application/xml, text/xml, */*'
-        }
-        headers_googlebot = {
-            'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-            'Accept': '*/*'
-        }
+        headers_navegador = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
+        headers_googlebot = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
         
         if 'news.google' in url:
             resposta = requests.get(url, headers=headers_navegador, timeout=15)
@@ -193,22 +186,18 @@ for url in FEEDS:
                 resposta = requests.get(url, headers=headers_googlebot, timeout=15)
 
         if resposta.status_code != 200:
-            print(f"  ❌ Falha absoluta: Status {resposta.status_code}")
             continue
             
         feed = feedparser.parse(resposta.content)
-        print(f"  ✅ Lido: {len(feed.entries)} entradas.")
-        
         adicionados = 0
         for entry in feed.entries[:30]: 
             link_noticia = entry.get('link', '') or entry.get('id', '')
             if not link_noticia:
                 link_noticia = f"{url}#noticia-sem-link-{random.randint(1000,9999)}"
-                
-            titulo_seguro = entry.get('title', 'Sem Título')
             
-            # 🚀 A MÁGICA FINAL: Só ignora se Título e Link forem EXATAMENTE iguais a algo já salvo
+            titulo_seguro = entry.get('title', 'Sem Título')
             assinatura_nova = f"{titulo_seguro}-{link_noticia}"
+            
             if assinatura_nova in assinaturas_processadas:
                 continue
                 
@@ -226,8 +215,7 @@ for url in FEEDS:
                     timestamp_utc = calendar.timegm(entry.published_parsed)
                 elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
                     timestamp_utc = calendar.timegm(entry.updated_parsed)
-            except:
-                pass
+            except: pass
                 
             fuso_br = timezone(timedelta(hours=-3))
             data_str = datetime.fromtimestamp(timestamp_utc, fuso_br).strftime("%d/%m/%Y %H:%M")
@@ -247,15 +235,12 @@ for url in FEEDS:
             assinaturas_processadas.add(assinatura_nova)
             adicionados += 1
             
-        print(f"  📥 Salvos no JSON: {adicionados} matérias.")
-            
     except Exception as e:
         print(f"🚨 Erro no portal {portal_nome}: {e}")
 
 lista_final.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-lista_final = lista_final[:1000]
+lista_final = lista_final[:2000] # Limite aumentado para 2000
 
 if len(lista_final) > 0:
     with open('feed_mestre.json', 'w', encoding='utf-8') as f:
         json.dump(lista_final, f, ensure_ascii=False, indent=4)
-    print("🎉 Hub de Notícias atualizado! Vagas 019 resgatado das cinzas do RSS.")
