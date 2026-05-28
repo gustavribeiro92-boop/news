@@ -1,5 +1,185 @@
 [
     {
+        "titulo": "Motociclista fica ferido após colisão com carro na Avenida Bandeirantes",
+        "link": "https://portaldeamericana.com/motociclista-fica-ferido-apos-colisao-com-carro-na-avenida-bandeirantes/?utm_source=rss&utm_medium=rss&utm_campaign=motociclista-fica-ferido-apos-colisao-com-carro-na-avenida-bandeirantes",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_6992.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1779998715,
+        "data": "28/05/2026 20:05"
+    },
+    {
+        "titulo": "Bella Capri realiza ação social e destinará cerca de R$ 10 mil à Associação Conviver de Limeira",
+        "link": "https://rapidonoar.com.br/bella-capri-realiza-acao-social-e-destinara-cerca-de-r-10-mil-a-associacao-conviver-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/pizza-premio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779998485,
+        "data": "28/05/2026 20:01"
+    },
+    {
+        "titulo": "Vigia de obra é preso por maus-tratos a animais em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/28/vigia-de-obra-e-preso-por-maus-tratos-a-animais-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779997980,
+        "data": "28/05/2026 19:53"
+    },
+    {
+        "titulo": "EUA classificam facções brasileiras como organizações terroristas",
+        "link": "https://rapidonoar.com.br/eua-classificam-faccoes-brasileiras-como-organizacoes-terroristas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/pcc-fachada-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779997664,
+        "data": "28/05/2026 19:47"
+    },
+    {
+        "titulo": "Educação de SBO promove ações de apoio à saúde emocional dos colaboradores",
+        "link": "https://novomomento.com.br/educacao-sbo-apoio-saude-emocional-colaborador/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779997337,
+        "data": "28/05/2026 19:42"
+    },
+    {
+        "titulo": "Projeto Proerd é iniciado na Escola Estadual Ary Leitte Pereira, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/28/projeto-proerd-e-iniciado-na-escola-estadual-ary-leitte-pereira-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1779996537,
+        "data": "28/05/2026 19:28"
+    },
+    {
+        "titulo": "Homem é preso e quatro comércios são flagrados furtando energia em Bertioga",
+        "link": "https://rapidonoar.com.br/homem-e-preso-e-quatro-comercios-sao-flagrados-furtando-energia-em-bertioga/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/neoenergia-policia-energia-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779994136,
+        "data": "28/05/2026 18:48"
+    },
+    {
+        "titulo": "Mulheres são maioria na formação em medicina, mas minoria na liderança",
+        "link": "https://novomomento.com.br/mulher-maioria-formacao-medicina-minor-lideranc/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779993841,
+        "data": "28/05/2026 18:44"
+    },
+    {
+        "titulo": "Prefeitura avança em projeto para construção de 592 moradias populares em Limeira",
+        "link": "https://rapidonoar.com.br/prefeitura-avanca-em-projeto-para-construcao-de-592-moradias-populares-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/04/chave-na-porta-casa-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779991356,
+        "data": "28/05/2026 18:02"
+    },
+    {
+        "titulo": "Mega-Sena sorteia prêmio acumulado em R$ 6 milhões nesta quinta-feira",
+        "link": "https://difusorapiracicaba.com.br/mega-sena-sorteia-premio-acumulado-em-r-6-milhoes-nesta-quinta-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779991200,
+        "data": "28/05/2026 18:00"
+    },
+    {
+        "titulo": "Ingresso Solidário na Festa do Peão apoia atividades do Fundo Social de Americana",
+        "link": "https://www.americanapost.com.br/ingresso-solidario-na-festa-do-peao-apoia-atividades-do-fundo-social-de-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1779990748,
+        "data": "28/05/2026 17:52"
+    },
+    {
+        "titulo": "Justiça determina reintegração de posse da antiga garagem da Prefeitura em Limeira",
+        "link": "https://rapidonoar.com.br/justica-determina-reintegracao-de-posse-da-antiga-garagem-da-prefeitura-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/antiga-garagem-da-prefeitura-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779990726,
+        "data": "28/05/2026 17:52"
+    },
+    {
+        "titulo": "DAE inicia colocação de elementos filtrantes e avança na reforma do primeiro filtro da ETA",
+        "link": "https://www.americanapost.com.br/dae-inicia-colocacao-de-elementos-filtrantes-e-avanca-na-reforma-do-primeiro-filtro-da-eta/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1779990543,
+        "data": "28/05/2026 17:49"
+    },
+    {
+        "titulo": "BRK reforça a importância do respeito às regras de trânsito durante o “Maio Amarelo”",
+        "link": "https://rapidonoar.com.br/brk-reforca-a-importancia-do-respeito-as-regras-de-transito-durante-o-maio-amarelo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/brk-transito-obra-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779990461,
+        "data": "28/05/2026 17:47"
+    },
+    {
+        "titulo": "Câmara SB debate exploração sexual de crianças e adolescentes",
+        "link": "https://novomomento.com.br/camara-sb-debate-exploracao-sexual-crianca-adol/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779990237,
+        "data": "28/05/2026 17:43"
+    },
+    {
+        "titulo": "Centenas de pessoas participam do Esporte e Bem-Estar XI em Sumaré",
+        "link": "https://novomomento.com.br/centenas-participam-esporte-bem-estar-xi-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779990169,
+        "data": "28/05/2026 17:42"
+    },
+    {
+        "titulo": "Arrastão contra a Dengue vai a 11 bairros neste sábado, 30/05",
+        "link": "https://difusorapiracicaba.com.br/arrastao-contra-a-dengue-vai-a-11-bairros-neste-sabado-30-05/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779989400,
+        "data": "28/05/2026 17:30"
+    },
+    {
+        "titulo": "PCJ vê situação hídrica da região em alerta (Super El Niño)",
+        "link": "https://novomomento.com.br/pcj-ve-situacao-hidrica-da-regiao-em-alerta/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779988457,
+        "data": "28/05/2026 17:14"
+    },
+    {
+        "titulo": "Estado entrega 125 cobertores para o Fundo Social de Iracemápolis",
+        "link": "https://rapidonoar.com.br/estado-entrega-125-cobertores-para-o-fundo-social-de-iracemapolis/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/doacao-de-cobertores-para-o-fundo-social-de-iracemapolis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779987954,
+        "data": "28/05/2026 17:05"
+    },
+    {
+        "titulo": "Coden Ambiental vai desbaratizar 2.400 poços de visita em Nova Odessa",
+        "link": "https://novomomento.com.br/coden-vai-desbaratizar-2400-pocos-visit-nodessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779987912,
+        "data": "28/05/2026 17:05"
+    },
+    {
         "titulo": "Vigilância Sanitária realiza inspeções em varejões municipais e feiras livres",
         "link": "https://difusorapiracicaba.com.br/vigilancia-sanitaria-realiza-inspecoes-em-varejoes-municipais-e-feiras-livres/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -214,6 +394,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779980400,
         "data": "28/05/2026 15:00"
+    },
+    {
+        "titulo": "São Paulo fica próximo da liderança histórica na Sul-Americana - ABCD Jornal",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0ltdmF6Sl9tR3dhUnJEaXZhaEVsRmNHMUFCM1hYREdFVUdNeE1rS2dzR3VENHpReXhmczRoUzdxbHlrd3NzenMzRTRPZ042dmNrUWh6T3pYVlVMWE9NQTNtNTRuNl9sVkF3TUpHbjZPNWhZVi0xYlg2WnRjODFUT2xmZ1g4WW5OeEVsNzNzU2cwVDBGR09SaVpzX3poYTA1cDNySDIyY09pc2VuaTJNUUVvTGR6dTTSAbwBQVVfeXFMUG93UjFCcW4tNVYtc1VaeVYxc2d2amJQbzJLd053UkVES2hqY3l1SlFhSTh4UTdYLVFSQXZ6UHNiMTVqSlRzcVdLM0dyYk9DZl9JTUo4VlAwT2NValVlRWFXdTRjTEREbDlycWtRYXNXdkVmajFrajd5VGpoRTVPclJOandvZTdrOFJCQTFpaTBlV0tadHlHcWxwaGNxWFFBcV9iMVJwbFJVU1daQ2MtamJyZjVyQ1lzeDZaT3Y?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779980300,
+        "data": "28/05/2026 14:58"
     },
     {
         "titulo": "CBF decide por permanência de Neymar e aposta em retorno na fase de grupos",
@@ -493,6 +682,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779968528,
         "data": "28/05/2026 11:42"
+    },
+    {
+        "titulo": "Mulheres furtam R$ 8 mil em roupas de bebê em shopping de SP - Portal iG",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXBZNEEzTFNLR0k2TWNYZDRvN2ZLQWZFYUxpd2FhNHAyUFVERkwzRk5kbEgzNkYxT0l5N181YUJzRVhnczBVeEpqUlVQRnI1QUZsOElPNFNFdEdzamx4NHdfWmFuaHNGQUgyWWo3QXUtSEE5ako0NzNEZ21JNkZ1R3hieE9mZHItU0I1QmE4V29IbHE2U2E4dFdXX3drb1JwRUVTdFhqS080eGNVUTVvRdIBsAFBVV95cUxQQXBZNEEzTFNLR0k2TWNYZDRvN2ZLQWZFYUxpd2FhNHAyUFVERkwzRk5kbEgzNkYxT0l5N181YUJzRVhnczBVeEpqUlVQRnI1QUZsOElPNFNFdEdzamx4NHdfWmFuaHNGQUgyWWo3QXUtSEE5ako0NzNEZ21JNkZ1R3hieE9mZHItU0I1QmE4V29IbHE2U2E4dFdXX3drb1JwRUVTdFhqS080eGNVUTVvRQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779968400,
+        "data": "28/05/2026 11:40"
     },
     {
         "titulo": "Audiência pública revela baixo número de registros na Ouvidoria SUS em Santa Bárbara",
@@ -810,6 +1008,15 @@
         "data": "28/05/2026 07:03"
     },
     {
+        "titulo": "Lucas Ramon vê São Paulo fortalecido após classificação na Sul-Americana: “Aumenta a confiança” - Gazeta Esportiva",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOTVUemRfOHcxckdCU3Vjb0hwcmdTQzF2NWp1NjhEVW1IWUJDQkplR0Z1NGMwUWxQNUU3ZWpZRHBaNUk3YlB2cmxaVEVVX2JDUFg0V0FfeWZyU0NkOHlFZEFDQjFtM1JsamVOakh4X3c1ZHU5T3g3Z2dqd1k0RU43cEoyMGNPWm95ZjN0Zm1lbTlBODZJbFV1TjRVRWJ3VUVwbDZVeU5KQ0FlVTJYc0dFVFlUNWRLWkpLREVaU3dObS1BTFZOdlpBOGlqNGE2dzdhT2VteUozOWvSAd4BQVVfeXFMUGVxWFBLM3hibm9ONF9BUnFmUUV2NmdncFMyLUp4YU80Mnh1dG1CeXN6SEtCd0RxS0l3XzJha2F0Q0t2Y29TYUtueWZFT3drekFFalU0R19Sd290RW9PU05rMGhEcHRnbnFJa3FRVE9jNk92ZjBIVVIwbGQxbUlZZE00Q3dDN1JZTFY5dHY5X1JncG5UZlJqR2JqMVMwa0pja0EtMWVUZFMzejl4Y1JXQXBtc1ktVGU2WkgwcXRuMU1wal8tdWxXSzkxT1piMmJLUzdNSzNMWWxTMnlIUWR3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779951600,
+        "data": "28/05/2026 07:00"
+    },
+    {
         "titulo": "DER faz mega leilão de carro/moto dias 1, 2 e 3",
         "link": "https://novomomento.com.br/der-faz-mega-leilao-de-carro-moto-dias-1-2-e-3/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -826,6 +1033,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779948235,
         "data": "28/05/2026 06:03"
+    },
+    {
+        "titulo": "Aposta de Paranaíta acerta 15 dezenas da Lotofácil e leva prêmio de R$ 146 mil - Notícia Exata",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGVKMTRRVVpQMU5BUnVrTHRPTHFLNGJUQ2p6Nm9WVDlyTlM2Zm1XSC1nQjhaV0EzemJlOE0wWkllLUlqbVZvdktLYkJRYXpSOGNpMk42ZXF4em9JbHNRSFBwNGo0Q3NWNHFlNEM3X01FOHdpcDJibnJsMnR5amFQUUxRVUwtSlJhRjJKUXlidDlaWHg2UDloSUJqa1ZFU2RJdWNBLXoyRTBzZXZyRXFRdlNYWXY?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779947904,
+        "data": "28/05/2026 05:58"
     },
     {
         "titulo": "Câmara aprova fim da escala 6&#215;1 com jornada máxima de 40 horas semanais",
@@ -1042,6 +1258,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779904800,
         "data": "27/05/2026 18:00"
+    },
+    {
+        "titulo": "Empresa de pagamentos é alvo de ataque hacker, tem dados de 8 mil clientes vazados e operação mira suspeitos em SP e no RJ - G1",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWGNxWWF1SU9MNW9RS2dNWkNFV0x1SjZhcDRUTUlkZnh1djVIZ25ySGRIU1hXWGMtVmRJMzh0OFI4WDdlWVh3ZW5jLXRFTTd2MkV2ckQ5Nmo1d3k3LVExR2FmVG83OEpjZTVkWUdFcTE0ZEVURmhwdVpabUVVd0pVYVdfdmdkTS1PZ0NqQllsd0VSSjZUUFA0eGt3aG5YYkpzaDR2V2dFMU9kREZsTVRfcV9XYXRFSzQ0R1BRaVhPOV9IajdxcXBybzJ3WXlzNWtSZ2ZNSXlmTmctVHVjS09RVzRabk1nNE5XX0JYZTBDamhvUlM0ZUljLUxGdnRwVFlyeWs4bTJhNDFLMWtUbE44LV9idnk1eXdEZWJjdHpPOV9GUGNI0gGkAkFVX3lxTE9YY3FZYXVJT0w1b1FLZ01aQ0VXTHVKNmFwNFRNSWRmeHV2NUhnbnJIZEhTWFdYYy1WZEkzOHQ4UjhYN2VZWHdlbmMtdEVNN3YyRXZyRDk2ajV3eTctUTFHYWZUbzc4SmNlNWRZR0VxMTRkRVRGaHB1WlptRVV3SlVhV192Z2RNLU9nQ2pCWWx3RVJKNlRQUDR4a3doblhiSnNoNHZXZ0UxT2RERmxNVF9xX1dhdEVLNDRHUFFpWE85X0hqN3FxcHJvMndZeXM1a1JnZk1JeWZOZy1UdWNLT1FXNFpuTWc0TldfQlhlMENqaG9SUzRlSWMtTEZ2dHBUWXJ5azhtMmE0MUsxa1RsTjgtX2J2eTV5d0RlYmN0ek85X0ZQY0g?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779903627,
+        "data": "27/05/2026 17:40"
     },
     {
         "titulo": "Ex-funcionário entra em mercado com simulacro de arma e mobiliza forte aparato policial em Limeira",
@@ -2119,6 +2344,15 @@
         "data": "27/05/2026 09:53"
     },
     {
+        "titulo": "São Paulo foi o time com melhor defesa na fase de grupos da Sul-Americana - ABCD Jornal",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3E2ZXhTb3o4clkxN2JOYldFQi1hemE0LWNMeEtaT2JJVlpQSWJETUNzWGZqOG1Xc0EyeWxWVWtEa21iamRZZ2tXZlVZMUpHeWNqeXFWSXo0M0pmNkpoMW4xOGY1bGlLOWo0Nld5R0tUY2tTd284S1pOdXdEUlZiVkZ4U29sTkF5MUt5ZTdwUlFubThmRERZbFJfd3ZRalFpTU1jQ3B5ZU5pNlZvbnB2ZXJ2TDUtN1JRYWNObEF0SG9fbDZUakHSAcsBQVVfeXFMTlp4a1c3UUxkR0pqRmpfNF96T2pldk12QWFOb2N6b3RxMFhrOENNOUNNZ2Q3c3h6SVdNT3hKN1NrclJVajg3ei1DVlh3YzFEOFBYMXZqSUNvUlZrQks0SFZWVUhiQjlPZTFyVUFzOUlFOU1OdEJFdVdkbUhPYnBBeEJuTlgwT0dQMkdFYU4xc29CWWlwa1hPV2ZMVV8xbWlNT2JQQUpXQWtUNDY4ajUxSTVlcTZNZ2JBYUVSUGVaMDRmNy1yT0FnVi03S28?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779875151,
+        "data": "27/05/2026 09:45"
+    },
+    {
         "titulo": "Taekwondo de Sumaré conquista 10 medalhas na 4ª etapa do Campeonato Paulista",
         "link": "https://novomomento.com.br/taekwondo-sumare-10-medalhas-campeonat-paulista/",
         "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-26-at-2.33.09-PM-300x226.jpeg&w=400&h=200&fit=cover&output=jpg",
@@ -2360,6 +2594,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1779838800,
         "data": "26/05/2026 23:40"
+    },
+    {
+        "titulo": "São Paulo vence o Boston River e avança para as oitavas de final na Copa Sul-Americana - Terra",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXJVbnlPQWJVRmoyVnhQQlFUWnFqV1lOSGpaLTlqOUxaM3pLTUpqdGZGazlKYlc4ODAzWDdKbTg1VVVKVTFhdTNWa2VvdDEyZjE2dGRSbk85RVZmYmtCTXZwNU5ESm00dE50VHp1T0JBV3Q4cVlaeFJKd25yVldnOUtKU1BKVVktMFYwVkpobExjOE1qUUJaYnF0RWg3X0E4TXhLYUdMWUUtaWVlRGNNbFpWVW1JcWY1N1M2YXh6Wl9GYk5CdTNTUkpjWmNXSjVrLUtobThkQkMzVEcxTEstQVVkT3dpRnMyeUtzLWdYenR3Ym1aMUlPSnBPdkdwWmlWbGRwaUFZMA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779836580,
+        "data": "26/05/2026 23:03"
     },
     {
         "titulo": "São Paulo arrecada premiação milionária com classificação na Copa Sul-Americana - Lance!",
