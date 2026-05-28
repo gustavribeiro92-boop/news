@@ -1,5 +1,176 @@
 [
     {
+        "titulo": "DAE avança com instalação de válvulas redutoras de pressão e região do Zanaga pode ter intermitência no abastecimento",
+        "link": "https://noticiafm.com/dae-avanca-com-instalacao-de-valvulas-redutoras-de-pressao-e-regiao-do-zanaga-pode-ter-intermitencia-no-abastecimento/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779961665,
+        "data": "28/05/2026 09:47"
+    },
+    {
+        "titulo": "Hortolândia alcança 6 mil peças arrecadadas pela Campanha do Agasalho",
+        "link": "https://novomomento.com.br/hortolandia-6mil-arrecadada-campanha-d-agasalho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779961558,
+        "data": "28/05/2026 09:45"
+    },
+    {
+        "titulo": "Palmeiras decide classificação hoje na Libertadores",
+        "link": "https://rapidonoar.com.br/palmeiras-decide-classificacao-hoje-na-libertadores/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/allan-3-1024x575.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779960582,
+        "data": "28/05/2026 09:29"
+    },
+    {
+        "titulo": "Alunos de Nova Odessa participam da Olimpíada de Matemática Mirim",
+        "link": "https://novomomento.com.br/alunos-de-nova-odessa-participam-da-olimpiada-de-matematica-mirim/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779960487,
+        "data": "28/05/2026 09:28"
+    },
+    {
+        "titulo": "Casal é preso por tráfico de drogas durante operação da Força Tática em Leme",
+        "link": "https://rapidonoar.com.br/casal-e-preso-por-trafico-de-drogas-durante-operacao-da-forca-tatica-em-leme-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/casal-e-preso-por-trafico-de-drogas-durante-operacao-da-forca-tatica-em-leme-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779960328,
+        "data": "28/05/2026 09:25"
+    },
+    {
+        "titulo": "Ginástica Artística de Americana traz resultados de Paulínia",
+        "link": "https://novomomento.com.br/ginastica-artistica-americana-resultadopaulinia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779960232,
+        "data": "28/05/2026 09:23"
+    },
+    {
+        "titulo": "Polícia prende proprietário de auto center após cobrança de R$ cerca de 6 mil por troca de pneus",
+        "link": "https://difusorapiracicaba.com.br/policia-prende-proprietario-de-auto-center-apos-cobranca-de-r-cerca-de-6-mil-por-troca-de-pneus/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1779959659,
+        "data": "28/05/2026 09:14"
+    },
+    {
+        "titulo": "Inter de Limeira vence rival Cosmopolitano no Paulista Sub-17",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-vence-rival-cosmopolitano-no-paulista-sub-17/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/giovanny-3-1006x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779958553,
+        "data": "28/05/2026 08:55"
+    },
+    {
+        "titulo": "Rumo entrega obras de ampliação do Viaduto do Pezão em Nova Odessa",
+        "link": "https://noticiafm.com/rumo-entrega-obras-de-ampliacao-do-viaduto-do-pezao-em-nova-odessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1779957866,
+        "data": "28/05/2026 08:44"
+    },
+    {
+        "titulo": "Empresa que forneceria refletores de LED para o Limeirão será substituída",
+        "link": "https://rapidonoar.com.br/empresa-que-forneceria-refletores-de-led-para-o-limeirao-sera-substituida/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/refletores-770x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1779957492,
+        "data": "28/05/2026 08:38"
+    },
+    {
+        "titulo": "Ebola uma das doenças mais temidas do mundo",
+        "link": "https://novomomento.com.br/ebola-uma-das-doencas-mais-temidas-do-mundo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779957052,
+        "data": "28/05/2026 08:30"
+    },
+    {
+        "titulo": "Kauã Miguel, nadador barbarense de 16 anos recebe homenagem",
+        "link": "https://novomomento.com.br/kaua-miguel-nadador-barbarense-16-receb-homenag/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779956741,
+        "data": "28/05/2026 08:25"
+    },
+    {
+        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 9",
+        "link": "https://sb24horas.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-9-3/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779955612,
+        "data": "28/05/2026 08:06"
+    },
+    {
+        "titulo": "Ginástica artística de Americana conquista pódios e 1º lugar por equipes em etapa da Liga Intermunicipal",
+        "link": "https://hjnews.com.br/ginastica-artistica-de-americana-conquista-podios-e-1o-lugar-por-equipes-em-etapa-da-liga-intermunicipal/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779953918,
+        "data": "28/05/2026 07:38"
+    },
+    {
+        "titulo": "Americana inicia elaboração do Plano Diretor de Turismo",
+        "link": "https://hjnews.com.br/americana-inicia-elaboracao-do-plano-diretor-de-turismo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779953795,
+        "data": "28/05/2026 07:36"
+    },
+    {
+        "titulo": "Fluminense avança e Flamengo garante melhor campanha da Libertadores",
+        "link": "https://sb24horas.com.br/fluminense-avanca-e-flamengo-garante-melhor-campanha-da-libertadores/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1779953034,
+        "data": "28/05/2026 07:23"
+    },
+    {
+        "titulo": "CM de Americana faz audiência das metas fiscais do 1º quadrimestre",
+        "link": "https://novomomento.com.br/cm-americana-audiencia-metas-fiscais-1oquatrime/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1779952524,
+        "data": "28/05/2026 07:15"
+    },
+    {
+        "titulo": "CM de Americana faz audiência das metas fiscais do 1º quatrimestre - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkdYS0N4NlNxYWtWclhsb2JHWS1xTlBfem40Y2NFSnBLdHVZeDNlbXZYSEN5NWJUU0Rsb1p2U1RpR1pGaFRGNWUyd1JaV0M1TmdQeDBSUmRTM2ZCcHFfUGd4SlJaRXdZXzBQY2FkeU14cWg1MVRxUENRQmpCa0ZQVA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1779952524,
+        "data": "28/05/2026 07:15"
+    },
+    {
+        "titulo": "FIM DA ESCALA 6×1: Câmara aprova PEC que reduz jornada para 40 horas e garante dois dias de folga",
+        "link": "https://hjnews.com.br/fim-da-escala-6x1-camara-aprova-pec-que-reduz-jornada-para-40-horas-e-garante-dois-dias-de-folga/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1779951791,
+        "data": "28/05/2026 07:03"
+    },
+    {
         "titulo": "DER faz mega leilão de carro/moto dias 1, 2 e 3",
         "link": "https://novomomento.com.br/der-faz-mega-leilao-de-carro-moto-dias-1-2-e-3/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
