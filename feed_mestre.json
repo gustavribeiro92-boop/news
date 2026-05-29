@@ -1,5 +1,329 @@
 [
     {
+        "titulo": "DAE instala válvulas e água pode oscilar na região do Zanaga",
+        "link": "https://novomomento.com.br/dae-instala-valvulas-agua-pode-oscilar-zanaga/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780078972,
+        "data": "29/05/2026 18:22"
+    },
+    {
+        "titulo": "Brasil deve voltar ao grupo das 10 maiores economias do mundo em 2026, aponta FMI",
+        "link": "https://rapidonoar.com.br/brasil-deve-voltar-ao-grupo-das-10-maiores-economias-do-mundo-em-2026-aponta-fmi/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/06/porto-brasil-economia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780078295,
+        "data": "29/05/2026 18:11"
+    },
+    {
+        "titulo": "Justiça dá 15 dias para Autoban fazer manutenção nos acessos de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/justica-da-15-dias-para-autoban-fazer-manutencao-nos-acessos-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780077744,
+        "data": "29/05/2026 18:02"
+    },
+    {
+        "titulo": "População em situação de rua passa de 388 mil em maio; SP lidera",
+        "link": "https://difusorapiracicaba.com.br/populacao-em-situacao-de-rua-passa-de-388-mil-em-maio-sp-lidera/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780077600,
+        "data": "29/05/2026 18:00"
+    },
+    {
+        "titulo": "Mini Cidade do Trânsito encerra programação do Maio Amarelo em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/mini-cidade-do-transito-encerra-programacao-do-maio-amarelo-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780077595,
+        "data": "29/05/2026 17:59"
+    },
+    {
+        "titulo": "Senado aprova lei com regras para Copa do Mundo Feminina de 2027",
+        "link": "https://sb24horas.com.br/senado-aprova-lei-com-regras-para-copa-do-mundo-feminina-de-2027/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780077531,
+        "data": "29/05/2026 17:58"
+    },
+    {
+        "titulo": "Saque-Aniversário: como incluir no seu planejamento",
+        "link": "https://novomomento.com.br/saque-aniversario-como-incluir-no-planejamento/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780077523,
+        "data": "29/05/2026 17:58"
+    },
+    {
+        "titulo": "Prefeitura arrecada R$ 56 milhões a menos do previsto no 1º quadrimestre",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/prefeitura-arrecada-r-56-milhoes-a-menos-do-previsto-no-1o-quadrimestre/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780077384,
+        "data": "29/05/2026 17:56"
+    },
+    {
+        "titulo": "Operação Só Cacareco percorre três bairros até quarta-feira em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/operacao-so-cacareco-percorre-tres-bairros-ate-quarta-feira-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780077062,
+        "data": "29/05/2026 17:51"
+    },
+    {
+        "titulo": "Região da Vila Queiroz recebe mutirão da dengue neste sábado em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/regiao-da-vila-queiroz-recebe-mutirao-da-dengue-neste-sabado-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780076329,
+        "data": "29/05/2026 17:38"
+    },
+    {
+        "titulo": "Nova Odessa: Esposa de comissionado é exonerada da Jari após denúncia no MP",
+        "link": "https://novomomento.com.br/nova-odessa-esposa-de-comissionado-e-exonerada-da-jari-apos-denuncia-no-mp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780076111,
+        "data": "29/05/2026 17:35"
+    },
+    {
+        "titulo": "Prefeitura abre minuta do novo Plano Diretor para consulta pública em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/prefeitura-abre-minuta-do-novo-plano-diretor-para-consulta-publica-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780075922,
+        "data": "29/05/2026 17:32"
+    },
+    {
+        "titulo": "Na busca pelo penta, Piracicaba disputa fase regional dos Jogos da Melhor Idade na próxima semana",
+        "link": "https://difusorapiracicaba.com.br/na-busca-pelo-penta-piracicaba-disputa-fase-regional-dos-jogos-da-melhor-idade-na-proxima-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780075800,
+        "data": "29/05/2026 17:30"
+    },
+    {
+        "titulo": "Encontro de carros antigos movimenta Limeira nesta sexta-feira",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/encontro-de-carros-antigos-movimenta-limeira-nesta-sexta-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780075693,
+        "data": "29/05/2026 17:28"
+    },
+    {
+        "titulo": "Limeira recebe César Cielo para clínica de natação com jovens atletas",
+        "link": "https://noticiadelimeira.com.br/2026/05/29/limeira-recebe-cesar-cielo-para-clinica-de-natacao-com-jovens-atletas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780075359,
+        "data": "29/05/2026 17:22"
+    },
+    {
+        "titulo": "Marcos Fontes tem convite do comando estadual do PP",
+        "link": "https://novomomento.com.br/marcos-fontes-assume-pp-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780074590,
+        "data": "29/05/2026 17:09"
+    },
+    {
+        "titulo": "Maio Amarelo: servidores municipais realizam doação voluntária de sangue",
+        "link": "https://difusorapiracicaba.com.br/maio-amarelo-servidores-municipais-realizam-doacao-voluntaria-de-sangue/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780074000,
+        "data": "29/05/2026 17:00"
+    },
+    {
+        "titulo": "Americana (SP): Festa do Peão transmitirá estreia do Brasil na Copa do Mundo em telão da arena - diário do estado",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTy1XcU54QVNzN1ZkeEpCX3llSVdHMm5tNXdWZXY4UWQtdm1Vb0hJcXQ4MWVWWTZwTVM0V2dQZFBOcGtDWVhRbFNnZmZBU29NQXZ2a2xybHlsbGotbHZxU0YxaktsYUQ5azhRcThtaHZkVVpEMnZ1NUI5dmhscGJCcHgyTkVuNUdSZ3BsMDhYZHBwWTBwZkFVV1ltSUNvOFhsTkxHOFZDSjMteTRYeDNveXgwQlJFRThWQ1RfRkhvRmRNQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780073016,
+        "data": "29/05/2026 16:43"
+    },
+    {
+        "titulo": "Encontro de carros antigos reúne clássicos, veículos tunados e ação solidária em Limeira",
+        "link": "https://rapidonoar.com.br/encontro-de-carros-antigos-reune-classicos-veiculos-tunados-e-acao-solidaria-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/feira-centro-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780072866,
+        "data": "29/05/2026 16:41"
+    },
+    {
+        "titulo": "ANS define reajuste máximo de 5,11% para planos de saúde individuais em 2026",
+        "link": "https://rapidonoar.com.br/ans-define-reajuste-maximo-de-511-para-planos-de-saude-individuais-em-2026/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/06/saude-plano-medico-1024x578.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780072681,
+        "data": "29/05/2026 16:38"
+    },
+    {
+        "titulo": "Sob o comando de uma mulher, Americana mantém equilíbrio fiscal e contas em dia",
+        "link": "https://portaldeamericana.com/sob-o-comando-de-uma-mulher-americana-mantem-equilibrio-fiscal-e-contas-em-dia/?utm_source=rss&utm_medium=rss&utm_campaign=sob-o-comando-de-uma-mulher-americana-mantem-equilibrio-fiscal-e-contas-em-dia",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/55299837641_b145f620de_o.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780072521,
+        "data": "29/05/2026 16:35"
+    },
+    {
+        "titulo": "Cobb reúne líderes que representam 75% da avicultura latino-americana em encontro no interior paulista - Agrimidia",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQTF1MkR0UTRFMk9zVkhLVkRFd3pJWktjSXBWUklqLUoydGJNZjZWYWJMbkh3Qm9uajF5cTdEbGM0VVg1SVB5RUJCVTdNWUpWLVNpbmlGZXdkLU9HZWlzNmgwYVAyUkdLcEh2cnBIZi1TNmxUWXFDalZxanVjMGczTzdQZGhVSnFFTnRNaV9ObGhlN1VhMlZGdHg5cmxGWGFXVDlyNlJvbUowajhyZnZDX0hHMTNmQkFzT3BlcmEzZmNRWlg4MmZRSzRlY3U5dndOV0IxanJqUl91M21SOHY1TDB4cV9lRl9lS3Zqb3o0R0g1dw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780072234,
+        "data": "29/05/2026 16:30"
+    },
+    {
+        "titulo": "Antigo grupo escolar de Artemis reabre as portas após 30 anos",
+        "link": "https://difusorapiracicaba.com.br/antigo-grupo-escolar-de-artemis-reabre-as-portas-apos-30-anos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780072200,
+        "data": "29/05/2026 16:30"
+    },
+    {
+        "titulo": "Ministro André Mendonça abre Escola de Justiça de Campinas com Aula Magna sobre governança e democracia",
+        "link": "https://rapidonoar.com.br/ministro-andre-mendonca-abre-escola-de-justica-de-campinas-com-aula-magna-sobre-governanca-e-democracia/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/andre-mendonca-stf-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780071850,
+        "data": "29/05/2026 16:24"
+    },
+    {
+        "titulo": "MAC Americana tem inscrições de oficina gratuita sobre fotografia artística",
+        "link": "https://novomomento.com.br/mac-americana-oficina-fotografia-artistica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780070520,
+        "data": "29/05/2026 16:02"
+    },
+    {
+        "titulo": "MAC Americana tem inscrições de oficina gratuita sobre fotografia artística - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZRGlmOGdIVTNOZEdqdHd5bmhDV2JES1c1ek9iRnRTcEI5bkJPNW9tamxqZ2Fmb2JIQ2xuaTdOX01sbmpIVG9kT0VYRDFkWFF1dkJkd0ViQUdFWk1ueXp0NmtnVGF0S0FHR1J6UVk4anFJMzFTVkRPeHdn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780070520,
+        "data": "29/05/2026 16:02"
+    },
+    {
+        "titulo": "João Fonseca faz história e vira sobre Djokovic (3-2) em Roland Garros",
+        "link": "https://novomomento.com.br/joao-fonseca-historia-vira-djokovic-3-rolandgar/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780070414,
+        "data": "29/05/2026 16:00"
+    },
+    {
+        "titulo": "Defesa Civil de Piracicaba participa de treinamento para a Operação São Paulo Sem Fogo 2026",
+        "link": "https://difusorapiracicaba.com.br/defesa-civil-de-piracicaba-participa-de-treinamento-para-a-operacao-sao-paulo-sem-fogo-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780070400,
+        "data": "29/05/2026 16:00"
+    },
+    {
+        "titulo": "Mutirão da dengue atende a região da Vila Queiroz neste sábado, em Limeira",
+        "link": "https://rapidonoar.com.br/mutirao-da-dengue-atende-a-regiao-da-vila-queiroz-neste-sabado-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/03/mutirao-da-dengue-Limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780070217,
+        "data": "29/05/2026 15:56"
+    },
+    {
+        "titulo": "Expansão da rede estadual de proteção da fauna silvestre recebe apoio do Ministério Público",
+        "link": "https://rapidonoar.com.br/expansao-da-rede-estadual-de-protecao-da-fauna-silvestre-recebe-apoio-do-ministerio-publico/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/animais-silvestre-mpsp-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780069643,
+        "data": "29/05/2026 15:47"
+    },
+    {
+        "titulo": "Imobiliária bauruense participa de imersão nacional após destaque em vendas - Social Bauru",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUJkMkY2b0MyUWpKdE9wNzZST0xwYjgzZFptNXJuQ00zMnpwSWxjWUR1ZE90Ml90a2F1U1FRNmszV2RqaVJMRGxZa0tCMGZybGRWUzZfZVc1MXA3WW5aVUkyM1piM0tWbW1jZFN1TEtOOXpDODJjSUxySkhZdUtGQnpBSkNVUEd3emhrajNIc19qNWhRQWhjSXBsbXZjRjl0XzFVUjNn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780069302,
+        "data": "29/05/2026 15:41"
+    },
+    {
+        "titulo": "Promotor que investiga o PCC há 20 anos critica decisão dos EUA sobre facções brasileiras",
+        "link": "https://portaldeamericana.com/promotor-que-investiga-o-pcc-ha-20-anos-critica-decisao-dos-eua-sobre-faccoes-brasileiras/?utm_source=rss&utm_medium=rss&utm_campaign=promotor-que-investiga-o-pcc-ha-20-anos-critica-decisao-dos-eua-sobre-faccoes-brasileiras",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/Lincoln-Gakiya-Foto-Edilson-RodriguesAgencia-Senado-2.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780068877,
+        "data": "29/05/2026 15:34"
+    },
+    {
+        "titulo": "Padaria Maryara anuncia morte de chef que dedicou mais de 30 anos à produção da empresa",
+        "link": "https://portaldeamericana.com/padaria-maryara-anuncia-morte-de-chef-que-dedicou-mais-de-30-anos-a-producao-da-empresa/?utm_source=rss&utm_medium=rss&utm_campaign=padaria-maryara-anuncia-morte-de-chef-que-dedicou-mais-de-30-anos-a-producao-da-empresa",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/Carlos-Eduardo-Pigatto.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780068635,
+        "data": "29/05/2026 15:30"
+    },
+    {
+        "titulo": "Mutirão para castração gratuita de cães e gatos começa amanhã; ainda há vagas",
+        "link": "https://difusorapiracicaba.com.br/mutirao-para-castracao-gratuita-de-caes-e-gatos-comeca-amanha-ainda-ha-vagas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780068600,
+        "data": "29/05/2026 15:30"
+    },
+    {
+        "titulo": "Bares da RMC têm saldo positivo de 354 empregos em abril",
+        "link": "https://novomomento.com.br/bares-rmc-saldo-positivo-354-empregos-em-abril/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780068505,
+        "data": "29/05/2026 15:28"
+    },
+    {
+        "titulo": "Prefeitura de Limeira registra R$ 56 milhões a menos na arrecadação do primeiro quadrimestre deste ano",
+        "link": "https://rapidonoar.com.br/prefeitura-de-limeira-registra-r-56-milhoes-a-menos-na-arrecadacao-do-primeiro-quadrimestre-deste-ano/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/05/edificio-prada-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780068426,
+        "data": "29/05/2026 15:27"
+    },
+    {
         "titulo": "Guardas da Patrulha Rural apreendem mais de 580 porções de drogas",
         "link": "https://rapidonoar.com.br/guardas-da-patrulha-rural-apreendem-mais-de-580-porcoes-de-drogas/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/apreensao-de-drogas-em-artemis-gcm-piracicaba-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -297,6 +621,15 @@
         "data": "29/05/2026 12:59"
     },
     {
+        "titulo": "Veja o caminho do São Paulo na Copa Sul-Americana - Lance!",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXy1uNG9DNUlIQVUwM0M2MF9tUjhzeW5iV0h0MkpQakhhb1cySW5GQmRobk5TS1dQU0dDTFdpYzFOTU8zVmwybG4weFhYbUpKYUpkU21SU0ttZENzT2VQc3M0Uk5aVXVNenJfa0dBZUk5VWZvZm9LSkhNd3R5QmNUalBFaVhMb0g4TzdBcGVNTDVQbVZ2SlZmb2pRUHVESEJwYlFqWm5VRktIZ0FzNkwycTNocTcwdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780059519,
+        "data": "29/05/2026 12:58"
+    },
+    {
         "titulo": "Sul-Americana: São Paulo pode pegar Grêmio nas oitavas e Santos joga com equatoriano se avançar - UOL",
         "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQU04em44SVpJandrYjRLRXpQc2FsamFoNnI2MDBRV3dfMDR1RGxxbXJEV3JpTm9iT1JRU0I2dDJhdUxVYnJsT25KdWNVY3dkWXlERm1rbS1YY0dQb2RJek1zZHJKTkI5bGpISHlwem1oXy15UFl4OFI3bEpFd3hRRTk5Skg5TzlnS0VtRC1abER5U0U0TGI2eHRxczdzWnhhbHhtbzRucU1YMldUcHBZYTRGemxGQ0lpQ3p1SWl2T3pCb1ktU1FpVVFrc1pWZmZYNGhiNmZGbFBWRC1RNVhIbGtZZFVmUjkzTS1SLUtZYVhUdWp6TVNwM0xTOE5FYko3X0ZlMXVKSERiLWlieW4yUnZZejVJZVVhaEpqZUJCMFBxWkRxbmx3?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -362,6 +695,15 @@
     {
         "titulo": "Cidades da região de Campinas ampliam vacinação contra a gripe para público geral nesta segunda; veja locais - G1",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMDdRYVpOaFdyem5uNll2bHBsTElhU0RQdVBTdmtDb3JUMkd3SXBILUNpYnEyTnlYXzFMQUQ3QUhLcnI5THA4YUVVR1RIQVp4VDZJZVdlT2hrS3E3NmVtSk9FYUpNcWNTaGk3enczdU9MSU40X29UTTJBWXRTbnJPZnA5MDlzLUtCclI0TkpfZWR1dmNUV2l6SGpQMjNZeDFvU0NwelFjU2pxNWtzcGNiNWxQQThIdzQtOHBWZjlDN1FucTRJMy1Ycl9teUJYaU41UUxDQk15Ny0tTWVXVlFqVzVublpoeUpLY3B4UFJZVVVLOEVfT0RDTWRYY0NhdFRUdER1Y3R6UG5seWc4ZnNJQtIBkAJBVV95cUxNMDdRYVpOaFdyem5uNll2bHBsTElhU0RQdVBTdmtDb3JUMkd3SXBILUNpYnEyTnlYXzFMQUQ3QUhLcnI5THA4YUVVR1RIQVp4VDZJZVdlT2hrS3E3NmVtSk9FYUpNcWNTaGk3enczdU9MSU40X29UTTJBWXRTbnJPZnA5MDlzLUtCclI0TkpfZWR1dmNUV2l6SGpQMjNZeDFvU0NwelFjU2pxNWtzcGNiNWxQQThIdzQtOHBWZjlDN1FucTRJMy1Ycl9teUJYaU41UUxDQk15Ny0tTWVXVlFqVzVublpoeUpLY3B4UFJZVVVLOEVfT0RDTWRYY0NhdFRUdER1Y3R6UG5seWc4ZnNJQg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780056651,
+        "data": "29/05/2026 12:10"
+    },
+    {
+        "titulo": "Cidades da região de Campinas ampliam vacinação contra a gripe para público geral nesta segunda; veja locais - G1",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWEFfeHc0QXpPOHJrcnQ4RER1TUFESG1VY3dvYnI5X0JLT3pyUm4xeTI1eFBvb3g1b0Z0cmlueUQyd3E4T2xFcWdob3JkdVlkSFI4UW9HbGJLTGRHNllSZWdrQU9EcTRObXpkbUlMVmVuQnRhMXF3a1pNY2h1ZmE0ejdCXzhEd25pSVBneVBDREpqOG1scnloVnkxT3MzSW84dWt3blJMQzVEdkV2TzlLanRJZ2t1a3RBd0NGODEzRTZSSVlqb3Q4YjYxc0JkZy11a1Bfd25hVnB4cklic3ZqbUxmUC1xZEt3N052VXJXaWtVLVFiWkFVN2pyRVB5VkE4ZFHSAZACQVVfeXFMTTA3UWFaTmhXcnpubjZZdmxwbExJYVNEUHVQU3ZrQ29yVDJHd0lwSC1DaWJxMk55WF8xTEFEN0FIS3JyOUxwOGFFVUdUSEFaeFQ2SWVXZU9oa0txNzZlbUpPRWFKTXFjU2hpN3p3M3VPTElONF9vVE0yQVl0U25yT2ZwOTA5cy1LQnJSNE5KX2VkdXZjVFdpekhqUDIzWXgxb1NDcHpRY1NqcTVrc3BjYjVsUEE4SHc0LThwVmY5QzdRbnE0STMtWHJfbXlCWGlONVFMQ0JNeTctLU1lV1ZRalc1bm5aaHlKS2NweFBSWVVVSzhFX09EQ01kWGNDYXRUVHREdWN0elBubHlnOGZzSUI?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -568,6 +910,15 @@
     },
     {
         "titulo": "Demi Lovato anuncia 2° show solo em SP após Rock in Rio - portallineup.com.br",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3pIVksxSVdXX1AtVjc2dXdxajNPTlR5OTZqcVNrZXUxTUg4X3ZQV3FfYjFOVEVyeWVYTkVFMW9oUEFrNWpIa0IzVmNydDRhS0dFNl9XMDhlbmRIMHFlZkc0TE4tUFByT0NuWTJnRF9WSVYyaGZSbVc3ZWpZOEY2bVFKMDdOOHVDajdiUXBkMERiUFZuRjEwT1lHNzdXOGxvRXRPQjBCTlN5cFMwNWplUA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780050540,
+        "data": "29/05/2026 10:29"
+    },
+    {
+        "titulo": "Demi Lovato anuncia 2° show solo em SP após Rock in Rio - Portal Lineup",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3pIVksxSVdXX1AtVjc2dXdxajNPTlR5OTZqcVNrZXUxTUg4X3ZQV3FfYjFOVEVyeWVYTkVFMW9oUEFrNWpIa0IzVmNydDRhS0dFNl9XMDhlbmRIMHFlZkc0TE4tUFByT0NuWTJnRF9WSVYyaGZSbVc3ZWpZOEY2bVFKMDdOOHVDajdiUXBkMERiUFZuRjEwT1lHNzdXOGxvRXRPQjBCTlN5cFMwNWplUA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -862,6 +1213,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1780034657,
         "data": "29/05/2026 06:04"
+    },
+    {
+        "titulo": "Americana inicia revisão do Plano Diretor de Turismo com encontros a partir de junho - Portal ON",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnVhSjBjWFRnNHNjUUFDNnpXbERyNEE2bVcyZGN2eWIxR2dpQkZieDl5VjNGdEhQMFdtNzZWWnFsMkM5MjRQOUh3dWc0TWRaU2pXUUpjR29XQ3cxbHl0YTJUclV0UXZjRUhSbmZnckMzcTRYYW1oN1ozelhad2w5WXhEajJYNTd4d2hUVWlnc1ItcjBhQ05ZTkdKdzBKQVlzTDEyaUhzQVdiRzBuWkhGOGJMSWVXYkZvSlNR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780032952,
+        "data": "29/05/2026 05:35"
     },
     {
         "titulo": "Xuxa faz estreia em rodeios na Festa do Peão de Americana em 1995 - Veja detalhes da apresentação - diário do estado",
