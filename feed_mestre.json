@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Criolo é destaque da Semana Cultural de junho de Hortolândia",
+        "link": "https://novomomento.com.br/criolo-e-destaque-da-semana-cultural-de-junho-de-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780133843,
+        "data": "30/05/2026 09:37"
+    },
+    {
+        "titulo": "Independente recebe o Mogi Mirim em busca da 7ª vitória na Bezinha",
+        "link": "https://rapidonoar.com.br/independente-recebe-o-mogi-mirim-em-busca-da-7a-vitoria-na-bezinha/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/torcida-galo-beer-1024x654.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780133492,
+        "data": "30/05/2026 09:31"
+    },
+    {
+        "titulo": "Derbinhos decisivos hoje pelo Campeonato Paulista Sub-11 e Sub-12",
+        "link": "https://rapidonoar.com.br/derbinhos-decisivos-hoje-pelo-campeonato-paulista-sub-11-e-sub-12/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/marcio-faria-1024x777.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780133000,
+        "data": "30/05/2026 09:23"
+    },
+    {
+        "titulo": "Santos recebe o Vitória para sair da zona da degola",
+        "link": "https://rapidonoar.com.br/santos-recebe-o-vitoria-para-sair-da-zona-da-degola/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/gabigol-12-818x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780132360,
+        "data": "30/05/2026 09:12"
+    },
+    {
+        "titulo": "Americana amplia vacinação contra a gripe para toda a população a partir de segunda-feira",
+        "link": "https://noticiafm.com/americana-amplia-vacinacao-contra-a-gripe-para-toda-a-populacao-a-partir-de-segunda-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780132299,
+        "data": "30/05/2026 09:11"
+    },
+    {
+        "titulo": "Grêmio e Corinthians jogam hoje no Sul",
+        "link": "https://rapidonoar.com.br/gremio-e-corinthians-jogam-hoje-no-sul/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/bidu-3-911x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780132055,
+        "data": "30/05/2026 09:07"
+    },
+    {
+        "titulo": "Ypê retoma produção de Lava-Roupas, Louças Líquido e Desinfetantes: Lote anterior segue proibidos",
+        "link": "https://novomomento.com.br/ype-retoma-producao-lava-roupa-louca-desinfetan/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780131602,
+        "data": "30/05/2026 09:00"
+    },
+    {
+        "titulo": "Brutos Futsal disputa as quartas de final da Liga Paulista Júnior",
+        "link": "https://rapidonoar.com.br/brutos-futsal-disputa-as-quartas-de-final-da-liga-paulista-junior/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/onze-joga-1024x411.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780131597,
+        "data": "30/05/2026 08:59"
+    },
+    {
+        "titulo": "A 5 horas do fim do prazo, 900 mil não enviaram declaração do IR",
+        "link": "https://sb24horas.com.br/a-5-horas-do-fim-do-prazo-900-mil-nao-enviaram-declaracao-do-ir/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780131170,
+        "data": "30/05/2026 08:52"
+    },
+    {
+        "titulo": "Campanha de Doação de Sangue em Santa Bárbara acontece no dia 6 de junho",
+        "link": "https://noticiafm.com/campanha-de-doacao-de-sangue-em-santa-barbara-acontece-no-dia-6-de-junho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780130768,
+        "data": "30/05/2026 08:46"
+    },
+    {
         "titulo": "Montagem da estrutura da FEAMA entra na reta final; evento ocorre neste domingo, no CCL",
         "link": "https://noticiafm.com/montagem-da-estrutura-da-feama-entra-na-reta-final-evento-ocorre-neste-domingo-no-ccl/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -810,6 +900,15 @@
         "data": "29/05/2026 12:45"
     },
     {
+        "titulo": "Sul-Americana: São Paulo pode pegar Grêmio nas oitavas e Santos joga com equatoriano se avançar - UOL",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOGlwNUdZLUxXcDdKNVloTXVEemFjSXFhZENGLXh6clFQa0FTd1h0V1ZFQ1ZfVFMzdmpwMGlrXzU0VWNMSENCeW5VZkRCMzlUTnNzUXQzWWtRMVMyTnVqT0lydzk0dGQ5R19vV0Q2Tnk2T2g2SG1BeVQzTE9WRkI4X2FidmFUSFdsWklRUExoY1VXVjBXRkdBMEFrXy0zZEZOMlJ5NTIyWWswcms0WHpYMnJ6WFhpaUpmSWNaY2JwYXVwT3NETTU1QkhXTC1XYnIwbnBaWmxBX2lxdGI0S1VfMHlQU1VjeEs1NVFkdHVTUVVJQkl1T2l6bw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780058700,
+        "data": "29/05/2026 12:45"
+    },
+    {
         "titulo": "Comandante da PM de Saltinho recebe título de Cidadão Saltinhense",
         "link": "https://rapidonoar.com.br/comandante-da-pm-de-saltinho-recebe-titulo-de-cidadao-saltinhense/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/sargento-moraes-cidadao-saltinhense-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -1045,6 +1144,15 @@
     },
     {
         "titulo": "Bragantino enfrenta Sporting Cristal no playoff da Copa Sul-Americana - ge",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPak16TXhfcF84U3RySUpWSnVsdlRYMHY0U0ZQTk9fdkVnTTNFdk1sWjRCOFFfMlhhbnVtTzRIVHNqaWU2Z3Jldy1RbGtIY2VSMlBMSW1QdG5iZEhmTDdPcTh4ZjNvYjVRcnQ4S21OUmp2eW9mMTRaVkptekRkQmI5WXU3dmt2dVN1b0xxRHdFbGxpOWNuQUZTSGxuczZsUkRlekVBNF9rTmtNMVpxVnNIbTRVcWJ3NjFTVVBrbE9kenZON3hZNXVlcW4xMzJoRTlVYzF1TmhhRDJUS1N0WG9MalpFNHVSZnFpZW96anQycks4Q0JSM2c3Z3VR0gGIAkFVX3lxTE5sbU1EN19YdFJYcDVkMUg2RFkwT3RRT18xWUU4dUotektVdDFrR2FaaFNqOGhzbWxPM0JKN1Z0a0ZfaWN3Zzc1aGg3bmNhTFdlRFdmb1hvdnAwTmYtX0lBd2NGVTM3cGR2Zy1XQXkzdVRaRi04R3R0YnhkSXJxcFdqYUxjR0RRd3A5VkVBTS12dzRvWTRfLXNlM0hIYUVKc1RWZGhGRnNKQnIzdWtoVzU0Zmt1TTR4QTVxamFDS3NmUmpmakl1NnJieTRIdlhkY2JFVkVfY3VCS1kyZFlsMmswRHBZZjQ4QnBEU2pqUWRCYVFMVjVacEZ5WnhMb1l4OTVzTi1QNmFDWA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780051946,
+        "data": "29/05/2026 10:52"
+    },
+    {
+        "titulo": "Bragantino enfrenta Sporting Cristal no playoff da Copa Sul-Americana - GE",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPak16TXhfcF84U3RySUpWSnVsdlRYMHY0U0ZQTk9fdkVnTTNFdk1sWjRCOFFfMlhhbnVtTzRIVHNqaWU2Z3Jldy1RbGtIY2VSMlBMSW1QdG5iZEhmTDdPcTh4ZjNvYjVRcnQ4S21OUmp2eW9mMTRaVkptekRkQmI5WXU3dmt2dVN1b0xxRHdFbGxpOWNuQUZTSGxuczZsUkRlekVBNF9rTmtNMVpxVnNIbTRVcWJ3NjFTVVBrbE9kenZON3hZNXVlcW4xMzJoRTlVYzF1TmhhRDJUS1N0WG9MalpFNHVSZnFpZW96anQycks4Q0JSM2c3Z3VR0gGIAkFVX3lxTE5sbU1EN19YdFJYcDVkMUg2RFkwT3RRT18xWUU4dUotektVdDFrR2FaaFNqOGhzbWxPM0JKN1Z0a0ZfaWN3Zzc1aGg3bmNhTFdlRFdmb1hvdnAwTmYtX0lBd2NGVTM3cGR2Zy1XQXkzdVRaRi04R3R0YnhkSXJxcFdqYUxjR0RRd3A5VkVBTS12dzRvWTRfLXNlM0hIYUVKc1RWZGhGRnNKQnIzdWtoVzU0Zmt1TTR4QTVxamFDS3NmUmpmakl1NnJieTRIdlhkY2JFVkVfY3VCS1kyZFlsMmswRHBZZjQ4QnBEU2pqUWRCYVFMVjVacEZ5WnhMb1l4OTVzTi1QNmFDWA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
