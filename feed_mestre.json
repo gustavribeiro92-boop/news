@@ -1,5 +1,509 @@
 [
     {
+        "titulo": "Junho tem dança, teatro, cinema e música em Americana - Todo Dia",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0JmcnJrTktGTFZETDJ5SXpiU3pXRmVnSEFESktEUmtxbkRONEE5NVVkMjZ6Zk9IUGNYLVY0RHRIckFxWmg5cnBucFQ3Y1U5bnhSTWRrekt2UzRfTUdyY29HZE9HSDZsZTFJbmg4Yk9may1rTWdGQzJQbW5MQk1oeFdGYWJHM1gyX0c4?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780317279,
+        "data": "01/06/2026 12:34"
+    },
+    {
+        "titulo": "Sumaré: roubo leva dois menores em cana e três maiores por tráfico e violência",
+        "link": "https://novomomento.com.br/sumare-roubo-leva-dois-menores-em-cana-e-tres-maiores-por-trafico-e-violencia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780317118,
+        "data": "01/06/2026 12:31"
+    },
+    {
+        "titulo": "Americana encontrada morta no luxuoso Rosewood em SP - diário do estado",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmNJcWV6amYyamIwQm1OR2Z6MjZweTNIWktaWWV1Zk9Ic244UFV6blJva3FaS0VOLTRZT1dCcFlweVJ6SVZWbDBodTlFWmlUNHBnRVVZdEJ3eTZaZU0yUkNFa0U1eWZaLWo2am9xdFhiTWxJUnhfc1JJT2p2TFUxR0c4d05peUxZR1dtQkZ3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780317048,
+        "data": "01/06/2026 12:30"
+    },
+    {
+        "titulo": "Jovem que morreu em acidente na zona rural de Limeira será sepultado nesta terça-feira (2)",
+        "link": "https://rapidonoar.com.br/jovem-que-morreu-em-acidente-na-zona-rural-de-limeira-sera-sepultado-nesta-terca-feira-2/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2021/11/luto.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780316596,
+        "data": "01/06/2026 12:23"
+    },
+    {
+        "titulo": "Polícia diz que corpo de americana encontrada em hotel de luxo de SP não tinha marcas de violência - CBN",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUThPazlwdm5naFNnMzBnTkY2ZE8xdVBJcHFWanFiZ3FId3dfNVpWUXZjZnloU2M3cTB5REJjUmZFYi1ITTBWVWowYUJmS2tQOW8yT2w0cGMwT04zUGZsV09wUHhFYS00bFZXQy1mZE1yY0VudllpSXhOMUw1SEpQcHl1S3dzOXJFSjNGX0lEV3QzbEVCTHJUWEJ2YVVUZDFURDFnMmZWOUJwSE5iem5MSzlNeGhXLVpCb3Q4RGdrMndoME1JaWowcVpwRGRrTTNweUJ1MVZTbmFBQmh4ODkwRXJnVFVObFVZeE440gH6AUFVX3lxTE41UUw1bS02SjFxM3k2NW5hRDUyRElkdWx5d0VwX1Q1U3N3YVRuWGNoTEVwNlJTa2kzVW15c1lqYmNyaDRGczJ3Zjk4MTF2cWhCMUZ4a3dMZEdNd1pySkE3d3FGaDBNVS1SdGw1LWYyc2E0Y0RWTkNXcHFOTGFMdVFmUEo5R1RqVy1hbktpUzh1cVZMRUVhc0dSSHdVQjJyQlBtRThEUGdZdUdkYmtlMzBacmdqaWs1cnpVb2lBbDgwZi1vM1E1LUVlSjhZUkJKUjBOaWJGMEpyQmpWMHd6WkN5TVQ3RjZJYU9GaHZNUEd5NUtwWWhzNEJ2Qnc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780315657,
+        "data": "01/06/2026 12:07"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta em hotel Rosewood em SP - Painel Político",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQam1KT3hFLTQ2dUFSMWZHTEJVNGs0SDBqSDhmM0hVSmZOS3ZOVEJ0eDJ0WF9RUmVpRUJLQXVyZ0NSRTQtVXlWZGlOLXI1TjhzaExGd01wVVpqT3I5QjBYU2l3V2U0RVhiZHBhUTNoalg0SGFMMkxGeHg3Wlk2QklzWnlnQVVEdXc1UXZmX2Rkb2Y?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780315471,
+        "data": "01/06/2026 12:04"
+    },
+    {
+        "titulo": "Independente goleia Mogi Mirim e chega a sete vitórias seguidas na Bezinha",
+        "link": "https://rapidonoar.com.br/independente-goleia-mogi-mirim-e-chega-a-sete-vitorias-seguidas-na-bezinha/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/kenzo-3-849x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780315458,
+        "data": "01/06/2026 12:04"
+    },
+    {
+        "titulo": "Petrobras implementa desconto no diesel a partir de segunda-feira",
+        "link": "https://difusorapiracicaba.com.br/petrobras-implementa-desconto-no-diesel-a-partir-de-segunda-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780315200,
+        "data": "01/06/2026 12:00"
+    },
+    {
+        "titulo": "Quem era americana encontrada morta em hotel de luxo em São Paulo - Terra",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdF9NZmRmQ2Y5eFdHMF9oVV9CWXhKQk41ZFRUY3lBVzJlVWJ3bloyNjJoVExUendDRWY3QmE5MFFnSXBuX25ma0Q2cmJXZGdacXVBaFpFRktwTGU0dGFwcW1FR2pneW0xYnpTbkRWZmd4YUQ1QVlQYjNxeFhkZE1JWjFIQm9hNS1uUzBMVzM3Y29MMnZKN0NVWnJFa2hBUE1kRXZTczZHOTV6VzB3bmRHQW5kZm9FWHI0VE5LUUN5RnZlaTY4UldPamVxZ0JHZXl0VG5xMnJKRE9aZGFTdWJvMTZMaEF5RlN1WlRUSmg2MUZrdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780315200,
+        "data": "01/06/2026 12:00"
+    },
+    {
+        "titulo": "FecomercioSP: Ivo Dall&#8217;Acqua é eleito presidente",
+        "link": "https://novomomento.com.br/fecomerciosp-ivo-dallacqua-e-eleito-presidente/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780315029,
+        "data": "01/06/2026 11:57"
+    },
+    {
+        "titulo": "Quem é a hóspede norte-americana encontrada morta no hotel de luxo Rosewood em SP - G1",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3FWd3BwN0MwMUY3LUl6UG9zWGJ5dDlocF9oWW5RQ3VpazY2SUt2a180M1EwN3RPd0c2Z3lDY2xwMnZMNEhiS0R1VXhFUzFaZlo1NXlsdlA2eUgybmxzdWxwaTBST3ZrSzk4UmdxWVV2Z0pMLW8wZHhxb2xiQWIwcEpDRndDMVVmaWkwUldzZ21wTE9tWFFxN1lPWnkwMl9FaGFZQVI3VWFaaDF1cVplUnBwR0lLcFFWeEx6NmFQYkdRZUlNQVpDeWJScWl6MEdpRTlBck13WdIB5gFBVV95cUxPRm9TRmtPelk2dWt0RFRtMGxqMTc4MEVjMmdHNG45UEJuMXp5eEQtTms3UUpBUEFfRU5xRlFCLTF5YlBFYWtFYXVYOHBQUWVQbFZEQ21DN3VNa1cwLXhIZ0NGWmhQWWRVc1EtSVBFdkctTHkxd21nSEJyeDBCZzhtS0pNTG9ub3NLekxPcXprLW1ab2pmdm5CeWNGOTEwbi1MN0pmaS1fQWZqM182OFR4c2tZa1JNQlZ0Q0kzWEx1TVZSc1lrRW5aUUZfaWFQdWlGbC1XWEhDSkFzblJRNDkwMDdLeGxBUQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780314662,
+        "data": "01/06/2026 11:51"
+    },
+    {
+        "titulo": "Herb e Tite recebem título de cidadão Americanense hoje",
+        "link": "https://novomomento.com.br/herb-tite-recebem-titulo-cidadao-americana-hoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780314151,
+        "data": "01/06/2026 11:42"
+    },
+    {
+        "titulo": "Sumaré pinta ciclovia em revitalização da Avenida Rebouças",
+        "link": "https://novomomento.com.br/sumare-pinta-ciclovia-revitaliza-aven-reboucas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780313453,
+        "data": "01/06/2026 11:30"
+    },
+    {
+        "titulo": "Americana é encontrada morta em quarto de hotel de luxo em SP - G1",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVBLOE5sTEc3a3dUUGE5SlZORHlaWnJCRXRDQ3Z2aHNjanR3Y0tpVWd3eXBhQWtGVjVyRnk2TTF0bFd5LVpyNVNLcWpJbTdoSUc5c3J4cElDZUFDalRIVEpoMkNTY1BYZ3hHSUtpNl9haXUybG9ISXhGcy1yOVB1MnhvUWZFdDI3UXROMUhDdmFjcVZFOWtIZy1uMGdmUEdnTk51cXE3RW91c1l6aE94djJwemhEb3QxNTVkX3BnNEdmUkJUTGlv0gHHAUFVX3lxTFA5UEs4TmxMRzdrd1RQYTlKVk5EeVpackJFdENDdnZoc2NqdHdjS2lVZ3d5cGFBa0ZWNXJGeTZNMXRsV3ktWnI1U0txakltN2hJRzlzcnhwSUNlQUNqVEhUSmgyQ1NjUFhneEdJS2k2X2FpdTJsb0hJeEZzLXI5UHUyeG9RZkV0MjdRdE4xSEN2YWNxVkU5a0hnLW4wZ2ZQR2dOTnVxcTdFb3VzWXpoT3h2MnB6aERvdDE1NWRfcGc0R2ZSQlRMaW8?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780313381,
+        "data": "01/06/2026 11:29"
+    },
+    {
+        "titulo": "Americana é encontrada morta em quarto do hotel Rosewood, em São Paulo - O Globo",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdXpsck4tUEd5blJUMl93dUJMajBRZDFDaWFZSFN5Vl9taGR6OHdiNFNfLUsxNkEtMHFsbWtXU3YyYzlRY2thdUNMeEtOdktzZW1zNDlVUzRGR0xDdVpNSlFOLWNYVXpJb1kwbkh0YkZ1OTc4elFLSVNoOUNvcE9NOUdRX05DcUxjZXpyemk4RTlQeDBxNHpLdW1JRUhqWmJjS0c0TTBsRlp5VGdfaHJ0LXRneDdIcXpPdEJYQ2xqZ3lULVFDeVdDcFAxT1JLbFBLcWfSAeABQVVfeXFMUFc3N0NyVnBqcTF6RjJZLWN4djIzcl9GcGZHZllCZUhyQkpnS3ZDbjlWNjBOY3RTNF8zN2FCU2lhaWJZTGpqajdFNVRGVlIwcmc1eExUaFZWeWRsQU44YjRNczA3eFE3VGRuZ1NqRVBTTUN4dHQxS19kRWtIWEFyeEJQVEY2RXQ1c0RTalh5RGQyNW9uekpIemxwdnB3R0d0bUQxTXRUSWdXdldNZGQ5MjBzUkJBX3J2N2I0UGdIUDFGQkZyQ2xlUVk5d1FWNTJqNnphNnBkWVJZVUltUUJISTk?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780313313,
+        "data": "01/06/2026 11:28"
+    },
+    {
+        "titulo": "Influenciadora norte-americana é encontrada morta em hotel de luxo em SP; estabelecimento se pronuncia - Hugo Gloss",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmZfMXpqTmloOXVYaVFkMURnbnVrWDhlY0xicFZPQ3hBdkd2bl92TU4tWlZuUndraW5QLXRfZ0FsMGY2YTdtc0ttbHNCZG9QVGRVRW9YQWV0anFKbnBab09pRlZRNmJzOEk3ZXBNamU4dFN3U3k5aU9PbHgwbVhJb2R1dW92aXV6YUxKOW5SRnlWSVc0R0tQWHNSTFNoV3lJd3h1NlZtTGtZbngtNE5temtseFlRd1ZNNUNZNEpBbmE2RFBmcjJDMGJpLTBaQ0toVkFHZtIB2gFBVV95cUxPMHFpYkdhSXpnd1FNakU4WTVEZHZpSzFld1htVlA2ZTQxUDJUVTJrLWk5TE5LZlVWX29KWmlWMzRpMTRLRnVMQUY4bUIzcHFSUkxud2FpemRTRi0xSEQ5OHhmZUVhTzQzTmg0Z1J3QWFKTlNWeWtQczdYV1g4Z2hQUkx6YmVSdmpBY2FsZXFhcDZrcVNFODVJbURiWXh2UUcyVDU4SjA5OGFBaHk2dFFVaVZBX0ZpajB3YW90bEh2YUIzUUJaTnlIWkYxa0hkdDBPMW83cTI0LTJKZw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780313220,
+        "data": "01/06/2026 11:27"
+    },
+    {
+        "titulo": "Turista norte-americana é encontrada morta em hotel de luxo em SP - D24AM",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVlJUDdCWHRtbmNMT1RwUUs5dTBQSlJWRzRGVTM1aG9oVmYzZWNORjlNTzQxNU8yajJiR3d0OHcwR2ZKNy1lOUhvRGpGWXJLZlkzQ0FkUFgybmpTZ2xFdTFVRjRSOG5JR2RRLUN2bW8waXFxamFDRHFzX0p4NjZDdnByM0YtNnJCUkM1MjNsWERhZng0dVE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780313098,
+        "data": "01/06/2026 11:24"
+    },
+    {
+        "titulo": "Polícia investiga morte de americana encontrada em hotel de luxo no centro de SP - CBN",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczQ3WXdvYzRRTEItWHNxdHpqTEZERXZoSFJWVFlxSDFCVmpkZVhJYU5fblNmLWlSa1JSM0toSzBud0xqcGNhZlBXTS1aRHl0R0c0MFlKdFVBZVN2WE03QzVfM1FfN2NCem5RbGxkdVRTY0Z4aEtzV2pIR2dzT0FPZWdlNnVtc3lqOGlKei12UGZVNmlOMU9KcldwTXJ4NWg3R0JJTGY2UGtVRFlFVWR6cFE3eExNZllIRkxyQ3kwVGxQd3ZfVXBnTlloUzjSAdsBQVVfeXFMT1dnUkx3MUJSb2JMb05MWU9hbWUtMzBtbEkyT2ZZRXVoTVcxSnFpanNqXzQwSnRpcEV1MHhERGsxMVIzb21sVGdBMlhjZTV1Vjk0WW83RWFBT1oyMFBneEFJdDIwZGdrTDdQWUhxVWVVMV9WOWtuNXlUWDZuRlVhYmJpM2U4QXgxMVowY195SDFWcGwyb1RjNUVNVWdRUXdOTFAxR1ZDQ2JQeHkycXpsd2l3XzI1SzVhSmlNazFJaUZtYW1CZXNwcU02S1BNa2ZiMGxpYkZ5Rzc2MTFB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780313012,
+        "data": "01/06/2026 11:23"
+    },
+    {
+        "titulo": "Grupo São Vicente inicia escala 5×2 na loja de Nova Odessa",
+        "link": "https://noticiafm.com/grupo-sao-vicente-inicia-escala-5x2-na-loja-de-nova-odessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780312543,
+        "data": "01/06/2026 11:15"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta em hotel de luxo no centro de São Paulo - Gazeta de São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelMybXBPUTFyYzRVc09JNjUxdzR5SDlQbXJacndGRzZ4a0F6WWxQTWVjQ0ZRVnMxUlRVcW9nNll0SkF5MWxZRF92OW9MU3c5T19WMW9VQnhUNkdldlphcmlGakNYX0JtS05YaU9IeEpJMnBNMTRsb3FvdHAtVmdjaDUzOGpfVl9vZmF1bHhtUmJyVjVvS2ZEejhzYzg3ZGpQWTNqVmIwcGg0VVdjQUdoRFpKaw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780312507,
+        "data": "01/06/2026 11:15"
+    },
+    {
+        "titulo": "Supermercados São Vicente inicia escala 5×2 na loja de Nova Odessa",
+        "link": "https://portaldeamericana.com/supermercados-sao-vicente-inicia-escala-5x2-na-loja-de-nova-odessa/?utm_source=rss&utm_medium=rss&utm_campaign=supermercados-sao-vicente-inicia-escala-5x2-na-loja-de-nova-odessa",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/b40f534d-bb2a-439b-a300-23af52d4c029.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780312413,
+        "data": "01/06/2026 11:13"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta no hotel de luxo Rosewood em SP - band.com.br",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbmVsWk5wLWF4Wk93Rkd1aWUtNHhVR2pfY3dyblF2aElSWE1OV0lVZDRFamdLX1VHaFZmQkRLemlhQlE3QThuRnhSTHREZXkxRGRGbnJhbkxlNXdTQnpQc0hCSUh5dDJBTkE3S1gyU19IOFRzSlltY2h3ZHo0QTVNR1dwVkpHbGdudUhzMmktRlh1bEU4UXZpMkJLODNHZXA3ZU8tc2w5UXkwWjV0cmx1bVdiYWZNY0RxOEVmN3FmbDB4NkRQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780311816,
+        "data": "01/06/2026 11:03"
+    },
+    {
+        "titulo": "Pedágios da Eixo SP terão reajuste de 4,39% a partir de 4 de junho",
+        "link": "https://difusorapiracicaba.com.br/pedagios-da-eixo-sp-terao-reajuste-de-439-a-partir-de-4-de-junho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780311600,
+        "data": "01/06/2026 11:00"
+    },
+    {
+        "titulo": "Consulta pública convida população a indicar prioridades para o Orçamento de Americana",
+        "link": "https://noticiafm.com/consulta-publica-convida-populacao-a-indicar-prioridades-para-o-orcamento-de-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780311112,
+        "data": "01/06/2026 10:51"
+    },
+    {
+        "titulo": "Americana inicia elaboração do Plano Diretor de Turismo - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDNLU0psRkFfZjd4QkRxdGtLOHNxX2piZDM5aTZ2T2xPWnA5OTlWSGxUZjJIYkFFTGgxUnZoZmsxR1UwRUdSNUk4QTFKazU2ZkVBcDZGS21kUTdKUzJGUjNqcHhMZlYtMFRCSW10XzNVc1BITURBVG5qczllUzFLSw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780311063,
+        "data": "01/06/2026 10:51"
+    },
+    {
+        "titulo": "Agenda cultural de Americana em junho tem Festival de Dança, teatro, música e cinema - Portal Veloz",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUJaT1VqYU1nX1FieDhfZXF2ZTNlMlVteHFRZllZekcxd2JKVS1uQnI5OWlfVU01Z1JZTm5velhqYWlwWnJySlZlWEUwdzNtQy00ek5PU05rdUhydjVIeU13T2RjZTFiMmxnQ3gyLUUwc0diQzMzMUUzenFyZG5lX0NlUUJUQU5qaTNMZ3lzVGU0aDVCZzVFdEhTZzdGOFR4OURyUGdEZTBCQURBNXZB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780310454,
+        "data": "01/06/2026 10:40"
+    },
+    {
+        "titulo": "Motorista é preso após acidente que matou João Vitor, de 23 anos, em estrada rural de Limeira",
+        "link": "https://rapidonoar.com.br/motorista-e-preso-apos-acidente-que-matou-joao-vitor-de-23-anos-em-estrada-rural-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/motorista-e-preso-apos-acidente-que-matou-joao-vitor-de-23-anos-em-estrada-rural-de-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780310296,
+        "data": "01/06/2026 10:38"
+    },
+    {
+        "titulo": "Lula lidera cenários de 1º e 2º turnos contra Flávio Bolsonaro, diz pesquisa RealTime/Big Data",
+        "link": "https://portaldeamericana.com/lula-lidera-cenarios-de-1o-e-2o-turnos-contra-flavio-bolsonaro-diz-pesquisa-realtime-big-data/?utm_source=rss&utm_medium=rss&utm_campaign=lula-lidera-cenarios-de-1o-e-2o-turnos-contra-flavio-bolsonaro-diz-pesquisa-realtime-big-data",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2025/10/Lula-6-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780309544,
+        "data": "01/06/2026 10:25"
+    },
+    {
+        "titulo": "Oseias e Samartin: encontro pra falar de política em Nova Odessa",
+        "link": "https://novomomento.com.br/oseias-e-samartin-encontro-politica-nova-odessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780309518,
+        "data": "01/06/2026 10:25"
+    },
+    {
+        "titulo": "Vacina contra a gripe é ampliada para toda a população",
+        "link": "https://difusorapiracicaba.com.br/vacina-contra-a-gripe-e-ampliada-para-toda-a-populacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780309431,
+        "data": "01/06/2026 10:23"
+    },
+    {
+        "titulo": "Quem era americana encontrada morta no Rosewood, hotel de luxo em SP - Metrópoles",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hLVQzSHV3b0x4UUFHdFNGcC1LTGp4ZU9EZDgxWWJBNV9XRTJKWGVCaWtndEwyWjlZdnVvdXM0VE94VlpRVEt2YnZGZ25aVzYtUE1TZUZoTjN3MTl3WXhjT0hncTZ1cGRuSWRMb2RCdHBfbThqdTFZbFBn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780308673,
+        "data": "01/06/2026 10:11"
+    },
+    {
+        "titulo": "Leitora relata urubus na SP 304 próximo ao Romano em Santa Bárbara",
+        "link": "https://novomomento.com.br/leitora-relata-urubus-sp304-romano-sant-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780308546,
+        "data": "01/06/2026 10:09"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta em hotel de luxo em São Paulo - Rádio Itatiaia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUM2anpzODBGMVBHbDdPeWtKVFNSaWZiOVhDWVdYRlVQVm1PVDFXUFVrc2JocTVSSUNXYmtJT1NxLUNNWWxGM29NVmFfR3c3bkdxMTFQYVNUemdJVWo0T3c3OXJkSjF1UmxxMmR6WUZoM2RfMW5QSy1ibFh4WG9vODFKeVZ2N3FkNU9KeFlzT2hadmduYTZLTUtlQ3NtMEZLOHpvQldMQVdMX0ZaWXdSV3JpNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780308357,
+        "data": "01/06/2026 10:05"
+    },
+    {
+        "titulo": "As artimanhas utilizadas pelo Banco Itaú para manter cobranças indevidas durante anos",
+        "link": "https://noticiafm.com/as-artimanhas-utilizadas-pelo-banco-itau-para-manter-cobrancas-indevidas-durante-anos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780308305,
+        "data": "01/06/2026 10:05"
+    },
+    {
+        "titulo": "4º Festival Raízes atrai multidão na Usina Santa Bárbara com grandes shows e tradição sertaneja",
+        "link": "https://hjnews.com.br/4o-festival-raizes-atrai-multidao-na-usina-santa-barbara-com-grandes-shows-e-tradicao-sertaneja/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780307645,
+        "data": "01/06/2026 09:54"
+    },
+    {
+        "titulo": "Preço do etanol cai em 20 Estados e no DF, sobe em 4 e fica estável em 2, afirma ANP",
+        "link": "https://portaldeamericana.com/preco-do-etanol-cai-em-20-estados-e-no-df-sobe-em-4-e-fica-estavel-em-2-afirma-anp/?utm_source=rss&utm_medium=rss&utm_campaign=preco-do-etanol-cai-em-20-estados-e-no-df-sobe-em-4-e-fica-estavel-em-2-afirma-anp",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2023/08/posto-gasolina-etanol-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780306932,
+        "data": "01/06/2026 09:42"
+    },
+    {
+        "titulo": "De virada, Inter de Limeira vence Ypiranga e entra no G-8 da Série C",
+        "link": "https://rapidonoar.com.br/de-virada-inter-de-limeira-vence-ypiranga-e-entra-no-g-8-da-serie-c/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/marco-antonio-1-1024x952.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780306552,
+        "data": "01/06/2026 09:35"
+    },
+    {
+        "titulo": "Americana inicia elaboração do Plano Diretor de Turismo",
+        "link": "https://novomomento.com.br/americana-inicia-elaborac-plano-diretor-turismo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780305941,
+        "data": "01/06/2026 09:25"
+    },
+    {
+        "titulo": "Da doação à entrega: como a Campanha do Agasalho distribui itens em todo o estado de São Paulo",
+        "link": "https://noticiafm.com/da-doacao-a-entrega-como-a-campanha-do-agasalho-distribui-itens-em-todo-o-estado-de-sao-paulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780305249,
+        "data": "01/06/2026 09:14"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta no hotel de luxo Rosewood, em SP - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl9WaEVoMkplTEF6OUs4M3ByV0dqb3RjUXB1Y3VoLXFJS3JOb2JRZ2JaaUFIaHdUVGZQSmpKb0RjM3Fpb21DZm43ZklMbWg5cmdhUkJvb2VlSklFb0xtV21yQWVsZnZMYS1UQklETU5IMUxHNWlWdU5IczEtTVBZMW9SdnZZdzZNNXdfckJSTWZwclBCNC1vRk5va2ZEUmIyVUhzaEtQcGVJek9ramJMclM4djBxQ0tUZmc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780305081,
+        "data": "01/06/2026 09:11"
+    },
+    {
+        "titulo": "São Paulo: Hóspede americana é encontrada morta no hotel de luxo Rosewood - diário do estado",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnh6bDl5M1J1azhDT1dUZ1NqemV1QXVURmlLNGpJVHhIbHBtQW9hSTdrOXNIYkZucXRadlQtYzFNYy0wUzhZMWw5LTkwRUNtTjQ2dndXRTZTLXRmbEFjc0JaQmhvN25tUzFxaHdJT3JRWkFnUFpVenNwbmZhOGR0OTUxSXBHT1Y2aE5yVV80cHNJQTRWYk9tNE13ZWtRT3J5emRaUUJRa1o?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780304181,
+        "data": "01/06/2026 08:56"
+    },
+    {
+        "titulo": "Hóspede americana é encontrada morta em hotel de luxo de São Paulo - Estadão",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMkY0OEVYVG1QWnFuQ21BT1IxYVp2U19vdTFHenZ5bkZYYUJ2VHB5RmZPTWxrMEFyUHRORGFWUEN1NlBPWncwYzU4bTFYenhMMmNyZnVLU2RJS2NEOUNjNm9nT1NXcy1PU2FOUVR2Tk9pUjYtNUpJOW0yd1h2NVVSOENLWW4wLUU0WjJNU3RZTUk1SlNvbWxxUGIyWmllQ296UHlIMDA0SFRjWkx4VEMzcmhR0gGyAUFVX3lxTFAyRjQ4RVhUbVBacW5DbUFPUjFhWnZTX291MUd6dnluRlhhQnZUcHlGZk9NbGswQXJQdE5EYVZQQ3U2UE9adzBjNThtMVh6eEwyY3JmdUtTZElLY0Q5Q2M2b2dPU1dzLU9TYU5RVHZOT2lSNi01Skk5bTJ3WHY1VVI4Q0tZbjAtRTRaMk1TdFlNSTVKU29tbHFQYjJaaWVDb3pQeUgwMDRIVGNaTHhUQzNyaFE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780303960,
+        "data": "01/06/2026 08:52"
+    },
+    {
+        "titulo": "Turista dos EUA é encontrada morta em hotel de luxo no centro de São Paulo - UOL Notícias",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPck0wX0hSbFdRb0VXZExVT2ZrV3hsYWR5RmVyV0dkdkswek5tYjVFb09vU2xsS3pQVV96cS1ubmZIb01EU3dkRVJBN3JCa2lqdzhnVUdyMG5MRHpXSHU1ejBKOV9oVlFXVU43dTNXbWtNMDlONUlPVllRM3l5SlB4M1RSVmptNlNHdzQzYmVRbEs3d29CTFI3ekxfeVlrRXF1VmNCSWUyQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780303545,
+        "data": "01/06/2026 08:45"
+    },
+    {
+        "titulo": "Vacinação contra a gripe será ampliada para população acima de 6 meses a partir desta segunda-feira em Santa Bárbara",
+        "link": "https://noticiafm.com/vacinacao-contra-a-gripe-sera-ampliada-para-populacao-acima-de-6-meses-a-partir-desta-segunda-feira-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticia fm",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
+        "timestamp": 1780303275,
+        "data": "01/06/2026 08:41"
+    },
+    {
+        "titulo": "ARTIGO: Os professores estão cada vez mais doentes",
+        "link": "https://novomomento.com.br/artigo-professores-estao-cada-vez-mais-doentes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780302591,
+        "data": "01/06/2026 08:29"
+    },
+    {
+        "titulo": "Hóspede americana é achada morta no Rosewood, hotel de luxo em SP - Metrópoles",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRUG9xR2lFUEVjYjZMd0ZMeU9hdkw0aXFwZlMtWktaeXhLZjNyZVRGYThwZG5HbTRyYWhBTWVCV3ItN0ROekRRcTJTSXhCOERSSlpZVTc4WGZ4SGNBSVAwWlB4c25NTndyVlBqMXRzQU1LNjNqT2lYNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780302326,
+        "data": "01/06/2026 08:25"
+    },
+    {
+        "titulo": "Junho chegou: Horóscopo  fala em emoção, comunicação e desejo de protagonismo",
+        "link": "https://novomomento.com.br/junho-26-horoscopo-emocao-comunica-protagonismo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780302190,
+        "data": "01/06/2026 08:23"
+    },
+    {
+        "titulo": "Preço do café segue em baixa nos mercados da região",
+        "link": "https://novomomento.com.br/preco-cafe-segue-em-baixa-no-mercado-da-regiao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780302020,
+        "data": "01/06/2026 08:20"
+    },
+    {
+        "titulo": "Hóspede americana é encontrada morta no hotel de luxo Rosewood em São Paulo - G1",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnVCOC11dmZUblZTQ2Q5cXpvTHVZY0trREMtR0RoeUF4VGUybC1WMWhVOXlDeXhmN0xUVU5pVWdXc1p6WWZ5S3d1RW15Y2lwNjVKWnpTNXJuVnNPd2dtVlFlZ2NDNEsza1k3RXozaHQwM01rTUxDWEhCLVQtVU95WUlpYXdMXzd4NG52QVM1QzhXMEh5UDZZd1I0SFJacW5hYmhwNERoOEt4TlVZa2pDMVB6MlRVMVVQbWtwRnoyMC1UM1RuVHZvSTZXTGtPR1EwLWF2T0YwTkPSAecBQVVfeXFMTWNCUTYtWklkamJQY1Qxa2JDbGRnUFlfbkVLZmlhaXF2Y3VSQUI5c2RiaHE2M2tLYy15MDhmVjJsTWwwVzdGSlVfT0N5VzdfTFRfNkhiZ1BwSERHa19qakNyblk3QTRySFhSZzIyMHBkVHc1T2tSM2lhdG11QUNTUkRCM0szSk1ueUx0cHpFZFNWOVo3ZjJ1U2N4MXZzNU0xXzY0b1d4RWdBaERESHRxY2JpMEFmeHpBN195OXRUdHZlZFR6WVdXTU82R1RRdXlLUllPZWN3c2N2b0hhRDBWOHlaRjZ0bEI0?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780301994,
+        "data": "01/06/2026 08:19"
+    },
+    {
+        "titulo": "Jogando em casa, México é o grande destaque do Grupo A da Copa",
+        "link": "https://sb24horas.com.br/jogando-em-casa-mexico-e-o-grande-destaque-do-grupo-a-da-copa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780301632,
+        "data": "01/06/2026 08:13"
+    },
+    {
+        "titulo": "Brasil goleia Panamá antes da viagem aos EUA",
+        "link": "https://rapidonoar.com.br/brasil-goleia-panama-antes-da-viagem-aos-eua/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/vini-comemora-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780300232,
+        "data": "01/06/2026 07:50"
+    },
+    {
+        "titulo": "Com cases de impacto social, inclusão e experiência, Tivoli é novamente finalista do Prêmio Abrasce",
+        "link": "https://hjnews.com.br/com-cases-de-impacto-social-inclusao-e-experiencia-tivoli-e-novamente-finalista-do-premio-abrasce/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780300007,
+        "data": "01/06/2026 07:46"
+    },
+    {
+        "titulo": "Hóspede americana é encontrada morta no hotel de luxo Rosewood em São Paulo - G1",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0lTM2NBY2ZHb0RiSHJJZE8yc1FwYTJSZDdENmNwM0tOX0NvZVRFSXlPRXoyY0dNeVhhOUl5dDIzWndmRjNZSmpqVU1IMDE4YV9kaEtJSktveEo1VGk2c0M3cmIzb2NFWXVOUW90WFpIYXZWendrT0hBS3g1WjhFd1RFa0Y5YTFlbW9fVlpaeE1WVm8wLXFSLVNQTXRtNkNCOHduenNJUFdmNlcwd1BlU0dsWm1XamhyWU9iY3BPZXY1RXdOWGVtZUFUV3BQVnfSAd4BQVVfeXFMUERyMUcwcnREV2p1emdQekFPY01VbGlhZHkyLVdTOTdNaGEyMzdVaG1zY05FRXQ5aDFBQUd0VnBhVDVEeW1lU0Z5QllCc1lnWS00ZFBLMlc1SlJHU2k3ZHRJTl9NNUNxYjJrb3gzWlBIQTFUaHJoZ3dueWdaUld5OWpOZV9RYU5FTW5TajBLVEJabGVleUUwNTNwcDR3ZFhTRnQxV2JreWkwS1A0RlJVYXU3T3dYRmlyMXlza0NlODJLS1NGM0x0RF9zTFM1UHhYUS16aGJPUjN3cW9DbzlB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780299148,
+        "data": "01/06/2026 07:32"
+    },
+    {
+        "titulo": "Turista americana é encontrada morta em hotel de luxo no centro de São Paulo - R7",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaHlCbUNEZ3ItYlR3WE9XWFRpVHZteUpZVkJDN1pHb2tLbWtuaTlXczJENUhVek10X3F4a3FvNnJKQ05SN2lySmZsbkNKdUVhYWpkVEFMT2MzWm5MaHR0Ui1KekJsZDJWZnRpYWNvVXhtTE93cHJwUTA2LVd3N0NjeWNZd0VGaHJpZ01MVXptRlJpRUt6Yk9fMHk1S09acW01SGdjdkF5OFVMaFdiOHJIb2xlV1E0UC1Ka01WQVdvMDVySTZRQ2R0a3RDQ0g4UEU?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780298353,
+        "data": "01/06/2026 07:19"
+    },
+    {
+        "titulo": "Mulher americana é encontrada morta em hotel de luxo em SP - Grande Ponto",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGZPRk5MY1JZNHlWTjNhbEVLc0FFNEQtTWZ1WEFDenBlcjNfcHJhdlk0NUhSQ2Z2Z3d1S1VOb2VWdnVjRGtYNWhKVG81YUxFM0EzZDd2WFZGVUZiSF91dUlfX3NpRlozZ0hINTRvSExoeTJ3RUlhVVFOdUZLMGpFSmFwekMzWTdCYzFLU2poZjd2QkNDN05sV3VYSlZyUQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780298040,
+        "data": "01/06/2026 07:14"
+    },
+    {
+        "titulo": "Nos pênaltis, PSG conquista o bi da Champions League",
+        "link": "https://rapidonoar.com.br/nos-penaltis-psg-conquista-o-bi-da-champions-league/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/marquinhos-11-997x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780295799,
+        "data": "01/06/2026 06:36"
+    },
+    {
         "titulo": "Márcia e Andrea: confronto em Nova Odessa de olho em 2028",
         "link": "https://novomomento.com.br/marcia-e-andrea-confronto-em-nova-odessa-de-olho-em-2028/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
