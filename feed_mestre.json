@@ -1,5 +1,284 @@
 [
     {
+        "titulo": "Maio Amarelo mobiliza mais de 1.500 pessoas em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/02/maio-amarelo-mobiliza-mais-de-1-500-pessoas-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780422031,
+        "data": "02/06/2026 17:40"
+    },
+    {
+        "titulo": "Projeto de Jiu-Jitsu de Limeira conquista 70 medalhas e três troféus em copa regional",
+        "link": "https://noticiadelimeira.com.br/2026/06/02/projeto-de-jiu-jitsu-de-limeira-conquista-70-medalhas-e-tres-trofeus-em-copa-regional/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780421911,
+        "data": "02/06/2026 17:38"
+    },
+    {
+        "titulo": "Monaro cobra explicações sobre demora em atendimentos no Pronto-Socorro Dr. Afonso Ramos",
+        "link": "https://sb24horas.com.br/monaro-cobra-explicacoes-sobre-demora-em-atendimentos-no-pronto-socorro-dr-afonso-ramos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780421760,
+        "data": "02/06/2026 17:36"
+    },
+    {
+        "titulo": "Corpus Christi: veja o que abre e o que fecha no feriado de quinta e no ponto facultativo de sexta em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/02/corpus-christi-veja-o-que-abre-e-o-que-fecha-no-feriado-de-quinta-e-no-ponto-facultativo-de-sexta-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780421724,
+        "data": "02/06/2026 17:35"
+    },
+    {
+        "titulo": "Mulher é presa por policiais da DIG de Americana com mounjaro e outros produtos estéticos",
+        "link": "https://rapidonoar.com.br/mulher-e-presa-por-policiais-da-dig-de-americana-com-mounjaro-e-outros-produtos-esteticos/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/mulher-presa-com-mounjaro-americana-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780421722,
+        "data": "02/06/2026 17:35"
+    },
+    {
+        "titulo": "Feira de Games Itinerante retorna ao Tivoli com troca de jogos e atrações para fãs da cultura gamer",
+        "link": "https://sb24horas.com.br/feira-de-games-itinerante-retorna-ao-tivoli-com-troca-de-jogos-e-atracoes-para-fas-da-cultura-gamer/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780421605,
+        "data": "02/06/2026 17:33"
+    },
+    {
+        "titulo": "Jovem é baleado e fica ferido em Cordeirópolis",
+        "link": "https://noticiadelimeira.com.br/2026/06/02/jovem-e-baleado-e-fica-ferido-em-cordeiropolis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780421540,
+        "data": "02/06/2026 17:32"
+    },
+    {
+        "titulo": "Sanasa inicia nova etapa de obra na Avenida da Saudade e interromperá abastecimento em parte de Campinas",
+        "link": "https://rapidonoar.com.br/sanasa-inicia-nova-etapa-de-obra-na-avenida-da-saudade-e-interrompera-abastecimento-em-parte-de-campinas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/sanasa-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780421524,
+        "data": "02/06/2026 17:32"
+    },
+    {
+        "titulo": "Piracicaba sedia esta semana os Jogos da Advocacia Paulista, uma das maiores competições de classe do país",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-sedia-esta-semana-os-jogos-da-advocacia-paulista-uma-das-maiores-competicoes-de-classe-do-pais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780421400,
+        "data": "02/06/2026 17:30"
+    },
+    {
+        "titulo": "Atenção resgatada, por Dimas Ramalho",
+        "link": "https://novomomento.com.br/atencao-resgatada-por-dimas-ramalho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780421368,
+        "data": "02/06/2026 17:29"
+    },
+    {
+        "titulo": "Corpus Christi: transporte coletivo funciona com horários de feriado na quinta-feira, 04/06",
+        "link": "https://difusorapiracicaba.com.br/corpus-christi-transporte-coletivo-funciona-com-horarios-de-feriado-na-quinta-feira-04-06/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780419600,
+        "data": "02/06/2026 17:00"
+    },
+    {
+        "titulo": "Vereadores aprovam Americana +Segura e Transparência nas obras",
+        "link": "https://novomomento.com.br/vereadores-aprovam-americana-segura-transparenc/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780419355,
+        "data": "02/06/2026 16:55"
+    },
+    {
+        "titulo": "Alckmin: Pix é patrimônio nacional e não entra em negociação com EUA",
+        "link": "https://sb24horas.com.br/alckmin-pix-e-patrimonio-nacional-e-nao-entra-em-negociacao-com-eua/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780418514,
+        "data": "02/06/2026 16:41"
+    },
+    {
+        "titulo": "Duplicação da Rodovia Wilson Finardi, entre Araras e Rio Claro, é entregue pelo Governo de Estado",
+        "link": "https://rapidonoar.com.br/duplicacao-da-rodovia-wilson-finardi-entre-araras-e-rio-claro-e-entregue-pelo-governo-de-estado/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/rodovia-wilson-finard-duplicacao-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780418497,
+        "data": "02/06/2026 16:41"
+    },
+    {
+        "titulo": "Papa escolhe mulher não religiosa para comandar a comunicação do Vaticano",
+        "link": "https://novomomento.com.br/papa-traz-mulher-n-religiosa-comunica-vaticano/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780418212,
+        "data": "02/06/2026 16:36"
+    },
+    {
+        "titulo": "FIBA 3×3 World Cup 2026: Varsóvia recebe o maior evento da temporada.",
+        "link": "https://rapidonoar.com.br/fiba-3x3-world-cup-2026-varsovia-recebe-o-maior-evento-da-temporada/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/world_cup_3x3_sponsorship_1200x800_br-1024x683.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780418014,
+        "data": "02/06/2026 16:33"
+    },
+    {
+        "titulo": "Artemis: Prefeitura entrega prédio restaurado e transforma em escola de Educação Infantil",
+        "link": "https://difusorapiracicaba.com.br/artemis-prefeitura-entrega-predio-restaurado-e-transforma-em-escola-de-educacao-infantil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780417800,
+        "data": "02/06/2026 16:30"
+    },
+    {
+        "titulo": "Vereadores aprovam campanha para trancistas e adiam debates sobre resíduos sólidos e poda de árvores em Santa Bárbara",
+        "link": "https://sb24horas.com.br/vereadores-aprovam-campanha-para-trancistas-e-adiam-debates-sobre-residuos-solidos-e-poda-de-arvores-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780417021,
+        "data": "02/06/2026 16:17"
+    },
+    {
+        "titulo": "Mutirão de vacinação em Nova Odessa aplica 408 doses em crianças e adolescentes",
+        "link": "https://novomomento.com.br/mutirao-vacinacao-nodessa-408-doses-ccas-adoles/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780416960,
+        "data": "02/06/2026 16:16"
+    },
+    {
+        "titulo": "51ª EDIÇÃO DA CAVALARIA ANTONIANA DE JAGUARIÚNA ACONTECE NESTE DOMINGO",
+        "link": "https://hjnews.com.br/51a-edicao-da-cavalaria-antoniana-de-jaguariuna-acontece-neste-domingo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780416784,
+        "data": "02/06/2026 16:13"
+    },
+    {
+        "titulo": "Uso consciente da água e gestão responsável de resíduos sólidos são destaques no Mês do Meio Ambiente em Limeira",
+        "link": "https://rapidonoar.com.br/uso-consciente-da-agua-e-gestao-responsavel-de-residuos-solidos-sao-destaques-no-mes-do-meio-ambiente-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/mes-do-meio-ambiente-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780416771,
+        "data": "02/06/2026 16:12"
+    },
+    {
+        "titulo": "DAE inicia obras de subadutora que ampliará abastecimento na região atendida pelo reservatório do Parque Gramado",
+        "link": "https://hjnews.com.br/dae-inicia-obras-de-subadutora-que-ampliara-abastecimento-na-regiao-atendida-pelo-reservatorio-do-parque-gramado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780416356,
+        "data": "02/06/2026 16:05"
+    },
+    {
+        "titulo": "Diabético pode comer churrasco? Nutricionista explica",
+        "link": "https://novomomento.com.br/diabetico-pode-come-churrasco-nutricion-explica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780416220,
+        "data": "02/06/2026 16:03"
+    },
+    {
+        "titulo": "Vacinação contra a gripe já está disponível para toda a população do estado de SP",
+        "link": "https://difusorapiracicaba.com.br/vacinacao-contra-a-gripe-ja-esta-disponivel-para-toda-a-populacao-do-estado-de-sp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780416000,
+        "data": "02/06/2026 16:00"
+    },
+    {
+        "titulo": "Tecnologia inédita será utilizada para modernizar rede de água em bairro de Piracicaba",
+        "link": "https://rapidonoar.com.br/tecnologia-inedita-sera-utilizada-para-modernizar-rede-de-agua-em-bairro-de-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/nova-rede-de-agua-santa-terezinha-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780415887,
+        "data": "02/06/2026 15:58"
+    },
+    {
+        "titulo": "Entrada solidária da FEAMA garante doação de 353 unidades de óleo ao Fundo Social",
+        "link": "https://hjnews.com.br/entrada-solidaria-da-feama-garante-doacao-de-353-unidades-de-oleo-ao-fundo-social/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780415844,
+        "data": "02/06/2026 15:57"
+    },
+    {
+        "titulo": "Prefeitura de Americana promove campanhas Junho Violeta e Junho Prateado voltadas às pessoas idosas",
+        "link": "https://hjnews.com.br/prefeitura-de-americana-promove-campanhas-junho-violeta-e-junho-prateado-voltadas-as-pessoas-idosas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780415690,
+        "data": "02/06/2026 15:54"
+    },
+    {
+        "titulo": "SP retoma Saresp para 3ª série do Ensino Médio e avalia aprendizagem de 339 mil estudantes",
+        "link": "https://difusorapiracicaba.com.br/sp-retoma-saresp-para-3a-serie-do-ensino-medio-e-avalia-aprendizagem-de-339-mil-estudantes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780414200,
+        "data": "02/06/2026 15:30"
+    },
+    {
+        "titulo": "Dupla de Americana conquista bronze em etapa estadual de Torneio de Badminton",
+        "link": "https://novomomento.com.br/dupla-de-americana-bronze-etapa-de-badminton/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780413516,
+        "data": "02/06/2026 15:18"
+    },
+    {
+        "titulo": "Polícia de São Paulo prende suspeito de aplicar golpes com venda de produtos de luxo falsificados",
+        "link": "https://rapidonoar.com.br/policia-de-sao-paulo-prende-suspeito-de-aplicar-golpes-com-venda-de-produtos-de-luxo-falsificados/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/estelionato-produtos-de-luxo-sao-paulo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780413138,
+        "data": "02/06/2026 15:12"
+    },
+    {
+        "titulo": "Total de pessoas incluídas no acesso à água em SP desde 2024 é maior que população de 20 capitais brasileiras",
+        "link": "https://difusorapiracicaba.com.br/total-de-pessoas-incluidas-no-acesso-a-agua-em-sp-desde-2024-e-maior-que-populacao-de-20-capitais-brasileiras/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780412400,
+        "data": "02/06/2026 15:00"
+    },
+    {
         "titulo": "Em clima de aniversário, Geisy Arruda posa em pontos turísticos da Romênia com look em homenagem a Zeca Pagodinho",
         "link": "https://sb24horas.com.br/em-clima-de-aniversario-geisy-arruda-posa-em-pontos-turisticos-da-romenia-com-look-em-homenagem-a-zeca-pagodinho/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
