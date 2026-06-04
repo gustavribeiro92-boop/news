@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Cavalo morre ao ser atingido por caminhão em rodovia próxima à Piracicaba",
+        "link": "https://rapidonoar.com.br/cavalo-morre-ao-ser-atingido-por-caminhao-em-rodovia-proxima-a-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/cavalo-morto-na-cornelio-pires-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780589677,
+        "data": "04/06/2026 16:14"
+    },
+    {
+        "titulo": "Santa Bárbara está entre as 10 do Estado que mais geraram emprego em abril",
+        "link": "https://novomomento.com.br/santa-barbara-10-do-estado-geracao-de-emprego/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780588935,
+        "data": "04/06/2026 16:02"
+    },
+    {
+        "titulo": "Monique Medeiros recebeu perdão judicial mesmo após condenação; entenda a decisão",
+        "link": "https://hjnews.com.br/monique-medeiros-recebeu-perdao-judicial-mesmo-apos-condenacao-entenda-a-decisao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1780588562,
+        "data": "04/06/2026 15:56"
+    },
+    {
+        "titulo": "Morador do Residencial Altos do Flamboyant, em Limeira, tenta localizar família de idoso que apareceu em sua casa",
+        "link": "https://rapidonoar.com.br/morador-do-residencial-altos-do-flamboyant-em-limeira-tenta-localizar-familia-de-idoso-que-apareceu-em-sua-casa-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/idoso-perdido-no-residencial-altos-do-flambpyant-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780586301,
+        "data": "04/06/2026 15:18"
+    },
+    {
+        "titulo": "Hortolândia recebe doação de mamógrafo digital por igreja",
+        "link": "https://novomomento.com.br/hortolandia-recebe-doacao-de-mamografo-digital/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780581776,
+        "data": "04/06/2026 14:02"
+    },
+    {
         "titulo": "Prefeitura de Limeira abre inscrições para curso gratuito de hidroponia",
         "link": "https://rapidonoar.com.br/prefeitura-de-limeira-abre-inscricoes-para-curso-gratuito-de-hidroponia-sp/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/curso-de-hidroponia-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -241,6 +286,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1780550630,
         "data": "04/06/2026 05:23"
+    },
+    {
+        "titulo": "26060301 - AEROIN - Notícias de Aviação - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeDNZck84bUlBbDVNRjh3U1ZIU0VQOG5jLUdpVklRb2pQa3Vob0xaX3JQVzJOVGdmZWtNNmVLM0dvdDVYeTZQNGQ5ZFJaZ1BySkpFR3hDNm5waWpyRWJ3MHlvejlFV1ZPMXc2eGs4VXJSYlQybEVrX0lGV1JyUEFteTRaRHpkdDUxRk9JcnFONWhqWWdrUGlqREIwcEwtYXBFeWNnNjNMeHFzdHpZeUVyR19CdTFudjdfaWVjTmtnUUxpVjhoTkF5dU5IeW5hRTBn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780550279,
+        "data": "04/06/2026 05:17"
     },
     {
         "titulo": "Zezé di Camargo faz show solo emocionante na Festa do Peão de Americana: público se torna segunda voz. - diário do estado",
@@ -17930,59 +17984,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1779295210,
         "data": "20/05/2026 16:40"
-    },
-    {
-        "titulo": "Fundo Social recebe doação de 330 quilos de farinha arrecadados em Copa de Ginástica Artística",
-        "link": "https://hjnews.com.br/fundo-social-recebe-doacao-de-330-quilos-de-farinha-arrecadados-em-copa-de-ginastica-artistica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1779294838,
-        "data": "20/05/2026 16:33"
-    },
-    {
-        "titulo": "Presença constante na equipe, David Ribeiro comemora gols, assistências e renovação para a sequência do Brasileiro Série D",
-        "link": "https://difusorapiracicaba.com.br/presenca-constante-na-equipe-david-ribeiro-comemora-gols-assistencias-e-renovacao-para-a-sequencia-do-brasileiro-serie-d/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779294600,
-        "data": "20/05/2026 16:30"
-    },
-    {
-        "titulo": "Novo Portal de Transparência é lançado pela Prefeitura de Araras",
-        "link": "https://rapidonoar.com.br/novo-portal-de-transparencia-e-lancado-pela-prefeitura-de-araras/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/novo-portal-de-araras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779293925,
-        "data": "20/05/2026 16:18"
-    },
-    {
-        "titulo": "Rapper Oruam tem prisão preventiva requerida por promotor de Justiça",
-        "link": "https://rapidonoar.com.br/rapper-oruam-tem-prisao-preventiva-requerida-por-promotor-de-justica/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/rapper-oruam-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779293083,
-        "data": "20/05/2026 16:04"
-    },
-    {
-        "titulo": "Religião ganha peso nas periferias rumo às eleições de 2026",
-        "link": "https://novomomento.com.br/religiao-ganha-peso-na-periferia-eleicoes-2026/",
-        "imagem": "https://wsrv.nl/?url=files.pressmanager.net/clientes/64a8e8d576d3505a7823819ae1fa6eb7/imagens/2026/05/13/263337dcfaaea4ab31ce943dca22ca78_medium.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779292940,
-        "data": "20/05/2026 16:02"
-    },
-    {
-        "titulo": "CCJ da Câmara adia análise de PEC sobre redução da maioridade penal",
-        "link": "https://difusorapiracicaba.com.br/ccj-da-camara-adia-analise-de-pec-sobre-reducao-da-maioridade-penal/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779292800,
-        "data": "20/05/2026 16:00"
     }
 ]
