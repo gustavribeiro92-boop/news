@@ -1,5 +1,167 @@
 [
     {
+        "titulo": "Nova sede da Biblioteca e do HUB amplia acessibilidade e fortalece cultura e inovação em Cordeirópolis",
+        "link": "https://noticiadelimeira.com.br/2026/06/05/nova-sede-da-biblioteca-e-do-hub-amplia-acessibilidade-e-fortalece-cultura-e-inovacao-em-cordeiropolis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780676616,
+        "data": "05/06/2026 16:23"
+    },
+    {
+        "titulo": "Sumaré: PM Ambiental autua criador de ave em R$ 9 mil por conta de irregularidade",
+        "link": "https://rapidonoar.com.br/sumare-pm-ambiental-autua-criador-de-ave-em-r-9-mil-por-conta-de-irregularidade/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/papacapim-apreendido-sumare-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780676506,
+        "data": "05/06/2026 16:21"
+    },
+    {
+        "titulo": "Os sete erros mais comuns que prejudicam a saúde intestinal dos pets",
+        "link": "https://www.americanapost.com.br/os-sete-erros-mais-comuns-que-prejudicam-a-saude-intestinal-dos-pets/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1780676363,
+        "data": "05/06/2026 16:19"
+    },
+    {
+        "titulo": "Copa no Covabra une degustações e troca de figurinhas em Limeira neste final de semana",
+        "link": "https://noticiadelimeira.com.br/2026/06/05/copa-no-covabra-une-degustacoes-e-troca-de-figurinhas-em-limeira-neste-final-de-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780675898,
+        "data": "05/06/2026 16:11"
+    },
+    {
+        "titulo": "Cordeirópolis anuncia R$ 20 milhões em investimentos para ampliar segurança hídrica e modernizar saneamento",
+        "link": "https://noticiadelimeira.com.br/2026/06/05/cordeiropolis-anuncia-r-20-milhoes-em-investimentos-para-ampliar-seguranca-hidrica-e-modernizar-saneamento/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780675710,
+        "data": "05/06/2026 16:08"
+    },
+    {
+        "titulo": "Roland Garros: Luis Guto Miguel bate compatriota e vai à final juvenil",
+        "link": "https://sb24horas.com.br/roland-garros-luis-guto-miguel-bate-compatriota-e-vai-a-final-juvenil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780675252,
+        "data": "05/06/2026 16:00"
+    },
+    {
+        "titulo": "Operação “Placa Fria”: polícia encontra veículo furtado e materiais suspeitos em Americana",
+        "link": "https://www.americanapost.com.br/operacao-placa-fria-policia-encontra-veiculo-furtado-e-materiais-suspeitos-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1780675201,
+        "data": "05/06/2026 16:00"
+    },
+    {
+        "titulo": "Polo de Empregabilidade Inclusiva encaminha pessoas com deficiência ao mercado de trabalho",
+        "link": "https://difusorapiracicaba.com.br/polo-de-empregabilidade-inclusiva-encaminha-pessoas-com-deficiencia-ao-mercado-de-trabalho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780675200,
+        "data": "05/06/2026 16:00"
+    },
+    {
+        "titulo": "PM Ambiental realiza Operação Semana do Meio Ambiente até o dia 11",
+        "link": "https://rapidonoar.com.br/pm-ambiental-realiza-operacao-semana-do-meio-ambiente-ate-o-dia-11/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/operacao-pm-ambiental-piracicaba-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780675002,
+        "data": "05/06/2026 15:56"
+    },
+    {
+        "titulo": "Homem é preso por tráfico e adolescente é apreendido por tentativa de suborno no Antônio Simonetti, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/05/homem-e-preso-por-trafico-e-adolescente-e-apreendido-por-tentativa-de-suborno-no-antonio-simonetti-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780674668,
+        "data": "05/06/2026 15:51"
+    },
+    {
+        "titulo": "Desemprego entre mulheres negras jovens chega a 24,7%, aponta estudo",
+        "link": "https://sb24horas.com.br/desemprego-entre-mulheres-negras-jovens-chega-a-247-aponta-estudo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780674118,
+        "data": "05/06/2026 15:41"
+    },
+    {
+        "titulo": "Americana oferece 208 vagas de emprego através do PAT",
+        "link": "https://rapidonoar.com.br/americana-oferece-208-vagas-de-emprego-atraves-do-pat/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/04/PAT-Americana-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780673602,
+        "data": "05/06/2026 15:33"
+    },
+    {
+        "titulo": "Enem 2026: inscrições devem ser confirmadas por estudantes da rede estadual de SP até esta sexta (5)",
+        "link": "https://difusorapiracicaba.com.br/enem-2026-inscricoes-devem-ser-confirmadas-por-estudantes-da-rede-estadual-de-sp-ate-esta-sexta-5/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780673400,
+        "data": "05/06/2026 15:30"
+    },
+    {
+        "titulo": "Câmara de Nova Odessa bem avaliada nas finanças pelo TCE",
+        "link": "https://novomomento.com.br/camara-de-nova-odessa-bem-avaliada-pelo-tce/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780673278,
+        "data": "05/06/2026 15:27"
+    },
+    {
+        "titulo": "Copa do Mundo 2026 abre janela histórica para o turismo brasileiro nos EUA",
+        "link": "https://novomomento.com.br/copa-do-mundo-26-janela-turismo-brasileiro-eua/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780672091,
+        "data": "05/06/2026 15:08"
+    },
+    {
+        "titulo": "Adolescente de 16 anos é detido dirigindo carro furtado em Americana",
+        "link": "https://portaldeamericana.com/adolescente-de-16-anos-e-detido-dirigindo-carro-furtado-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=adolescente-de-16-anos-e-detido-dirigindo-carro-furtado-em-americana",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-11.41.13.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1780672025,
+        "data": "05/06/2026 15:07"
+    },
+    {
+        "titulo": "Obras na ciclovia da avenida Cruzeiro do Sul avançam para nova etapa",
+        "link": "https://difusorapiracicaba.com.br/obras-na-ciclovia-da-avenida-cruzeiro-do-sul-avancam-para-nova-etapa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1780671600,
+        "data": "05/06/2026 15:00"
+    },
+    {
+        "titulo": "Prefeitura de Limeira está com inscrições abertas para curso gratuito de eletricista",
+        "link": "https://rapidonoar.com.br/prefeitura-de-limeira-esta-com-inscricoes-abertas-para-curso-gratuito-de-eletricista/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/curso-gratuito-de-eletricista-em-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780671325,
+        "data": "05/06/2026 14:55"
+    },
+    {
         "titulo": "Violência doméstica: Mãe e filho são atingidos por estilhaços de vidro em Cordeirópolis",
         "link": "https://rapidonoar.com.br/violencia-domestica-mae-e-filho-sao-atingidos-por-estilhacos-de-vidro-em-cordeiropolis/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/04/operacao-gcm-deic-cordeiro-03-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -74,6 +236,15 @@
     {
         "titulo": "Fernando da Farmácia promove palestra sobre fibromialgia na FAM",
         "link": "https://novomomento.com.br/fernando-da-farmacia-promove-palestra-sobre-fibromialgia-na-fam/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780665237,
+        "data": "05/06/2026 13:13"
+    },
+    {
+        "titulo": "Fernando da Farmácia promove palestra sobre fibromialgia na FAM",
+        "link": "https://novomomento.com.br/fernando-da-farmacia-palestra-fibromialgia-fam/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -17813,176 +17984,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1779368716,
         "data": "21/05/2026 13:05"
-    },
-    {
-        "titulo": "Vôlei de Limeira conquista vitórias pela Liga de Vôlei em rodada disputada no domingo",
-        "link": "https://noticiadelimeira.com.br/2026/05/21/volei-de-limeira-conquista-vitorias-pela-liga-de-volei-em-rodada-disputada-no-domingo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779368463,
-        "data": "21/05/2026 13:01"
-    },
-    {
-        "titulo": "Ana Paula Renault vibra com mensagem de Milena e destaca: ‘Acho ela uma potência’",
-        "link": "https://noticiafm.com/ana-paula-renault-vibra-com-mensagem-de-milena-e-destaca-acho-ela-uma-potencia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1779368429,
-        "data": "21/05/2026 13:00"
-    },
-    {
-        "titulo": "Procon-SP promove palestra educação financeira online e gratuitamente nesta sexta (22)",
-        "link": "https://difusorapiracicaba.com.br/procon-sp-promove-palestra-educacao-financeira-online-e-gratuitamente-nesta-sexta-22/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/classroom-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779368400,
-        "data": "21/05/2026 13:00"
-    },
-    {
-        "titulo": "Produtores rurais recebem primeiros certificados do Selo Agro de Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/05/21/produtores-rurais-recebem-primeiros-certificados-do-selo-agro-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Tecipar-Limeira-outubro-2025.gif&w=400&h=200&fit=cover&output=jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779368260,
-        "data": "21/05/2026 12:57"
-    },
-    {
-        "titulo": "Interdição na Av. Fabrício Vampré altera trânsito nesta sexta-feira em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/05/21/interdicao-na-av-fabricio-vampre-altera-transito-nesta-sexta-feira-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=noticiadelimeira.com.br/wp-content/uploads/2025/10/Campanha-Unimed-Limeira-outubro-2025.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779367961,
-        "data": "21/05/2026 12:52"
-    },
-    {
-        "titulo": "Convocados da Alemanha para a Copa do Mundo 2026; veja a lista",
-        "link": "https://noticiafm.com/convocados-da-alemanha-para-a-copa-do-mundo-2026-veja-a-lista/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/esporte-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1779367954,
-        "data": "21/05/2026 12:52"
-    },
-    {
-        "titulo": "Porto anuncia saída de Thiago Silva",
-        "link": "https://noticiafm.com/porto-anuncia-saida-de-thiago-silva/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1779367808,
-        "data": "21/05/2026 12:50"
-    },
-    {
-        "titulo": "Corinthians sofre transfer ban por dívida na compra do volante Martínez",
-        "link": "https://noticiafm.com/corinthians-sofre-transfer-ban-por-divida-na-compra-do-volante-martinez/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1779367709,
-        "data": "21/05/2026 12:48"
-    },
-    {
-        "titulo": "Celebra Americana terá arrecadação de arroz para o Fundo Social de Solidariedade",
-        "link": "https://noticiafm.com/celebra-americana-tera-arrecadacao-de-arroz-para-o-fundo-social-de-solidariedade/",
-        "imagem": "https://wsrv.nl/?url=noticiafm.com/wp-content/uploads/2026/05/Celebra-Americana-2025-3-559x419.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1779367589,
-        "data": "21/05/2026 12:46"
-    },
-    {
-        "titulo": "Americana tem apreensão de 215 kg de peixes vendidos em peixaria clandestina - vtvnews.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUW1wajRmRy01Z2VkbGZFUDVISWstMkkwd1V2LXVMSGNOaEtIMWU3d2RXaEFYWUM3OU02eUplRTZ3R09TdWU4Nlgtcm9WbVgwckZYQ3hwLVpPNHdfckpoV0hjZjlzemhFbGRTelBmY0JNRUNITDJLMk9kbVVpNDVUcWI3VU9sa0Z6Qnc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779367500,
-        "data": "21/05/2026 12:45"
-    },
-    {
-        "titulo": "Identificada mulher que morreu atropelada na Rodovia Anhanguera, em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/05/21/identificada-mulher-que-morreu-atropelada-na-rodovia-anhanguera-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779367472,
-        "data": "21/05/2026 12:44"
-    },
-    {
-        "titulo": "Americana avança na edição 2026 do Índice de Progresso Social",
-        "link": "https://novomomento.com.br/americana-avanca-26-indice-de-progresso-social/",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/Foto-aerea-da-av-Brasil-Americana-300x225.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779367194,
-        "data": "21/05/2026 12:39"
-    },
-    {
-        "titulo": "Motociclista vítima de acidente na Rodovia Anhanguera é identificado em Limeira",
-        "link": "https://rapidonoar.com.br/motociclista-vitima-de-acidente-na-rodovia-anhanguera-e-identificado-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/motociclista-vitima-de-acidente-na-rodovia-anhanguera-e-identificado-em-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779366038,
-        "data": "21/05/2026 12:20"
-    },
-    {
-        "titulo": "Santa Bárbara Rock Fest 2026 bate recorde com 337 bandas inscritas",
-        "link": "https://novomomento.com.br/santa-barbara-rockfest-recorde-bandas-inscritas/",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/CIDADE-DO-ROCK-2-300x214.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779365013,
-        "data": "21/05/2026 12:03"
-    },
-    {
-        "titulo": "Médico da Santa Casa de Piracicaba participa de estudo internacional sobre superbactéria hospitalar",
-        "link": "https://difusorapiracicaba.com.br/medico-da-santa-casa-de-piracicaba-participa-de-estudo-internacional-sobre-superbacteria-hospitalar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779364800,
-        "data": "21/05/2026 12:00"
-    },
-    {
-        "titulo": "Homem preso tentou estuprar mendigo em Sumaré",
-        "link": "https://novomomento.com.br/homem-preso-tenta-estupro-contra-mendigo-sumare/",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-11.07.15-300x195.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779364777,
-        "data": "21/05/2026 11:59"
-    },
-    {
-        "titulo": "Adolescente de 15 anos aliciada pelo tráfico de drogas em Morro Agudo (SP) é apreendida em Americana - Todo Dia",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlhpZXRJYjBtbmtwMjRNeW9ZTm95MVBmMHlELWhLZlFjbE1DSHJpd2pMZkNycTdHbHZYWTVjSm9CbTVYaGpONjhCS3VBbXZZUmJGeVBINDNVVUJQNGxwazhhS1pDNnpvbXZ6eHVROExRcXprd0ZhU2pWWHU1bmJKQUN3WGY3eW55NG9MdGhET2R4dVBHTFZqMHIwMXhrSElINVBsUU5KRjBhRGVBVFNVUXNoT2Y2b2Nqc0JlSkZfbkJhcVNwZTMxSmxn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779364551,
-        "data": "21/05/2026 11:55"
-    },
-    {
-        "titulo": "Polícia Militar apreende três armas e munições após denúncia em Pirassununga",
-        "link": "https://rapidonoar.com.br/policia-militar-apreende-tres-armas-e-municoes-apos-denuncia-em-pirassununga/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/policia-militar-apreende-tres-armas-e-municoes-apos-denuncia-em-pirassununga.jpg-1024x683.jpeg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779364305,
-        "data": "21/05/2026 11:51"
-    },
-    {
-        "titulo": "Inter vence Independente no derbinho limeirense do Sub-16",
-        "link": "https://rapidonoar.com.br/inter-vence-independente-no-derbinho-limeirense-do-sub-16/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/giovanny-2-1024x812.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779364168,
-        "data": "21/05/2026 11:49"
     }
 ]
