@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Gusttavo Lima 'voa' sobre o público e grava duas músicas novas em show em Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHF2UFQzeC1nVUlERmhuVFZiVVlXRmdCeTJaZVRqT0Vsd2FGZ0ZBQ25XQmZweTU3bW5ZYlAyZHdhVFVKZHhJS0NjV2syRWZJTDJueTBmbW1jbVpGdkIyc3ZzcGg3blg4cVFQRk9qTmJaUlJ3MF9WUVFia0JTLUltYWp0V2MwX1JvTXdtOU9uUVhiZ1dncktFbFluR05BZkQ2STVGX2hwS1QxVkkxbkxwT1dyeU5pdEFrTnRiclNIcFdreXQxWW50RXN2QmNDRGlxcHF1TlNZdEcyYzFRMGlFbkRaQ2NEd1dnQnZpNTQwaEhkNXZuNDR5VWZyTHpiSUt6SnZn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780805998,
+        "data": "07/06/2026 04:19"
+    },
+    {
+        "titulo": "Brasileiros reduzem açúcar, priorizam bem-estar e impulsionam consumo saudável, aponta estudo",
+        "link": "https://novomomento.com.br/brasileiro-reduz-acucar-consumo-saudavel-estudo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780799990,
+        "data": "07/06/2026 02:39"
+    },
+    {
+        "titulo": "Brasil supera Egito em último compromisso antes da Copa do Mundo",
+        "link": "https://sb24horas.com.br/brasil-supera-egito-em-ultimo-compromisso-antes-da-copa-do-mundo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780799766,
+        "data": "07/06/2026 02:36"
+    },
+    {
+        "titulo": "Sami Rico grava 1º clipe autoral ao vivo na Festa do Peão de Americana: Confira o sucesso da apresentação - diário do estado",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2g1aDcweU0yR2hFdUVDcGxCNEhQelNkOHlrQlk3OUNQOW9XYVpsQlBrcE5YaC1LTTdJVlpyQ2JLSW1mcVZzMUI0WTZrQVNMNTY4UVA0ejFlbFVCUHZ1bjc5M05PTzUybmRIUDN6S3JKdWNPWGpoUzR1S0lraW83SklwZHd2aUdOMnhtWmtmQTNCMGdVTjVQdGxfcllrdXFyUnV4LWdEOXpzNDBPdnlldDgtXzB5cEI1clJnLTU5VmFqdjB0N3NKeHBvSDk5bjRDUEJn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780797677,
+        "data": "07/06/2026 02:01"
+    },
+    {
+        "titulo": "Sami Rico ensina nova música e vai do arrocha ao acústico em Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTTRaU3NvRW9hRUVBNk12T19yV1FPdmJkSWo0R2txUWN5R2xsRWptVTQ5TVBsaWkyVGpoNEwtOFUxUUNQSDU1QWFQNzAyM1ZFaDdpY2tEUllObTBEaUhjQ2FxOVlIT2lTcVZfaDZKTllUb0NXcW9RZnJTeWd4WnJWTkVVMzVNX1hSbUhjT19QMG9mX0p4Njg5ZjZBaXZMTVZWN242blNkdVM0TWlRY1gyYUNLMEZ5S2dHSnpKRTZGY1VmX2FPRmlKZmRyYTJqRmxjeFV4ODE5VlBmMWlzelY2YVJFU2d6TFZHUDFEc2w5aHRxOTM5WGt5VTR3eWIxOS1QNmx3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780795255,
+        "data": "07/06/2026 01:20"
+    },
+    {
+        "titulo": "Filho de José Rico, Sami grava 1º clipe autoral e aposta em projeto sobre fases do amor - G1",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOU3JBS3hyWTMtTnNIZHNQd1JWSHI3dnRfMFhIMmoxWkxnRFVrb3d0eklGeG5VV00wVWNudFgxbFZSQmQ2dy01em04QVBCRVBfbGI1eFhsZ1JNTTl4c2ZIaDFfR1RkSUxiQnFfNEgtTDdtbDNaWjZMQmhjRU52dHJDZncxSlBxN04wVDdJZDJSUk8xcVhVY0x0RkFFUzgzNGh4V3BtSi1ZeEdnN3Robk1JNE5Zc1RVaXlKcHhSZW1zZnZrQnVrU3V1a0lnR2djWUlscjZyenFtdDhXLWFGYml3NXRHc204Ti1RdGJxWUp0SzFGQmNEYU5lU1diOEJXc0MzaVAtcENMQ1Z6eWJtd2QwakZSSFFOTi1H?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780791940,
+        "data": "07/06/2026 00:25"
+    },
+    {
+        "titulo": "Sami Rico grava 1ª música autoral em Americana e anuncia novo projeto - G1",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUENZd3BIaWJEZGFha3dTbjJvR1NrSXM5azcwRkpxNnduOGpNb0FYcGxDZXRZTWtaeTdlRHktc3RwS2NFSldhT3RYWGpYWGNhSkNPS3ZZeXJPS2lQN21IS2x3NVQxMDlvUEpoeHVmeWJzd3hscXY4SElwR1ZhdmpqajlkdVVXNTIzdnJVT2EtV29rcUNvdkNJcnpXV3RVaGRwMURjYmVTU3FTamZpMTlITlFYU1dmcHhLbTlVa0hUTllSZ2dLaDBISlc3ZmllZlJjYjRiOVo2MGTSAdgBQVVfeXFMTVBDWXdwSGliRGRhYWt3U24yb0dTa0lzOWs3MEZKcTZ3bjhqTW9BWHBsQ2V0WU1rWnk3ZUR5LXN0cEtjRUpXYU90WFhqWFhjYUpDT0t2WXlyT0tpUDdtSEtsdzVUMTA5b1BKaHh1Znlic3d4bHF2OEhJcEdWYXZqamo5ZHVVVzUyM3ZyVU9hLVdva3FDb3ZDSXJ6V1d0VWhkcDFEY2JlU1NxU2pmaTE5SE5RWFNXZnB4S205VWtIVE5ZUmdnS2gwSEpXN2ZpZWZSY2I0YjlaNjBk?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1780790704,
+        "data": "07/06/2026 00:05"
+    },
+    {
+        "titulo": "Obituário de Limeira e região: veja os falecimentos registrados neste sábado (6)",
+        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-veja-os-falecimentos-registrados-neste-sabado-6/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/05/cemiterio-obituario-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780789379,
+        "data": "06/06/2026 23:42"
+    },
+    {
+        "titulo": "Mega-Sena sorteia prêmio de R$ 30,4 milhões; confira os números",
+        "link": "https://rapidonoar.com.br/mega-sena-sorteia-premio-de-r-304-milhoes-confira-os-numeros/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/10/mega-sena-1024x613.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780788920,
+        "data": "06/06/2026 23:35"
+    },
+    {
         "titulo": "Mulher se tranca em quarto para escapar da morte e homem acaba preso com armas e R$ 14 mil em Piracicaba",
         "link": "https://rapidonoar.com.br/mulher-se-tranca-em-quarto-para-escapar-da-morte-e-homem-acaba-preso-com-armas-e-r-14-mil-em-piracicaba/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/arma-prisao-3-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -17903,86 +17984,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779454800,
         "data": "22/05/2026 13:00"
-    },
-    {
-        "titulo": "Farmacêutica é presa por aplicar remédios de emagrecimento - Correio do Povo Penedo",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX05vVUtnVlFlTEgybG5wNTFENFc3TWVYNEpacnZvUXZMV3Q3dE5ueFByVTdRaG50TW4zYWlhVmxxcWl1V0ZQNVVwV3ZiODgtZUVDbWVGUTRuQTlSRGtpZlFTcFVuSVdWUXdfVnV3d1NIWWhOa1g5dXlwRTFMLW9tWXJUZXFTd00zWE0za3M4eHZ4Wk9jZ3hBMGc4b2NyanZBX09WOWJTZGF6OE45Tmc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779454383,
-        "data": "22/05/2026 12:53"
-    },
-    {
-        "titulo": "Prefeitura promove encontros da 12ª edição do programa Mãe Americanense - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tbHR4WHFVQU51T1JYekROR0NDQW5yaDNjc0hJTjhFWmFaVmVMX1VxMzAwTUI3Rjc3Ulo1YTQzSHhKb0lZUm5WMjZ0ZWs3Q3VLeUJsUTRTbFkxM3FUbXVDc1BCdEhaSGJmNGtTTFl2ZGZ0cGM5djZaa0Vn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779454320,
-        "data": "22/05/2026 12:52"
-    },
-    {
-        "titulo": "Limeira terá plantão de vacinação na UBS Morro Azul e no Parque Cidade neste sábado",
-        "link": "https://noticiadelimeira.com.br/2026/05/22/limeira-tera-plantao-de-vacinacao-na-ubs-morro-azul-e-no-parque-cidade-neste-sabado/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779454282,
-        "data": "22/05/2026 12:51"
-    },
-    {
-        "titulo": "Vacinação contra dengue adulto passa a ser centralizada em cinco unidades de saúde de Limeira; veja quais são",
-        "link": "https://noticiadelimeira.com.br/2026/05/22/vacinacao-contra-dengue-adulto-passa-a-ser-centralizada-em-cinco-unidades-de-saude-de-limeira-veja-quais-sao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1779454121,
-        "data": "22/05/2026 12:48"
-    },
-    {
-        "titulo": "Farmacêutica é presa em Americana suspeita de aplicar substâncias emagrecedoras irregularmente",
-        "link": "https://portaldeamericana.com/farmaceutica-e-presa-em-americana-suspeita-de-aplicar-substancias-emagrecedoras-irregularmente/?utm_source=rss&utm_medium=rss&utm_campaign=farmaceutica-e-presa-em-americana-suspeita-de-aplicar-substancias-emagrecedoras-irregularmente",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/05/IMG_6551.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1779453009,
-        "data": "22/05/2026 12:30"
-    },
-    {
-        "titulo": "Homem procurado pela Justiça é capturado pela ROCAM em Araras",
-        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-capturado-pela-rocam-em-araras-2/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/06/policia-plantao-policial-PM-sirene-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779452482,
-        "data": "22/05/2026 12:21"
-    },
-    {
-        "titulo": "Festival Raízes de Santa Bárbara 2026 divulga cardápio da praça de alimentação solidária",
-        "link": "https://hjnews.com.br/festival-raizes-de-santa-barbara-2026-divulga-cardapio-da-praca-de-alimentacao-solidaria/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1779452136,
-        "data": "22/05/2026 12:15"
-    },
-    {
-        "titulo": "Fieis celebram Santa Rita de Cássia, padroeira das causas impossíveis, na Capela da Vila Santa Luzia - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdkxGdENDbERtemdnTUpNdnhpUUVtTDJ2SnZKMnlfRERrRWgtTU1DY01lVTZFX3A3anpjMTdZeEFFaC1DV3VjcjBBWWhmU0wxdXdvMUxrZzFheUMyQTNIT3AxM2NVcjNGdnc2SFZ4YXY1S1RhRjJUNDAtejlfQ3p2LVVjcGVMcl9XZEFhQ05YZC14RjlfaHVVNkVyZG9rWWxkbXhoVHJ6aGxKVXJSWWRwSUprRDV1OW9fUnl1VWRsVHliNkVmMVRfNkQyRzJhS29LMkFXOVFBM0Y2ZnIxWVIzYVl2UnNkYjVkb1RQYXZmSVp1eTdZUWN5Z05VZTZydw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779451320,
-        "data": "22/05/2026 12:02"
-    },
-    {
-        "titulo": "Guarda Municipal prende homem por furto em loja das Casas Bahia que pegou fogo - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV1dORVhIaGg4YlI1THRmQkkyd3cwV2JfWlpFRDlXcGhQZ2VPanNSSHJoOERxRHZGMk4xVmlxYVF5U09iLUdHUmhscTZ3MUh0N0E1d3EtVl9YT1c1MkFlWTNhdnFiSFRWNG4tOVk0SmQzMFVvWndpckFZN3MxWG5FeEU0bUZ5R0c3SWpETVY5QmdmaDVVZEh2RzU1ektmNUUtbGhQOC14QVJDczdvY1NmUWpnMG1QUTJTLVpjX0tLZjYzMUlnaUZiVDJ4WjZmYS1OU0pUOHhyUl9Ndlo5and3Qzd0TQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779450360,
-        "data": "22/05/2026 11:46"
     }
 ]
