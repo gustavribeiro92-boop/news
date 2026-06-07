@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Colisão entre carro e moto deixa homem ferido na Avenida Laranjeiras em Limeira",
+        "link": "https://rapidonoar.com.br/colisao-entre-carro-e-moto-deixa-homem-ferido-na-avenida-laranjeiras-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/acidente-colisao-3-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780834112,
+        "data": "07/06/2026 12:08"
+    },
+    {
+        "titulo": "MinC busca apoio do BRICS para infraestrutura cultural",
+        "link": "https://sb24horas.com.br/minc-busca-apoio-do-brics-para-infraestrutura-cultural/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1780833726,
+        "data": "07/06/2026 12:02"
+    },
+    {
+        "titulo": "Nova Odessa reforma UBS 3 para retomar atendimentos odontológicos",
+        "link": "https://novomomento.com.br/nova-odessa-reforma-ubs3-atendtos-odontologicos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780832654,
+        "data": "07/06/2026 11:44"
+    },
+    {
+        "titulo": "Córrego Bertini poluído este domingo em Americana",
+        "link": "https://novomomento.com.br/corrego-bertini-poluido-este-domingo-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1780829427,
+        "data": "07/06/2026 10:50"
+    },
+    {
+        "titulo": "Traficante é preso com revólver calibre 38 e drogas no Jardim São Luiz, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/07/traficante-e-preso-com-revolver-calibre-38-e-drogas-no-jardim-sao-luiz-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780828744,
+        "data": "07/06/2026 10:39"
+    },
+    {
+        "titulo": "GCM cessa “rolezinho” e apreende motos e carros em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/07/gcm-cessa-rolezinho-e-apreende-motos-e-carros-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1780828120,
+        "data": "07/06/2026 10:28"
+    },
+    {
         "titulo": "Saúde intestinal influencia imunidade, comportamento e qualidade de vida de cães e gatos",
         "link": "https://novomomento.com.br/saude-intestinal-imunidad-comportamt-caes-gatos/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -10,6 +64,15 @@
     },
     {
         "titulo": "Homem morre após sofrer parada cardiorrespiratória durante jogo de futebol em Limeira",
+        "link": "https://rapidonoar.com.br/homem-morre-apos-sofrer-parada-cardiorrespiratoria-durante-jogo-de-futebol-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/homem-morte-campo-palmeiras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1780825786,
+        "data": "07/06/2026 09:49"
+    },
+    {
+        "titulo": "Homem morre após passar mal durante partida de futebol em Limeira",
         "link": "https://rapidonoar.com.br/homem-morre-apos-sofrer-parada-cardiorrespiratoria-durante-jogo-de-futebol-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/homem-morte-campo-palmeiras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "portal": "rapidonoar",
@@ -17921,68 +17984,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
         "timestamp": 1779461671,
         "data": "22/05/2026 14:54"
-    },
-    {
-        "titulo": "Últimas vagas: inscrições para limpeza e coleta de recicláveis na Festa do Peão terminam dia 28",
-        "link": "https://www.americanapost.com.br/ultimas-vagas-inscricoes-para-limpeza-e-coleta-de-reciclaveis-na-festa-do-peao-terminam-dia-28/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1779461616,
-        "data": "22/05/2026 14:53"
-    },
-    {
-        "titulo": "Santos x Deportivo Cuenca: veja preços e como comprar ingressos - ge",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0dlN1phMzFZdy10dHF3c2d6NGJUYnFlcWo1cDZ2NDhSOW9uRDJBV18tSUhRWElON2Q1bEVtNC1lYzdWd1lWNmtRTWZONjh6OTIxX043c0R4QXRKSmowRXRKVEhlaHBOZkZyMUxmZTkzcXVpM0NELWxvZVR2ZWJmN0VGdGJfY3c0ZGZlSFM5UzMxeGphdlg4V0VfVEoyLWJ2dDFwRXdfb2lHTFdMNk10VDRRZ19FTFdRLXVvaDVwOFZZa2NRUEk4WGVkYkdkalpfNU1mdkdBRWswTjEyTkpHcXRicFZCQ1Y2SGs4WENOeE3SAfABQVVfeXFMT2tHZTdaYTMxWXctdHRxd3NnejRiVGJxZXFqNXA2djQ4UjlvbkQyQVdfLUlIUVhJTjdkNWxFbTQtZWM3VndZVjZrUU1mTjY4ejkyMV9ON3NEeEF0SkpqMEV0SlRIZWhwTmZGcjFMZmU5M3F1aTNDRC1sb2VUdmViZjdFRnRiX2N3NGRmZUhTOVMzMXhqYXZYOFdFX1RKMi1idnQxcEV3X29pR0xXTDZNdFQ0UWdfRUxXUS11b2g1cDhWWWtjUVBJOFhlZGJHZGpaXzVNZnZHQUVrME4xMk5KR3F0YnBWQkNWNkhrOFhDTnhN?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779461238,
-        "data": "22/05/2026 14:47"
-    },
-    {
-        "titulo": "Entregador de Limeira entra em luta com criminoso que acaba preso pela PM",
-        "link": "https://rapidonoar.com.br/entregador-de-limeira-entra-em-luta-com-criminoso-que-acaba-preso-pela-pm-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/02/plantao-pm-limeira-ocorrencia-site-viatura-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779461210,
-        "data": "22/05/2026 14:46"
-    },
-    {
-        "titulo": "MAC Americana exibe filme clássico coreano “Piagol” com entrada gratuita - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EZTV4NVNQZVdkU2R0T0FXWWlNQVpoS1lJcmZsTDBDSUR1T1BJcjVaSktZTHNPY0hCaDR1ZVd4X1pwV09Bc0k2NWpPd1VzT19YZUowYWRQM25FeEk1MWRzWU9VTGZTdVdtWnRUbk96Uk5FNVZhcEhTY05n?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "Google Notícias",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1779461100,
-        "data": "22/05/2026 14:45"
-    },
-    {
-        "titulo": "Apicultores apoiados pela Suzano alcançam a marca de 129 toneladas de mel produzidas no interior de São Paulo",
-        "link": "https://sb24horas.com.br/apicultores-apoiados-pela-suzano-alcancam-a-marca-de-129-toneladas-de-mel-produzidas-no-interior-de-sao-paulo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1779460914,
-        "data": "22/05/2026 14:41"
-    },
-    {
-        "titulo": "Receita libera consulta ao maior lote de restituição da história",
-        "link": "https://sb24horas.com.br/receita-libera-consulta-ao-maior-lote-de-restituicao-da-historia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/saude-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1779460846,
-        "data": "22/05/2026 14:40"
-    },
-    {
-        "titulo": "Filhotes de furão-pequeno se preparam pra voltar à natureza em Santa Bárbara (vídeo)",
-        "link": "https://novomomento.com.br/filhote-furao-pequeno-prepara-voltar-naturezasb/",
-        "imagem": "https://wsrv.nl/?url=novomomento.com.br/wp-content/uploads/2026/05/furao-pequeno-cetras-santa-barbara-2-300x214.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779460755,
-        "data": "22/05/2026 14:39"
     }
 ]
