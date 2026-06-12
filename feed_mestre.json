@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Governo federal dá nova destinação a 1,9 mil imóveis abandonados",
+        "link": "https://sb24horas.com.br/governo-federal-da-nova-destinacao-a-19-mil-imoveis-abandonados/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1781216940,
+        "data": "11/06/2026 22:29"
+    },
+    {
+        "titulo": "Casal que dorme juntos mais feliz? Pesquisa analisa impacto do sono na vida a dois",
+        "link": "https://novomomento.com.br/casal-dorme-junto-feliz-pesquisa-sono-vida-dois/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781216664,
+        "data": "11/06/2026 22:24"
+    },
+    {
+        "titulo": "Prefeitura e Sindicato fecham acordo e encerram campanha salarial dos servidores em Campinas",
+        "link": "https://rapidonoar.com.br/prefeitura-e-sindicato-fecham-acordo-e-encerram-campanha-salarial-dos-servidores-em-campinas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/acordo-sindicato-prefeitura-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781216570,
+        "data": "11/06/2026 22:22"
+    },
+    {
+        "titulo": "BRK realiza 15 ações de sustentabilidade em Limeira e impacta cerca de 500 pessoas",
+        "link": "https://rapidonoar.com.br/brk-realiza-15-acoes-de-sustentabilidade-em-limeira-e-impacta-cerca-de-500-pessoas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/04/OLEO-DESCARTE-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781209361,
+        "data": "11/06/2026 20:22"
+    },
+    {
         "titulo": "Pré-candidato Haddad visita cooperativa de reciclagem em Santa Bárbara d&#8217;Oeste",
         "link": "https://novomomento.com.br/pre-candidato-haddad-em-santa-barbara-doeste/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -11,6 +47,15 @@
     {
         "titulo": "Santa Bárbara recebe Ônibus SP Por Todas na sexta (12) e sábado (13)",
         "link": "https://novomomento.com.br/santa-barbara-recebe-onibus-sp-por-todas-na-sexta-12-e-sabado-13/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781208256,
+        "data": "11/06/2026 20:04"
+    },
+    {
+        "titulo": "Santa Bárbara recebe Ônibus SP Por Todas na sexta (12) e sábado (13)",
+        "link": "https://novomomento.com.br/santa-barbara-recebe-onibus-sp-por-todas/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -81,6 +126,15 @@
         "data": "11/06/2026 18:04"
     },
     {
+        "titulo": "Hortolândia implanta pintura de patinhas em faixas de pedestres",
+        "link": "https://novomomento.com.br/hortolandia-pintura-patinha-faixas-de-pedestres/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781201061,
+        "data": "11/06/2026 18:04"
+    },
+    {
         "titulo": "Ocupação de pessoas 60+ sobe 53% em 10 anos; ritmo supera o dos jovens",
         "link": "https://sb24horas.com.br/ocupacao-de-pessoas-60-sobe-53-em-10-anos-ritmo-supera-o-dos-jovens/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -88,6 +142,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1781201001,
         "data": "11/06/2026 18:03"
+    },
+    {
+        "titulo": "Americana participa do lançamento da fase vermelha da Operação São Paulo Sem Fogo - Portal Atualidade",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2pwbmw4TlVIbUdoaEo1dThaQVpvaFh1bXY1c0pUVEh1bVJXMEpFaS16bEVoemY5X3BzdVZZaU9yRTJ2b1ZfU3BrYmNsVlJrXzhiSHR2QUw0bml6UFFWaEJLb0tISkJkS0pOMldwb2djMEd3WTJBcklvejY3TkZEVGVvVWwzMEdNMnBnV1BMZGlZUV9OY3hxaDFtNjhiQmZ6OG02U2d2X1o3UEhFclJKbTV2Unp4ZFB2OVotOG0zNHdQTkxJQmtj?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781200826,
+        "data": "11/06/2026 18:00"
     },
     {
         "titulo": "Mega-Sena sorteia prêmio acumulado em R$ 8 milhões nesta quinta-feira",
@@ -180,6 +243,24 @@
         "data": "11/06/2026 17:00"
     },
     {
+        "titulo": "Judô de Americana conquista pódios e quarta colocação geral nos Jogos Abertos da Juventude - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KWnZNTDZKRXpDbkFJVGpValBZeDYtV3NJOGpqbVBsUzUzaUlJNEg0T09UaUxlV2s2cjZ1RVV2d0gwZ0xSdXRNRkkyQjdxWmY1VDJFSkE0OUhHcVpCRS1wcTI3QjZZdEJHZF8wS1ZNRFhVc3NEUmdHYUl3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781196540,
+        "data": "11/06/2026 16:49"
+    },
+    {
+        "titulo": "Oficina de Crochê de Dedo incentiva reaproveitamento de materiais durante o Mês do Meio Ambiente - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XUlU3WHpsT0sxbHVsbTFxSERrazZXLTVVR2hFamVJM1VYWkF1c2NXU0ZkQ3ZrbzYzRHFsVG1TZy0wVldPYl81SmRGaU8yMU4xM2l3aG5WanlPVm9xZzFadEF4MEFYTmpZRFlnTVNmS3JCU1B2SmU3d3hn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781195640,
+        "data": "11/06/2026 16:34"
+    },
+    {
         "titulo": "Etapa Municipal da 18ª Conferência Nacional de Saúde será no dia 20 de junho",
         "link": "https://difusorapiracicaba.com.br/etapa-municipal-da-18a-conferencia-nacional-de-saude-sera-no-dia-20-de-junho/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -198,8 +279,26 @@
         "data": "11/06/2026 16:25"
     },
     {
+        "titulo": "Americana registra superávit de US$ 79,2 milhões na balança comercial - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HMnZheVBmSXcxWFBNRTYwaUlxaGVtckNweXdia0dqU3pHbVM5SDRKUUdmWE9LbWVsTXJwTXZLcmdxWlZjMFFWcmt2eXdxT3pCMElmRG9Na1RtUm5ZYnktSDNlVl9PbFBBZHdGdndnSXVhSzlPeGctazF3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781194020,
+        "data": "11/06/2026 16:07"
+    },
+    {
         "titulo": "Segundo filtro da ETA 2 de Americana é reformada com reparos estruturais",
         "link": "https://novomomento.com.br/segundo-filtro-da-eta-2-de-americana-e-reformada-com-reparos-estruturais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781193888,
+        "data": "11/06/2026 16:04"
+    },
+    {
+        "titulo": "Segundo filtro da ETA 2 de Americana é reformada com reparos estruturais",
+        "link": "https://novomomento.com.br/segundo-filtro-da-eta-2-de-americana-reformada/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -250,6 +349,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1781191925,
         "data": "11/06/2026 15:32"
+    },
+    {
+        "titulo": "Documentário \"Ivair, O Príncipe do Futebol\" ganha sessão gratuita no MAC Americana na segunda-feira - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxQVhFT0tXd1U0SFFWZE5xa1k3eVVKY2hObXlfVGdBREUzSVJWTjZYckhNdm1LNXQ2MDhPLXR6OFg2SzBVTUF1WWw5YlU5XzV0dENLZ1Q2UGZzT0g5YjFmLUIwTHVxNE4wUFJ2UU4yQmxEM2Nsbm1hZ2xR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781191860,
+        "data": "11/06/2026 15:31"
     },
     {
         "titulo": "Piracicaba recebe caminhão-pipa de R$ 500 mil para reforçar combate a incêndios urbanos e florestais",
@@ -416,6 +524,15 @@
     {
         "titulo": "Identificação de árvores com QR Code chega ao Parque Dorothy (Hortolândia)",
         "link": "https://novomomento.com.br/identificacao-de-arvores-com-qr-code-chega-ao-parque-dorothy-hortolandia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781186680,
+        "data": "11/06/2026 14:04"
+    },
+    {
+        "titulo": "Identificação de árvores com QR Code chega ao Parque Dorothy (Hortolândia)",
+        "link": "https://novomomento.com.br/identificacao-de-arvores-qr-code-parque-dorothy/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -1393,6 +1510,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
         "timestamp": 1781110782,
         "data": "10/06/2026 16:59"
+    },
+    {
+        "titulo": "Serviços gratuitos do Ônibus SP Por Todas seguem na Praça Comendador Müller nesta quinta-feira - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGUkgxNnZTMU5JMDcxTlhaNWpHU3lsY0lLaFA4SjcwLUVfam9wRHJualE3RXZXekttUkttcHR3VE5YUVFRTkdkZ3l6UE9RbjR2ZFplMmhGZUFnV0F1dGNvb0xBcGFkbWdrc2NaeHprQk1IZ3d1UldkTGFR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781110320,
+        "data": "10/06/2026 16:52"
     },
     {
         "titulo": "Gato Miguel desaparecido no Jd Europa em Santa Bárbara",
@@ -17872,119 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1779888600,
         "data": "27/05/2026 13:30"
-    },
-    {
-        "titulo": "Loja Maçônica Campos Sales II lança jantar especial em celebração aos 80 anos com renda destinada à APAE de Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/loja-maconica-campos-sales-ii-lanca-jantar-especial-em-celebracao-aos-80-anos-com-renda-destinada-a-apae-de-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1779888460,
-        "data": "27/05/2026 13:27"
-    },
-    {
-        "titulo": "Mutirão gratuito auxilia MEIs na entrega da declaração anual",
-        "link": "https://difusorapiracicaba.com.br/mutirao-gratuito-auxilia-meis-na-entrega-da-declaracao-anual/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779886800,
-        "data": "27/05/2026 13:00"
-    },
-    {
-        "titulo": "Qual o melhor dia para pedir demissão?",
-        "link": "https://vagas019.com.br/qual-o-melhor-dia-para-pedir-demissao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4170523
-    },
-    {
-        "titulo": "Emprega FAM 2026",
-        "link": "https://vagas019.com.br/emprega-fam-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4170308
-    },
-    {
-        "titulo": "Não encontrou a vaga que deseja?",
-        "link": "https://vagas019.com.br/nao-encontrou-a-vaga-que-deseja/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.417011
-    },
-    {
-        "titulo": "Dor nos pés, sobrecarga muscular e desconforto?",
-        "link": "https://vagas019.com.br/dor-nos-pes-sobrecarga-muscular-e-desconforto/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.416989
-    },
-    {
-        "titulo": "Clube de Pontos de indicação",
-        "link": "https://vagas019.com.br/clube-de-pontos-de-indicacao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.416966
-    },
-    {
-        "titulo": "Renda extra com o Clube de Pontos",
-        "link": "https://vagas019.com.br/renda-extra-com-o-clube-de-pontos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4169447
-    },
-    {
-        "titulo": "Evento Viva Leve – Sábado em Americana",
-        "link": "https://vagas019.com.br/evento-viva-leve-sabado-em-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4169216
-    },
-    {
-        "titulo": "Podcast Papo de Viatura",
-        "link": "https://vagas019.com.br/podcast-papo-de-viatura/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.416894
-    },
-    {
-        "titulo": "Classificados019 confira:",
-        "link": "https://vagas019.com.br/classificados019/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4168696
-    },
-    {
-        "titulo": "Malucos do Tigre 2026",
-        "link": "https://vagas019.com.br/malucos-do-tigre-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886631.4168406
-    },
-    {
-        "titulo": "Cofre reforçado: veja quanto o São Paulo arrecadou com classificação na Copa Sul-Americana - ge",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSEtLcFFNWFVkZEJFNWhIZi1kbFZRaUVWQlpfU2JWZEN6QjVqZHc0RUY4b2pxZFZ6X0RBbUJBa0tNLUZVS1ZhdDNIQXRWb2JMbUx4Vm9lY3FSVEh0VHhoZ2FCVS1ZQXUwaEZzWF9WNllvdkRaei1iMXl6bXdvaXY1YkY5QlpRZG5tZnBGdE5QdTZMMjQtbXZidW84a3NtZFNqNzBlY0pWQ1hNNUp6MVJKclNfRzFjWjJfcnBVR0Npa2t6eHFFaEw4TllvSU1EM045Yy1BMDdacVRUR3gxMno1NnpwdGpUWTZlbTRwS2NBOHHSAf8BQVVfeXFMUHVwblZGVW9JVC1mVTNKWkp5blplaGZVQ1Q4aHJIaDlGTmIyVnVwak1LajNVVmkzMTduMTk4MFNiOHBmUXFwbmRLV1RBaVRpQ3RFNUcta0lieDVuejN4VXQtT01XMUtOQ2FPbU8xdy15emRYS2Q3Z0hsbDdjZUlxcVIzOEtxMnduQTdkakpiUTZzVW84OXpFRmRoN0VJYXUwWVhodE9QUkRSejJBWnVmNzJZWkxsUFVBTE1kV1lvWnBpa2VkYkhHT0piWlhOa1JDLVdHa1RwaU4xSmZBTlM4ZzhGb2Y1NFNiNTFFemNxSGdYdmlJc3lySkZiQ1VuMXkw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886630.03125
-    },
-    {
-        "titulo": "PL tentou barrar divulgação de pesquisa que mostrou queda de Flávio Bolsonaro",
-        "link": "https://portaldeamericana.com/pl-tentou-barrar-divulgacao-de-pesquisa-que-mostrou-queda-de-flavio-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=pl-tentou-barrar-divulgacao-de-pesquisa-que-mostrou-queda-de-flavio-bolsonaro",
-        "imagem": "https://portaldeamericana.com/wp-content/uploads/2026/05/Flavio-Bolsonaro.webp",
-        "portal": "portal de americana",
-        "data": "27/05/2026 12:57",
-        "timestamp": 1779886627.57193
     }
 ]
