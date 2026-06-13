@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Raízen abre mais de 250 vagas para programa de aprendiz",
+        "link": "https://novomomento.com.br/raizen-abre-250-vagas-para-programa-de-aprendiz/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781356403,
+        "data": "13/06/2026 13:13"
+    },
+    {
+        "titulo": "Coluna Pimba com as curtas do esporte",
+        "link": "https://rapidonoar.com.br/coluna-pimba-com-as-curtas-do-esporte-151/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/matheus-costa-7-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781355468,
+        "data": "13/06/2026 12:57"
+    },
+    {
+        "titulo": "Flávio Bolsonaro critica governo Lula em vídeo exibido na Festa do Peão de Americana",
+        "link": "https://portaldeamericana.com/flavio-bolsonaro-critica-governo-lula-em-video-exibido-na-festa-do-peao-de-americana/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-bolsonaro-critica-governo-lula-em-video-exibido-na-festa-do-peao-de-americana",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8124.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1781355336,
+        "data": "13/06/2026 12:55"
+    },
+    {
+        "titulo": "Morre, aos 88 anos, o influenciador digital vovô anésio",
+        "link": "https://rapidonoar.com.br/morre-aos-88-anos-o-influenciador-digital-vovo-anesio/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/morre-o-vovo-anesio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781355096,
+        "data": "13/06/2026 12:51"
+    },
+    {
+        "titulo": "Noite inesquecível na Festa do Peão de Americana! - Sertanejo Hits Brasil",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzFBbDJ2ZWtUWFNHWGlUSndSdWY2b1RvblFxQ3RkRFNlQlVXRDdGcWl6UVhQQUlhdExzUU5ROFhMS2J0czVOR2I1bWlteU9xSjd4Y0F5UHFTeDdRME9vMmNHcHNaQjQ4VGVXcE13QmxXLW5lS1dkdG9MR29YeU9QTW43U1dzZURKNmdKQWdkSnJZUERz?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781353977,
+        "data": "13/06/2026 12:32"
+    },
+    {
+        "titulo": "Criminosos armados e encapuzados invadem casa em Limeira e roubam quase R$ 120 mil",
+        "link": "https://rapidonoar.com.br/criminosos-armados-e-encapuzados-invadem-casa-em-limeira-e-roubam-quase-r-120-mil/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/03/plantao-policial-limeira-1024x683.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781353474,
+        "data": "13/06/2026 12:24"
+    },
+    {
         "titulo": "Festas de 15 anos voltam a ganhar força na Região Metropolitana",
         "link": "https://novomomento.com.br/festas-de-15-anos-voltam-a-ganhar-forca-na-regiao-metropolitana/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -952,6 +1006,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1781274600,
         "data": "12/06/2026 14:30"
+    },
+    {
+        "titulo": "Cetesb diz que recuperação de córrego pela Goodyear está no prazo - Portal iG",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHI2Q2lMekJhVnFLNGhEWWdyWWRUaDJETmRsMkN0QjcydERTTWN3QWVVa05jM1ljVlZYaVhEOEZiaGVITGFYX19GZ2RKZlRMcFZUZmZ3YXgza01GVWVKRmdKSjBFY2lVVnRnQW9OcnBENUhPZ0JyZGF1aGp0RzJpaEFyWkk3UzExNnBsUmJWOXN1aUhQOEdkNy1XbkpkVkpPQmJkRTJucjFMRTRtTnl1SUtmTkJfV1RI0gG4AUFVX3lxTFBEcjZDaUx6QmFWcUs0aERZZ3JZZFRoMkROZGwyQ3RCNzJ0RFNNY3dBZVVrTmMzWWNWVlhpWEQ4RmJoZUhMYVhfX0ZnZEpmVExwVlRmZndheDNrTUZVZUpGZ0pKMEVjaVVWdGdBb05ycEQ1SE9nQnJkYXVoanRHMmloQXJaSTdTMTE2cGxSYlY5c3VpSFA4R2Q3LVduSmRWSk9CYmRFMm5yMUxFNG1OeXVJS2ZOQl9XVEg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781274300,
+        "data": "12/06/2026 14:25"
     },
     {
         "titulo": "Casal condenado por estupro é capturado pela Polícia Militar em Araras",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1779987954,
         "data": "28/05/2026 17:05"
-    },
-    {
-        "titulo": "Coden Ambiental vai desbaratizar 2.400 poços de visita em Nova Odessa",
-        "link": "https://novomomento.com.br/coden-vai-desbaratizar-2400-pocos-visit-nodessa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779987912,
-        "data": "28/05/2026 17:05"
-    },
-    {
-        "titulo": "Vigilância Sanitária realiza inspeções em varejões municipais e feiras livres",
-        "link": "https://difusorapiracicaba.com.br/vigilancia-sanitaria-realiza-inspecoes-em-varejoes-municipais-e-feiras-livres/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779987600,
-        "data": "28/05/2026 17:00"
-    },
-    {
-        "titulo": "Superávit primário do Governo Central fica em R$ 25,2 bilhões em abril",
-        "link": "https://sb24horas.com.br/superavit-primario-do-governo-central-fica-em-r-252-bilhoes-em-abril/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1779987536,
-        "data": "28/05/2026 16:58"
-    },
-    {
-        "titulo": "Prefeitura de Limeira altera trecho da Rua Artur Voigt para sentido único",
-        "link": "https://rapidonoar.com.br/prefeitura-de-limeira-altera-trecho-da-rua-artur-voigt-para-sentido-unico/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/rua-artur-voigt-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779986739,
-        "data": "28/05/2026 16:45"
-    },
-    {
-        "titulo": "Pedestre é atropelada por motociclista após sair de supermercado em Limeira",
-        "link": "https://rapidonoar.com.br/pedestre-e-atropelada-por-motociclista-apos-sair-de-supermercado-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/atropelamento-limeira-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779986368,
-        "data": "28/05/2026 16:39"
-    },
-    {
-        "titulo": "UBS Centro concentra vacinação em horário estendido a partir de segunda-feira, 01/06",
-        "link": "https://difusorapiracicaba.com.br/ubs-centro-concentra-vacinacao-em-horario-estendido-a-partir-de-segunda-feira-01-06/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779985800,
-        "data": "28/05/2026 16:30"
-    },
-    {
-        "titulo": "Resultados e a próxima rodada do Campeonato Amador de Limeira",
-        "link": "https://rapidonoar.com.br/resultados-e-a-proxima-rodada-do-campeonato-amador-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/inicio-1024x655.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779985579,
-        "data": "28/05/2026 16:26"
     }
 ]
