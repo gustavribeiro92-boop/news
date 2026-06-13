@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Salto fatal: jovem de 21 anos morre na Ponte do Esqueleto; testemunha conta detalhes",
+        "link": "https://noticiadelimeira.com.br/2026/06/13/salto-fatal-jovem-de-21-anos-morre-na-ponte-do-esqueleto-testemunha-conta-detalhes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1781366468,
+        "data": "13/06/2026 16:01"
+    },
+    {
+        "titulo": "Caso Ponte do Esqueleto: seis pessoas são detidas após morte de jovem em salto de Bungee Jump, em Limeira",
+        "link": "https://rapidonoar.com.br/caso-ponte-do-esqueleto-seis-pessoas-sao-detidas-apos-morte-de-jovem-em-salto-de-bungee-jump-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/2base-2026-06-13t145727.143-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781363615,
+        "data": "13/06/2026 15:13"
+    },
+    {
+        "titulo": "Moça de 24 anos morre ao fazer salto em Limeira",
+        "link": "https://novomomento.com.br/moca-de-24-anos-morre-ao-fazer-salto-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781361153,
+        "data": "13/06/2026 14:32"
+    },
+    {
+        "titulo": "Produção de automóveis acumula 7,1% de aumento em relação a 2025",
+        "link": "https://sb24horas.com.br/producao-de-automoveis-acumula-71-de-aumento-em-relacao-a-2025/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1781360646,
+        "data": "13/06/2026 14:24"
+    },
+    {
+        "titulo": "PSol aciona Ministério Público contra Flávio Bolsonaro por discurso em rodeio - correiodamanha.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOGVzcTVIa3pQYkdwUDdwWVNRM3hpUThuSm9kZ2p6VzVYWmlTVFZKSHdNc1NKb0pObWR1X2s1TjBGYWhRcGp5dHFSd0N3WFJXSWM2TFBGUll4Rmt3aGhKNFJlOUFDXzFJb0l6VDRKSVFEUGpRWi1tczVoZkFkMG1jSjA0aXNlWEpaN3ZoNG5BWWVCU3ZVakhqemE5ZlpHV0p4TmpQODdWNzludDNVMF9zT1FKNnR4Y216dkNKOVVYdGM2Y2RUNHc0cEU5YVpLV0ExdzlrQ09sbTVOTkVMTWFiMkc1dXUteVN6cGtsR1NFdXg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781360280,
+        "data": "13/06/2026 14:18"
+    },
+    {
+        "titulo": "Nova Odessa capacita profissionais para aplicar implante contraceptivo",
+        "link": "https://novomomento.com.br/nova-odessa-capacita-profiss-aplica-contraceptv/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781360134,
+        "data": "13/06/2026 14:15"
+    },
+    {
         "titulo": "Raízen abre mais de 250 vagas para programa de aprendiz",
         "link": "https://novomomento.com.br/raizen-abre-250-vagas-para-programa-de-aprendiz/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -34,6 +88,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1781355096,
         "data": "13/06/2026 12:51"
+    },
+    {
+        "titulo": "Núcleo de Especialidades de Americana completa dois anos e registra mais de 200 mil atendimentos - Portal ON",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDVCclcwektIdGxkakdpcVVYSUJKZ0xUTF9qOE9wRlNoOV9rXzM5ajhlb0E5bHRxTERJRzVaSk1fbXQ5Y3c1U3RpNFQyYzQ2VEhQODlJdlVFeHV0bmdvR2lfQVRPRXkwcjB1THdyMWRta1dsd0t5U3dHRHVWMk1BYXdlaUhpN0RPaXFwd3RRN2tnY3J2c0R6VGNtbHJ5VHBoOWlMRWhEeGpuZW8tR0huUk45Y1hhT0JNU1lUMlZHRWpGenctTUxhRmx1WQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781354497,
+        "data": "13/06/2026 12:41"
     },
     {
         "titulo": "Noite inesquecível na Festa do Peão de Americana! - Sertanejo Hits Brasil",
@@ -587,6 +650,15 @@
     {
         "titulo": "Greve de ônibus: Limeira decreta emergência e estuda contratação emergencial - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaUxuUGF6V3NReUtKbUJNckpHOHRmaDVKMjlkVHIwX1NGVW1SM2UtSFhWbjBPdkZjeEZFbnNtamlIMk9FVWwwdmxDU0IwZE5sdVRFdDRUeUJfRlZhMlg5LTl5bGxRY2VlOGplNFpvYVR5SDNqelAzS2FrZW5qY3RGTWs3c25HU2ZscXhsWlFEMXZDM25KbXA5SGxTdl9na3V3cHVhUXlTMzJQNktVSVhiY0dwR0tSMERRbGhPalRiLVg5d05ZcGpOWTJOVWJGNFhUUU9GTk5PaVd2cGxyTlRB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781289720,
+        "data": "12/06/2026 18:42"
+    },
+    {
+        "titulo": "Greve de ônibus: Limeira decreta emergência e estuda contratação emergencial - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWlg2OGlseWVqcFFGOUlRdEVpNTl6bFB1RS1TZjlxblNXZzk3U2Y0anVTQldFMVQyc0s4OWFzbTR6ajE2ajNlUjUtRzNtVXVZYXM0WWt0QzkzTVNHcUFxcTFOOTRSQUFDSUpZOHBnLUxhUFJMdWdaN1pBZGZMTF9abUZPX3lhYVZLQUN1T0J3aTF4c2dHeEJMM3EtY3pGekE2UjNrVm1vdHd0Y3YtQnNsWk1BYWpDUklEQmxfc3ZqYk5hNEVvM0ZwRWpZaVI2ZUdoQjY0WjlVS0RzRmlMU0k5RA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
         "timestamp": 1779990748,
         "data": "28/05/2026 17:52"
-    },
-    {
-        "titulo": "Justiça determina reintegração de posse da antiga garagem da Prefeitura em Limeira",
-        "link": "https://rapidonoar.com.br/justica-determina-reintegracao-de-posse-da-antiga-garagem-da-prefeitura-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/antiga-garagem-da-prefeitura-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779990726,
-        "data": "28/05/2026 17:52"
-    },
-    {
-        "titulo": "DAE inicia colocação de elementos filtrantes e avança na reforma do primeiro filtro da ETA",
-        "link": "https://www.americanapost.com.br/dae-inicia-colocacao-de-elementos-filtrantes-e-avanca-na-reforma-do-primeiro-filtro-da-eta/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1779990543,
-        "data": "28/05/2026 17:49"
-    },
-    {
-        "titulo": "BRK reforça a importância do respeito às regras de trânsito durante o “Maio Amarelo”",
-        "link": "https://rapidonoar.com.br/brk-reforca-a-importancia-do-respeito-as-regras-de-transito-durante-o-maio-amarelo/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/brk-transito-obra-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779990461,
-        "data": "28/05/2026 17:47"
-    },
-    {
-        "titulo": "Câmara SB debate exploração sexual de crianças e adolescentes",
-        "link": "https://novomomento.com.br/camara-sb-debate-exploracao-sexual-crianca-adol/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779990237,
-        "data": "28/05/2026 17:43"
-    },
-    {
-        "titulo": "Centenas de pessoas participam do Esporte e Bem-Estar XI em Sumaré",
-        "link": "https://novomomento.com.br/centenas-participam-esporte-bem-estar-xi-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779990169,
-        "data": "28/05/2026 17:42"
-    },
-    {
-        "titulo": "Arrastão contra a Dengue vai a 11 bairros neste sábado, 30/05",
-        "link": "https://difusorapiracicaba.com.br/arrastao-contra-a-dengue-vai-a-11-bairros-neste-sabado-30-05/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1779989400,
-        "data": "28/05/2026 17:30"
-    },
-    {
-        "titulo": "PCJ vê situação hídrica da região em alerta (Super El Niño)",
-        "link": "https://novomomento.com.br/pcj-ve-situacao-hidrica-da-regiao-em-alerta/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1779988457,
-        "data": "28/05/2026 17:14"
-    },
-    {
-        "titulo": "Estado entrega 125 cobertores para o Fundo Social de Iracemápolis",
-        "link": "https://rapidonoar.com.br/estado-entrega-125-cobertores-para-o-fundo-social-de-iracemapolis/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/05/doacao-de-cobertores-para-o-fundo-social-de-iracemapolis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1779987954,
-        "data": "28/05/2026 17:05"
     }
 ]
