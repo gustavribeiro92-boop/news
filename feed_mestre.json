@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Chico acompanha obra da ETA e elogia DAE Americana",
+        "link": "https://novomomento.com.br/chico-acompanha-obra-da-eta-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781957492,
+        "data": "20/06/2026 12:11"
+    },
+    {
+        "titulo": "Praia dos Namorados recebe jogos tradicionais em madeira neste domingo",
+        "link": "https://novomomento.com.br/praia-dos-namorados-jogos-madeira-neste-domingo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781957134,
+        "data": "20/06/2026 12:05"
+    },
+    {
+        "titulo": "Independente quer vitória para confirmar o 2º lugar no geral",
+        "link": "https://rapidonoar.com.br/independente-quer-vitoria-para-confirmar-o-2o-lugar-no-geral/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/kayo-1024x666.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781952823,
+        "data": "20/06/2026 10:53"
+    },
+    {
+        "titulo": "Equador quer golear Curaçao para se reabilitar na Copa do Mundo",
+        "link": "https://rapidonoar.com.br/equador-quer-golear-curacao-para-se-reabilitar-na-copa-do-mundo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/equador-x-curacao-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781952018,
+        "data": "20/06/2026 10:40"
+    },
+    {
+        "titulo": "Alemanha tem teste difícil contra a Costa do Marfim",
+        "link": "https://rapidonoar.com.br/alemanha-tem-teste-dificil-contra-a-costa-do-marfim/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/alemanha-x-costa-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781951687,
+        "data": "20/06/2026 10:34"
+    },
+    {
+        "titulo": "Holanda faz confronto direto contra a Suécia pela liderança",
+        "link": "https://rapidonoar.com.br/holanda-faz-confronto-direto-contra-a-suecia-pela-lideranca/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/holanda-x-duecia-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781951300,
+        "data": "20/06/2026 10:28"
+    },
+    {
         "titulo": "Inter de Limeira avança no Paulista Cup Sub-16 e Sub-18",
         "link": "https://rapidonoar.com.br/inter-de-limeira-avanca-no-paulista-cup-sub-16-e-sub-18/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/cruz-1-1024x973.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -20,6 +74,15 @@
     {
         "titulo": "Americana recebe 1ª etapa do Circuito de Carrinho de Rolimã neste domingo",
         "link": "https://novomomento.com.br/americana-recebe-1a-etapa-do-circuito-de-carrinho-de-rolima-neste-domingo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781949910,
+        "data": "20/06/2026 10:05"
+    },
+    {
+        "titulo": "Americana recebe 1ª etapa do Circuito de Carrinho de Rolimã neste domingo",
+        "link": "https://novomomento.com.br/americana-1etapa-circuito-carrinho-rolima-domng/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -79,6 +142,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1781942754,
         "data": "20/06/2026 08:05"
+    },
+    {
+        "titulo": "CEU das Artes será palco do espetáculo &#8220;Os Saltimbancos&#8221; em Santa Bárbara",
+        "link": "https://novomomento.com.br/ceu-das-artes-os-saltimbancos-domingo-sbarbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781942754,
+        "data": "20/06/2026 08:05"
+    },
+    {
+        "titulo": "Brasil vence Haiti e assume a liderança do grupo",
+        "link": "https://rapidonoar.com.br/brasil-vence-haiti-e-assume-a-lideranca-do-grupo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/matheus-cunha-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1781935592,
+        "data": "20/06/2026 06:06"
     },
     {
         "titulo": "Três pessoas ficam feridas após colisão entre motocicletas no Centro de Limeira",
@@ -207,6 +288,15 @@
         "data": "19/06/2026 21:45"
     },
     {
+        "titulo": "Contêineres de resíduos sólidos passam por higienização em Santa Bárbara",
+        "link": "https://novomomento.com.br/conteineres-passam-por-higienizacao-st-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781905538,
+        "data": "19/06/2026 21:45"
+    },
+    {
         "titulo": "Praça Toledo Barros fica lotada para transmissão de Brasil x Haiti e reúne milhares de torcedores em Limeira",
         "link": "https://rapidonoar.com.br/praca-toledo-barros-fica-lotada-para-transmissao-de-brasil-x-haiti-e-reune-milhares-de-torcedores-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/copa-na-praca-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -272,6 +362,15 @@
     {
         "titulo": "Arraiá do Traquitana agita o Museu da Imigração de Santa Bárbara nest sábado",
         "link": "https://novomomento.com.br/arraia-do-traquitana-agita-o-museu-da-imigracao-de-santa-barbara-nest-sabado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1781898303,
+        "data": "19/06/2026 19:45"
+    },
+    {
+        "titulo": "Arraiá do Traquitana agita o Museu da Imigração de Santa Bárbara hoje",
+        "link": "https://novomomento.com.br/arraia-do-traquitana-agita-sbarbara-nest-sabado/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -576,6 +675,15 @@
         "data": "19/06/2026 16:30"
     },
     {
+        "titulo": "Festival de Artes Visuais de Americana promove oficinas culturais na região da Praia Azul - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xYUJPeDZ5bE85TWJnMk9Vc2tmd2d4RktNaUxXbDVNYVNuT2JLTEFMY2piV2ZwOFZaNzBTWENzaHY5SVYxVGVZaXhMNWNVSm1aNVVCWHQtTWQ1d2pBdjJFYWJJNHR1eEY3ZjY1WFlQZkU1UXJUTlh6dlNB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781886540,
+        "data": "19/06/2026 16:29"
+    },
+    {
         "titulo": "PicPay vira alvo em investigação de fraude na folha do servidor",
         "link": "https://novomomento.com.br/picpay-alvo-investigacao-fraude-folha-servidor/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -781,6 +889,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1781878514,
         "data": "19/06/2026 14:15"
+    },
+    {
+        "titulo": "DAE recebe mais equipamentos da nova Estação de Tratamento de Água de Americana - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RNUZ1cDlRV2E4T2FzSjFwWTdEUFJCRzM5X2VKcDh1bG5hTERDbFJfLUZETEU3dzZhaDg4UzZ3SFhvR0hHRjFvc2ZEYm5GbFUteG5oTmFYX1pUcVNTd3dhVDJqTncxZ3huc0FYUFRKYnQySmxUWFNkR05n?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781878440,
+        "data": "19/06/2026 14:14"
     },
     {
         "titulo": "Guarda Municipal apreende 160 pipetas de cocaína no Roberto Romano - Região Hoje",
@@ -17881,122 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1780546122,
         "data": "04/06/2026 04:08"
-    },
-    {
-        "titulo": "São Paulo descobre quando conhecerá rival da Sul-Americana - ABCD Jornal",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkZjR2lBc0g1WnlLTGlfaEotd2lCRkhKRUgyT3BtaUhZN2tkLUpSNUxfamRGQm9zeDIwZzF4YlBOSEZUSkRxMTlaLXdUaWFvTkN5YzFrR2JTLXV3WlhzZmZOMHBXOWtWRU5XZFFrQzlLZUVmWnBEYWVJMjA5Qk53aEdSRy03VmVNLVBncVVaQjB1Z2Z2M3lHNnFVODA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780545685,
-        "data": "04/06/2026 04:01"
-    },
-    {
-        "titulo": "DER-SP faz leilão de mais de 800 lotes de veículos e motocicletas",
-        "link": "https://novomomento.com.br/der-sp-leilao-800-lotes-veiculos-e-motocicletas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780544782,
-        "data": "04/06/2026 03:46"
-    },
-    {
-        "titulo": "Festa do Peão de Americana 2026 agita com grandes shows - Correio do Povo Penedo",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU9UaWp6VlUtVUdxTVhBTFB1V2JlVUtHUVRudzBhQzA5TE5fQnJ1TENTcnRRQ3ZiSWtDTTV2enFGdFhHT25xMFNVdDZtVW1nY2xLRVM2RlZzUE43NFdiSlZETmRvYURUcWN5aGhraHhaMHZrOWJZbTVrNE9ONWNsLUdHbkhvVWdLZDBTSXpqWlVaVnY4ZURkSXZlZmJaWmw0OXMyTGFUZDA1WVA5eUNz?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780544222,
-        "data": "04/06/2026 03:37"
-    },
-    {
-        "titulo": "Zezé di Camargo brinca com ‘canta, Mirosmar’ e faz público de segunda voz em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWmthM1JndWZIVU5KSENCUHA3OGIyUUdLeGJSckllSzBadmJ2a3RCRHNCZzBMcmFndmt6NGtIWmJCYmRuOFJieG9SOXFXWHRxdk5xMkRtU2ZVc2trRXYzY0tOWnZzM2VnREFBdG4waGVWczlTenhzQmFUVmVreGxOeTlMck0wVzZ3UDZZOGhZNE05RGFsRl8tb3M4S3FLOU1vTm5saUtjblJYQmsyc0Njb0g5WGxsZ3VlYkpTeVRsVmctTXZPRFZkMDRjakxtbWx4TjQ4aXRvM3hzNEQ0WjlQMXU3d28tTXRhdWlCeW9USFhfN3BtV3VMcFpXNXFFRkc0Qkt0NDlB?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780543425,
-        "data": "04/06/2026 03:23"
-    },
-    {
-        "titulo": "Conheça o túnel que liga palco a camarotes e permite que artistas curtam a festa em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPLVlHRlF3X0hqbmFmcGNIc25VMUNHbFZqOU9BSC1xM25kdi1teGlOYXVGdnpMUlowYUl0SFQ5MHJaWVZ5c2RjNW1yZGI4LVdGZy00STFiTzdqQng0MEFqbk10T3dxT3ZQc0pLdHlJdUxQa1daYUJFTU9POVkzRl8xb0d4bUNLWk5KNHNSenhHOHVxRXhjOU53NFMzUFJ5ZjRIV0luMVhjUDNsSF84NU9Ral90NV82ek9NU0RXZXd1dzlaM2VidFZOV3ZwYTdsRGxEeTBiWWhDYnNMc2VkWVpRT0xwbm13bmlBRnc4QlpaaGJyQlFkajJnLXNZRmJsZjJla2lpWm53b1ZkUnVkZ19ZaXg0MA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780542367,
-        "data": "04/06/2026 03:06"
-    },
-    {
-        "titulo": "Conheça o túnel que passa por baixo da arena em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPLVlHRlF3X0hqbmFmcGNIc25VMUNHbFZqOU9BSC1xM25kdi1teGlOYXVGdnpMUlowYUl0SFQ5MHJaWVZ5c2RjNW1yZGI4LVdGZy00STFiTzdqQng0MEFqbk10T3dxT3ZQc0pLdHlJdUxQa1daYUJFTU9POVkzRl8xb0d4bUNLWk5KNHNSenhHOHVxRXhjOU53NFMzUFJ5ZjRIV0luMVhjUDNsSF84NU9Ral90NV82ek9NU0RXZXd1dzlaM2VidFZOV3ZwYTdsRGxEeTBiWWhDYnNMc2VkWVpRT0xwbm13bmlBRnc4QlpaaGJyQlFkajJnLXNZRmJsZjJla2lpWm53b1ZkUnVkZ19ZaXg0MA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780542367,
-        "data": "04/06/2026 03:06"
-    },
-    {
-        "titulo": "Conheça o túnel que passa por baixo da arena em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNd0FHakxsdXlOOWpXbVhWV2J0NmhmSjQxRGExTjdWQ05KOExjcWVVcnlWQlFlQVhDajExX0d1dWVBSmlhNkg3MEEtRHo4dVFCaUdiTFZvSjlxTE40RDNIUHQ0WVBuNUpickZ1TEx4ZEZmcVFsMFNoUDE2SUZlU05XM0k1Z2FwUDJ3TEpFWUxWSW1KU1c4ZkVOblZvTncyTzJIZjdaWUl5VUdiX093RDllLXNhSXFZanQ1WHE5akFZMlhLZ0Y3VG9sOGZ0Y2NDSVczQTBiZHFVWXUzaWdoN0hCLTV6Um9vMXJqNW14OURGaWNyang0OEVLclVSR1BEMmxIQlRuZlB2SjI3ak84MFJFRjV5cHNTbEx2TVJ4Mmg2b2RsQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780542367,
-        "data": "04/06/2026 03:06"
-    },
-    {
-        "titulo": "Chitãozinho e Xororó servem café para fãs em cima do palco durante show no rodeio de Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVG5sNnJ3UG5QX1lRUjkydGlMWFIzakVjcEpKZGdnT0M0N2drOEhSRElRNVZrTzlnRTVpWm8zQXlEYzJIaGFCOGc2RHB5YnRLZW5QOHE1WkhLTXVxaVVRcWlrZE15NnhCU3pIZ1gwYWhyTm5iTE9ZTjRwWnhXRE15MnVvT3plU1pROUpvRUhUNXdial9GTnBWSXVHVE5GWno4YktQTTUyVUJCNGJMY2lMd0RCV3lWQjBPamk2N2NncHFpV21qYUktNzdvQzFuc21RcnVjTlZYZ2xJY21kdmc3dS1kektReDBTbnJyblp6UTF1cFZjWnhTYVhVQ2J6SkhNa2pvRGI3VnZBYWYtTVlF?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780533924,
-        "data": "04/06/2026 00:45"
-    },
-    {
-        "titulo": "Chitãozinho e Xororó convidam fãs para café durante show nostálgico - G1",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1tX1ZVbXp3Nk1CXzBfXzVvdzE0bEwzMEg0WmRJRFNJd1hFV2NXcEpzVjBTTE1XR2VnaEZ4Z3d0aHJ2TlNwd2RLdGtRTmVEVmxYckVlM2F2WlppYWNGV3ZTaUUyU2cwVmVkeWNGMFdrQXpVMF8yRm52Z1hOTzlTeFZmeVAwSUdKSllMeDFZbEwwX0JrU2YtZkE0Z1hwck8zeC1xN2EzV3ZzMXpWTVBzODFPbWw1ekZnZlVlYmJOcUc4LVQ5VDFHd1REb0xhelNaUWctMUV6NTB4X0JVaW82WDJiV0RLOHU1a3ltSXlYYUhSNmpkeW9KYUZfOFExUlVzSXJyZWNIc1FjRWVQWXhWcnJaa1BjaEZIYS1IYmxR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780533924,
-        "data": "04/06/2026 00:45"
-    },
-    {
-        "titulo": "Chitãozinho e Xororó convidam fãs para café durante show nostálgico - G1",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVG5sNnJ3UG5QX1lRUjkydGlMWFIzakVjcEpKZGdnT0M0N2drOEhSRElRNVZrTzlnRTVpWm8zQXlEYzJIaGFCOGc2RHB5YnRLZW5QOHE1WkhLTXVxaVVRcWlrZE15NnhCU3pIZ1gwYWhyTm5iTE9ZTjRwWnhXRE15MnVvT3plU1pROUpvRUhUNXdial9GTnBWSXVHVE5GWno4YktQTTUyVUJCNGJMY2lMd0RCV3lWQjBPamk2N2NncHFpV21qYUktNzdvQzFuc21RcnVjTlZYZ2xJY21kdmc3dS1kektReDBTbnJyblp6UTF1cFZjWnhTYVhVQ2J6SkhNa2pvRGI3VnZBYWYtTVlF?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780533924,
-        "data": "04/06/2026 00:45"
-    },
-    {
-        "titulo": "Anvisa aprova novo medicamento para o Parkinson avançado no país",
-        "link": "https://novomomento.com.br/anvisa-aprova-medicam-parkinson-avancado-n-pais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780530613,
-        "data": "03/06/2026 23:50"
-    },
-    {
-        "titulo": "Exportações para Estados Unidos caem 14% em maio",
-        "link": "https://sb24horas.com.br/exportacoes-para-estados-unidos-caem-14-em-maio/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780530245,
-        "data": "03/06/2026 23:44"
-    },
-    {
-        "titulo": "Chitãozinho & Xororó abrem a 38ª Festa do Peão de Americana",
-        "link": "https://hjnews.com.br/chitaozinho-xororo-abrem-a-38a-festa-do-peao-de-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1780529273,
-        "data": "03/06/2026 23:27"
     }
 ]
