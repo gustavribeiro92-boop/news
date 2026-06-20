@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Três pessoas ficam feridas após colisão entre motocicletas no Centro de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/20/tres-pessoas-ficam-feridas-apos-colisao-entre-motocicletas-no-centro-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1781930508,
+        "data": "20/06/2026 04:41"
+    },
+    {
         "titulo": "Jovem fica ferida após acidente entre carro e motocicleta no Centro de Limeira",
         "link": "https://noticiadelimeira.com.br/2026/06/20/jovem-fica-ferida-apos-acidente-entre-carro-e-motocicleta-no-centro-de-limeira/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -34,6 +43,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1781919428,
         "data": "20/06/2026 01:37"
+    },
+    {
+        "titulo": "Com dois de Matheus Cunha, Brasil vence o Haiti e desencanta na Copa do Mundo - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVS1nMGdrMmlOWW1ucVBHQmNVUnpCbjhTT29wSVMwbDlrdzU0azBoTU5BS1NwQnJoa0ZQREFCLVlZSlFXekNrR2FROGl0cUZfOEJXN2JyWDlZNWdwNE0zLWpJOWpDc0Z5em1Da2t5akpTdDh2MWFiWXVRek1nQVMwdzVVWjdmekRYOFcyVDBTT01iUDlhdmhDTTFBOVNQeEZhZDNJVDZ6SzFMb19KREMzYUdsTTBDX3BLU2JSbk1zb2tMWEtuWUh0M2hzRVNSS1h2bDkyUlZJcUJQcWZuLVZTQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781914140,
+        "data": "20/06/2026 00:09"
     },
     {
         "titulo": "Jogador do Canadá passa por cirurgia após sofrer fratura exposta e está fora da Copa do Mundo",
@@ -17980,23 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1780516444,
         "data": "03/06/2026 19:54"
-    },
-    {
-        "titulo": "38ª Festa do Peão de Americana começa nesta quarta com três shows - G1",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV1EwcFZoZE9BTGFMZHJWVW1vZWZzSnp1NzJFY3JvQWFmZG1CRklyb09NYTI4djZKbEZvckFsai1sbm9BcTNuOUl0aEdPYlo1LUNObUh3NXlpVWRSdzFwSWJ5eS1SQkNfYVV6WDdxOUlEeElFSHBEcGxDSHpkQmxmV281UXQ0Y1BlZ3VuVWh1Mm5LaG1oT296NmRPTWktQjhLRTFzNHpqTWE4MXBuZzFMdUdLUmNBTXE0elNTblRma0lVZ1pWQmpwZHR3VzZiejM0MTNmT1hzOGRnaTkwWnRRbzR6UzFMZlF1Q1FTSGJaR3U3OThnV1NpbDg4T2hnbWlxcWN5aFRyc2ZjTGM?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780516444,
-        "data": "03/06/2026 19:54"
-    },
-    {
-        "titulo": "Telhado de confecção desaba durante expediente em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaUhkOVFLcWp1Mm1QNEk1V3VEVFBoZVh2MU1nU1Zudy11dFNtU3BkZC1zRGpSOEt5cmhpZjNIYk1hem96bnFKQ2Z4SjV5dDFGVG1GQ2ZQNDY4ZmJZTzM3SW1hdlctWVNQVFJNY2FqTUZXUkNIY1RCYk9VbnVBNm5iWHI4X3hQaUY5V1RhZWR6VmxqdUFyMjh3ZVV1ZC1ablU5anBqTk9nckZxeGV5Nm9uQTY3TWxiNE8ydDN2QW1fcWFIejZwVmx3TmUyYU92SE5jai1LNndRSzJtYTR1N0NaVGJXZDVhSk5OdEV5WGg2eUIxRHF6SC0takZudTFyM1d5TUlDZXZBZk4zanQ3QUJWa2VR0gGSAkFVX3lxTE1pSGQ5UUtxanUybVA0STVXdURUUGhlWHYxTWdTVm53LXV0U21TcGRkLXNEalI4S3lyaGlmM0hiTWF6b3pucUpDZnhKNXl0MUZUbUZDZlA0NjhmYllPMzdJbWF2Vy1ZU1BUUk1jYWpNRldSQ0hjVEJiT1VudUE2bmJYcjhfeFBpRjlXVGFlZHpWbGp1QXIyOHdlVXVkLVpuVTlqcGpOT2dyRnF4ZXk2b25BNjdNbGI0TzJ0M3ZBbV9xYUh6NnBWbHdOZTJhT3ZITmNqLUs2d1FLMm1hNHU3Q1pUYldkNWFKTk50RXlYaDZ5QjFEcXpILS1qRm51MXIzV3lNSUNldkFmTjNqdDdBQlZrZVE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780516412,
-        "data": "03/06/2026 19:53"
     }
 ]
