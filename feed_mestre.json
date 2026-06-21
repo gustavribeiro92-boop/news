@@ -1,5 +1,158 @@
 [
     {
+        "titulo": "Nova regra do PIS vai barrar o saque de trabalhadores? Entenda",
+        "link": "https://novomomento.com.br/nova-regra-pis-barra-saque-milhares-trabalhador/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782045215,
+        "data": "21/06/2026 12:33"
+    },
+    {
+        "titulo": "Acidente com três veículos na Anhanguera deixa dois mortos e um ferido grave em Americana",
+        "link": "https://portaldeamericana.com/acidente-com-tres-veiculos-na-anhanguera-deixa-dois-mortos-e-um-ferido-grave-em-americana/?utm_source=rss&utm_medium=rss&utm_campaign=acidente-com-tres-veiculos-na-anhanguera-deixa-dois-mortos-e-um-ferido-grave-em-americana",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8864.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1782045036,
+        "data": "21/06/2026 12:30"
+    },
+    {
+        "titulo": "Vozinha e Cabo Verde voltam aos gramados contra o Uruguai",
+        "link": "https://sb24horas.com.br/vozinha-e-cabo-verde-voltam-aos-gramados-contra-o-uruguai/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782044757,
+        "data": "21/06/2026 12:25"
+    },
+    {
+        "titulo": "Hortolândia se prepara para reduzir impactos do &#8220;El Niño&#8221; anunciado",
+        "link": "https://novomomento.com.br/hortolandia-prepara-para-impacto-el-nino-anunci/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782041706,
+        "data": "21/06/2026 11:35"
+    },
+    {
+        "titulo": "Inter de Limeira tenta manter boa performance como visitante na Série C",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-tenta-manter-boa-performance-como-visitante-na-serie-c/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/leo-paraiso-3-1024x732.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782039535,
+        "data": "21/06/2026 10:58"
+    },
+    {
+        "titulo": "Independente aplica a maior goleada de sua história: 17 x 0",
+        "link": "https://rapidonoar.com.br/independente-aplica-a-maior-goleada-de-sua-historia-17-x-0/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/jean-galo-1024x896.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782039321,
+        "data": "21/06/2026 10:55"
+    },
+    {
+        "titulo": "Nova Zelândia quer parar o Egito, de Mohamed Salah",
+        "link": "https://rapidonoar.com.br/nova-zelandia-quer-parar-o-egito-de-mohamed-salah/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/nova-zelandia-x-egito-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782039242,
+        "data": "21/06/2026 10:54"
+    },
+    {
+        "titulo": "Uruguai não quer imitar os espanhóis contra Cabo Verde",
+        "link": "https://rapidonoar.com.br/uruguai-nao-quer-imitar-os-espanhois-contra-cabo-verde/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/uruguai-x-cabo-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782038922,
+        "data": "21/06/2026 10:48"
+    },
+    {
+        "titulo": "Bélgica quer se impor sobre o Irã em Los Angeles",
+        "link": "https://rapidonoar.com.br/belgica-quer-se-impor-sobre-o-ira-em-los-angeles/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/belgica-x-ira-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782038708,
+        "data": "21/06/2026 10:45"
+    },
+    {
+        "titulo": "Espanha espera não tropeçar também na Arábia Saudita",
+        "link": "https://rapidonoar.com.br/espanha-espera-nao-tropecar-tambem-na-arabia-saudita/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/espanha-x-arabaia-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782038290,
+        "data": "21/06/2026 10:38"
+    },
+    {
+        "titulo": "Santa Bárbara tem curso grátis de gastronomia este mês",
+        "link": "https://novomomento.com.br/santa-barbara-curso-gratis-gastronomia-este-mes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782038255,
+        "data": "21/06/2026 10:37"
+    },
+    {
+        "titulo": "Copa do Mundo inspira vídeos sobre clima e sustentabilidade nas redes",
+        "link": "https://novomomento.com.br/copa-do-mundo-video-clima-sustentabilidade-rede/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782037366,
+        "data": "21/06/2026 10:22"
+    },
+    {
+        "titulo": "Limeirão já pronto para receber a celebração de Jubileu de Ouro da Diocese de Limeira - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWmViMWxqNkRoUDRBbmlEdnhMTjI1ZTBrVjVMT29tQlFFMTluN3JFVUdvcW8taUxFQy0xYjZyN2tKblA2RjlRWXRSaHp6NXpibzM4ZDdKbXdDcmRCRDhwSmdMektyTXBPNTltVnM0bE9rN2dCajlrR21HTFprUElGUTY5WXdzV01zTHF1UmNLb2ZSdWtwSXVNRlhQVU5IbWxJQjEzc182cXBHLUhmcFFmT1JWZzlmY2hCNENPY1c5VlpyX0VtQWgtVGN4SVVhY1dmdHlFYjA2Wk9RdDBKTkhJTmZPUld2UmpvYVZLaA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782036840,
+        "data": "21/06/2026 10:14"
+    },
+    {
+        "titulo": "Acidente deixa dois mortos e uma pessoa em estado grave na Anhanguera, em Americana - liberal.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM0FReWs1bTFsOFctdUVmNWtmdlN2N2UwdWhTMFgzdTE0ZzlFQl9FajRVTGtXREg5TUhRZTlCTUEwZDVHcmhzdGdWa09SY2RYUDhHcnFNbnk5aDBQb2Z6c2VOYVhPZlZMVE1lOFdIVklseGx6RUYxUjNJOFNQY3FtUWo0VXVhdE5HdnhCSWxFajl4OUZseHVBSkRtNlJWMUItLWhTczJpamNBZHZXR2NkVTBCajZMcy1vU3o5U2RtUEM?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782034980,
+        "data": "21/06/2026 09:43"
+    },
+    {
+        "titulo": "Força Tática captura procurado pela Justiça durante patrulhamento em Araras",
+        "link": "https://rapidonoar.com.br/forca-tatica-captura-procurado-pela-justica-durante-patrulhamento-em-araras/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782034675,
+        "data": "21/06/2026 09:37"
+    },
+    {
+        "titulo": "Acias realiza encontro presencial do grupo de networking ION em Sumaré",
+        "link": "https://novomomento.com.br/acias-encontro-presencial-grp-network-ion-sumar/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782034549,
+        "data": "21/06/2026 09:35"
+    },
+    {
+        "titulo": "Holanda supera marcas que pertenciam ao Brasil de Pelé",
+        "link": "https://rapidonoar.com.br/holanda-supera-marcas-que-pertenciam-ao-brasil-de-pele/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/holanda-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782030326,
+        "data": "21/06/2026 08:25"
+    },
+    {
         "titulo": "Eleições 2026: TRE-SP inicia convocação de mesários por e-mail",
         "link": "https://novomomento.com.br/eleicoes26-tre-sp-convocacao-mesarios-por-email/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -25,6 +178,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782027333,
         "data": "21/06/2026 07:35"
+    },
+    {
+        "titulo": "Japão goleia Tunísia no milésimo jogo da Copa do Mundo",
+        "link": "https://rapidonoar.com.br/japao-goleia-tunisia-no-milesimo-jogo-da-copa-do-mundo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/japao-4-1024x578.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782021920,
+        "data": "21/06/2026 06:05"
+    },
+    {
+        "titulo": "Alemanha vira sobre a Costa do Marfim e garante vaga na próxima fase",
+        "link": "https://sb24horas.com.br/alemanha-vira-sobre-a-costa-do-marfim-e-garante-vaga-na-proxima-fase/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782019873,
+        "data": "21/06/2026 05:31"
     },
     {
         "titulo": "Estágio no TRE-SP: 175 vagas de nível médio (5 na região)",
@@ -954,6 +1125,15 @@
         "data": "19/06/2026 17:45"
     },
     {
+        "titulo": "Campanha de combate à violência contra a pessoa idosa promove atividades de conscientização - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hM3lNMHdzT2ctV2prcDk1M2lsMmJOZnk4UWlQZl81OWl4WmtoUTExQkdfNDl6NmZnYUwwU2hNUjZDMUtSeHdmWXE0RTQ0Z3pRSDZFTHVfenhqa0owc1J1MjNvSDhiTWhwWWVvNlBKNkpqODJoak1yeW9B?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781890800,
+        "data": "19/06/2026 17:40"
+    },
+    {
         "titulo": "Desktop vive transição para a Claro e clientes veem problemas",
         "link": "https://novomomento.com.br/desktop-transtorno-transicao-pra-claro-n-regiao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1006,6 +1186,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1781889202,
         "data": "19/06/2026 17:13"
+    },
+    {
+        "titulo": "Unacon celebra 4 anos de atendimento oncológico com mais de 2 mil pacientes atendidos - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81a0RFbm14cDhqSzBXR0I0RUdRMmtYZUVaa0YtVTRMc3BhSzlMMG04bTNmMExINFI0MVpPYTZaMGQ4R283UWkwUmlrak44Qm1ta0hIX0ZzZkVPSUFTakNHakFRTzBpS3Q2OWJ5TThLYlkyOUtqbTdGbVp3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1781889120,
+        "data": "19/06/2026 17:12"
     },
     {
         "titulo": "Franco Sardelli ressalta parceria entre Americana e Tarcísio no aniversário do governador",
@@ -17809,194 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1780640348,
         "data": "05/06/2026 06:19"
-    },
-    {
-        "titulo": "Ypê reduz em 31% suas emissões diretas de CO₂",
-        "link": "https://novomomento.com.br/ype-reduz-em-31-suas-emissoes-diretas-de-co%e2%82%82/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780637287,
-        "data": "05/06/2026 05:28"
-    },
-    {
-        "titulo": "Botafogo x Racing: escalações e onde assistir ao jogo da Copa Sul-Americana - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUZVUE5hY3RNejVBWWlIcFdoU0hTNkVxOGl1MV9iME12WTRleHBmV0VxTWkwUlplQWxNdWxLelh2cldsTHN1enR3RHh5LUVqNXFlb2s0X2I5bVhXenpqUnBHNXBBX1NOVnJrVWdQaUowUWJIX1VTZkJOVXY4SkZDS3hDc0xqOUhHUjFZS01HbklETmNNcS03bGp6OVVjNGptQ2owYWFublRaR3ZnamE5TTRuU3kzSHJHdnVHbmJLREZmdmZxeUp2bXdTRWVha2lsTVNnMlNBTUZYRlpYZHN6ZV84cm92ZDR4SW9ySQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780636030,
-        "data": "05/06/2026 05:07"
-    },
-    {
-        "titulo": "Neymar não viaja com seleção para Cleveland; segue em tratamento",
-        "link": "https://sb24horas.com.br/neymar-nao-viaja-com-selecao-para-cleveland-segue-em-tratamento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780625350,
-        "data": "05/06/2026 02:09"
-    },
-    {
-        "titulo": "Escalação do São Paulo: veja provável time para estreia na Sul-Americana - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0R4QXk3VDhISTVmVUtCRWtJak96WmdYWTZ3cGc0S0x1VXNRdEhJN1BfMF96alRnOENDNW1adlJ1cjJaeHJ3RjZNUVd1T1BybUFHWm5uZjVTWi1FSXMtZE5qd3pmdjUzUjk4elpUb0JmeWd3UUdDLXA0RzhrRjlvR19udUVtWlFabTdvdEYwNnR5dnMyRHExcm1STWZKZ0JsR2M5emVQb3JVSUc3UWVZSzlNeFp5ZzU5Nm54MXMzQllHbnoybl80?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780620387,
-        "data": "05/06/2026 00:46"
-    },
-    {
-        "titulo": "38ª Festa do Peão de Americana abre edição histórica dos 40 anos com novo palco, grandes estreias e estrutura grandiosa - Portal Dia Dia News",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYlFXTElQTXlDNU1FUk1tVE9idXJvenFJNlRvaE9NR0hRYWlERFJnYzUxU3lISU5GOURiR3dNYlFaNWlCbzQxQkpzVlQ3aWN4WUNSRVVHM0lUdWZVakY0VWFRZnBNQlZPUWpxbnl0YWhoVEZwd2ZzN3NhaUFNUTNIRmJVVXVwbVJReHFUX3lkeEV6Rll6c1hfZ3ZialZsWDJYal9lU0FPTXluVlRnaDZhOTVDNGYtd09fR0NVbmk5NnV1dlVXZjk1Qmd4QXYyai1wQUFHMldpQmliV2h2Y0VOUmlyMDBXTml6aE1lZlRSMnpvbmJKWm5aOUJqam9PcWFRNFpLRi13?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780617473,
-        "data": "04/06/2026 23:57"
-    },
-    {
-        "titulo": "Homem procurado por crime brutal no Nova Suíça, em Limeira, é preso por equipe da Força Tática",
-        "link": "https://rapidonoar.com.br/homem-procurado-por-crime-brutal-no-nova-suica-em-limeira-e-preso-por-equipe-da-forca-tatica-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/preso-assassino-de-david-henrique--1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780616946,
-        "data": "04/06/2026 23:49"
-    },
-    {
-        "titulo": "Vivo abre mais de 350 vagas para o Programa Jovem Aprendiz",
-        "link": "https://novomomento.com.br/vivo-350-vagas-para-o-programa-jovem-aprendiz/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780611128,
-        "data": "04/06/2026 22:12"
-    },
-    {
-        "titulo": "Superávit comercial cresce 10,8% em maio puxado por soja e cobre",
-        "link": "https://sb24horas.com.br/superavit-comercial-cresce-108-em-maio-puxado-por-soja-e-cobre/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780610107,
-        "data": "04/06/2026 21:55"
-    },
-    {
-        "titulo": "Obituário de Limeira e região: veja os falecimentos registrados nesta quinta-feira (4)",
-        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-veja-os-falecimentos-registrados-nesta-quinta-feira-4/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/05/luto-obituario-falecimentos-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780608120,
-        "data": "04/06/2026 21:22"
-    },
-    {
-        "titulo": "Curso gratuito de hidroponia está com inscrições abertas em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/04/curso-gratuito-de-hidroponia-esta-com-inscricoes-abertas-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1780607415,
-        "data": "04/06/2026 21:10"
-    },
-    {
-        "titulo": "Curso gratuito de eletricista está com inscrições abertas em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/04/curso-gratuito-de-eletricista-esta-com-inscricoes-abertas-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1780607125,
-        "data": "04/06/2026 21:05"
-    },
-    {
-        "titulo": "Vôlei movimenta Sumaré com grandes jogos no masculino e feminino",
-        "link": "https://novomomento.com.br/volei-movimenta-sumare-com-grandes-jogos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780606967,
-        "data": "04/06/2026 21:02"
-    },
-    {
-        "titulo": "Rodrigo Ponce, do Senai Americana, desaparecido na região",
-        "link": "https://novomomento.com.br/rodrigo-ponce-senai-americana-desaparece-regiao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780606811,
-        "data": "04/06/2026 21:00"
-    },
-    {
-        "titulo": "Morre em Limeira, aos 62 anos, o GCM aposentado Benedito Bonfim",
-        "link": "https://rapidonoar.com.br/morre-em-limeira-aos-62-anos-o-gcm-aposentado-benedito-bonfim-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/gcm-benedito-bonfin-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780605900,
-        "data": "04/06/2026 20:45"
-    },
-    {
-        "titulo": "Americana receberá Ônibus SP Por Todas com serviços gratuitos às mulheres na Praça Comendador Müller - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYWdCNnp5WHZ4ZXZXXy1Neng3b0xBLUtzaXc0MWl4V1BKbHdRWWJ2SWR4Y2RPLXhrOEJjUmw4dkMxZVVSNWFMbkMzMC02R0cwc05Fb3VvYkpmZ0c1cndRUGd1V0xtc0l4TTdUSWxHejNQLVc1aV9DNFV3MTFOdzI3Y0JVRWFVS3h2aFZxZVNGU1R5akllTTBHQ0VjMzFpekpaakdNMllSM3puOG1EMU9xZlhOYXd4Z2pkZVB2enhpQVBtRDNrNHdlS1V0bVBKb3RwdDdFWk9MLUV5ZHdoQjNVYnF3Tnd4dFRGbHAzR3NvY3NlVEg2U0NPdG5RYlYwNEN5?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780602480,
-        "data": "04/06/2026 19:48"
-    },
-    {
-        "titulo": "Após êxito na estreia, Brasil volta a jogar à noite na Liga das Nações",
-        "link": "https://sb24horas.com.br/apos-exito-na-estreia-brasil-volta-a-jogar-a-noite-na-liga-das-nacoes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780600432,
-        "data": "04/06/2026 19:13"
-    },
-    {
-        "titulo": "Mãe sente a hora da chegada, liga pros bombeiros e tem parto normal em Americana",
-        "link": "https://novomomento.com.br/mae-sente-hora-chegada-liga-bombeiros-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780599971,
-        "data": "04/06/2026 19:06"
-    },
-    {
-        "titulo": "Idoso que estava perdido em Limeira já foi localizado pela família e está em segurança em casa",
-        "link": "https://rapidonoar.com.br/idoso-que-estava-perdido-em-limeira-ja-foi-localizado-pela-familia-e-esta-em-seguranca-em-casa/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/fanilia-de-idoso-encontrado-com-ajuda-do-rapido-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780595861,
-        "data": "04/06/2026 17:57"
-    },
-    {
-        "titulo": "Homem aparentando sinais de embriaguez é detido após jogar carro contra mulher em Limeira",
-        "link": "https://rapidonoar.com.br/homem-aparentando-sinais-de-embriaguez-e-detido-apos-jogar-carro-contra-mulher-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/flagrante-de-maria-da-penha-rua-iluminada-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780594808,
-        "data": "04/06/2026 17:40"
-    },
-    {
-        "titulo": "Homem aparentando sinais de embriaguez é detido após jogar carro contra mulher em Limeira",
-        "link": "https://rapidonoar.com.br/homem-aparentando-sinais-de-embriaguez-e-detido-apos-jogar-carro-contra-mulher-em-limeira-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/flagrante-de-maria-da-penha-rua-iluminada-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780594808,
-        "data": "04/06/2026 17:40"
-    },
-    {
-        "titulo": "MTur: microempreendedoras vítimas de violência terão crédito especial",
-        "link": "https://sb24horas.com.br/mtur-microempreendedoras-vitimas-de-violencia-terao-credito-especial/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780594093,
-        "data": "04/06/2026 17:28"
     }
 ]
