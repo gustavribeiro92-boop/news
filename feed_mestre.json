@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Americana (SP): Engavetamento na Anhanguera deixa dois mortos e dois feridos - Diário do Estado",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGtSTWkyNmR0YWM3V1BjRUlFelA1dEZycEJCNG5McE5DOGZaekt4QUNleDU1c2JfRlpNNXl0VVI3MUJVYm50TWl3WXg1dHR1ZVZtQ0tkUVBnUlFYbU1fTkpHVjRpTENtM09qMExXZFJFV1U4bFFkM2lyM0JyTHZJM0hLYlkzLUJfanFBZ3luNVdhMFVqSVNLTFQ2NTc4OXh1dnh4LW8xak5DZw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782050361,
+        "data": "21/06/2026 13:59"
+    },
+    {
+        "titulo": "Marcos Caetano pede redutor de velocidade na Avenida Paschoal Ardito",
+        "link": "https://novomomento.com.br/marcos-caetano-redutor-velocidade-avpasc-ardito/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782048944,
+        "data": "21/06/2026 13:35"
+    },
+    {
+        "titulo": "Engavetamento com incêndio deixa dois mortos e dois feridos em rodovia no interior de SP - G1",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1E0d0Z0Y3pCYW1xN25Ybl9BSUl3OGtJNFRtcU5uY1JyWlFwb1V2dkxDMy1mSGVwd3hCME1SUWlFQWF6ZjhWNHUtUUhOa2pCQ0NJMlg0VkVKWFpVUW5kYmt6eU5BZkJLdlBEbmxacU42eEVnNUFOQUFjdEdUU05JVHNRdFRRNGpiREJFWE0tZXpvTm1JbjZPc2theEFkaWlUQmZCX2swR1RTVVk1cXdIajMzeERyQUk3M1IyWm1mUmZjLVJiY0V4U1hqdXd1d0FGSTgxaVdlVVExOHdPejBxZ1BPUG4wTDZU0gH3AUFVX3lxTE1JN3ZJZU1hUnVuMk9HVXFoNmpiYnpJUW0xb2gzRDdFSENRdTFNVkc0emp6NUpQdXRuWXZUSWo5alJpTWtiTmZCS3lSV1p4dVl6NUUxOTV1MzN3Mm4tb28yNVl6Y1N1c1VMX3pELUhpZTdxbUp1cWxob3A4WWR6ajBFYnpqT3lTSkN1Z1M4bzJJZVVzX2R1U0k5RVlYWDFqMTh1cWdLRjlqRzgyMk1BbXhMNVVQLUcwckdCQndBQ0dFTWI5MTY4N3prd0hVZUE2M2Z3dkFxbG9sTThTSFVXaWhHR2xpT1JDdUxmenQ1MzhLR05fRG5oMWc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782048252,
+        "data": "21/06/2026 13:24"
+    },
+    {
+        "titulo": "Colisão entre carro e motocicleta deixa mulher gravemente ferida em Pirassununga",
+        "link": "https://rapidonoar.com.br/colisao-entre-carro-e-motocicleta-deixa-mulher-gravemente-ferida-em-pirassununga/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/08/sirene-policia.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782046929,
+        "data": "21/06/2026 13:02"
+    },
+    {
+        "titulo": "Números que envolvem Ferroviária x Inter de Limeira",
+        "link": "https://rapidonoar.com.br/numeros-que-envolvem-ferroviaria-x-inter-de-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/ferroviaria-1-1024x662.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782045856,
+        "data": "21/06/2026 12:44"
+    },
+    {
         "titulo": "Nova regra do PIS vai barrar o saque de trabalhadores? Entenda",
         "link": "https://novomomento.com.br/nova-regra-pis-barra-saque-milhares-trabalhador/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -25,6 +70,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1782044757,
         "data": "21/06/2026 12:25"
+    },
+    {
+        "titulo": "Acidente na Via Anhanguera deixa 2 mortos e 1 ferido grave, em Americana (SP) - Estradas",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR09kTWdLSlc1VVpVWWowdzdscmxTU0lFM3hUajZLQl8wcDNRaGh6eVVfUU9VbjdGc2wzUXJNUWNNNW1jYm9hOTJaR25yX2JnUVRORS0wMDlZMGdsVWRybEZRTnlZRDV2ajM1U2J6LWQ3UEFMRzcwSUUwYnhwVldqaHR3LWlmMm9sRm1sYXF6cDZVSlI3bmNCWW04WUxkVGc3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782043240,
+        "data": "21/06/2026 12:00"
     },
     {
         "titulo": "Hortolândia se prepara para reduzir impactos do &#8220;El Niño&#8221; anunciado",
@@ -17944,59 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
         "timestamp": 1780649227,
         "data": "05/06/2026 08:47"
-    },
-    {
-        "titulo": "X-Bolo viral das redes sociais chega ao Shopping ParkCity Sumaré em ação especial",
-        "link": "https://novomomento.com.br/x-bolo-das-redes-sociais-no-parkcity-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780648554,
-        "data": "05/06/2026 08:35"
-    },
-    {
-        "titulo": "Americana articula chegada de campus da Unesp à cidade - Portal Veloz",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR19VYWoybktsTzdSN25KM1VUODl2bC1oaVBVNHVmTDdDSlJCTVR6dmJ4ZEc1TTdmM0JQclZVdTBZaFZiSjFOV3RMVWk4RVRpZGQ2dDVzTXJQSDBwUXBKZ05jZWFobGM1cmpYV3lpdkFQaFl4UUpzU2hGMlZVV21hRG9WaHZ6cWhXWEE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780647695,
-        "data": "05/06/2026 08:21"
-    },
-    {
-        "titulo": "Franco e Chico exaltam André do Prado por ajuda a Americana",
-        "link": "https://novomomento.com.br/franco-chico-exalta-andre-prado-ajuda-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780644171,
-        "data": "05/06/2026 07:22"
-    },
-    {
-        "titulo": "Festa do Peão de Americana abre edição histórica- 38ª",
-        "link": "https://novomomento.com.br/festa-do-peao-americana-abre-edicao-historia-38/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780640657,
-        "data": "05/06/2026 06:24"
-    },
-    {
-        "titulo": "Festa do Peão de Americana abre edição histórica- 38ª - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0NWOTFFTDE0S09zYXdFNXQtQ3hTdThPcGNMN0JxblJjUXJiX2FiQmFfbHo1Wk1YMkRKYjdDcTYxTXh2RENnZEloWGtDTm1yUFVnSEdvcGxxMHdrb0ozUUN5WlJHZ1dyUjl3cnk2TEo2cTdpb2FIS2ZYLUxNY3NlMg?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780640657,
-        "data": "05/06/2026 06:24"
-    },
-    {
-        "titulo": "Pinheiros vence Franca e segue vivo na disputa do titulo do NBB (1-2)",
-        "link": "https://novomomento.com.br/pinheiros-vence-franca-vivo-disputa-titulo-nbb/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780640348,
-        "data": "05/06/2026 06:19"
     }
 ]
