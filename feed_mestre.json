@@ -1,5 +1,131 @@
 [
     {
+        "titulo": "Prefeitura finaliza pavimentação asfáltica da Rua Vênus",
+        "link": "https://hjnews.com.br/prefeitura-finaliza-pavimentacao-asfaltica-da-rua-venus/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1782292187,
+        "data": "24/06/2026 09:09"
+    },
+    {
+        "titulo": "Suíça e Canadá decidem a liderança do Grupo B em Vancouver",
+        "link": "https://rapidonoar.com.br/suica-e-canada-decidem-a-lideranca-do-grupo-b-em-vancouver/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/suica-x-canada-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782291898,
+        "data": "24/06/2026 09:04"
+    },
+    {
+        "titulo": "Leãozinho volta de São João da Boa Vista com duas goleadas",
+        "link": "https://rapidonoar.com.br/leaozinho-volta-de-sao-joao-da-boa-vista-com-duas-goleadas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/craque-1-1024x903.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782291562,
+        "data": "24/06/2026 08:59"
+    },
+    {
+        "titulo": "Independente vence o Rio Claro pelo Campeonato Paulista Sub-20",
+        "link": "https://rapidonoar.com.br/independente-vence-o-rio-claro-pelo-campeonato-paulista-sub-20/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/galinho-20-921x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782291154,
+        "data": "24/06/2026 08:52"
+    },
+    {
+        "titulo": "Ex-prefeito Edson Moura preso no litoral",
+        "link": "https://novomomento.com.br/ex-prefeito-edson-mouta-preso-no-litoral/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782290901,
+        "data": "24/06/2026 08:48"
+    },
+    {
+        "titulo": "Limeira Basket conquista bons resultados na base",
+        "link": "https://rapidonoar.com.br/limeira-basket-conquista-bons-resultados-na-base/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/vibracao-basket-854x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782290885,
+        "data": "24/06/2026 08:48"
+    },
+    {
+        "titulo": "Independente enfrentará time que tem boa média de público",
+        "link": "https://rapidonoar.com.br/independente-enfrentara-time-que-tem-boa-media-de-publico/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/breno-galo-661x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782290544,
+        "data": "24/06/2026 08:42"
+    },
+    {
+        "titulo": "Hortolândia &#8216;empurra&#8217; Brasil contra Escócia na 3ª Fan Fest HOJE",
+        "link": "https://novomomento.com.br/hortolandia-empurra-brasil-escocia-fan-fest/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782289323,
+        "data": "24/06/2026 08:22"
+    },
+    {
+        "titulo": "Cristiano Ronaldo bate recordes por Portugal, e Gana segura Inglaterra",
+        "link": "https://hjnews.com.br/cristiano-ronaldo-bate-recordes-por-portugal-e-gana-segura-inglaterra/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1782288411,
+        "data": "24/06/2026 08:06"
+    },
+    {
+        "titulo": "CazeTV recebe críticas por relação com Bets",
+        "link": "https://novomomento.com.br/cazetv-recebe-criticas-por-relacao-com-bets/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782287855,
+        "data": "24/06/2026 07:57"
+    },
+    {
+        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 6",
+        "link": "https://sb24horas.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-6-3/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782286749,
+        "data": "24/06/2026 07:39"
+    },
+    {
+        "titulo": "Obesidade pet: por que animais não devem comer comida humana?",
+        "link": "https://novomomento.com.br/obesidade-pet-animais-nao-deve-comer-humana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782284292,
+        "data": "24/06/2026 06:58"
+    },
+    {
+        "titulo": "Personal trainer- A IA vai substituir? Tecnologia e a profissão",
+        "link": "https://novomomento.com.br/personal-trainer-ia-substitui-tecnologia-profis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782282835,
+        "data": "24/06/2026 06:33"
+    },
+    {
+        "titulo": "Vereadores aprovam Dia do Musical da Paixão e Empresa Amiga do Atirador em Americana",
+        "link": "https://novomomento.com.br/vereador-dia-musical-paixao-empresa-amiga-atira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782280516,
+        "data": "24/06/2026 05:55"
+    },
+    {
         "titulo": "Novo projeto aprova 85 mil bikes elétricas no Brasil",
         "link": "https://novomomento.com.br/novo-projeto-aprova-85mil-bike-eletrica-brasil/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -457,6 +583,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1782234981,
         "data": "23/06/2026 17:16"
+    },
+    {
+        "titulo": "Lívia Sassaki é destaque no campeonato de natação em Limeira - Imparcial.com.br",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0xTQUY3andIbnFlZXRPMEFUcnBVX0dQU3ExcEJTQ2lzdjljUGwxZGowVjRwVUNaQXpTNG9rTHNzZDZkanFZS181UGZ5ZUNWYXI4X0t0WVh6UUV0S1Vkamd3ZmJaZHJPOXRHdW1OY0RPVzlaZE56U1dEc0pPRkZOUlhDWVJSaFRETG15TFMtcVd2dG80eThOak1SZlQ2TnU4aHlVdWY2OA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782234862,
+        "data": "23/06/2026 17:14"
     },
     {
         "titulo": "Pacote de recuperação asfáltica avança no Parque das Nações",
@@ -17863,140 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1780922919,
         "data": "08/06/2026 12:48"
-    },
-    {
-        "titulo": "Inter vence três dos quatro derbinhos do Paulista no Limeirão",
-        "link": "https://rapidonoar.com.br/inter-vence-tres-dos-quatro-derbinhos-do-paulista-no-limeirao/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/derbinho-7-1024x1017.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780922338,
-        "data": "08/06/2026 12:38"
-    },
-    {
-        "titulo": "Alisson de Souza domina primeiro fim de semana de Americana e vence etapa da PBR — A Professional Bull Riders - PBR Brasil",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVVR2Um9Jc1pxYUI3YkNaZmltZllhXzF3N1M2MWI2V0t2d3NsUTdfQWxKN0JEV3lsX2ZyOWpkSmhaMVdIa1hWREhNTy1ER0JybUJpRF9sUWF2Qy1WYlZQNkItNXpEaFh2ZXdZUW5DdG5XMGNETUF6enZHZ1pTOW1WNi03QzJiaGx6UTNXcldDNUdjOXJxcVhFZl9xVzIzbUtFQXNMV1ozT1QxU0h3QkVZN0Y1SVg2bUlETjE0TGdNZTBYZ0kzZ2xMUHZpUTIyUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780921058,
-        "data": "08/06/2026 12:17"
-    },
-    {
-        "titulo": "Domingo em Americana: finais emocionantes na arena e grandes espetáculos musicais! - Sertanejo Hits Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSm1PcUJGTmY1eW1faE96WmZaeVEwNUo3WmdpYkFYVGdFN0ZISDhxam5TRS0taUx2MHB3ZTRSMHF5WTlwaVV1NGtkeU5maE9FNlVCSEJCeHEwQXVhWGFlMFpmbkpBWU1qYUVCZUpXNnIyemkyb0lmUk40aFBoRDFncUtXRzdzN25JekdSV2tVNjh4dlNId2M0WW9sTnM3LUU2S2tXNXB0Y1hlQlNOSFZwRVdkLUNUUVNwZU9YTkUtOA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780920663,
-        "data": "08/06/2026 12:11"
-    },
-    {
-        "titulo": "Corrida e Caminhada Suzano Faz Bem em Americana deve reunir 2 mil participantes no dia 5 de julho - Portal Veloz",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLUdhVFRNMGxVY3E4TUhScEF0aHc3ZGxLMzNRV1pSaXBPbFdjY1l5N2V1VGdwNGFtTm96RzJvX25Dd2xKNFVQWnhqLTYtdHFJLUIzQzVacjh3UnZuNWZJVmM3WlpndkFuYnFPT0pObWhRalB0M01IN1ZrRDA5cno0X015THBicWRPdF9uV0QxWEdoNnRPcVZNa3VkRGdKUU5lSWdIYng2MzZDOENOa3M1NUhwWHlVUGhCUm5hMHVMT0RkbkE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780919756,
-        "data": "08/06/2026 11:55"
-    },
-    {
-        "titulo": "Discutido estatuto da Procuradoria Especial da Mulher da Câmara em Americana",
-        "link": "https://novomomento.com.br/discutido-estatuto-procur-mulher-camr-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780919285,
-        "data": "08/06/2026 11:48"
-    },
-    {
-        "titulo": "Discutido estatuto da Procuradoria Especial da Mulher da Câmara em Americana - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzU5NE5oNWFhTWUtbEhiNHVmMmpYN0RjZUNPZjhEaG11U0VUR1JtdFJ3MW8zdm5NQ2xzVDUtWkhiSjdld0xWS0Q5ZGpNUUpPOUdzbUlqV3dfTG0yUXRROVNWdUVRM3JyeTZHMWI5X3R6TmxCRnhpMS1VVzJKQVJaZg?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780919285,
-        "data": "08/06/2026 11:48"
-    },
-    {
-        "titulo": "DAE interliga redes e região do Zanaga pode ter variação no abastecimento",
-        "link": "https://novomomento.com.br/dae-interliga-redes-e-regiao-do-zanaga-pode-ter-variacao-no-abastecimento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780919275,
-        "data": "08/06/2026 11:47"
-    },
-    {
-        "titulo": "DAE interliga redes e região do Zanaga pode ter variação no abastecimento",
-        "link": "https://novomomento.com.br/dae-interliga-rede-zanaga-variaco-abastecimento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780919275,
-        "data": "08/06/2026 11:47"
-    },
-    {
-        "titulo": "Embelezamento é realizado em avenida próxima a portal em Hortolândia",
-        "link": "https://novomomento.com.br/embelezamento-e-realizado-em-avenida-proxima-a-portal-em-hortolandia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780918310,
-        "data": "08/06/2026 11:31"
-    },
-    {
-        "titulo": "Americana conquista duas medalhas de ouro no atletismo dos Jogos da Melhor Idade",
-        "link": "https://hjnews.com.br/americana-conquista-duas-medalhas-de-ouro-no-atletismo-dos-jogos-da-melhor-idade/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1780917909,
-        "data": "08/06/2026 11:25"
-    },
-    {
-        "titulo": "Na prorrogação, Brutos Sub-13 é eliminado na semifinal da Liga Paulista Júnior",
-        "link": "https://rapidonoar.com.br/na-prorrogacao-brutos-sub-13-e-eliminado-na-liga-paulista-junior/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/brutos-eliminado-1-1024x585.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780917421,
-        "data": "08/06/2026 11:17"
-    },
-    {
-        "titulo": "Com apoio da Suzano, artesãos marcam presença na Festa de São João de Carioba em Americana (SP)",
-        "link": "https://sb24horas.com.br/com-apoio-da-suzano-artesaos-marcam-presenca-na-festa-de-sao-joao-de-carioba-em-americana-sp/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780917388,
-        "data": "08/06/2026 11:16"
-    },
-    {
-        "titulo": "Com apoio da Suzano, artesãos marcam presença na Festa de São João de Carioba em Americana (SP) - sb24horas",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHY2eDN2N3lENldqd2d0cDBva0ZLYU1CVjRQNHRjNU43S2tRYk9HNmJzdGU1dEpEMThWVFNqaW50QXpBUzhZX3BrNk9pY0hTT05GLTFGMklHRlVSUWpkNmxnZG5TNjJDU1ZuTFF6enBzenpOamhQVmxleW10bzBBY09zZExVRUdxZXFCbU9xSWtBeGhqSmE4WXNQbGhUbW93UVh3VTRHeHNNREVyeDBnS2I4X3pZcV8tN1E?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780917388,
-        "data": "08/06/2026 11:16"
-    },
-    {
-        "titulo": "Nova Odessa realiza 2º Drive Thru Ambiental: recicláveis e distribui mudas",
-        "link": "https://novomomento.com.br/nova-odessa-realiza-2o-drive-thru-ambiental-reciclaveis-e-distribui-mudas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780917382,
-        "data": "08/06/2026 11:16"
-    },
-    {
-        "titulo": "Dor crônica terá 5 de julho como dia nacional de conscientização",
-        "link": "https://rapidonoar.com.br/dor-cronica-tera-5-de-julho-como-dia-nacional-de-conscientizacao/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/09/sussite-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780917145,
-        "data": "08/06/2026 11:12"
     }
 ]
