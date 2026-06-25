@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Receita passa a publicar lista de devedores contumazes",
+        "link": "https://sb24horas.com.br/receita-passa-a-publicar-lista-de-devedores-contumazes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782350579,
+        "data": "25/06/2026 01:22"
+    },
+    {
+        "titulo": "OAB-SP suspende registro de Deolane Bezerra e impede exercício da advocacia",
+        "link": "https://portaldeamericana.com/oab-sp-suspende-registro-de-deolane-bezerra-e-impede-exercicio-da-advocacia/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9230.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1782349623,
+        "data": "25/06/2026 01:07"
+    },
+    {
+        "titulo": "Motoboy é arremessada contra outro carro em acidente no Nova Itália, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/25/motoboy-e-arremessada-contra-outro-carro-em-acidente-no-nova-italia-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782348104,
+        "data": "25/06/2026 00:41"
+    },
+    {
+        "titulo": "Michelle Bolsonaro diz ter sido desrespeitada por Flávio Bolsonaro",
+        "link": "https://portaldeamericana.com/michelle-bolsonaro-diz-ter-sido-desrespeitada-por-flavio-bolsonaro/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9221.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1782346464,
+        "data": "25/06/2026 00:14"
+    },
+    {
+        "titulo": "Refis é prorrogado por 90 dias e amplia prazo para negociação de dívidas em Piracicaba",
+        "link": "https://rapidonoar.com.br/refis-e-prorrogado-por-90-dias-e-amplia-prazo-para-negociacao-de-dividas-em-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/piracicaba-refis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782344526,
+        "data": "24/06/2026 23:42"
+    },
+    {
+        "titulo": "Marquinhos pede ambição e avisa: “Uma nova competição começa agora”",
+        "link": "https://sb24horas.com.br/marquinhos-pede-ambicao-e-avisa-uma-nova-competicao-comeca-agora/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782343734,
+        "data": "24/06/2026 23:28"
+    },
+    {
+        "titulo": "Terremoto de magnitude 7,5 atinge a Venezuela, derruba prédios e deixa mortos",
+        "link": "https://rapidonoar.com.br/terremoto-de-magnitude-75-atinge-a-venezuela-derruba-predios-e-deixa-mortos/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/terremoto-venezuela-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782343370,
+        "data": "24/06/2026 23:22"
+    },
+    {
+        "titulo": "Felipe Sanches consolida força política ao lado de Tarcísio e desponta como nome de peso para Brasília",
+        "link": "https://hjnews.com.br/felipe-sanches-consolida-forca-politica-ao-lado-de-tarcisio-e-desponta-como-nome-de-peso-para-brasilia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1782342357,
+        "data": "24/06/2026 23:05"
+    },
+    {
         "titulo": "Cortisol virou assunto popular mas com muita desinformação",
         "link": "https://novomomento.com.br/cortisol-assunto-popular-cm-muita-desinformacao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -34,6 +106,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1782336077,
         "data": "24/06/2026 21:21"
+    },
+    {
+        "titulo": "Brasil vence Escócia e termina em primeiro do grupo",
+        "link": "https://rapidonoar.com.br/brasil-goleia-a-escocia-avanca-em-primeiro-e-jogara-na-proxima-segunda/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/vini-jr-paqueta-selecao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782336077,
+        "data": "24/06/2026 21:21"
+    },
+    {
+        "titulo": "Dólar sobe a R$ 5,20 e volta a atingir maior valor em três meses",
+        "link": "https://sb24horas.com.br/dolar-sobe-a-r-520-e-volta-a-atingir-maior-valor-em-tres-meses/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782334618,
+        "data": "24/06/2026 20:56"
     },
     {
         "titulo": "Homem tenta esconder drogas no telhado, mas acaba preso pela GCM em Limeira",
@@ -342,6 +432,15 @@
         "data": "24/06/2026 15:30"
     },
     {
+        "titulo": "Hospital Municipal de Americana abre processo seletivo para quatro funções - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFWXZUc2ViS093U1c0Q0QweGlBR2F4WUlkcHZRRE1PTExoWnlOaUtRNHhEVjZyY0VuakhJVGYwLWZmNk00X1hsWnFHTGc2TXJpM3BJQW9rVHgzaHdVcGdMMGRsWk96ZUdDb2pvTVpMTUl6LTZOcEpfXzR3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782314880,
+        "data": "24/06/2026 15:28"
+    },
+    {
         "titulo": "Americana promove ação de vacinação contra a gripe neste sábado em oito bairros - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdDhHNG5TRmVhd092OGRMamREd01GcTlXUm13QjZraEZfd2FOVjVBdk1pMF9iWnE2MFhCdVNkZzdxUTZCV3BlTXU2RE1DLTc2Z1BvNEpJRmdoUm1xcGFUbVYtNGc4VHlpVW5XcncyUFEyd0dSYmlJZi1HNWJmUkhCUFNyUFJfdndudTl2WVFUTl9wMkotaHhNNXlVTDRzaklKMS01ZDEzc0pwVmFJSmNxd25EckFqRjVRU0tPN1VpcDNvc1o2V0M1ak9hUkN5M290MnhhNXhxMms0N3pmZURZa29B?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -394,6 +493,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1782313200,
         "data": "24/06/2026 15:00"
+    },
+    {
+        "titulo": "Americana promove ação de vacinação contra a gripe neste sábado em oito bairros - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VUGVaU1dwZHZUYjNvTUY2cXN4OF8tUmxQWGZrdER2bU11TUVtaUd1UzV6aHJyRU5PaFNnTG5tVG1IdmpUTllLaDN2TDRkUXR0WUZCLUZFTkFGYm92VjRCalBUZnRwbjFyZ3RvaVNCb3JmeEdyanU3anBn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782312960,
+        "data": "24/06/2026 14:56"
+    },
+    {
+        "titulo": "Raimundos trazem a Americana turnê que celebra mais de três décadas de estrada - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQ2Z3bEhTX21NcFo4UVJKNDNnQl9GYzBzRzZKYzFvc1JUOTN5OURFVmY4R2Jkd2NFaEs5WDh6N2piRU1xcEkwMzBCai1DWUEwWXZsLUU0RXJuZ2FmMzZrWlM5Yk1uTldtNF9fbDdGVmN0TTFiTXMtMzFR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782312660,
+        "data": "24/06/2026 14:51"
     },
     {
         "titulo": "Fan Fest cancelada em Hortolândia pelo tempo chuvoso",
@@ -17881,122 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1781000728,
         "data": "09/06/2026 10:25"
-    },
-    {
-        "titulo": "Paulo Monaro questiona aumento de mais de 2.250% em conta do balanço patrimonial da Prefeitura de Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/paulo-monaro-questiona-aumento-de-mais-de-2-250-em-conta-do-balanco-patrimonial-da-prefeitura-de-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781000345,
-        "data": "09/06/2026 10:19"
-    },
-    {
-        "titulo": "Piovezan visita Complexo da Saúde da Zona Sul",
-        "link": "https://novomomento.com.br/piovezan-visita-complexo-da-saude-da-zona-sul/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781000183,
-        "data": "09/06/2026 10:16"
-    },
-    {
-        "titulo": "Prorrogadas as CEIs das Calçadas e do Parque Ecológico em Nova Odessa",
-        "link": "https://novomomento.com.br/prorrogada-ceis-calcadas-pq-ecologico-nv-odessa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781000085,
-        "data": "09/06/2026 10:14"
-    },
-    {
-        "titulo": "Com atuação em Americana, advogado Clovis Felipe Temer Zalaf morre aos 61 anos - Todo Dia",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdU9WbFozTzBKaHRla0VnU1V5dF9xWmdnWGtTSkh6aG9RNzRZbERLX2xOQ2VZc3cwS0dRWDlxRGdMd2tEU2tiNDFRSlJjMVpROWlfNl9rX2gwX1RaRHFWeHg3TVpJZGZsMFlNLWFEeXJfYmE5MkxjNlpRWml5X2s0dWR1N2FpWkdxX2NjQ1REVmYtTTVpZHVtc2VkM1dheHVNZUZyMUxkZkxuVWhoUUYyeDFBUW52R2xJZTcw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780999821,
-        "data": "09/06/2026 10:10"
-    },
-    {
-        "titulo": "Exposição interativa mostra participação do Brasil em copas do Mundo",
-        "link": "https://sb24horas.com.br/exposicao-interativa-mostra-participacao-do-brasil-em-copas-do-mundo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1780998950,
-        "data": "09/06/2026 09:55"
-    },
-    {
-        "titulo": "Festival de Artes Visuais de Americana tem nova data e ocorre em 25 e 26 de julho na Biblioteca Municipal - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQUdZdVhqMlhDeC00OWVTU1N4Mkd6d0JTMmhKQ2k0U0xmbVU2YmZ4T0JpZ2dMYkdMME9CUnFUTzFLZEI4OGNDVTVoQnBSXzBiLThxdW5RV2lFX08wMVFzcEd6UE4tdWNGMTRYUUpHT1FzNHVlLXdVTHg0ejdFZlVTTGdZVWY4QmNzSHZDOGVxS0tsWmZvc2o3SFd3THlNYWZaYzdoRUxSRHY4SFNZSFIyTXY5cjlQZWJNRVB3YmtJWGdneEtDZlhtM01FcjItR1VxSVN6M3AwN1Z3V1dzdlRURFJhWGJnbFhpUTVWa3dlVGpqRmFoaEIxVnlTWk5ReWFjeEdFSDBHYw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780998780,
-        "data": "09/06/2026 09:53"
-    },
-    {
-        "titulo": "Governo de São Paulo forma mais de 1 mil novos policiais militares",
-        "link": "https://noticiafm.com/governo-de-sao-paulo-forma-mais-de-1-mil-novos-policiais-militares/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1780998352,
-        "data": "09/06/2026 09:45"
-    },
-    {
-        "titulo": "Americana conquista R$ 20 milhões junto ao governador de SP para obras e novo parque - Portal Veloz",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWZPVEwxOVA5ZDFKTDlMZEh6SW1DRFc2UGJuRkVuOWlJR3R3UnBBY1owYnc5R2FCU08td2hhMHo0U1NDZzdFdmtkbmprTmk2cjEwQjZsTk9PNGljektaai11WGs3S1doRDhzd1otTm5DSFZ5R05YSFhJVjd3NnJkWUJjc0FxS0FiNnZIeFU1WHc1V2tuckJsMUJqbjJmQUVVRlZkVktoSW9JaUQzbHFfdw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780998280,
-        "data": "09/06/2026 09:44"
-    },
-    {
-        "titulo": "Técnicos de Americana pleiteiam instalação de campus da Unesp - Tribuna Liberal",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlQtWHVvOFZxOC1FTFhqekx4cnFwZjloNG9QSUxRWVE3UC05WjF2UEIzalNTQ25RVWU0d0FOMHg0ZkhUNW51U0tYQkVqQ3dla1lhUzQyaXVPZU81VUZrWkdKWDB4Rlp0VjFCcFBrRnNfcXZydVF5OU9nNVV1YndSVDNOZFJsY09ETW81cU5Damk1LXR6UF9TVnRfOTZ4ZUxydVdYREtISQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1780997160,
-        "data": "09/06/2026 09:26"
-    },
-    {
-        "titulo": "Trio brasileiro apitará a abertura da Copa do Mundo",
-        "link": "https://rapidonoar.com.br/trio-brasileiro-apitara-a-abertura-da-copa-do-mundo/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/apito-1024x705.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1780997104,
-        "data": "09/06/2026 09:25"
-    },
-    {
-        "titulo": "Novidades do Burger King e McDia Feliz",
-        "link": "https://novomomento.com.br/novidades-do-burger-king-e-mcdia-feliz/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780996761,
-        "data": "09/06/2026 09:19"
-    },
-    {
-        "titulo": "Prefeito Chico Sardelli conquista R$ 20 milhões junto ao governador Tarcísio para Americana",
-        "link": "https://noticiafm.com/prefeito-chico-sardelli-conquista-r-20-milhoes-junto-ao-governador-tarcisio-para-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1780995730,
-        "data": "09/06/2026 09:02"
-    },
-    {
-        "titulo": "Ampelio Gazzetta: Obra na Avenida sobrecarrega trânsito em Nova Odessa",
-        "link": "https://novomomento.com.br/obra-av-ampelio-gazzetta-carrga-transto-nodessa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1780995639,
-        "data": "09/06/2026 09:00"
     }
 ]
