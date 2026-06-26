@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Incêndio de grandes proporções atinge residência no Belinha Ometto, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/06/26/incendio-de-grandes-proporcoes-atinge-residencia-no-belinha-ometto-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782503141,
+        "data": "26/06/2026 19:45"
+    },
+    {
+        "titulo": "De 16 confrontos, a Inter só perdeu um para paranaenses no Limeirão",
+        "link": "https://rapidonoar.com.br/de-16-confrontos-a-inter-so-perdeu-um-para-paranaenses-no-limeirao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/cascavel-1024x696.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782502277,
+        "data": "26/06/2026 19:31"
+    },
+    {
+        "titulo": "Motorista abandona caminhão, sofre surto e é encontrado caminhando pela Anhanguera em Limeira",
+        "link": "https://rapidonoar.com.br/motorista-abandona-caminhao-sofre-surto-e-e-encontrado-caminhando-pela-anhanguera-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/caminhao-resgate-posto-limeira-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782502216,
+        "data": "26/06/2026 19:30"
+    },
+    {
+        "titulo": "Denis Andia trabalha por um transporte público mais acessível",
+        "link": "https://sb24horas.com.br/denis-andia-trabalha-por-um-transporte-publico-mais-acessivel/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782500824,
+        "data": "26/06/2026 19:07"
+    },
+    {
+        "titulo": "Hortolândia tapa buracos no Jardim Aline, Nova Europa e Santiago",
+        "link": "https://novomomento.com.br/hortolandia-tapa-buraco-jd-aline-neuropa-santig/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782500514,
+        "data": "26/06/2026 19:01"
+    },
+    {
+        "titulo": "Deputada Professora Bebel lança campanha por passe livre estudantil e defende fundo nacional para viabilizar tarifa zero",
+        "link": "https://sb24horas.com.br/deputada-professora-bebel-lanca-campanha-por-passe-livre-estudantil-e-defende-fundo-nacional-para-viabilizar-tarifa-zero/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782500254,
+        "data": "26/06/2026 18:57"
+    },
+    {
+        "titulo": "Ética e uso da Inteligência Artificial nas escolas é o tema central da 31ª edição do Congresso Internacional de Educação da LBV",
+        "link": "https://sb24horas.com.br/etica-e-uso-da-inteligencia-artificial-nas-escolas-e-o-tema-central-da-31a-edicao-do-congresso-internacional-de-educacao-da-lbv/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782499416,
+        "data": "26/06/2026 18:43"
+    },
+    {
+        "titulo": "40% dos líderes admitem a falta de ferramentas para acolher o sofrimento emocional",
+        "link": "https://sb24horas.com.br/40-dos-lideres-admitem-a-falta-de-ferramentas-para-acolher-o-sofrimento-emocional/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782499105,
+        "data": "26/06/2026 18:38"
+    },
+    {
+        "titulo": "Equipe do Zoo Americana realiza tratamento de macaco-aranha-de-testa-branca com cerca de 40 anos",
+        "link": "https://www.americanapost.com.br/equipe-do-zoo-americana-realiza-tratamento-de-macaco-aranha-de-testa-branca-com-cerca-de-40-anos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1782498766,
+        "data": "26/06/2026 18:32"
+    },
+    {
+        "titulo": "Denúncia de agressões a criança leva equipe da UPJ de Piracicaba à prisão do padrasto e apreensão de armas",
+        "link": "https://rapidonoar.com.br/denuncia-de-agressoes-a-crianca-leva-equipe-da-upj-de-piracicaba-a-prisao-do-padrasto-e-apreensao-de-armas-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/padrastro-preso-na-upja-piracicaba-02-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782497951,
+        "data": "26/06/2026 18:19"
+    },
+    {
         "titulo": "Desemprego até maio cai para 5,6%, o menor já registrado no período",
         "link": "https://difusorapiracicaba.com.br/desemprego-ate-maio-cai-para-56-o-menor-ja-registrado-no-periodo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1781150705,
         "data": "11/06/2026 04:05"
-    },
-    {
-        "titulo": "CM de Americana tem nova audiência sobre instalação de telecomunicações - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLW1jNG1sVnA0OGNiY1dFejE3cW5YN0t0X2k4dUdnTFJFLTkwUHRZYkZDWkhoYmc1dnhab2g3UUR1S25MSk44cW15SzRQZWcwLTdxM1RlN2E1OTg0WEhiLUxQRzMyOUJuazEyaEJobV9zQWZjY0NzZ1hVNWxpWVdhY29TUUtSM3UzblExRlU2MVg0dEFhZm1BbTEwS2xCVWFX?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781150705,
-        "data": "11/06/2026 04:05"
-    },
-    {
-        "titulo": "CM de Americana tem nova audiência sobre instalação de telecomunicações",
-        "link": "https://novomomento.com.br/cm-de-americana-audiencia-instal-telecomunicces/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781150705,
-        "data": "11/06/2026 04:05"
-    },
-    {
-        "titulo": "CM de Americana tem nova audiência sobre instalação de telecomunicações - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalJtdEhyaFBwUzVqejhYbXpfQ0J2SGE0NXZCOXl5dW9oWE92eVNodnVZY2lma0k0dFgxX0Q3SGVYdjJvNzJqbVpxUlNBVHYwRVRaZXQ3blo4dkFLZHg3R00tZ1VhbjVFWEI1TkNwNHBzUHdYbGJ3V1Y5SUF0dmU4Ug?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781150705,
-        "data": "11/06/2026 04:05"
-    },
-    {
-        "titulo": "Continente africano leva 10 seleções para a Copa do Mundo 2026",
-        "link": "https://sb24horas.com.br/continente-africano-leva-10-selecoes-para-a-copa-do-mundo-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781148357,
-        "data": "11/06/2026 03:25"
-    },
-    {
-        "titulo": "Governo registra Pix como marca de alto renome no INPI",
-        "link": "https://sb24horas.com.br/governo-registra-pix-como-marca-de-alto-renome-no-inpi/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781137132,
-        "data": "11/06/2026 00:18"
-    },
-    {
-        "titulo": "The Beatles Cover abre a programação de Dia dos Namorados do Pátio Limeira Shopping",
-        "link": "https://noticiadelimeira.com.br/2026/06/11/the-beatles-cover-abre-a-programacao-de-dia-dos-namorados-do-patio-limeira-shopping/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1781136260,
-        "data": "11/06/2026 00:04"
-    },
-    {
-        "titulo": "Limeira promove ação de conscientização contra o trabalho infantil no Parque Cidade",
-        "link": "https://rapidonoar.com.br/limeira-promove-acao-de-conscientizacao-contra-o-trabalho-infantil-no-parque-cidade/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/trabalho-infantil-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781135805,
-        "data": "10/06/2026 23:56"
-    },
-    {
-        "titulo": "Idoso de 68 anos é resgatado em situação de abandono em residência de Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/10/idoso-de-68-anos-e-resgatado-em-situacao-de-abandono-em-residencia-de-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1781134905,
-        "data": "10/06/2026 23:41"
-    },
-    {
-        "titulo": "Inverno: triplo combo de vírus respiratórios lota consultórios infantis",
-        "link": "https://novomomento.com.br/inverno-combo-virus-respirat-lota-consultorio/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781134171,
-        "data": "10/06/2026 23:29"
-    },
-    {
-        "titulo": "Condutor cai com veículo em barranco no Terras de Santa Elisa, em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/10/condutor-cai-com-veiculo-em-barranco-no-terras-de-santa-elisa-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1781133656,
-        "data": "10/06/2026 23:20"
     }
 ]
