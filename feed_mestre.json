@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "CPM 22 traz turnê de 30 anos de carreira para o Rock Day Americana",
+        "link": "https://hjnews.com.br/cpm-22-traz-turne-de-30-anos-de-carreira-para-o-rock-day-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1782805041,
+        "data": "30/06/2026 07:37"
+    },
+    {
+        "titulo": "JBS tem 350 vagas de emprego abertas no interior de SP",
+        "link": "https://novomomento.com.br/jbs-350-vagas-de-emprego-abertas-no-interior-sp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782804036,
+        "data": "30/06/2026 07:20"
+    },
+    {
+        "titulo": "Prefeitura emite nota sobre treta das emendas impositivas em Nova Odessa",
+        "link": "https://novomomento.com.br/prefeitura-nota-treta-emenda-impositiva-nodessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782801271,
+        "data": "30/06/2026 06:34"
+    },
+    {
+        "titulo": "Teto para MEI agora passa para R$ 140 mil",
+        "link": "https://novomomento.com.br/teto-para-mei-agora-passa-para-r-140-mil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782800138,
+        "data": "30/06/2026 06:15"
+    },
+    {
+        "titulo": "Desenrola lança modalidades de crédito para estimular bons pagadores",
+        "link": "https://sb24horas.com.br/desenrola-lanca-modalidades-de-credito-para-estimular-bons-pagadores/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782797864,
+        "data": "30/06/2026 05:37"
+    },
+    {
+        "titulo": "Paraguai vence nos pênaltis e elimina a Alemanha da Copa do Mundo",
+        "link": "https://sb24horas.com.br/paraguai-vence-nos-penaltis-e-elimina-a-alemanha-da-copa-do-mundo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782791996,
+        "data": "30/06/2026 03:59"
+    },
+    {
         "titulo": "Lula entrega a Motta projeto para beneficiar MEIs",
         "link": "https://sb24horas.com.br/lula-entrega-a-motta-projeto-para-beneficiar-meis/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -7,6 +61,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1782781865,
         "data": "30/06/2026 01:11"
+    },
+    {
+        "titulo": "Câmara de Santa Bárbara mobiliza apoio ao passe livre estudantil - correiodamanha.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWGRsWlo1bmtuOFA4UU9sanJiQzFTUVNaVEl0dmxRRk1JX1R0VXFJQUsweTMwWkF0UERLUk9LdVVJNTZINW1lYW43RlBDTjQxOUtyN1BtYVpwcDNJNzBfaTRWTUhscU4tNXV5WWpRcXdxckZJLWpTMW9hSjR1YlY4U3ZqcjFXZldqYmtUTjFwUjB6WjFFLS1DU2ZoQUEzbGhQSUJtRjJQVnl5ekoxMngyeXVFOXh5bVZyUGFvUXdBNnJKYV8zYjVGY21qc2NidDNpcVMzdEZjeXNRX3lEZ3lvQ3hNYVhIdDd6MW9WVE1mVGtEZjVNVTU3cQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782777780,
+        "data": "30/06/2026 00:03"
     },
     {
         "titulo": "Bodes são encontrados mortos e decapitados em área rural de Piracicaba; caso será investigado",
@@ -52,6 +115,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782769542,
         "data": "29/06/2026 21:45"
+    },
+    {
+        "titulo": "High on Fire estreia no Brasil com show único em São Paulo - Rato de Show",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFZ4UDMtWnRRX1hfVTh5dmhNQXV0a2NwNGVzQjhKNUplR2NyQ3dIcW5QTG9ZX3pTZVFxSllONkxKNXl4bTlBdlFybk1KNWoyaW9zTW9walZBVTAyNk5za1pBS1RxczBmanJUVURlQkk1a3l6SVdJeFpTMkhydXl3aUdneE1WY3JuUXI2dFpaU1FBQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782767673,
+        "data": "29/06/2026 21:14"
     },
     {
         "titulo": "Anime famoso e trocas de Ancelotti pautam repercussão da vitória",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1781362942,
         "data": "13/06/2026 15:02"
-    },
-    {
-        "titulo": "Moça de 24 anos morre ao fazer salto em Limeira",
-        "link": "https://novomomento.com.br/moca-de-24-anos-morre-ao-fazer-salto-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781361153,
-        "data": "13/06/2026 14:32"
-    },
-    {
-        "titulo": "Produção de automóveis acumula 7,1% de aumento em relação a 2025",
-        "link": "https://sb24horas.com.br/producao-de-automoveis-acumula-71-de-aumento-em-relacao-a-2025/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781360646,
-        "data": "13/06/2026 14:24"
-    },
-    {
-        "titulo": "PSol aciona Ministério Público contra Flávio Bolsonaro por discurso em rodeio - correiodamanha.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOGVzcTVIa3pQYkdwUDdwWVNRM3hpUThuSm9kZ2p6VzVYWmlTVFZKSHdNc1NKb0pObWR1X2s1TjBGYWhRcGp5dHFSd0N3WFJXSWM2TFBGUll4Rmt3aGhKNFJlOUFDXzFJb0l6VDRKSVFEUGpRWi1tczVoZkFkMG1jSjA0aXNlWEpaN3ZoNG5BWWVCU3ZVakhqemE5ZlpHV0p4TmpQODdWNzludDNVMF9zT1FKNnR4Y216dkNKOVVYdGM2Y2RUNHc0cEU5YVpLV0ExdzlrQ09sbTVOTkVMTWFiMkc1dXUteVN6cGtsR1NFdXg?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781360280,
-        "data": "13/06/2026 14:18"
-    },
-    {
-        "titulo": "Nova Odessa capacita profissionais para aplicar implante contraceptivo",
-        "link": "https://novomomento.com.br/nova-odessa-capacita-profiss-aplica-contraceptv/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781360134,
-        "data": "13/06/2026 14:15"
-    },
-    {
-        "titulo": "Raízen abre mais de 250 vagas para programa de aprendiz",
-        "link": "https://novomomento.com.br/raizen-abre-250-vagas-para-programa-de-aprendiz/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781356403,
-        "data": "13/06/2026 13:13"
-    },
-    {
-        "titulo": "Coluna Pimba com as curtas do esporte",
-        "link": "https://rapidonoar.com.br/coluna-pimba-com-as-curtas-do-esporte-151/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/matheus-costa-7-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781355468,
-        "data": "13/06/2026 12:57"
-    },
-    {
-        "titulo": "Flávio Bolsonaro critica governo Lula em vídeo exibido na Festa do Peão de Americana",
-        "link": "https://portaldeamericana.com/flavio-bolsonaro-critica-governo-lula-em-video-exibido-na-festa-do-peao-de-americana/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-bolsonaro-critica-governo-lula-em-video-exibido-na-festa-do-peao-de-americana",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8124.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1781355336,
-        "data": "13/06/2026 12:55"
-    },
-    {
-        "titulo": "Morre, aos 88 anos, o influenciador digital vovô anésio",
-        "link": "https://rapidonoar.com.br/morre-aos-88-anos-o-influenciador-digital-vovo-anesio/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/morre-o-vovo-anesio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781355096,
-        "data": "13/06/2026 12:51"
     }
 ]
