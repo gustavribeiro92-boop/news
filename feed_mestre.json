@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Estudante de medicina é encontrada morta em apartamento em Barbacena; namorado é preso",
+        "link": "https://rapidonoar.com.br/estudante-de-medicina-e-encontrada-morta-em-apartamento-em-barbacena-namorado-e-preso/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/estudante-morte-republica-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782771513,
+        "data": "29/06/2026 22:18"
+    },
+    {
+        "titulo": "Nova Odessa capacita equipe para arrecadar mais na Reforma Tributária",
+        "link": "https://novomomento.com.br/nova-odessa-capacita-equipe-reforma-tributaria/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782769542,
+        "data": "29/06/2026 21:45"
+    },
+    {
+        "titulo": "Paraguai elimina a Alemanha nos pênaltis e avança às oitavas da Copa do Mundo",
+        "link": "https://rapidonoar.com.br/paraguai-elimina-a-alemanha-nos-penaltis-e-avanca-as-oitavas-da-copa-do-mundo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/selecao-paraguai-alemanha-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782766696,
+        "data": "29/06/2026 20:58"
+    },
+    {
+        "titulo": "Lua de Morango poderá ser vista no Brasil nesta segunda-feira; saiba o melhor horário para observar",
+        "link": "https://rapidonoar.com.br/lua-de-morango-podera-ser-vista-no-brasil-nesta-segunda-feira-saiba-o-melhor-horario-para-observar/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/lua-cheia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782763919,
+        "data": "29/06/2026 20:11"
+    },
+    {
+        "titulo": "Santa Bárbara compete em 31 modalidades nos 68º Jogos Regionais de Itatiba",
+        "link": "https://novomomento.com.br/santa-barbara-no-68o-jogos-regionais-de-itatiba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782762350,
+        "data": "29/06/2026 19:45"
+    },
+    {
         "titulo": "Policial civil é morto a tiros por amigo após discussão em frente a casa no Paraná",
         "link": "https://rapidonoar.com.br/policial-civil-e-morto-a-tiros-por-amigo-apos-discussao-em-frente-a-casa-no-parana/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/policial-morto-parana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -92,6 +137,15 @@
     {
         "titulo": "Hortolândia inicia projeto de revitalização do Centro Histórico",
         "link": "https://novomomento.com.br/hortolandia-inicia-projeto-de-revitalizacao-do-centro-historico/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782755124,
+        "data": "29/06/2026 17:45"
+    },
+    {
+        "titulo": "Hortolândia inicia projeto de revitalização do Centro Histórico",
+        "link": "https://novomomento.com.br/hortolandia-revitalizacao-do-centro-historico/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -227,6 +281,15 @@
     {
         "titulo": "CadÚnico itinerante atende na Praça do Bom Retiro na terça (30) em Sumaré",
         "link": "https://novomomento.com.br/cadunico-itinerante-atende-na-praca-do-bom-retiro-na-terca-30-em-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782747902,
+        "data": "29/06/2026 15:45"
+    },
+    {
+        "titulo": "CadÚnico itinerante atende na Praça do Bom Retiro na terça (30) em Sumaré",
+        "link": "https://novomomento.com.br/cadunico-itinerante-praca-do-bom-retiro-sumare/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -378,6 +441,15 @@
         "data": "29/06/2026 13:12"
     },
     {
+        "titulo": "Aprovado aumento no subsídio do transporte urbano em Nova Odessa",
+        "link": "https://novomomento.com.br/aprovado-aumento-subsidio-transporte-nova-odess/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782738763,
+        "data": "29/06/2026 13:12"
+    },
+    {
         "titulo": "Piracicaba abre 395 novas vagas de emprego na próxima semana; oportunidades contemplam diferentes perfis",
         "link": "https://difusorapiracicaba.com.br/piracicaba-abre-395-novas-vagas-de-emprego-na-proxima-semana-oportunidades-contemplam-diferentes-perfis/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -486,8 +558,26 @@
         "data": "29/06/2026 11:45"
     },
     {
+        "titulo": "Zezé visita fábrica que transforma tradição argentina em empregos",
+        "link": "https://novomomento.com.br/zeze-visita-fabrica-tradicao-argentina-empregos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782733505,
+        "data": "29/06/2026 11:45"
+    },
+    {
         "titulo": "XP Asset reformula ETF do S&P 500 para reduzir custos e elevar ganhos do investidor - InfoMoney",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEgtdlJfWDl4RUwzbzZoVmZsd2hTQzZfMzN1SEdsbFJ1TWtXYWEwdmp5Q0w2ZVhhSlZyTmpKNGRwYzhMLU9ldEh0ZnZTMGRMdnF5dFpJMllHUDd2RnhMb2pqd1k5b205QXc4WFd4bTdaelBpTkhpTXVOVHJvZU0tUWhOZ2RBOG1RVW05N3ZWMUdvQk5LRVV2VFhqcGFFTHF1a2pSQ2RVNHZMU09sVHhmUERwblNmQ3hrRkVUSFU1eTRUNTEyOF9sWnVB0gHKAUFVX3lxTFB0SC12Ul9YOXhFTDNvNmhWZmx3aFNDNl8zM3VIR2xsUnVNa1dhYTB2anlDTDZlWGFKVnJOako0ZHBjOEwtT2V0SHRmdlMwZEx2cXl0WkkyWUdQN3ZGeExvamp3WTlvbTlBdzhYV3htN1p6UGlOSGlNdU5Ucm9lTS1RaE5nZEE4bVFVbTk3dlYxR29CTktFVXZUWGpwYUVMcXVralJDZFU0dkxTT2xUeGZQRHBuU2ZDeGtGRVRIVTV5NFQ1MTI4X2xadUE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782733357,
+        "data": "29/06/2026 11:42"
+    },
+    {
+        "titulo": "XP Asset reformula ETF do S&P 500 para reduzir custos e elevar ganhos do investidor - InfoMoney",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclI1Qk9Ldm1Vb18tMTdncnFBcmVNdDVuVVJBSE1qVXBZc0ttMmpwMm1UUlZ1emhCUEppZGNuRmRJSTdoMTAyX0NkcVFxVW5MbXRoTDdGWWxHSzE5b2RUcVBUTDlhamhpNEtfS2puYXl5RXlGQlJlM2tKeENwNTZndlE0TDVBQ1RFMkFwdjU0OUlIWE5hRDJLRUZzamhVanBteUdsdzBSWjhXOV83eTdZZTlJdGNBakRXWldIZVNEY1R5LVp60gHKAUFVX3lxTFB0SC12Ul9YOXhFTDNvNmhWZmx3aFNDNl8zM3VIR2xsUnVNa1dhYTB2anlDTDZlWGFKVnJOako0ZHBjOEwtT2V0SHRmdlMwZEx2cXl0WkkyWUdQN3ZGeExvamp3WTlvbTlBdzhYV3htN1p6UGlOSGlNdU5Ucm9lTS1RaE5nZEE4bVFVbTk3dlYxR29CTktFVXZUWGpwYUVMcXVralJDZFU0dkxTT2xUeGZQRHBuU2ZDeGtGRVRIVTV5NFQ1MTI4X2xadUE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1781346342,
         "data": "13/06/2026 10:25"
-    },
-    {
-        "titulo": "Jantar beneficente da Rede Feminina de Combate ao Câncer promete anúncio histórico e mobiliza região em prol de novo espaço de atendimento",
-        "link": "https://sb24horas.com.br/jantar-beneficente-da-rede-feminina-de-combate-ao-cancer-promete-anuncio-historico-e-mobiliza-regiao-em-prol-de-novo-espaco-de-atendimento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781345821,
-        "data": "13/06/2026 10:17"
-    },
-    {
-        "titulo": "Câmera trap flagra onça parda em Santa Bárbara",
-        "link": "https://novomomento.com.br/camera-trap-flagra-onca-parda-em-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781345804,
-        "data": "13/06/2026 10:16"
-    },
-    {
-        "titulo": "Leoncine discute ações de fortalecimento do turismo e calendário de eventos",
-        "link": "https://novomomento.com.br/leoncine-discute-acoes-fortalecimento-turismo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781345737,
-        "data": "13/06/2026 10:15"
-    },
-    {
-        "titulo": "São Paulo descarta segundo caso suspeito de Ebola após análise de amostras",
-        "link": "https://noticiafm.com/sao-paulo-descarta-segundo-caso-suspeito-de-ebola-apos-analise-de-amostras/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1781344933,
-        "data": "13/06/2026 10:02"
-    },
-    {
-        "titulo": "Sumaré: A luta pelo voto vai ser dura este ano",
-        "link": "https://novomomento.com.br/luta-pelo-voto-vai-ser-dura-este-ano-em-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781344925,
-        "data": "13/06/2026 10:02"
-    },
-    {
-        "titulo": "Compromisso é não deixar que pauta-bomba prejudique país, diz Durigan",
-        "link": "https://sb24horas.com.br/compromisso-e-nao-deixar-que-pauta-bomba-prejudique-pais-diz-durigan/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781344679,
-        "data": "13/06/2026 09:57"
-    },
-    {
-        "titulo": "Independente quer recuperar pontos perdidos hoje em São Carlos",
-        "link": "https://rapidonoar.com.br/independente-quer-recuperar-pontos-perdidos-hoje-em-sao-carlos/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/diego-mori-930x1024.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781344200,
-        "data": "13/06/2026 09:50"
-    },
-    {
-        "titulo": "Banco de Sangue de Americana recebe 40 doações em ação especial pelo Dia do Doador - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemNJQWR0dlJzWDJHV1BtZ0xac2lsQUlwTm1jVkJxRkdKSXo0LVRCMVZNSFJweUVWOV9xSHZHemVYUlJwbGZCUi05RFVadERHWkRUY0VBZEhIMzN2eHBsTUVCaG5vOUp6VDFvdDMzMkt5WThwaExNZjFyUHo5TzBwTTl6U2ZjU3pnRFpTbDhJUUhmeFZ2Y0VQbEhoTlRLUkxkTXZaLTM3SXlrdkFDb1l6TU5EOEE5ZmR2dDZJYkh5Wk1aN25ndFFXeC0yTWFMOW8wZ0I1NHRnV0x0UkxMQlhGcVdTMHpqQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781344080,
-        "data": "13/06/2026 09:48"
-    },
-    {
-        "titulo": "Banco de Sangue de Americana recebe 40 doações em ação especial pelo Dia do Doador - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemNJQWR0dlJzWDJHV1BtZ0xac2lsQUlwTm1jVkJxRkdKSXo0LVRCMVZNSFJweUVWOV9xSHZHemVYUlJwbGZCUi05RFVadERHWkRUY0VBZEhIMzN2eHBsTUVCaG5vOUp6VDFvdDMzMkt5WThwaExNZjFyUHo5TzBwTTl6U2ZjU3pnRFpTbDhJUUhmeFZ2Y0VQbEhoTlRLUkxkTXZaLTM3SXlrdkFDb1l6TU5EOEE5ZmR2dDZJYkh5Wk1aN25ndFFXeC0yTWFMOW8wZ0I1NHRnV0x0UkxMQlhGcVdTMHpqQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781344080,
-        "data": "13/06/2026 09:48"
-    },
-    {
-        "titulo": "Brasil enfrenta o Marrocos em sua estreia na Copa do Mundo",
-        "link": "https://rapidonoar.com.br/brasil-enfrenta-o-marrocos-em-sua-estreia-na-copa-do-mundo/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/marrocos-1024x692.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781343878,
-        "data": "13/06/2026 09:44"
     }
 ]
