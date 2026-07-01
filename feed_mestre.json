@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Quem saiu do MasterChef ontem? Veja o eliminado do 6º episódio - NSC Total",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1FwbE1pWEhRa3BrMEVqb0Fld1pmNy04UkpQOFc0TFdKZlhfUzQ3V2V3SkRnOE9haXo0eDZ5cG9mYklyRTdmSlB2cFAtYzNUNXJSVzc2TXVJQXg5dTJsQ2FTZE43V1ZYaXZVV2s4clhYQTVIamJWSHBHaHhicnB6UklKd1VpcHpLTVJOWk5ydl9Ccl9oM2xfdXItVUF1N2c?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782878730,
+        "data": "01/07/2026 04:05"
+    },
+    {
+        "titulo": "“Férias Mágicas Pátio Limeira” terá princesas, show de mágica e oficinas temáticas",
+        "link": "https://noticiadelimeira.com.br/2026/07/01/ferias-magicas-patio-limeira-tera-princesas-show-de-magica-e-oficinas-tematicas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782878194,
+        "data": "01/07/2026 03:56"
+    },
+    {
+        "titulo": "Governo anuncia crédito de R$ 97,3 bi para agricultores familiares",
+        "link": "https://sb24horas.com.br/governo-anuncia-credito-de-r-973-bi-para-agricultores-familiares/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782877792,
+        "data": "01/07/2026 03:49"
+    },
+    {
+        "titulo": "Menos de três horas após apreensão, Romu prende novo suspeito por tráfico no João Ometto com mais de 300 porções de drogas",
+        "link": "https://noticiadelimeira.com.br/2026/07/01/menos-de-tres-horas-apos-apreensao-romu-prende-novo-suspeito-por-trafico-no-joao-ometto-com-mais-de-300-porcoes-de-drogas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782871026,
+        "data": "01/07/2026 01:57"
+    },
+    {
+        "titulo": "De &#8220;Anunciação&#8221; a &#8220;La belle de jour&#8221;: Alceu Valença completa 80 anos hoje",
+        "link": "https://novomomento.com.br/anunciacao-labelle-jour-alceu-valenca-complt-80/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782870928,
+        "data": "01/07/2026 01:55"
+    },
+    {
+        "titulo": "Com dois gols de Mbappé, França despacha Suécia e avança às oitavas",
+        "link": "https://sb24horas.com.br/com-dois-gols-de-mbappe-franca-despacha-suecia-e-avanca-as-oitavas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782866699,
+        "data": "01/07/2026 00:44"
+    },
+    {
+        "titulo": "Barbie lança boneca inspirada em Miley Cyrus",
+        "link": "https://novomomento.com.br/barbie-lanca-boneca-inspirada-em-miley-cyrus/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782862911,
+        "data": "30/06/2026 23:41"
+    },
+    {
+        "titulo": "Fila do INSS cai ao menor nível em 21 meses, com 1,8 milhão de pedidos",
+        "link": "https://sb24horas.com.br/fila-do-inss-cai-ao-menor-nivel-em-21-meses-com-18-milhao-de-pedidos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782861779,
+        "data": "30/06/2026 23:22"
+    },
+    {
         "titulo": "Polícia Civil prende suspeito de roubo de corrente de R$ 22 mil durante a Festa do Peão de Americana",
         "link": "https://rapidonoar.com.br/policia-civil-prende-suspeito-de-roubo-de-corrente-de-r-22-mil-durante-a-festa-do-peao-de-americana/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/prisao-homem-rodeiro-americana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -83,6 +155,15 @@
     {
         "titulo": "Santa Bárbara executa obras de bolsão de estacionamento e calçada no Batagin",
         "link": "https://novomomento.com.br/santa-barbara-executa-obras-de-bolsao-de-estacionamento-e-calcada-no-batagin/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782849710,
+        "data": "30/06/2026 20:01"
+    },
+    {
+        "titulo": "Santa Bárbara executa obras de bolsão de estacionamento e calçada no Batagin",
+        "link": "https://novomomento.com.br/santa-barbara-obras-bolsao-e-calcada-no-batagin/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -218,6 +299,15 @@
     {
         "titulo": "Santa Bárbara tem novo formato da conta d&#8217;água e leitura de hidrômetros",
         "link": "https://novomomento.com.br/santa-barbara-tem-novo-formato-da-conta-dagua-e-leitura-de-hidrometros/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782844384,
+        "data": "30/06/2026 18:33"
+    },
+    {
+        "titulo": "Santa Bárbara tem novo formato da conta d&#8217;água e leitura de hidrômetros",
+        "link": "https://novomomento.com.br/santa-barbara-tem-novo-formato-da-conta-dagua/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1781518474,
         "data": "15/06/2026 10:14"
-    },
-    {
-        "titulo": "Festa do Peão: Americana celebra campeões e encerra mais uma edição histórica - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclRGc2Y5RDg4N3FidkZDTUlBZWYxN0lJams0NE90anlwTlBmSEFSV0J5b0VZTmJJektKdDBsNkQ2Q25xYjF6RWwtVzhIdUVqc1ktdWNzTzFJSFR2TVhoWmVLazdFdlBzeFlkQnAxWk94ckc2TFVKM0NsUTBfSUVFeGttZjg1QlR0Q2VRbFBXUFpSaXNucGZLU3c0cV9fcHBqVExvakNHTUlXWjJValB1UlREZllhLVNYMUpleFZLeU5rV3ZicG1nY0lGdzVYRjRTQy1leDRXZFQtRlEwYnVwWmNaTTZ3MXNyM3c?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781518440,
-        "data": "15/06/2026 10:14"
-    },
-    {
-        "titulo": "Festa do Peão: Americana celebra campeões e encerra mais uma edição histórica - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclRGc2Y5RDg4N3FidkZDTUlBZWYxN0lJams0NE90anlwTlBmSEFSV0J5b0VZTmJJektKdDBsNkQ2Q25xYjF6RWwtVzhIdUVqc1ktdWNzTzFJSFR2TVhoWmVLazdFdlBzeFlkQnAxWk94ckc2TFVKM0NsUTBfSUVFeGttZjg1QlR0Q2VRbFBXUFpSaXNucGZLU3c0cV9fcHBqVExvakNHTUlXWjJValB1UlREZllhLVNYMUpleFZLeU5rV3ZicG1nY0lGdzVYRjRTQy1leDRXZFQtRlEwYnVwWmNaTTZ3MXNyM3c?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781518440,
-        "data": "15/06/2026 10:14"
-    },
-    {
-        "titulo": "Mulher de 24 anos é baleada durante confusão em Leme",
-        "link": "https://rapidonoar.com.br/mulher-de-24-anos-e-baleada-durante-confusao-em-leme/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/10/pm-plantao-policial-delegacia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781518101,
-        "data": "15/06/2026 10:08"
-    },
-    {
-        "titulo": "Prefeito Chico Sardelli solicita afastamento de 13 dias  e Odir Demarchi vai assumir a prefeitura",
-        "link": "https://portaldeamericana.com/prefeito-chico-sardelli-solicita-afastamento-de-13-dias-e-odir-demarchi-vai-assumir-a-prefeitura/?utm_source=rss&utm_medium=rss&utm_campaign=prefeito-chico-sardelli-solicita-afastamento-de-13-dias-e-odir-demarchi-vai-assumir-a-prefeitura",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8525.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1781518082,
-        "data": "15/06/2026 10:08"
-    },
-    {
-        "titulo": "Santa Bárbara divulga habilitados para Alimentação na 27ª Festa da Negadinha",
-        "link": "https://novomomento.com.br/santa-barbara-alimentacao-festa-da-negadinha/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781518060,
-        "data": "15/06/2026 10:07"
-    },
-    {
-        "titulo": "Até 2027! Americana celebra campeões e encerra mais uma edição histórica!",
-        "link": "https://hjnews.com.br/ate-2027-americana-celebra-campeoes-e-encerra-mais-uma-edicao-historica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781517795,
-        "data": "15/06/2026 10:03"
-    },
-    {
-        "titulo": "8 presos: violência doméstica, furtos, porte ilegal de arma e adulterar veículo",
-        "link": "https://novomomento.com.br/8-presos-violencia-domestica-furto-porte-ilegal/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781517681,
-        "data": "15/06/2026 10:01"
-    },
-    {
-        "titulo": "Uruguai de olho na zebra Arábia Saudita hoje na estreia",
-        "link": "https://rapidonoar.com.br/uruguai-de-olho-na-zebra-arabia-saudita-hoje-na-estreia/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/arabia-x-uruguai-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781517508,
-        "data": "15/06/2026 09:58"
-    },
-    {
-        "titulo": "Noite inesquecível na Festa do Peão  de Americana!",
-        "link": "https://hjnews.com.br/noite-inesquecivel-na-festa-do-peao-de-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781517448,
-        "data": "15/06/2026 09:57"
-    },
-    {
-        "titulo": "Com apoio da Prefeitura de Americana, programa de inovação para indústria têxtil lança 2ª edição no dia 18 de junho",
-        "link": "https://noticiafm.com/com-apoio-da-prefeitura-de-americana-programa-de-inovacao-para-industria-textil-lanca-2a-edicao-no-dia-18-de-junho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1781517433,
-        "data": "15/06/2026 09:57"
     }
 ]
