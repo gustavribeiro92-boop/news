@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Dólar supera R$ 5,20, e bolsa cai com expectativa por juros nos EUA",
+        "link": "https://sb24horas.com.br/dolar-supera-r-520-e-bolsa-cai-com-expectativa-por-juros-nos-eua/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1782957659,
+        "data": "02/07/2026 02:00"
+    },
+    {
+        "titulo": "Idosa é encontrada morta dentro de residência após vizinhos sentirem cheiro de feijão queimado em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/02/idosa-e-encontrada-morta-dentro-de-residencia-apos-vizinhos-sentirem-cheiro-de-feijao-queimado-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782956811,
+        "data": "02/07/2026 01:46"
+    },
+    {
+        "titulo": "Garupa fica com a perna enroscada após acidente no Centro de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/02/garupa-fica-com-a-perna-enroscada-apos-acidente-no-centro-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782956447,
+        "data": "02/07/2026 01:40"
+    },
+    {
+        "titulo": "Policial militar fica gravemente ferido após colisão com ciclista na Avenida Lauro Corrêa da Silva, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/02/policial-militar-fica-gravemente-ferido-apos-colisao-com-ciclista-na-avenida-lauro-correa-da-silva-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1782955600,
+        "data": "02/07/2026 01:26"
+    },
+    {
+        "titulo": "Motociclista fica gravemente ferido após tentar desviar de ciclista na Lauro Corrêa, em Limeira",
+        "link": "https://rapidonoar.com.br/motociclista-fica-gravemente-ferido-apos-tentar-desviar-de-ciclista-na-lauro-correa-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/moto-bike-acidente-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782950802,
+        "data": "02/07/2026 00:06"
+    },
+    {
+        "titulo": "O que faz um vinho &#8220;combinar&#8221; com o inverno?",
+        "link": "https://novomomento.com.br/o-que-faz-um-vinho-combinar-com-o-inverno/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1782948793,
+        "data": "01/07/2026 23:33"
+    },
+    {
+        "titulo": "Professora desabafa após aluno colocar vidro em sua água: “Se eu fosse você, não beberia”",
+        "link": "https://rapidonoar.com.br/professora-desabafa-apos-aluno-colocar-vidro-em-sua-agua-se-eu-fosse-voce-nao-beberia/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/professora-desabafo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1782947023,
+        "data": "01/07/2026 23:03"
+    },
+    {
         "titulo": "Mulher fica com pé preso na roda de moto após motociclista esquecer cadeado e cair em Limeira",
         "link": "https://rapidonoar.com.br/mulher-fica-com-pe-preso-na-roda-de-moto-apos-motociclista-esquecer-cadeado-e-cair-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/colisao-moto-centro-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -106,6 +169,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1782936120,
         "data": "01/07/2026 20:02"
+    },
+    {
+        "titulo": "Operação conjunta apreende 245 tijolos de pasta-base de cocaína em Americana - diarioesp.com.br",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd05UT0R4T01MYXVkQlpNcGxhMU04MWNHLU9nY2Z2UWN0VDZJaUxrWC01eUR0Tng2N2FmUTBNWlRKQnc4MlItQkNXd1FXOW1GeHcwR3hjYjBoTnVWRGRyWDlSUXBDM2RkQ3BjQkExSlNtUkV4VHpIaW83dklsUFZHaGh5OGllaHhaY2tENlBFUGZFRVlwTmFxVHg0LU42TzFSUExyUjBua1g1NkZyZ1gxNC00QWtQY25oVFUzLVFueHVoR0ZRcHc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1782936000,
+        "data": "01/07/2026 20:00"
     },
     {
         "titulo": "Segurança esfaqueia três colegas após discussão em hotel de Paulínia",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1781616120,
         "data": "16/06/2026 13:22"
-    },
-    {
-        "titulo": "João Fonseca é dominado por alemão e perde na estreia da temporada de grama",
-        "link": "https://noticiafm.com/joao-fonseca-e-dominado-por-alemao-e-perde-na-estreia-da-temporada-de-grama/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1781616094,
-        "data": "16/06/2026 13:21"
-    },
-    {
-        "titulo": "Neymar treina em campo com a seleção brasileira pela primeira vez nos Estados Unidos",
-        "link": "https://noticiafm.com/neymar-treina-em-campo-com-a-selecao-brasileira-pela-primeira-vez-nos-estados-unidos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticia fm",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/LogoNoticia_2024_512x512-2.png",
-        "timestamp": 1781615835,
-        "data": "16/06/2026 13:17"
-    },
-    {
-        "titulo": "Homem morre ao ser atingido por peça em transportadora de Artur Nogueira",
-        "link": "https://rapidonoar.com.br/homem-morre-ao-ser-atingido-por-peca-em-transportadora-de-artur-nogueira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/morte-acidental-transportadora-em-artur-nogueira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781615584,
-        "data": "16/06/2026 13:13"
-    },
-    {
-        "titulo": "Motta convoca reunião de líderes para votar PL do fim da escala 6×1",
-        "link": "https://hjnews.com.br/motta-convoca-reuniao-de-lideres-para-votar-pl-do-fim-da-escala-6x1/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781615147,
-        "data": "16/06/2026 13:05"
-    },
-    {
-        "titulo": "Audiência pública nesta terça (16) debate eventuais emendas e texto da LDO 2027",
-        "link": "https://difusorapiracicaba.com.br/audiencia-publica-nesta-terca-16-debate-eventuais-emendas-e-texto-da-ldo-2027/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1781614800,
-        "data": "16/06/2026 13:00"
-    },
-    {
-        "titulo": "DAE faz melhorias na região do Zanaga mas tem alerta de falta d&#8217;água",
-        "link": "https://novomomento.com.br/dae-melhorias-zanaga-mas-alerta-de-falta-dagua/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781614520,
-        "data": "16/06/2026 12:55"
-    },
-    {
-        "titulo": "DAE inicia reforma do terceiro filtro da ETA 2 e avança na modernização das estruturas de tratamento",
-        "link": "https://hjnews.com.br/dae-inicia-reforma-do-terceiro-filtro-da-eta-2-e-avanca-na-modernizacao-das-estruturas-de-tratamento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781614110,
-        "data": "16/06/2026 12:48"
-    },
-    {
-        "titulo": "Regras de suplência na Câmara de Nova Odessa estão corretas, reconhece MP",
-        "link": "https://hjnews.com.br/regras-de-suplencia-na-camara-de-nova-odessa-estao-corretas-reconhece-mp/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781613363,
-        "data": "16/06/2026 12:36"
     }
 ]
