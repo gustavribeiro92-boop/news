@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Mutirão de podas na rede elétrica supera mil árvores aparadas em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/04/mutirao-de-podas-na-rede-eletrica-supera-mil-arvores-aparadas-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1783125450,
+        "data": "04/07/2026 00:37"
+    },
+    {
+        "titulo": "Obituário de Limeira e região: Veja os falecimentos ocorridos nesta sexta-feira (3)",
+        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-veja-os-falecimentos-ocorridos-nesta-sexta-feira-3-3/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/05/cemiterio-obituario-despedida-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783122959,
+        "data": "03/07/2026 23:55"
+    },
+    {
+        "titulo": "Durante as férias escolares, BRK orienta sobre hábitos que ajudam a preservar a rede de esgoto em Limeira",
+        "link": "https://rapidonoar.com.br/durante-as-ferias-escolares-brk-orienta-sobre-habitos-que-ajudam-a-preservar-a-rede-de-esgoto-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/brk-equipe-trabalhando-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783122595,
+        "data": "03/07/2026 23:49"
+    },
+    {
+        "titulo": "Identificado homem que morreu com golpe de mata-leão dado por funcionários de empresa de reabilitação em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/03/identificado-homem-que-morreu-com-golpe-de-mata-leao-dado-por-funcionarios-de-empresa-de-reabilitacao-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1783122459,
+        "data": "03/07/2026 23:47"
+    },
+    {
+        "titulo": "Feirão da Copa BRK ganha prorrogação e facilita pagamento das contas de água e esgoto em atraso",
+        "link": "https://rapidonoar.com.br/feirao-da-copa-brk-ganha-prorrogacao-e-facilita-pagamento-das-contas-de-agua-e-esgoto-em-atraso/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2021/10/brk-conta-agua-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783121668,
+        "data": "03/07/2026 23:34"
+    },
+    {
         "titulo": "CNPJ Alfanumérico entra em vigor: o que muda pras empresas",
         "link": "https://novomomento.com.br/cnpj-alfanumerico-vigor-oque-muda-pras-empresas/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -349,6 +394,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1783094460,
         "data": "03/07/2026 16:01"
+    },
+    {
+        "titulo": "UPA Dona Rosa celebra dois anos com mais de 165 mil atendimentos realizados em Americana - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vVmtSeWxsLUxhMmRLaVZFdFZGbkZONFJtbF8zeUowVHhraW9fQTAtSVJBTXlESkY4cThZR1ZPTldOSE92N3pWMjBjVmh0YmxkMXFYY1FDR2IzSWM3c1Uyc1lNaWpzX1ViVER5SHhBZTZWOHYwbjlmWnhn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783094160,
+        "data": "03/07/2026 15:56"
     },
     {
         "titulo": "Prefeito Rafael Piovezan recebe novo caminhão-pipa do governo estadual para a Defesa Civil",
@@ -17944,59 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1781787950,
         "data": "18/06/2026 13:05"
-    },
-    {
-        "titulo": "Goleiro Vozinha torce por novo contrato: “lugar onde possa ser feliz”",
-        "link": "https://difusorapiracicaba.com.br/goleiro-vozinha-torce-por-novo-contrato-lugar-onde-possa-ser-feliz/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1781787600,
-        "data": "18/06/2026 13:00"
-    },
-    {
-        "titulo": "Câmara de Nova Odessa homenageará pessoas de destaque na área cultural",
-        "link": "https://hjnews.com.br/camara-de-nova-odessa-homenageara-pessoas-de-destaque-na-area-cultural/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781786141,
-        "data": "18/06/2026 12:35"
-    },
-    {
-        "titulo": "Marcos Caetano pede redutor de velocidade na Avenida Paschoal Ardito",
-        "link": "https://hjnews.com.br/marcos-caetano-pede-redutor-de-velocidade-na-avenida-paschoal-ardito/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781785796,
-        "data": "18/06/2026 12:29"
-    },
-    {
-        "titulo": "Concursos Câmaras 2026: confira os próximos editais! - Estratégia Concursos",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KUUhKSG5yczhqcW5TSGxpUWZCcGt1a05kUHNDLUlpQXZ2LWxyeEg1YjY0UTg0SFUyNk9UMXpUYUZmcEF5NVVUWjlKeHFacURuSHlYX1l1YVl5QU1ReS1SbDZrTVU4bXlGb3kzSEZYWHREWmN3Rk56STE3bnNtZ9IBgwFBVV95cUxPVlp3cnVlbGxWVXBPYjFueTVEellnYllMRGo2dE0wRHR4bEVUbXVTM2pMZ0lubUNYc0V3akR1dmhyeFp1M1RocHA3SE1lVmQzUTdUYWJJR05vZXl5eU1tNmt2MC1jN3NRSVpkcjNWOEVSWENxQm1HYWFpSVVTRWFfbFYxcw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781785735,
-        "data": "18/06/2026 12:28"
-    },
-    {
-        "titulo": "Inverno &#8211; Campanha do Agasalho segue no Shopping ParkCity Sumaré",
-        "link": "https://novomomento.com.br/inverno-campanha-agasalho-segue-parkcity-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781784695,
-        "data": "18/06/2026 12:11"
-    },
-    {
-        "titulo": "Prefeitura reforça ações de proteção à população em situação de rua durante o inverno",
-        "link": "https://hjnews.com.br/prefeitura-reforca-acoes-de-protecao-a-populacao-em-situacao-de-rua-durante-o-inverno/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1781784345,
-        "data": "18/06/2026 12:05"
     }
 ]
