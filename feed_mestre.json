@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Eagles Academy, dos EUA, visita Gran São João pela 16ª vez",
+        "link": "https://rapidonoar.com.br/eagles-academy-dos-eua-visita-gran-sao-joao-pela-16a-vez/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/eagles-2-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783165981,
+        "data": "04/07/2026 11:53"
+    },
+    {
+        "titulo": "Argentina passa sufoco, mas encerra “conto de fadas” de Cabo Verde",
+        "link": "https://sb24horas.com.br/argentina-passa-sufoco-mas-encerra-conto-de-fadas-de-cabo-verde/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783165559,
+        "data": "04/07/2026 11:45"
+    },
+    {
+        "titulo": "Publicação propõe alternativas para exploração de terras raras no país",
+        "link": "https://sb24horas.com.br/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783165145,
+        "data": "04/07/2026 11:39"
+    },
+    {
+        "titulo": "TRE-SP chama partidos para reunião das eleições 2026",
+        "link": "https://novomomento.com.br/tre-sp-chama-partidos-pra-reuniao-eleicoes-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783161990,
+        "data": "04/07/2026 10:46"
+    },
+    {
+        "titulo": "Casal furta produtos no Tivoli e é pego em rodovia",
+        "link": "https://novomomento.com.br/casal-furta-produtos-no-tivoli-e-e-pego-em-rodovia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783159965,
+        "data": "04/07/2026 10:12"
+    },
+    {
         "titulo": "Obra da Emef Parque Vasconcelos, em Hortolândia, começa",
         "link": "https://novomomento.com.br/obra-emef-pq-vasconcelos-em-hortolandia-comeca/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
@@ -268,6 +313,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1783111597,
         "data": "03/07/2026 20:46"
+    },
+    {
+        "titulo": "Brasil é peça-chave para integrar indústria latino-americana de eventos, diz Cocal - Panrotas",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSnZxVTVRU3JwUTR4X3NGYVhjbVBXckpwVjZOUUIwZ0Q2MVJpU253TkFobkZJcGFHai1TMHFrZHFzMy1ST2IxMGNCbkJRSlFXeDA5Wnh0NzFRZzhjQ0lYa0lTeTV5REdiSTg4bzJhTV9TOFFDbXducWF2S0RfRGVHNG1NWnh2UUNJdVd2QWgyZF9uWUZPUDdDX1VRU05jX3M3QmRic0pLOE5SSGFBZmd2YUk2RV9wcWowMVdoSEpMTzl3aGRITmVzcEk2a2hxa0drZWVFSnVwOTlWM2J5ZV9ic19pTTRrMkExd1pR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783110240,
+        "data": "03/07/2026 20:24"
     },
     {
         "titulo": "Moraes mantém Bolsonaro em prisão domiciliar e manda apreender armas registradas em seu nome",
@@ -682,6 +736,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1783090670,
         "data": "03/07/2026 14:57"
+    },
+    {
+        "titulo": "JCNET: Rotas da Cerveja em Campinas miram mercado de US$ 169 milhões - sampi.net.br",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTEJ2cFZ3WUh0YnRaOC1zdnpPS2JGTXR2ZC14MHl4U3h5SXV1V2lHQkRRel9kRnJqamp0cVdWMnNIdWVtSFdCc3hrbkxvM2xmSmx1RFJBbDBsamNkR0dBSjRYMjVvUFN0a0EyWmVtajFsS2ZuY255Q0c0dmdCY2RTUFN1Zk54VUJBMWRUS2lMeHZGNkRIV2k0S2d4R0d1VFZJZzR6bzlvNUVPTl9DbGJiTmRTVVFNRlcxMTFvRUpB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783090525,
+        "data": "03/07/2026 14:55"
     },
     {
         "titulo": "Dupla é presa com mais de 1 kg de crack durante ação da PM no Abílio Pedro, em Limeira",
@@ -1440,6 +1503,15 @@
         "data": "02/07/2026 18:49"
     },
     {
+        "titulo": "Corrida e Caminhada Suzano Faz Bem reúne 2 mil participantes em Americana neste domingo - Jornal Americanense",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU2ZvdWU4Y3NwaHVDOGNlSENtSzhpYlVwS0dOcFhJaHNkb0VBWXA2dTBOU2QyNUJfQm83QkZ6WmhHeHRiS0NwUXFVOFFDeGRpbmxSdWMwS0lvRWRKTlM1Q0dsRXFaT3lxZGtWVGF1LTRIVnJnMUVPSzNjbVpBUXdpcTU1OGZPU2NuNlJwV21rVlBPcXE0MHBRTThKLUc1clcyd1UwcUhsRk5rVnBWdlFJMi1GVVBUUXM0QzF0S3I4c3lNbGszQm45ZGJSUQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783017955,
+        "data": "02/07/2026 18:45"
+    },
+    {
         "titulo": "Monumentos brasileiros serão iluminados com as cores da bandeira americana - RADAR DIGITAL BRASÍLIA",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMExDZDFYSUxFYWtiNGdTenJFOGpKZmRhZ3p1d3B5elVaUjAxaFZpZnBTUHdGTFFqYU40OUtsd0F5dUJiNk9fTG5lWk5JMGRUdU1LMFlSUXRURjdRck5FMWRNbDhFOFh2T0FZMDdNNWNSd0VCNlNSLW9FcFE5UjVzUHhSYUV2eE9uVi1BanQ5LXZleWlSc1AtMUFjVzBwR001bjFnd05sYmd6MnZKSjBELUdxeC1LamtyUFQ3eVlyb21sNHc?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -2032,6 +2104,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1783000800,
         "data": "02/07/2026 14:00"
+    },
+    {
+        "titulo": "Honey Dijon desembarca no Brasil para shows históricos em São Paulo e Curitiba - Gazeta da Semana",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMy1fZGxycE1WeGVIODVFMDRUTFZkWlVibHpjZm5VR09wTTYtcDltZ3hzeFJMaXRqZTN3VW51NmUwc2J6Y1dxMTROYUhxd0RucVMzMkpBQXl0Y0h0cDBlMFpvc1NMSXpva0I5amlMZXQ0ZmUweDI0Ny14RWVFSVpxRzhWT1oxZDU3aEFxZXVIWjA0REFic0ZIdGVFWWp4Z0tlSXdUYTZIMFhmOXk2MkMtVTVQZFVwczA3Rzc5UU9rRDQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783000247,
+        "data": "02/07/2026 13:50"
     },
     {
         "titulo": "Colisão entre carro e moto deixa duas pessoas feridas na Avenida Assis Brasil, em Limeira",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1781798400,
         "data": "18/06/2026 16:00"
-    },
-    {
-        "titulo": "MovieCOMtodos exibe o aguardado “Toy Story 5” neste domingo no Tivoli",
-        "link": "https://www.americanapost.com.br/moviecomtodos-exibe-o-aguardado-toy-story-5-neste-domingo-no-tivoli/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1781798125,
-        "data": "18/06/2026 15:55"
-    },
-    {
-        "titulo": "Fundo Social recebe 22 toneladas de alimentos em ações solidárias da Festa do Peão de Americana",
-        "link": "https://www.americanapost.com.br/fundo-social-recebe-22-toneladas-de-alimentos-em-acoes-solidarias-da-festa-do-peao-de-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1781797975,
-        "data": "18/06/2026 15:52"
-    },
-    {
-        "titulo": "Abusos sexuais em Rio das Pedras leva às prisões de irmão e tio das vítimas em Santa Bárbara d’Oeste",
-        "link": "https://rapidonoar.com.br/abusos-sexuais-em-rio-das-pedras-leva-as-prisoes-de-irmao-e-tio-das-vitimas-em-santa-barbara-doeste/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/abuso-sexual-rio-das-pedras-tio-e-irmao-presos-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781797588,
-        "data": "18/06/2026 15:46"
-    },
-    {
-        "titulo": "Polícia Militar prende homem por porte ilegal de arma, tráfico de drogas e tentativa de homicídio em Limeira - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNXlpZEJaVnc4aE9sSmlsN0tHbTFqWlNQTXNzUkg1SXZvb1NKN002Wnd3VnloZFU4OGpULU45MFltY3k0REMtVGdTdDh6WFAxUHpFZmZPRWljUEdLaVhzandWWmRiblFPVVp2RG5YZVBlRGk3MmV6N29FcGxBSTB6LUotVXZqdnMxeWN6Yl9ON3Q1RTVGcnN6RkpRaFEyRk4wV244Qm1nYmFna1Y0Q3JDOVJSZXJXVjJaeXhJT3dUSmhaWHExZTVOMnJadU52TGtLalFCaU5VN0tCX1BSdUJybHNvYWw4Q01BUF80UmVYdUVtVW45MDhQV0Ixcjl4OWFvaEdLUmpMblVvUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781796720,
-        "data": "18/06/2026 15:32"
-    },
-    {
-        "titulo": "Projeto prevê programa de reconstrução dentária para vítimas de violência",
-        "link": "https://difusorapiracicaba.com.br/projeto-preve-programa-de-reconstrucao-dentaria-para-vitimas-de-violencia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1781796600,
-        "data": "18/06/2026 15:30"
-    },
-    {
-        "titulo": "Brasil garante seleções da ginástica artística no Mundial da Holanda",
-        "link": "https://sb24horas.com.br/brasil-garante-selecoes-da-ginastica-artistica-no-mundial-da-holanda/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781795761,
-        "data": "18/06/2026 15:16"
-    },
-    {
-        "titulo": "Nova Odessa recebe viatura 4&#215;4 e kit de combate a incêndios à Defesa Civil",
-        "link": "https://novomomento.com.br/nova-odessa-recebe-viatura-4x4-kit-defesa-civil/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781795531,
-        "data": "18/06/2026 15:12"
-    },
-    {
-        "titulo": "Prefeitura inicia obras de recapeamento em vias dos bairros Algodoal e Cidade Jardim",
-        "link": "https://difusorapiracicaba.com.br/prefeitura-inicia-obras-de-recapeamento-em-vias-dos-bairros-algodoal-e-cidade-jardim/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1781794800,
-        "data": "18/06/2026 15:00"
-    },
-    {
-        "titulo": "Caso Master expõe uma engrenagem de corrupção sem cor partidária",
-        "link": "https://novomomento.com.br/caso-master-engrenagem-corrupc-sem-cor-partidar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781793978,
-        "data": "18/06/2026 14:46"
     }
 ]
