@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Mulher sofre mal-estar e bate carro contra árvore na Avenida Laranjeiras, em Limeira",
+        "link": "https://rapidonoar.com.br/mulher-sofre-mal-estar-e-bate-carro-contra-arvore-na-avenida-laranjeiras-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/acidente-carro-arvore-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783202135,
+        "data": "04/07/2026 21:55"
+    },
+    {
+        "titulo": "Casal rouba Jeep em Araras, mas acaba preso em Leme",
+        "link": "https://rapidonoar.com.br/casal-rouba-jeep-em-araras-mas-acaba-preso-em-leme/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/prisao-casal-araras-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783200949,
+        "data": "04/07/2026 21:35"
+    },
+    {
+        "titulo": "Eleições 2026: veja o que fica proibido para agentes públicos a partir deste sábado",
+        "link": "https://rapidonoar.com.br/eleicoes-2026-veja-o-que-fica-proibido-para-agentes-publicos-a-partir-deste-sabado/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/urna-eletronica-eleicoes-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783197725,
+        "data": "04/07/2026 20:42"
+    },
+    {
+        "titulo": "Hortolândia forma instrutores de lian gong: exercícios à população",
+        "link": "https://novomomento.com.br/hortolandia-forma-instrutores-de-lian-gong-exercicios-a-populacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783197225,
+        "data": "04/07/2026 20:33"
+    },
+    {
+        "titulo": "Aneel sorteia mais quatro lotes de transmissão de energia",
+        "link": "https://sb24horas.com.br/aneel-sorteia-mais-quatro-lotes-de-transmissao-de-energia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783197058,
+        "data": "04/07/2026 20:30"
+    },
+    {
+        "titulo": "Venda de paella caipira ajudará na reforma de igreja no Jardim Nova Suíça",
+        "link": "https://rapidonoar.com.br/venda-de-paella-caipira-ajudara-na-reforma-de-igreja-no-jardim-nova-suica-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/paella-2.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783195047,
+        "data": "04/07/2026 19:57"
+    },
+    {
         "titulo": "Limeirense participa de exposição de fotografia no litoral de São Paulo",
         "link": "https://rapidonoar.com.br/limeirense-participa-de-exposicao-de-fotografia-no-litoral-de-sao-paulo-sp/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/ana-5.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -34,6 +88,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1783190697,
         "data": "04/07/2026 18:44"
+    },
+    {
+        "titulo": "Bruno Guimarães projeta duelo com Odegaard e alerta sobre bola parada",
+        "link": "https://sb24horas.com.br/bruno-guimaraes-projeta-duelo-com-odegaard-e-alerta-sobre-bola-parada/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783190469,
+        "data": "04/07/2026 18:41"
     },
     {
         "titulo": "Hortolândia notifica veículos e carcaças abandonadas em ruas e avenidas",
@@ -151,6 +214,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1783170302,
         "data": "04/07/2026 13:05"
+    },
+    {
+        "titulo": "Suspeito de se passar por policial civil é preso em Nova Odessa após perseguição e troca de tiros - redeutv.com.br",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFfMFYwV1k1VjB1ZlhDcjJxbjhLYzhscVRVVDExLU5QQVRPdTEyQjhpNlFkREFNMzhiRFpsRC1NcU5YWVdTeE1ZODNRSnUyLXkzX0dIQ3J2TTNqbE5mRDBEaDRLOFRnRFRaQWM3YmVGbDk2MndjOVQyVTVucE1OMWNxQjV3Q3NOLXJ5VGRjakVCaURMUFFiQXBQbWlRdmFERmhqbXVIVGlBWi1CTC1PdzBkR2FpUGhrNnZ2LQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783168800,
+        "data": "04/07/2026 12:40"
     },
     {
         "titulo": "Suspeito de se passar por policial civil é preso em Nova Odessa após perseguição e troca de tiros - G1",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1781811750,
         "data": "18/06/2026 19:42"
-    },
-    {
-        "titulo": "Policiais civis da Seccold de Piracicaba prendem casal por coação no curso de processo",
-        "link": "https://rapidonoar.com.br/policiais-civis-da-seccold-de-piracicaba-prendem-casal-por-coacao-no-curso-de-processo/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/casal-preso-por-coacao-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781809917,
-        "data": "18/06/2026 19:11"
-    },
-    {
-        "titulo": "Santa Bárbara Rock Fest 2026 divulga bandas independentes selecionadas para o festival",
-        "link": "https://portaldeamericana.com/santa-barbara-rock-fest-2026-divulga-bandas-independentes-selecionadas-para-o-festival/?utm_source=rss&utm_medium=rss&utm_campaign=santa-barbara-rock-fest-2026-divulga-bandas-independentes-selecionadas-para-o-festival",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8705.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1781809669,
-        "data": "18/06/2026 19:07"
-    },
-    {
-        "titulo": "Santa Bárbara Rock Fest 2026 divulga bandas independentes selecionadas para o festival",
-        "link": "https://portaldeamericana.com/santa-barbara-rock-fest-2026-divulga-bandas-independentes-selecionadas-para-o-festival/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_8705.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1781809669,
-        "data": "18/06/2026 19:07"
-    },
-    {
-        "titulo": "Prefeito Chico anuncia investimento de R$ 71 milhões na recuperação asfáltica da cidade - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMklHY1NCSmxWX0IxY1hhaVZoV2pWaGJnbkxIclhSZWw0UHB6VXhaRDhUckM0N2V0dWhjLU9vc05teWItZUtOTXVkVGx0aGdXZ3dpd0xhdlBSaW9NZGRDUlFBTy04T1hOSXhiV25HZWxZQ29qQkZUMEtYUFVyc0VUdkIzMlpScUoyZFNkOHdVcE1RWjVtb2dKREthVGlxOEtqZ05qeG9zc3dtaWRpalpGbl9yZFJzWFRxeTRnZ1hhc3BXb2dRX2d0aFBrcVJTTk10MVZLRmpwMG5pVi11YWlLRWNWdVJGVEJFdlRvWVpn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781808000,
-        "data": "18/06/2026 18:40"
-    },
-    {
-        "titulo": "Mulher capota veículo após bater em outro que estava estacionado em avenida de Limeira",
-        "link": "https://rapidonoar.com.br/mulher-capota-veiculo-apos-bater-em-outro-que-estava-estacionado-em-avenida-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/capotamento-na-avenida-costa-e-silva-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781807984,
-        "data": "18/06/2026 18:39"
-    },
-    {
-        "titulo": "Receita paga lote especial de restituição automática em julho",
-        "link": "https://sb24horas.com.br/receita-paga-lote-especial-de-restituicao-automatica-em-julho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1781807715,
-        "data": "18/06/2026 18:35"
-    },
-    {
-        "titulo": "Situação estrutural da Rodoviária de Americana preocupa Pastor Miguel",
-        "link": "https://novomomento.com.br/situacao-estrutural-da-rodoviaria-de-americana-preocupa-pastor-miguel/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781806303,
-        "data": "18/06/2026 18:11"
-    },
-    {
-        "titulo": "Chegada de mais equipamentos para nova ETA vai interditar entrada da cidade nesta sexta-feira - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObkNaVFQ1QVBwc2VKZTFjQm9uZGNGMDN6UVVaeU16aWloNkVwOGlYeXpLQl91TFk5RUM2QnFzUVE4UnBQcy1KOHRlU2VUcjJYaDdlV1Z4WnhId2t1OWdaeTFObHM2M1hQT1p5N0tNQ05RSVZXQ1Y4amd4RjF0dnM3emRVcnJiaXRUMVYycFRzOE41NHA2Y2hVb2R3RDlGUl9zSGQ4d0NEd1JEQUdIWVVtUWtjWFdBZ0g1ZVpwTTl6RUlnWndHQ2xUdy1OSVZ5M20zNGduYS1nbFJxWEhwc0U1SnVVYWk5c0luSUZwQlY3aVFFZTQ2X1h3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1781806200,
-        "data": "18/06/2026 18:10"
     }
 ]
