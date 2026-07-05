@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Conta de luz fica 10% mais cara em São Paulo",
+        "link": "https://sb24horas.com.br/conta-de-luz-fica-10-mais-cara-em-sao-paulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783228982,
+        "data": "05/07/2026 05:23"
+    },
+    {
+        "titulo": "Farmácia Municipal atende até as 16h neste domingo em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/05/farmacia-municipal-atende-ate-as-16h-neste-domingo-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1783223436,
+        "data": "05/07/2026 03:50"
+    },
+    {
         "titulo": "De pênalti, França vence retranca do Paraguai e se classifica na Copa",
         "link": "https://sb24horas.com.br/de-penalti-franca-vence-retranca-do-paraguai-e-se-classifica-na-copa/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17980,23 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1781813684,
         "data": "18/06/2026 20:14"
-    },
-    {
-        "titulo": "DAE de Santa Bárbara planta 780 mudas de árvores em área da nova represa",
-        "link": "https://novomomento.com.br/dae-de-santa-barbara-planta-780-mudas-de-arvores-em-area-da-nova-represa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1781813479,
-        "data": "18/06/2026 20:11"
-    },
-    {
-        "titulo": "Mutirão do Castra + Limeira ainda tem vagas para castração de cães",
-        "link": "https://rapidonoar.com.br/mutirao-do-castra-limeira-ainda-tem-vagas-para-castracao-de-caes/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/03/castracao-vacina-pet-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1781813304,
-        "data": "18/06/2026 20:08"
     }
 ]
