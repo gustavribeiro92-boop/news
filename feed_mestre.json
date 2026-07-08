@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Atropelamentos de animais preocupam vereadora Roberta Lima",
+        "link": "https://novomomento.com.br/atropelamentos-animais-vereadora-roberta-lima/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783539766,
+        "data": "08/07/2026 19:42"
+    },
+    {
+        "titulo": "Liga das Nações: Brasil bate anfitrião Japão em abertura de 3ª semana",
+        "link": "https://sb24horas.com.br/liga-das-nacoes-brasil-bate-anfitriao-japao-em-abertura-de-3a-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783539078,
+        "data": "08/07/2026 19:31"
+    },
+    {
+        "titulo": "O futuro da suplementação é líquido",
+        "link": "https://novomomento.com.br/o-futuro-da-suplementacao-e-liquido/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783539013,
+        "data": "08/07/2026 19:30"
+    },
+    {
+        "titulo": "Escola de Música de Americana tem vagas remanescentes para cursos livres - SB Notícias",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjZMRGtXdVpVdm5ieW4wTW85TXFoVU9HNjNoc1l1RnVsZjZuTGo3U0N4NXJadzlKNjFHa0FpenJaX3NmTFJsZ0VKUThmYWNyRnZ1Mmt5eGI4R1RDeXFKREp6ZEVYZGNSRE9XX0U1WFZvT3NUMnd0TzJUeENiTDZGRTF6NnVqekVhR2gxRjNldjRfcWwyM2ZxWFZtTnc2VFVtYVkyTVdtSGFNS29xcDJmamx3OA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783538940,
+        "data": "08/07/2026 19:29"
+    },
+    {
+        "titulo": "Concurso da Prefeitura de São Carlos abre vagas com salários de até R$ 9,8 mil",
+        "link": "https://rapidonoar.com.br/concurso-da-prefeitura-de-sao-carlos-abre-vagas-com-salarios-de-ate-r-98-mil/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/prefeitura-sao-carlos-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783537972,
+        "data": "08/07/2026 19:12"
+    },
+    {
+        "titulo": "Com queda nas doações no inverno, Banco de Sangue do Hospital Municipal funciona nesta quinta-feira",
+        "link": "https://www.americanapost.com.br/com-queda-nas-doacoes-no-inverno-banco-de-sangue-do-hospital-municipal-funciona-nesta-quinta-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1783535767,
+        "data": "08/07/2026 18:36"
+    },
+    {
+        "titulo": "O WhatsApp virou o novo escritório e acende alerta",
+        "link": "https://novomomento.com.br/whatsapp-novo-escritorio-e-acende-alerta/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783535050,
+        "data": "08/07/2026 18:24"
+    },
+    {
+        "titulo": "Homem é preso em Americana com caminhonete furtada e placas adulteradas",
+        "link": "https://novomomento.com.br/homem-preso-americana-caminhont-furta-adulterad/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783533394,
+        "data": "08/07/2026 17:56"
+    },
+    {
+        "titulo": "UPAs de Americana são qualificadas pelo Ministério da Saúde e garantem mais R$ 3,9 mi anuais em repasses federais",
+        "link": "https://hjnews.com.br/upas-de-americana-sao-qualificadas-pelo-ministerio-da-saude-e-garantem-mais-r-39-mi-anuais-em-repasses-federais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1783533220,
+        "data": "08/07/2026 17:53"
+    },
+    {
         "titulo": "Programa oferece troca gratuita da CNH para categorias C, D e E; veja como participar",
         "link": "https://rapidonoar.com.br/programa-oferece-troca-gratuita-da-cnh-para-categorias-c-d-e-e-veja-como-participar/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/transito-caminhao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -387,6 +468,15 @@
         "data": "08/07/2026 13:17"
     },
     {
+        "titulo": "UPAs de Americana são qualificadas pelo Ministério da Saúde e garantem mais R$ 3,9 mi anuais - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XSEhWZUsyRGFONm1fNkhGRlB3dkFNbExDTzZGNER6YnpNTjJyZ2wzU3FyTWtNdEZKVmNnX253R0N0SzktdjlrLW9ucmhaWG44dTZNMW9WaVJOU01WdTBqOVJPVXNETWZzZ2wyelJZSGtRZ2NabUM0OXB3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783516380,
+        "data": "08/07/2026 13:13"
+    },
+    {
         "titulo": "Poupança: saques superam depósitos em R$39,3 bilhões no semestre",
         "link": "https://sb24horas.com.br/poupanca-saques-superam-depositos-em-r393-bilhoes-no-semestre/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -407,6 +497,15 @@
     {
         "titulo": "Polícia Civil de Americana investiga esquema de fraudes bancárias e documentos falsos - G1",
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbF9WRnktQW8wZ0JKZ0dyUXBoY1NyNGtWekhzNFliVzlTYlE2QjhzZ3FJaXlUS2pkRHYwUmNHQXJsMThQak5obG1LQkliZE1FMlFzWDJvYXY1MDNmM1ozNERnY21PSDJxejlMczdCSkR2UVNZZ1gtLVlJaW5GQXdrOEhpNDJZd0h0eDlYbHhyZ2lqNDFGQTlUdENHOS1QNEZyaHFneTYyc0RlYi12allUeW9oRTFkek1qa05ObC1hc3BPbGxCM1pyQjhaTmhPV0ZjdkVCeVIxdU1zZ2xxOUxKYlJPUnEwRzdoYnl4TFdBSXBzTFg3QUQ5VkV6clBwbjZZSllSTmEzeFpxVnpYeFZ4LWlLY2lHTEJMemVyT1k1Q3oyamhWckHSAbQCQVVfeXFMTkl4UUZMOWJvbjBvT3FqNXZ1eGUxVXc0cmluUVBsZ2FZX3IxcE1LOVlDeUROQjNqbnpIdW5KeEdnYWEzX2tkZW5Xb2VSZTk1QTFBekJ4aWkxS2tleUpoQWxWNS1hR3RyV2liVHdoT1FQa0c0VzdvckRwNEktZWJxaDgtRGN6d0tuUHVwbGp0WTBmMGJkTG5pU0x4WWlZYUpLdkFHMWtwVDlzVFV6Z2hYSXY1cXdqWFoxblNDZVppMnJoRC02dHB3ZVhkLUJoZExnQ1ZRT0tFM3R5LXpBVEpKWEQ3YkFrNGVJbmNtZmxaR21DZ29BV2V5S29Va2Uya2ZhRE1pRmhWWF9Fd0l4eTZuMXRnci1LUDI0TkNuWmlVVzdiM25USzZhakdVRDgyU1Y3Z25nNGs?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783516051,
+        "data": "08/07/2026 13:07"
+    },
+    {
+        "titulo": "Polícia Civil de Americana investiga esquema de fraudes bancárias e documentos falsos - G1",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOSXhRRkw5Ym9uMG9PcWo1dnV4ZTFVdzRyaW5RUGxnYVlfcjFwTUs5WUN5RE5CM2puekh1bkp4R2dhYTNfa2RlbldvZVJlOTVBMUF6QnhpaTFLa2V5SmhBbFY1LWFHdHJXaWJUd2hPUVBrRzRXN29yRHA0SS1lYnFoOC1EY3p3S25QdXBsanRZMGYwYmRMbmlTTHhZaVlhSkt2QUcxa3BUOXNUVXpnaFhJdjVxd2pYWjFuU0NlWmkycmhELTZ0cHdlWGQtQmhkTGdDVlFPS0UzdHktekFUSkpYRDdiQWs0ZUluY21mbFpHbUNnb0FXZXlLb1VrZTJrZmFETWlGaFZYX0V3SXh5Nm4xdGdyLUtQMjROQ25aaVVXN2IzblRLNmFqR1VEODJTVjdnbmc0a9IBtAJBVV95cUxOSXhRRkw5Ym9uMG9PcWo1dnV4ZTFVdzRyaW5RUGxnYVlfcjFwTUs5WUN5RE5CM2puekh1bkp4R2dhYTNfa2RlbldvZVJlOTVBMUF6QnhpaTFLa2V5SmhBbFY1LWFHdHJXaWJUd2hPUVBrRzRXN29yRHA0SS1lYnFoOC1EY3p3S25QdXBsanRZMGYwYmRMbmlTTHhZaVlhSkt2QUcxa3BUOXNUVXpnaFhJdjVxd2pYWjFuU0NlWmkycmhELTZ0cHdlWGQtQmhkTGdDVlFPS0UzdHktekFUSkpYRDdiQWs0ZUluY21mbFpHbUNnb0FXZXlLb1VrZTJrZmFETWlGaFZYX0V3SXh5Nm4xdGdyLUtQMjROQ25aaVVXN2IzblRLNmFqR1VEODJTVjdnbmc0aw?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -457,6 +556,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1783515355,
         "data": "08/07/2026 12:55"
+    },
+    {
+        "titulo": "Exportações crescem 45% no primeiro semestre em Americana - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55QlUyVXBtNU1mV2lxMU1UVWlrYXd4Sy1lTTNHX0t3bk95TmtLSmN1Z1pRNGhMcUppSThtZWlHLXZQM2lrVV80SlRuY3ExVmdVOFp6QzhHQ3J4UGZvU2gzaTZnNjZYeXRGM3ZHZG1uQnJ6eFZJRHZXYzFR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783515240,
+        "data": "08/07/2026 12:54"
     },
     {
         "titulo": "Divisão de Vigilância de Zoonoses recebe formação antirracista para servidores municipais",
@@ -565,6 +673,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1783512720,
         "data": "08/07/2026 12:12"
+    },
+    {
+        "titulo": "Com queda nas doações no inverno, Banco de Sangue do Hospital Municipal funciona nesta quinta-feira - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oU1dsakxsWF9XdzBObVk2bVQ4Rks2cTNQMVIwNFQ3YmpBcFFWSnY5MWFFUFJOUEUxYmpzVl8ycVF6bU9ieHdOQzRZaW93WkNlbkFlSHdEdnc2dFFHT3VKTXVnUGhmUG0zRjdKRFcySDRYLV9wTk52OERn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783512540,
+        "data": "08/07/2026 12:09"
     },
     {
         "titulo": "Motociclista fica ferida após desviar de cachorro e cair em Piracicaba",
@@ -1033,6 +1150,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1783463124,
         "data": "07/07/2026 22:25"
+    },
+    {
+        "titulo": "Operação Chargeback da DIG de Americana desarticula quadrilha que vendia diplomas falsos e aplicava golpes bancários em Americana e região - Portal Dia Dia News",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRlQ2MHlKZkdkaUxQV3l3aWFBV1BCRUpkQXl5QnVJaW9MeTZ1RjR5cDM3dnlwLV92ZVpDNm42aDliSF9HV0dUNDdha2NLeG9TMG8xOUpTZEJCYy1BaTNMQnpxN1NkbnNfUG9hM21ZcmxycHZtdjVMR2NFQ1hOS1pwSWN4YUxoUVZ6cF9PWTE4aFFpX2lOSG1oMktCUzVBOVpQcEtqUml2dHNNNnhVVFd3MkV1SGoycnBaeUR3MFRVQXZTSl9TUXluOTg2dlRwYUNjTDZyQl93NkFkN2p0WG9qQU1vSXl4NmhuWXBYSC1FRmx4OHhFQi0wZGNqOVVzY29RZVZRX0ZjajBYcXJSQmZvY1E0c3ZWSHVnRWNyVkRpVW5VZw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783461910,
+        "data": "07/07/2026 22:05"
     },
     {
         "titulo": "Suprema Corte dos EUA mantém cidadania por nascimento e rejeita restrições propostas por Trump",
@@ -17872,131 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1782225000,
         "data": "23/06/2026 14:30"
-    },
-    {
-        "titulo": "Prefeitura diz que não há reclamações sobre falhas de parquímetros da Área Azul",
-        "link": "https://portaldeamericana.com/prefeitura-diz-que-nao-ha-reclamacoes-sobre-falhas-de-parquimetros-da-area-azul/?utm_source=rss&utm_medium=rss&utm_campaign=prefeitura-diz-que-nao-ha-reclamacoes-sobre-falhas-de-parquimetros-da-area-azul",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9002.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782224433,
-        "data": "23/06/2026 14:20"
-    },
-    {
-        "titulo": "Prefeitura diz que não há reclamações sobre falhas de parquímetros da Área Azul",
-        "link": "https://portaldeamericana.com/prefeitura-diz-que-nao-ha-reclamacoes-sobre-falhas-de-parquimetros-da-area-azul/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9002.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782224433,
-        "data": "23/06/2026 14:20"
-    },
-    {
-        "titulo": "Prefeitura envia à Câmara projeto de lei que destina R$ 1 milhão para finalizar reconstrução do Mercado Municipal",
-        "link": "https://difusorapiracicaba.com.br/prefeitura-envia-a-camara-projeto-de-lei-que-destina-r-1-milhao-para-finalizar-reconstrucao-do-mercado-municipal/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1782223200,
-        "data": "23/06/2026 14:00"
-    },
-    {
-        "titulo": "BC: “melhores práticas” recomendam não reagir a choques de oferta",
-        "link": "https://sb24horas.com.br/bc-melhores-praticas-recomendam-nao-reagir-a-choques-de-oferta/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782222909,
-        "data": "23/06/2026 13:55"
-    },
-    {
-        "titulo": "Rua 7 São Fernando leva o bi do do futsal de Santa Bárbara d&#8217;Oeste",
-        "link": "https://novomomento.com.br/rua-7-sfernando-leva-bi26-futsal-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782222664,
-        "data": "23/06/2026 13:51"
-    },
-    {
-        "titulo": "Hortolândia: radar controlador de velocidade começa a operar no &#8220;Superviário&#8221;",
-        "link": "https://novomomento.com.br/hortolandia-radar-de-velocidade-no-superviario/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782221877,
-        "data": "23/06/2026 13:37"
-    },
-    {
-        "titulo": "Martinelli admite substituir Raphinha e vê Neymar “querendo muito”",
-        "link": "https://difusorapiracicaba.com.br/martinelli-admite-substituir-raphinha-e-ve-neymar-querendo-muito/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1782221400,
-        "data": "23/06/2026 13:30"
-    },
-    {
-        "titulo": "Odir Demarchi assume prefeitura de Americana durante viagem de Chico",
-        "link": "https://novomomento.com.br/odir-assume-prefeitura-americana-viagem-d-chico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782220010,
-        "data": "23/06/2026 13:06"
-    },
-    {
-        "titulo": "Taróloga prevê que Brasil não conquistará o hexacampeonato",
-        "link": "https://novomomento.com.br/tarologa-preve-brasil-nao-conquista-hexacampeao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782219972,
-        "data": "23/06/2026 13:06"
-    },
-    {
-        "titulo": "Odir Demarchi assume Prefeitura de Americana interinamente durante viagem do prefeito Chico Sardelli",
-        "link": "https://hjnews.com.br/odir-demarchi-assume-prefeitura-de-americana-interinamente-durante-viagem-do-prefeito-chico-sardelli/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1782219929,
-        "data": "23/06/2026 13:05"
-    },
-    {
-        "titulo": "Famílias são beneficiadas com doações da Campanha do Agasalho em Santa Bárbara d’Oeste",
-        "link": "https://hjnews.com.br/familias-sao-beneficiadas-com-doacoes-da-campanha-do-agasalho-em-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1782219632,
-        "data": "23/06/2026 13:00"
-    },
-    {
-        "titulo": "Saúde concentra questionamentos aprovados na Câmara",
-        "link": "https://difusorapiracicaba.com.br/saude-concentra-questionamentos-aprovados-na-camara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1782219600,
-        "data": "23/06/2026 13:00"
-    },
-    {
-        "titulo": "Odir Demarchi assume Prefeitura de Americana interinamente durante viagem do prefeito Chico Sardelli - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORzNFaGdLWGhMNzhfU2t3OWV4cUVTYllnT3dsMG1fNHd6Y1puSVJXcXJ0MHNnVXFPZFRiYmFBcWMzVXhTbzJZZG01ZW5PVkh0Y0VlZmlGc2pfRS1ZRjRyZ21tYTJWcnRQOVRRYU1oYUVmVGR2NVZoczYwakM3T015bFZDNXpPeXR0dWVJQ0E5ZUZRdmJHekQxVzNsVmZBUExsTmMtdUdReHl5VnltUi1relVwSHhfSjIxVzJiUlVfZW1wZXhFbG41ZHFtcUpDa2JlRTQwb1kzZkpLMThfeFNyNExoOXJadkoxTXUwLWhQdGZXZTNJeEhMNzBYZ0hmZXls?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782219300,
-        "data": "23/06/2026 12:55"
-    },
-    {
-        "titulo": "Com dúvida na direita, Brasil encerra preparação para encarar Escócia",
-        "link": "https://sb24horas.com.br/com-duvida-na-direita-brasil-encerra-preparacao-para-encarar-escocia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782219132,
-        "data": "23/06/2026 12:52"
     }
 ]
