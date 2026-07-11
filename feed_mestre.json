@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Corpo em estado de decomposição é localizado em área canavieira de Conchal",
+        "link": "https://rapidonoar.com.br/corpo-em-estado-de-decomposicao-e-localizado-em-area-canavieira-de-conchal/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/corpo-localizado-em-conchal-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1783794112,
+        "data": "11/07/2026 18:21"
+    },
+    {
+        "titulo": "Campeonato Barbarense de Futebol Amador &#8211; 5ª Divisão tem inscrições abertas",
+        "link": "https://novomomento.com.br/campeonato-barbarense-amador-5divisao-inscricos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1783793489,
+        "data": "11/07/2026 18:11"
+    },
+    {
+        "titulo": "São Paulo faz 5 a 1 no agregado em jogos-treino - Portal ABC do ABC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CczZESVlGVTBxSlJJRGd6Qlo1dXl0Q3dTZkc3MGg5eWJxaUNKOXhONklKYzJYUEd5NWJlMV9zLUFkdGhHTTctNl9zV2E5c0s2MVB0Smt3QVpmMDA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783792620,
+        "data": "11/07/2026 17:57"
+    },
+    {
+        "titulo": "Goleiro do São Paulo, Coronel descarta investida do Los Angeles Galaxy - UOL",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazJMMVZkbzBPMUQtOFM5R04xY0M0SWRob0NGeXdJTFBvVW9oU2gwQlp2d01BRXhDN3ZKUGVDSUtMNmpmVVlza2xkZXJreTA0eU1DdGh4NkJZQk9WY1Q3cmpueEVRSEhlbC0wLXc2MFNJckhNa0NDb2NiY0dfdzV0YnRZZ2xOUnFqbXBHM2hxMm82SXpDelhoQjQ2WGRTanA4X1VQMHIzd1c4QWZ3NlZYSjVoSmRWcnFPc2tTeHJ5eVJna1RUR2pmZjRVRUJ4MV9ta0szdTRjcXM5VjVwbWJoRU5pYWh1Tm5jemI4TjF1NTNlNjg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783791216,
+        "data": "11/07/2026 17:33"
+    },
+    {
         "titulo": "Goleiro do São Paulo, Coronel descarta investida do Los Angeles Galaxy - UOL",
         "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQM3JodHo2U1YwSkJWSGJmZ295aWx2eTdTVEp4cnlTZkRhY21rZmFsWjduVmE5TGYzSzFQSmR0V3V4c2JhYkprdC1yQnd4Wm9yMU9tdEd1RXdZM0c1SVBjNkZIcWROUEFabUIwQzlaallMMmtabEEzOGJicjlyTUp4RlM5SzdZR2ZzS3oyVVg0YUJPaDlpR0JYSjdLQW5falFkc3Y0bFh6dU1XTlBVY3BMczlUaC1FSm9pS3l2SUgzNE5zU2hULTRaTW5UaEpkS05lLXhBdEI2NW9OM2dWWkViWEh6RUxBV0I2dmIzU01XaXF5NjRrYnR5aUlyNVNqWU1ieEN2WUZBSXNOYWlxQXpQWkt4Zkdaek1CeFVyemg4NFRzRlhTb1VaMlpFOXBYY1E?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -43,6 +79,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1783787741,
         "data": "11/07/2026 16:35"
+    },
+    {
+        "titulo": "Cadillac surpreende em Interlagos e fatura a pole das 6 Horas de SP - O TEMPO",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1BMcnR1dkdsMVVXWGV3eVZfMWlUbTBGU0tXNTFQUDljSXQ3XzVKSmFiX2xrQVpjRFU0ZGJwWkc3TWdYMW1KMTNqSzc4SXF4bTNfLUN5VVVLVDVtaHlLZmlzaC1MYi13RV9DR24xd1V3WVQyakFJaDRwMkhYMEhHQWNYRkJSc25NaDFlM1dOVlVDVUJqWkpSeVVQZ3R5QlhFZ0VDSEVnM3M4alZRZEFvVFppSkNqQzU5MjZYcC1KNkhRbG5PeWVUctIByAFBVV95cUxPU1BMcnR1dkdsMVVXWGV3eVZfMWlUbTBGU0tXNTFQUDljSXQ3XzVKSmFiX2xrQVpjRFU0ZGJwWkc3TWdYMW1KMTNqSzc4SXF4bTNfLUN5VVVLVDVtaHlLZmlzaC1MYi13RV9DR24xd1V3WVQyakFJaDRwMkhYMEhHQWNYRkJSc25NaDFlM1dOVlVDVUJqWkpSeVVQZ3R5QlhFZ0VDSEVnM3M4alZRZEFvVFppSkNqQzU5MjZYcC1KNkhRbG5PeWVUcg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783787445,
+        "data": "11/07/2026 16:30"
     },
     {
         "titulo": "Maníaco da faca: homem com histórico criminal ataca quatro pessoas no interior de SP - Blog do Gustavo Negreiros",
@@ -421,6 +466,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1783755308,
         "data": "11/07/2026 07:35"
+    },
+    {
+        "titulo": "São Paulo vive expectativa de ter elenco quase completo para retorno do Brasileirão - Gazeta Esportiva",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOEFvNTBxOV85YW83VVJBTXZOQkMxc3lhNldFMnBoS2lBQ0d3Q1FoRldkZllFTUpTemJ2RGJaZDlLOWhoTkI3YjBKVGVpclJpSnllOXZ0bkJRNERyMUlJTE5IWEtXcG5SUFZ5aWZrNGFxaXZYcl9yUlh1V20tcXVXV01ORVJiTWlScXNLaklIYVdJVGt1YmZtNWU2cUowUTFheGtYZE14UEN4cFZzVDc5T2stZnZCN0k0Q2FRbmF2bWV3OGRyWHNOdVRuVVB4a09WSVHSAdIBQVVfeXFMTThBbzUwcTlfOWFvN1VSQU12TkJDMXN5YTZXRTJwaEtpQUNHd0NRaEZXZGZZRU1KU3pidkRiWmQ5SzloaE5CN2IwSlRlaXJSaUp5ZTl2dG5CUTREcjFJSUxOSFhLV3BuUlBWeWlmazRhcWl2WHJfclJYdVdtLXF1V1dNTkVSYk1pUnFzS2pJSGFXSVRrdWJmbTVlNnFKMFExYXhrWGRNeFBDeHBWc1Q3OU9rLWZ2QjdJNENhUW5hdm1ldzhkclhzTnVUblVQeGtPVklR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783753466,
+        "data": "11/07/2026 07:04"
     },
     {
         "titulo": "São Paulo vive expectativa de ter elenco quase completo para retorno do Brasileirão - Gazeta Esportiva",
@@ -1145,6 +1199,15 @@
     {
         "titulo": "INMET emite alerta amarelo de baixa umidade em Campinas e Região - O TEMPO",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjM3RDFwd1hnLVFVWF9vc0dhSzJkQ1RXTHF6cWNWREJhYTRORjZ2ZTZPb1JoWU4tdm41SEd2RUlTalczbjd1cTgxbThpU015Z1RQdTNiczFLZmp6NFpvVXJ5dGF4MTBQQVJoV3lFY3A5MHA3TWJ0d01QeElpcUxyclZIb09xVTJsSy1Gbnk4MkVLLWZaREtlemZhVnZuQVFnYXlqMmZhWkpYd9IBrwFBVV95cUxOZEZjdXBGWE5GV0dXWEVycHg3WDg5NS1hSVFGbUk0WWp3dnV5YXlNN2h6b2tKZ09kRWI1a2lZMnM4OEVFSjZFMzZVbC1iS3NOYzY0cDRPbEhEcTh0Tk9hUUxaNVJFb21nTXVjaHJhOW1VUEpHNG1hcEo2WXFlUkNIVjRrVXV1ZlRCRFExc1pGbHJRbUFDc0U2M21RM0ppaldfajZrVVNPRmtNdWVCWm9J?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783685366,
+        "data": "10/07/2026 12:09"
+    },
+    {
+        "titulo": "INMET emite alerta amarelo de baixa umidade em Campinas e Região - O TEMPO",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEZjdXBGWE5GV0dXWEVycHg3WDg5NS1hSVFGbUk0WWp3dnV5YXlNN2h6b2tKZ09kRWI1a2lZMnM4OEVFSjZFMzZVbC1iS3NOYzY0cDRPbEhEcTh0Tk9hUUxaNVJFb21nTXVjaHJhOW1VUEpHNG1hcEo2WXFlUkNIVjRrVXV1ZlRCRFExc1pGbHJRbUFDc0U2M21RM0ppaldfajZrVVNPRmtNdWVCWm9J0gGvAUFVX3lxTE5kRmN1cEZYTkZXR1dYRXJweDdYODk1LWFJUUZtSTRZand2dXlheU03aHpva0pnT2RFYjVraVkyczg4RUVKNkUzNlVsLWJLc05jNjRwNE9sSERxOHROT2FRTFo1UkVvbWdNdWNocmE5bVVQSkc0bWFwSjZZcWVSQ0hWNGtVdXVmVEJEUTFzWkZsclFtQUNzRTYzbVEzSmlqV19qNmtVU09Ga011ZUJab0k?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1782401776,
         "data": "25/06/2026 15:36"
-    },
-    {
-        "titulo": "Léo da Padaria apresenta emendas ao PL das diretrizes orçamentárias para 2027",
-        "link": "https://novomomento.com.br/leo-da-padaria-apresenta-emendas-ao-pl-das-diretrizes-orcamentarias-para-2027/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782401396,
-        "data": "25/06/2026 15:29"
-    },
-    {
-        "titulo": "Léo da Padaria apresenta emendas ao PL das diretrizes orçamentárias para 2027",
-        "link": "https://novomomento.com.br/leo-da-padaria-emendas-orcamentarias-para-2027/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782401396,
-        "data": "25/06/2026 15:29"
-    },
-    {
-        "titulo": "Jornalista Helga Oliveira morre aos 51 anos após lutar contra leucemia em Natal",
-        "link": "https://rapidonoar.com.br/jornalista-helga-oliveira-morre-aos-51-anos-apos-lutar-contra-leucemia-em-natal/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/helga-oliveira-rn-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782401267,
-        "data": "25/06/2026 15:27"
-    },
-    {
-        "titulo": "Americana (SP): Casal é preso por maus-tratos a criança autista de 4 anos - Diário do Estado",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemhaM184dDlvUVhHeDlLdS1NamM3Q0M3Yng5YzM0UXVEN1dIWlQ3dlBfa2hKdmhpSWhFMHRocy1HQnhQdm5acnFVR3FxWm1BMnFuMWlQOWpfZHJZbk9uamVCTGhwclprWlh4bmtCQkU0VlYweE01UkZTZElzYl9yU1N1MDVXNHJPUFZvOURjYldSU2paZEpQZF9nT0pRMG5DNzdXWGxn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782399817,
-        "data": "25/06/2026 15:03"
-    },
-    {
-        "titulo": "Arena Agro reúne produtores rurais para discutir inovação e oportunidades na sexta-feira, 26/06",
-        "link": "https://difusorapiracicaba.com.br/arena-agro-reune-produtores-rurais-para-discutir-inovacao-e-oportunidades-na-sexta-feira-26-06/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1782399600,
-        "data": "25/06/2026 15:00"
-    },
-    {
-        "titulo": "Apanha do marido, chama a polícia e vai presa por criança maltratada",
-        "link": "https://novomomento.com.br/apanha-do-marido-chama-a-policia-e-vai-presa-por-crianca-maltratada/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782399482,
-        "data": "25/06/2026 14:58"
-    },
-    {
-        "titulo": "Apanha do marido, chama a polícia e vai presa por criança maltratada",
-        "link": "https://novomomento.com.br/marido-chama-policia-presa-crianca-maltratada/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782399482,
-        "data": "25/06/2026 14:58"
     }
 ]
