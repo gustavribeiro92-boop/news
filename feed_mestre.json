@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Juros do Fies Empreendedor incidirão durante período de carência",
+        "link": "https://sb24horas.com.br/juros-do-fies-empreendedor-incidirao-durante-periodo-de-carencia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783739938,
+        "data": "11/07/2026 03:18"
+    },
+    {
+        "titulo": "Mirando recordes de todos os tipos, França amplia status de favorita",
+        "link": "https://sb24horas.com.br/mirando-recordes-de-todos-os-tipos-franca-amplia-status-de-favorita/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1783738267,
+        "data": "11/07/2026 02:51"
+    },
+    {
         "titulo": "Bolsa sobe quase 3% e fecha no maior nível desde maio",
         "link": "https://sb24horas.com.br/bolsa-sobe-quase-3-e-fecha-no-maior-nivel-desde-maio/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -25,6 +43,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1783719743,
         "data": "10/07/2026 21:42"
+    },
+    {
+        "titulo": "Maníaco da faca: homem com histórico criminal ataca quatro pessoas no interior de SP - R7",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenlkS25SakVHbkhhb00yMHo0SzRoSVI5eHROYUVhRTFiM2NrVDhnWlprRThlYXVCalR2QUlTb2ZsZ1U1bXItWVB6NzI1eWw0a00wZ0RQazJELWZOUzV6dnlvQmpRSXc1aWM5dDIzY3A4ZWpQeWQ1RjBjX0x4TS0tLUt6aGJNSEdyWjRTSWdZMGxJNEhzQWRNRUo3WWVjbXQ2RXo5MGg3SGdMNEhzemJiSW9ON0VsUmk4bkdvVmVTX29tNjc3cU5uUzc3R09pSktp?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783716654,
+        "data": "10/07/2026 20:50"
     },
     {
         "titulo": "BRK leva educação ambiental a mais de quatro mil pessoas em Limeira no primeiro semestre",
@@ -1204,6 +1231,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1783611957,
         "data": "09/07/2026 15:45"
+    },
+    {
+        "titulo": "Lula recebe secretária-geral da FLACSO e destaca integração latino-americana - TVT News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazRyZy10MV80emNhcERfeGxUODl1UTAxbTV6cTZFRWQ2cGIyQ0g3TVhraUhfbWc4QWN1b0dBODFxUU85dXZuZkNmNTVkczBpeFFtZ3MtQW5jMmtTZnk3cE1OU1MtRkhuNkpOQkVMbGhld0RlRVNGUEtwdDhZZ2JuVE1rR0FIbzRlTTlmUzY2Tm1NZ2I3RnE3M2ZscnNsY3lqdFE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783611856,
+        "data": "09/07/2026 15:44"
     },
     {
         "titulo": "Homem é preso após esfaquear quatro pessoas 'aleatoriamente' em Americana - G1",
@@ -17962,41 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782378006,
         "data": "25/06/2026 09:00"
-    },
-    {
-        "titulo": "Terremoto na Venezuela tem mais de 164 mortos",
-        "link": "https://novomomento.com.br/terremoto-na-venezuela-tem-mais-de-164-mortos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782377619,
-        "data": "25/06/2026 08:53"
-    },
-    {
-        "titulo": "Moeda norte-americana avança para R$ 5,20 e retoma teto de três meses - Agrimidia",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGwzNUZmRTlwMEdFRTc1YzJ1YUdMOFM1eVd5ODlQTzZlMHg1OFRQS1VobEhVTkR4a1pkY3o4TTlQOEhtckZOZGxra28xMF9ZMXF0cWtjSGc2cUpoR0dWWHBDaXJaQXFEbEVtZnN4MEUzTGcyUUNhbi1GY19kb1NuWmY5T3hzQXprUkwxejdSOENUc3FWcFI3WVJSVmlQVnhjU01QdU1mSGdlWEFWVkFoYlh2S3pBNTdWZ2Z1TldEX012R200VW5j?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782377367,
-        "data": "25/06/2026 08:49"
-    },
-    {
-        "titulo": "Neymar reencontra Seleção, torcida e a Copa do Mundo: “Nosso ídolo”",
-        "link": "https://hjnews.com.br/neymar-reencontra-selecao-torcida-e-a-copa-do-mundo-nosso-idolo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1782376875,
-        "data": "25/06/2026 08:41"
-    },
-    {
-        "titulo": "Trajetória de Irineu Maretto foi marcada pelo empreendedorismo e décadas de atuação na política de Araras",
-        "link": "https://rapidonoar.com.br/trajetoria-de-irineu-maretto-foi-marcada-pelo-empreendedorismo-e-decadas-de-atuacao-na-politica-de-araras/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/03/prefeito-de-araras-Irineu-Marretto-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782376548,
-        "data": "25/06/2026 08:35"
     }
 ]
