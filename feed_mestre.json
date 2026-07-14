@@ -1,5 +1,122 @@
 [
     {
+        "titulo": "Agenda Americana: piano hoje no CCL e Teatro amanhã",
+        "link": "https://novomomento.com.br/agenda-americana-piano-hoje-ccl-e-teatro-amanha/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784023100,
+        "data": "14/07/2026 09:58"
+    },
+    {
+        "titulo": "O futebol de nome e sobrenome",
+        "link": "https://novomomento.com.br/o-futebol-de-nome-e-sobrenome/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784022933,
+        "data": "14/07/2026 09:55"
+    },
+    {
+        "titulo": "Marcos Caetano propõe prazo máximo de 60 dias para consultas e exames",
+        "link": "https://novomomento.com.br/marcos-caetano-prazo-60-dias-consultas-e-exames/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784022336,
+        "data": "14/07/2026 09:45"
+    },
+    {
+        "titulo": "Feira Jardim Criativo reúne 21 artesãos no Americana Shopping neste sábado (18)",
+        "link": "https://www.americanapost.com.br/feira-jardim-criativo-reune-21-artesaos-no-americana-shopping-neste-sabado-18/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1784021622,
+        "data": "14/07/2026 09:33"
+    },
+    {
+        "titulo": "Biblioteca de Americana tem exibição de “Super Mario Galaxy” nesta quarta-feira",
+        "link": "https://www.americanapost.com.br/biblioteca-de-americana-tem-exibicao-de-super-mario-galaxy-nesta-quarta-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1784021468,
+        "data": "14/07/2026 09:31"
+    },
+    {
+        "titulo": "Homem é preso em flagrante por violência doméstica em Araras",
+        "link": "https://rapidonoar.com.br/homem-e-preso-em-flagrante-por-violencia-domestica-em-araras/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/10/pm-plantao-policial-delegacia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784021178,
+        "data": "14/07/2026 09:26"
+    },
+    {
+        "titulo": "Inter de Limeira deve confirmar dois reforços para a sequência da Série C",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-deve-confirmar-dois-reforcos-para-a-sequencia-da-serie-c/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/felipe-azevedo-1-1024x682.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784021176,
+        "data": "14/07/2026 09:26"
+    },
+    {
+        "titulo": "Lugar Gelado: Americana tem a segunda menor temperatura do ano",
+        "link": "https://www.americanapost.com.br/6044-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1784021130,
+        "data": "14/07/2026 09:25"
+    },
+    {
+        "titulo": "Revelando SP estreia em Americana com shows de Renato Teixeira, Sami Rico e Mococa & Paraíso",
+        "link": "https://www.americanapost.com.br/revelando-sp-estreia-em-americana-com-shows-de-renato-teixeira-sami-rico-e-mococa-paraiso/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1784020518,
+        "data": "14/07/2026 09:15"
+    },
+    {
+        "titulo": "Burnout cresce 823%: trabalhar mais gera desgaste e menos realizações?",
+        "link": "https://novomomento.com.br/burnout-cresce-823-trabalhar-mais-desgaste-real/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784019209,
+        "data": "14/07/2026 08:53"
+    },
+    {
+        "titulo": "Revelando SP estreia em Americana em agosto - Portal ABC do ABC",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hTm4tUDJLQTU1VW5MTWhIVzNRRnVCX0ZLakp0RUZpbXJKdjJROXc4VjE5WE92ZWdDTmpjV3lQTWdJUG55b0V4blVPdHBmSlZHZnZlRmpkMWo2WE9LTzl0YlFrem85RnlFNFhUOEY0OTlSY0xIQXBn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784018760,
+        "data": "14/07/2026 08:46"
+    },
+    {
+        "titulo": "Primeiro finalista da Copa do Mundo será conhecido hoje",
+        "link": "https://rapidonoar.com.br/primeiro-finalista-da-copa-do-mundo-sera-conhecido-hoje-2/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/dupla-franca-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784018388,
+        "data": "14/07/2026 08:39"
+    },
+    {
+        "titulo": "Vereadoras discutem combate à violência com delegado da DDM",
+        "link": "https://novomomento.com.br/vereadoras-discutem-violencia-com-delegado-ddm/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784017958,
+        "data": "14/07/2026 08:32"
+    },
+    {
         "titulo": "Revelando SP: Show grátis de Sami Rico e Renato Teixeira em Americana (1 e 2 de agosto)",
         "link": "https://novomomento.com.br/revelando-sp-sami-rico-rteixeira-americana-agst/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -14,6 +131,15 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784015140,
+        "data": "14/07/2026 07:45"
+    },
+    {
+        "titulo": "Fundação Procon alerta para golpes com uso indevido do nome da instituição - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQkFuSmVYdzlRN3RJRWZxR2dnS0hoQ0hIWXZIaV9hSnBGUUdqb1hXblljWHJoQlZGMkVfa0I1S0EyNjBMRmlDNGNkakZBakdwSWl4N2JIM2hlNElIMkVxQmEyeXY1SlU2RW9SZ1lJaw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1784015140,
         "data": "14/07/2026 07:45"
     },
@@ -43,6 +169,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1784007000,
         "data": "14/07/2026 05:30"
+    },
+    {
+        "titulo": "Renato Teixeira, Sami Rico e Mococa & Paraíso são atrações do Revelando SP em Americana - Portal de Americana",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGtIVmp6bkpKU3JnclVScUxPSGNIelhNeGUySHltbS1QTk5uSkVQZGtOR1hyOHhmMWF5WnVFdG5TWEpXbGdQTl9KTVRzWkZpN3ZkckZsNm5xbDk2Z2JabU93aHR2WEk1X0J0SmlHQlhLTm82WHRqOXhUemdqZ1lBRExXY0l5VnhDaWV4NlptakhnZTJIMkluQjFELWVEeTBHdHVFUEJQSl9WR29uZld4eEdDenFGdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784006607,
+        "data": "14/07/2026 05:23"
     },
     {
         "titulo": "Redes sociais, filtros e a busca pela &#8220;beleza perfeita&#8221;: o papel do cirurgião plástico",
@@ -889,6 +1024,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1783948350,
         "data": "13/07/2026 13:12"
+    },
+    {
+        "titulo": "Inscrições para a 4ª Corrida Pernas da Alegria – Edição Florescer já estão abertas - Jornal Americanense",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVlo0QUF3emZQMG5YcFhyYU8xTXZkaFhTaUxmUkNRRDVjMngzX1VjdU42elNhZ0dLaE1tYnJYblQ0VFRGWE1hR3doZkY1dnVXT2tSMjY0eWlxYlRvWXVnRGJ0X1NrSmdWSThPYUFuSTFlNzRsU0x3eTNQWS0yMG4zSVI1d3V2M2NUU0ZZNDRwWW1qNTRHNHRoUjN3Z2dSZ1pFMkF1WlkwU0dLQnhNc3IxRFpYSjNUQUFXWE1LcTZDMTFEdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1783947768,
+        "data": "13/07/2026 13:02"
     },
     {
         "titulo": "Equipe DNA XV Sub-20 recebe o Desportivo Brasil nesta segunda, pelo Paulista Série A",
@@ -17854,149 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782568551,
         "data": "27/06/2026 13:55"
-    },
-    {
-        "titulo": "Após gol anulado, Irã fica na expectativa por classificação na Copa",
-        "link": "https://sb24horas.com.br/apos-gol-anulado-ira-fica-na-expectativa-por-classificacao-na-copa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782567893,
-        "data": "27/06/2026 13:44"
-    },
-    {
-        "titulo": "Santander faz novo leilão de imóveis, inclusive na região: até 35 anos pra pagar",
-        "link": "https://novomomento.com.br/santander-faz-novo-leilao-de-imoveis-inclusive-na-regiao-ate-35-anos-pra-pagar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782567524,
-        "data": "27/06/2026 13:38"
-    },
-    {
-        "titulo": "Santos lamenta morte de jovem promessa da UCV, rival na Sul-Americana, em terremoto - Gazeta Esportiva",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnBJc3lLTWg1NWVPZEI0VEN4M09Wckl2NjlZUlBtQzZLakJ3MUVhdmpWR3ZnTTFTOTJhOHMxb2taRUZsbUtUMWJ5NGt5TG5pUDZWQlhnQm94am9yQXYxVi1fanFwZDlIVjdaTUl1T1hzRk14REVFMW90SnluNEFGRG1hWV9PUTVxVjVfRGZyd1FDQ2t1cjRGRnp4VnZ3YWk1Vk5zVmtwVDVQWExqZjhSei1ZcmxtYUtZVjNEeDYyQVloZHZQXzhfbTdEUdIBywFBVV95cUxNQnBJc3lLTWg1NWVPZEI0VEN4M09Wckl2NjlZUlBtQzZLakJ3MUVhdmpWR3ZnTTFTOTJhOHMxb2taRUZsbUtUMWJ5NGt5TG5pUDZWQlhnQm94am9yQXYxVi1fanFwZDlIVjdaTUl1T1hzRk14REVFMW90SnluNEFGRG1hWV9PUTVxVjVfRGZyd1FDQ2t1cjRGRnp4VnZ3YWk1Vk5zVmtwVDVQWExqZjhSei1ZcmxtYUtZVjNEeDYyQVloZHZQXzhfbTdEUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782565196,
-        "data": "27/06/2026 12:59"
-    },
-    {
-        "titulo": "Carro bate contra poste e bloqueia parte de avenida em Campinas - G1",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUpxWFNwWUxRczFfQnVGZUxSd2xkcGd2SGxxMHQwRWtDU3hISHVRZTVSMnViY1paamp1Z2ZRRHhqZ1NrdmZNT1FPcGkyZU9xaE1oVk5Ud1dxMjFvSlVpQWJZMDdsMm55TWpNSTZlenlBRVFVWEVHcWtULWswanpfT1JBT3FCRjYxQ1pGUDFaZnQyTkVBZk5teGJaQXk2TEtBc3ExSTE2ZmhoSHBtZl9RVE9UeHZESGhuR1U0UNIBywFBVV95cUxQVk04RnRIWVgtbGtSa0lXbHhld2MtVW5ISnIydTA4a0VTMWF2cDdYTXY0QXlsZ0I2XzVOcUNNOGJBV0laTG83aVR5R3d6Zk92Wm1lT0xoeXlIMDA4YUlRXzBmUjY4WXlTQlRzMVRVbDVsNWZEV21GSW9Kc1I2b0o0UWMyOHh6YVN6TkNiVnJTbEVMdk9xY2RWd0lqT3lDMFpGZms2eDVzdlllVHdQYWVIRTI1d0hJdVl6dTc0MGtmV1J0NnJXYkt2Tl9Maw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782564356,
-        "data": "27/06/2026 12:45"
-    },
-    {
-        "titulo": "Aos 40 anos, macaco se aproxima do fim da vida e recebe cuidados especiais no Zoo de Americana",
-        "link": "https://portaldeamericana.com/aos-40-anos-macaco-se-aproxima-do-fim-da-vida-e-recebe-cuidados-especiais-no-zoo-de-americana/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9319.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782564069,
-        "data": "27/06/2026 12:41"
-    },
-    {
-        "titulo": "Santa Bárbara credencia para Rede Gastronômica dos eventos municipais",
-        "link": "https://novomomento.com.br/santa-barbara-credenc-rede-gastronomica-evento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782563928,
-        "data": "27/06/2026 12:38"
-    },
-    {
-        "titulo": "Moradores denunciam descarte irregular de lixo no Parque da Liberdade, em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQNmM2SmRLZ252dGtMOEpvYmo3UTRDczJmc0hlMDVjakdMN1hHbXp6OWc1Ni1hb0xzWWlFN1hMY0k0M2xLdUx6dkJQVDdYSGg5b20xWm1UVG84ZVFYMlgyeGFRZ1ZTWWc2UTFJanc3dWYySEFlR0gtdktLLTc0SmlwWGJta2RXaVhyelB0WlRIa2tuQzB4RDQ0TUxTYjJ0b3hpeHFvT0UwelRQOFBrbExrV2lDZlJZZGczSEpKc1hGQnRXbUJsZmZfWUtoa3pGaTFFMGhzQ0tmZDVqMzZaaEdlV2Jadjl5YnVNTlBDZjl4TmVINnM3M2w5RjJTT2FSZW9aQmhGeG0wdkdRc1lSa3JjTUhteG9OSWJoQkR2ZFBfSWRtdUxqZGp3UFJsME56YWFC0gGwAkFVX3lxTFA2YzZKZEtnbnZ0a0w4Sm9iajdRNENzMmZzSGUwNWNqR0w3WEdteno5ZzU2LWFvTHNZaUU3WExjSTQzbEt1THp2QlBUN1hIaDlvbTFabVRUbzhlUVgyWDJ4YVFnVlNZZzZRMUlqdzd1ZjJIQWVHSC12S0stNzRKaXBYYm1rZFdpWHJ6UHRaVEhra25DMHhENDRNTFNiMnRveGl4cW9PRTB6VFA4UGtsTGtXaUNmUllkZzNISkpzWEZCdFdtQmxmZl9ZS2hrekZpMUUwaHNDS2ZkNWozNlpoR2VXYlp2OXlidU1OUENmOXhOZUg2czczbDlGMlNPYVJlb1pCaEZ4bTB2R1FzWVJrcmNNSG14b05JYmhCRHZkUF9JZG11TGpkandQUmwwTnphYUI?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782563149,
-        "data": "27/06/2026 12:25"
-    },
-    {
-        "titulo": "Terremoto de magnitude 6 atinge Afeganistão e Paquistão - Acessa.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWR1YzJjNV9ud2ZUSzJnVDB0N0N2cl9ISE8yaTRJd1FYeEdlWHk2eHZIMmlsSzhsemloNnBZaDg2WjRkV1BfaTlMaVpMcWxudGptQWpSNUdDWWN4NGdmN2RiV2RuNGsyOHM0bTVyeUNCdU5KQmlWdWY3R3oxSlk0akxhZ1RiOXpmc0ZTb0taM29OQjlwY1hqR2pHWHpfeHZ2d09jdmJNU2RSb1dS0gGsAUFVX3lxTE5ZZHVjMmM1X253ZlRLMmdUMHQ3Q3ZyX0hITzJpNEl3UVh4R2VYeTZ4dkgyaWxLOGx6aWg2cFloODZaNGRXUF9pOUxpWkxxbG50am1BalI1R0NZY3g0Z2Y3ZGJXZG40azI4czRtNXJ5Q0J1TkpCaVZ1ZjdHejFKWTRqTGFnVGI5emZzRlNvS1ozb05COXBjWGpHakdYel94dnZ3T2N2Yk1TZFJvV1I?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782561726,
-        "data": "27/06/2026 12:02"
-    },
-    {
-        "titulo": "Americana inicia aplicação da vacina Pneumo 20 em crianças neste sábado (27) - Portal ON",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUREUUFQd3JnTGJqd0ttako2X3o2WXA3engzdFFkRVZBcUtEZTV4eDNYRFMwZF94Wmtub2YyOHFzNnk4VWgtaENHZndEb1dvbWRWcG1TdHFiRjBGdW44WVF6OEVmQk9ZVmw4OEZZdFBKczFpR0dibUVQU0RLVWdkXzN0RllDbl9Gamd4ZzFnUU4tRmZ6VnMyR0lZSmZsWi1NOGhYY1FjQmZEb2s1UEE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782561439,
-        "data": "27/06/2026 11:57"
-    },
-    {
-        "titulo": "Nova Odessa discute estratégias para enfrentar impactos do El Niño",
-        "link": "https://novomomento.com.br/nova-odessa-estrategia-enfrenta-impacto-el-nino/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782560327,
-        "data": "27/06/2026 11:38"
-    },
-    {
-        "titulo": "Movimentos populares projetam mensagens de solidariedade a Cuba em prédios de São Paulo - Brasil de Fato",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGFxVHhqOHlMQ0l2T2tvRk9YQ0hWcmlGSGhDbkJfUzdqSVBPNzJDTmw5THpySm05VVNWQmxIdzZPbTlIY2p1cW13TWoyTlp6ZjVOalFqM3BmSXJjTFJ3djZlRDd5UFpPU1ZjOTRDQXhxWUZhR0V6SVlzYVJqVnlnMEZaZ3JwSWNzS1VEcmQ0ZjdqRjRQNDBpWjFZd21HbE8yQ1F3b3NaSEFwLUktU0w3enBiT0hhUzEwRHBzSGlDMlRHY0RhMFlXMEEydw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782558360,
-        "data": "27/06/2026 11:06"
-    },
-    {
-        "titulo": "Lula visita estaleiro que constrói embarcações para a Petrobras",
-        "link": "https://sb24horas.com.br/lula-visita-estaleiro-que-constroi-embarcacoes-para-a-petrobras/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782558242,
-        "data": "27/06/2026 11:04"
-    },
-    {
-        "titulo": "Fake news com IA tem alta de 308%, guia ensina a blindar o voto",
-        "link": "https://novomomento.com.br/fake-news-ia-alta-308-guia-ensina-blindar-voto/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782556380,
-        "data": "27/06/2026 10:33"
-    },
-    {
-        "titulo": "Programação do SBT hoje (sábado, 27/06/2026) - TV História",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CUUFJNHlmclllRnY1U3FLV3RKeVpEZWJ5TDJKTzZLcDlDWkUxRlNKSzFQV2hqbXctb3VFWmFmTjdJN1FzTExkblZDTjV4d1dBSWoxM29jdlk3cDE5akVNTFp0WjQyRFd3RjNBc3FXdUtQdlJfUTBj?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782555720,
-        "data": "27/06/2026 10:22"
-    },
-    {
-        "titulo": "Motociclista morre após perder o controle da moto e atingir poste no Anel Viário de Limeira",
-        "link": "https://rapidonoar.com.br/motociclista-morre-apos-perder-o-controle-da-moto-e-atingir-poste-no-anel-viario-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/2base-2026-06-27t091135.400-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782552208,
-        "data": "27/06/2026 09:23"
-    },
-    {
-        "titulo": "Vacina Pneumo 20: veja onde crianças podem receber a dose em Campinas e região - Grupo Jota Sidney",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzVjY1ZIeFJGZ0hRajVuLTRfTXVCZDM0NDAwRG1OSlJ0bkZiTW1EMGk5NFpHQVo0ZGg4RjExSWdZbUVWbDVPNzBjZlU3aGc4RmZ2S0ZkY29ndlc5UGxZNjB3N3FKVkZUcTA5RW13Q21zOUZMUFB3eTBFdzZPcGtEVVN3TzA3ZHY4eFdDdGVsVElKSFR3OExlV1o3dHhBU2huRkEzTGV1S3l0blNrUDdPYl9SaERnZkZZUDVKa054QzI0OUJacVhldjJYOXE1QzZGaHlVTU9MYm1nMjhwcWZNMnJhTU5wSjNHZ2VwMWZhONIB9AFBVV95cUxOajJWZWxDd2hXUC1Zd0NTOGM2VVlDcnNtTXpudmd2aHZhdzJxY3BMbzJxRU9oam1udVFrSGJ0YWFvcTZtdlk0OWpQblRXaFdUNU9GZ1BXdnRLVTV6d2txdEh3aDRiQ1BhN0dQRjk2Y00wSmFTbTBvNjc3YlVXd2dhRThjMnNlMFBIODdvUzhOOTRvSDZPdWJOeC1UWGxxQWZGR2hkZnE5NW5XSUtva0RvYlFrR0xlc01NYUNyOXpLOFhJTmJjVXBVclFuRENiaXVwR1BKXzVERUppcnpJdWRKUndfVk91aWNtZkxuR3FFaUNBZTAt?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782549878,
-        "data": "27/06/2026 08:44"
     }
 ]
