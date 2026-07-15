@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          touch historico_postados.txt 
           git add historico_postados.txt
-          # Só faz o commit se houver alguma mudança (se uma nova notícia foi postada)
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Memória: Atualizando histórico de posts" && git push)
