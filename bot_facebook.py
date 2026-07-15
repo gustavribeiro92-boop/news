@@ -2,8 +2,8 @@ import os
 import json
 import requests
 import textwrap
+import urllib.request
 from PIL import Image, ImageDraw, ImageFont
-from io import BytesIO
 
 # 1. PUXANDO AS CREDENCIAIS
 PAGE_ID = os.environ.get("FACEBOOK_PAGE_ID")
@@ -62,57 +62,60 @@ try:
         # 3. O ESTÚDIO DE ARTE (Gerando a Imagem com Pillow)
         print("🎨 Desenhando a arte do post...")
         
-        # Cria um fundo 1080x1080 (Dark Mode igual ao site)
+        # Download SEGURO da fonte para não ficar com letras miúdas
+        font_path = "Roboto-Black.ttf"
+        if not os.path.exists(font_path):
+            try:
+                print("Baixando fonte Roboto...")
+                urllib.request.urlretrieve("https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-Black.ttf", font_path)
+            except Exception as e:
+                print(f"Erro ao baixar a fonte: {e}")
+                exit(1) # Trava o robô para não postar arte feia
+        
+        font_titulo = ImageFont.truetype(font_path, 60)
+        font_chapeu = ImageFont.truetype(font_path, 35)
+        
+        # Cria um fundo 1080x1080 (Dark Mode)
         img = Image.new('RGB', (1080, 1080), color=(17, 24, 39))
         draw = ImageDraw.Draw(img)
         
-        # Barra Laranja superior e inferior para dar estilo
-        draw.rectangle([(0, 0), (1080, 20)], fill=(234, 91, 12))
-        draw.rectangle([(0, 1060), (1080, 1080)], fill=(234, 91, 12))
+        # Barra Laranja superior e inferior
+        draw.rectangle([(0, 0), (1080, 25)], fill=(234, 91, 12))
+        draw.rectangle([(0, 1055), (1080, 1080)], fill=(234, 91, 12))
         
-        # Baixando a fonte Roboto Bold do Google
-        font_url = "https://github.com/googlefonts/roboto/raw/main/src/hinted/Roboto-Bold.ttf"
-        try:
-            font_response = requests.get(font_url)
-            font_bytes = BytesIO(font_response.content)
-            font_titulo = ImageFont.truetype(font_bytes, 75)
-            font_chapeu = ImageFont.truetype(font_bytes, 40)
-        except:
-            # Fallback caso o download falhe
-            font_titulo = ImageFont.load_default()
-            font_chapeu = ImageFont.load_default()
-
-        # Escrevendo o Chapéu (Categoria)
-        draw.text((80, 150), "GIRO DA RMC", font=font_chapeu, fill=(234, 91, 12))
+        # Escrevendo o Chapéu
+        draw.text((80, 120), "GIRO DA RMC", font=font_chapeu, fill=(234, 91, 12))
         
-        # Quebrando o título para caber na imagem
-        linhas_titulo = textwrap.wrap(titulo_final, width=25)
+        # Quebrando o título com espaçamento adequado
+        linhas_titulo = textwrap.wrap(titulo_final, width=28)
         
         y_text = 250
         for linha in linhas_titulo:
             draw.text((80, y_text), linha, font=font_titulo, fill=(255, 255, 255))
-            y_text += 100
+            y_text += 90 # Espaçamento correto entre as linhas
             
-        # Créditos no rodapé da imagem
-        draw.text((80, y_text + 150), f"Fonte: {portal_nome}", font=font_chapeu, fill=(156, 163, 175))
-        draw.text((80, y_text + 220), "Acesse: portaldosportais.com", font=font_chapeu, fill=(255, 255, 255))
+        # Rodapé
+        y_rodape = 880
+        draw.text((80, y_rodape), f"Fonte: {portal_nome}", font=font_chapeu, fill=(156, 163, 175))
+        draw.text((80, y_rodape + 60), "Acesse: portaldosportais.com", font=font_chapeu, fill=(234, 91, 12))
 
         # Salva o arquivo gerado
         caminho_imagem = 'card_gerado.jpg'
         img.save(caminho_imagem)
 
-        # 4. DISPARO PARA O FACEBOOK COM ARQUIVO LOCAL
+        # 4. DISPARO PARA O FACEBOOK COM O NOVO TEXTO
         print("🚀 Enviando para o Facebook...")
+        
         mensagem = (
-            f"🚨 DESTAQUE DA RMC 🚨\n\n"
-            f"👉 Acompanhe as informações da nossa região! Leia a matéria completa através do link:\n"
-            f"🔗 {link_final}\n\n"
-            f"#Americana #NoticiasLocais #RMC #Informacao #PortalDosPortais"
+            f"🗞️ O ASSUNTO DO MOMENTO NA RMC 🗞️\n\n"
+            f"📰 {titulo_final}\n\n"
+            f"Acesse o Portal dos Portais e confira os detalhes dessa matéria divulgada pelo {portal_nome}.\n\n"
+            f"🔗 Leia completo no link abaixo:\n{link_final}\n\n"
+            f"#Americana #RMC #NoticiasLocais #PortalDosPortais"
         )
         
         url = f"https://graph.facebook.com/v19.0/{PAGE_ID}/photos"
         
-        # O envio precisa ser do tipo "multipart/form-data" para upload de arquivos
         payload = {
             "message": mensagem,
             "access_token": ACCESS_TOKEN
