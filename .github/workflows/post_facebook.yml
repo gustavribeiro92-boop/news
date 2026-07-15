@@ -2,7 +2,8 @@ name: Publicar Destaque no Facebook
 
 on:
   schedule:
-    - cron: '0 15 * * *' 
+    # 11h, 15h e 21h no fuso UTC (equivale a 08h, 12h e 18h em Brasília)
+    - cron: '0 11,15,21 * * *' 
   workflow_dispatch: 
 
 jobs:
@@ -25,3 +26,11 @@ jobs:
           FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
         run: python bot_facebook.py
+
+      - name: Salvar Memória do Robô (Anti-Repetição)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add historico_postados.txt
+          # Só faz o commit se houver alguma mudança (se uma nova notícia foi postada)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Memória: Atualizando histórico de posts" && git push)
