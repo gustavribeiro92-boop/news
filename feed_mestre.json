@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Brasil anuncia jogadores que disputarão 3ª semana da Liga das Nações",
+        "link": "https://sb24horas.com.br/brasil-anuncia-jogadores-que-disputarao-3a-semana-da-liga-das-nacoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784086837,
+        "data": "15/07/2026 03:40"
+    },
+    {
         "titulo": "Brasil chama tarifa dos EUA de “injusta” em nova reunião",
         "link": "https://sb24horas.com.br/brasil-chama-tarifa-dos-eua-de-injusta-em-nova-reuniao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -88,6 +97,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1784061943,
         "data": "14/07/2026 20:45"
+    },
+    {
+        "titulo": "Prefeito Chico anuncia início da recuperação asfáltica na Avenida de Cillo",
+        "link": "https://portaldeamericana.com/prefeito-chico-anuncia-inicio-da-recuperacao-asfaltica-na-avenida-de-cillo/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/avenida-cillos.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1784061616,
+        "data": "14/07/2026 20:40"
     },
     {
         "titulo": "Santa Casa amplia setor de hemodiálise e cria 32 novas vagas para pacientes do SUS em Limeira",
@@ -17980,23 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1782717515,
         "data": "29/06/2026 07:18"
-    },
-    {
-        "titulo": "Brasil e Japão se enfrentam hoje no mata-mata; veja jogos da Copa",
-        "link": "https://sb24horas.com.br/brasil-e-japao-se-enfrentam-hoje-no-mata-mata-veja-jogos-da-copa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782717300,
-        "data": "29/06/2026 07:15"
-    },
-    {
-        "titulo": "Veja 201 vagas no PLT de Nova Odessa hoje (151 pra uma única empresa)",
-        "link": "https://novomomento.com.br/veja-201-vagas-no-plt-de-nova-odessa-hoje/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782716767,
-        "data": "29/06/2026 07:06"
     }
 ]
