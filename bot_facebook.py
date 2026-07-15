@@ -2,7 +2,6 @@ import os
 import json
 import requests
 import textwrap
-import urllib.request
 from PIL import Image, ImageDraw, ImageFont
 
 # 1. PUXANDO AS CREDENCIAIS
@@ -59,19 +58,14 @@ try:
         
         print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
 
-        # 3. O ESTÚDIO DE ARTE (Gerando a Imagem com Pillow)
+        # 3. O ESTÚDIO DE ARTE (Usando sua fonte local)
         print("🎨 Desenhando a arte do post...")
         
-        # Download SEGURO da fonte para não ficar com letras miúdas
-        font_path = "Roboto-Black.ttf"
+        font_path = "fonte.ttf"
         if not os.path.exists(font_path):
-            try:
-                print("Baixando fonte Roboto...")
-                urllib.request.urlretrieve("https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-Black.ttf", font_path)
-            except Exception as e:
-                print(f"Erro ao baixar a fonte: {e}")
-                exit(1) # Trava o robô para não postar arte feia
-        
+            print("🚨 Erro: O arquivo 'fonte.ttf' não foi encontrado no repositório!")
+            exit(1)
+            
         font_titulo = ImageFont.truetype(font_path, 60)
         font_chapeu = ImageFont.truetype(font_path, 35)
         
@@ -92,7 +86,7 @@ try:
         y_text = 250
         for linha in linhas_titulo:
             draw.text((80, y_text), linha, font=font_titulo, fill=(255, 255, 255))
-            y_text += 90 # Espaçamento correto entre as linhas
+            y_text += 90 
             
         # Rodapé
         y_rodape = 880
