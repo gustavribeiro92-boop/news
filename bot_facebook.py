@@ -3,6 +3,7 @@ import json
 import requests
 import textwrap
 from PIL import Image, ImageDraw, ImageFont
+from io import BytesIO
 
 # 1. PUXANDO AS CREDENCIAIS
 PAGE_ID = os.environ.get("FACEBOOK_PAGE_ID")
@@ -56,9 +57,9 @@ try:
         link_final = melhor_noticia.get('link')
         portal_nome = melhor_noticia.get('portal', 'Portal RMC')
         
-        print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
+        print(f"🎯 Notícia selecionada: {titulo_final}")
 
-        # 3. O ESTÚDIO DE ARTE (Usando sua fonte local)
+        # 3. O ESTÚDIO DE ARTE
         print("🎨 Desenhando a arte do post...")
         
         font_path = "fonte.ttf"
@@ -66,38 +67,67 @@ try:
             print("🚨 Erro: O arquivo 'fonte.ttf' não foi encontrado no repositório!")
             exit(1)
             
-        font_titulo = ImageFont.truetype(font_path, 60)
+        font_titulo = ImageFont.truetype(font_path, 55)
         font_chapeu = ImageFont.truetype(font_path, 35)
         
         # Cria um fundo 1080x1080 (Dark Mode)
         img = Image.new('RGB', (1080, 1080), color=(17, 24, 39))
         draw = ImageDraw.Draw(img)
         
-        # Barra Laranja superior e inferior
-        draw.rectangle([(0, 0), (1080, 25)], fill=(234, 91, 12))
-        draw.rectangle([(0, 1055), (1080, 1080)], fill=(234, 91, 12))
+        # Moldura Laranja fechada em volta do card (20 pixels de espessura)
+        draw.rectangle([(0, 0), (1080, 1080)], outline=(234, 91, 12), width=20)
         
-        # Escrevendo o Chapéu
-        draw.text((80, 120), "GIRO DA RMC", font=font_chapeu, fill=(234, 91, 12))
-        
-        # Quebrando o título com espaçamento adequado
-        linhas_titulo = textwrap.wrap(titulo_final, width=28)
-        
-        y_text = 250
-        for linha in linhas_titulo:
-            draw.text((80, y_text), linha, font=font_titulo, fill=(255, 255, 255))
-            y_text += 90 
+        # ---- COLANDO O LOGO CENTRALIZADO ----
+        url_logo = "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_mdib1mdib1mdib1m.png"
+        try:
+            req_logo = requests.get(url_logo)
+            img_logo = Image.open(BytesIO(req_logo.content)).convert("RGBA")
+            # Redimensiona mantendo a proporção (máximo 300px)
+            img_logo.thumbnail((300, 300), Image.Resampling.LANCZOS)
+            logo_w, logo_h = img_logo.size
+            # Calcula o centro X da imagem
+            x_logo = (1080 - logo_w) // 2
+            # Cola o logo usando ele mesmo como máscara de transparência
+            img.paste(img_logo, (x_logo, 80), img_logo)
             
-        # Rodapé
-        y_rodape = 880
-        draw.text((80, y_rodape), f"Fonte: {portal_nome}", font=font_chapeu, fill=(156, 163, 175))
-        draw.text((80, y_rodape + 60), "Acesse: portaldosportais.com", font=font_chapeu, fill=(234, 91, 12))
+            # Ponto de partida do título empurrado para baixo do logo
+            y_start_text = 80 + logo_h + 80
+        except Exception as e:
+            print(f"⚠️ Aviso: Não conseguiu baixar o logo: {e}")
+            y_start_text = 200
+
+        # ---- DESENHANDO O TÍTULO CENTRALIZADO E NEGRITO ----
+        linhas_titulo = textwrap.wrap(titulo_final, width=28)
+        y_text = y_start_text
+        
+        for linha in linhas_titulo:
+            # Calculando a largura exata da linha para centralizar
+            bbox = draw.textbbox((0, 0), linha, font=font_titulo)
+            w_linha = bbox[2] - bbox[0]
+            x_text = (1080 - w_linha) / 2
+            
+            # stroke_width=1 força a fonte a ficar mais gorda (Falso Negrito)
+            draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=1, stroke_fill=(255, 255, 255))
+            y_text += 85 
+            
+        # ---- DESENHANDO O RODAPÉ CENTRALIZADO ----
+        y_rodape = 900
+        
+        texto_fonte = f"Fonte: {portal_nome}"
+        bbox_fonte = draw.textbbox((0, 0), texto_fonte, font=font_chapeu)
+        w_fonte = bbox_fonte[2] - bbox_fonte[0]
+        draw.text(((1080 - w_fonte) / 2, y_rodape), texto_fonte, font=font_chapeu, fill=(156, 163, 175))
+
+        texto_site = "Acesse: portaldosportais.com"
+        bbox_site = draw.textbbox((0, 0), texto_site, font=font_chapeu)
+        w_site = bbox_site[2] - bbox_site[0]
+        draw.text(((1080 - w_site) / 2, y_rodape + 60), texto_site, font=font_chapeu, fill=(234, 91, 12))
 
         # Salva o arquivo gerado
         caminho_imagem = 'card_gerado.jpg'
         img.save(caminho_imagem)
 
-        # 4. DISPARO PARA O FACEBOOK COM O NOVO TEXTO
+        # 4. DISPARO PARA O FACEBOOK
         print("🚀 Enviando para o Facebook...")
         
         mensagem = (
