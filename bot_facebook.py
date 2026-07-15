@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import textwrap
+import random
 from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
 
@@ -55,9 +56,11 @@ try:
     if melhor_noticia:
         titulo_final = melhor_noticia.get('titulo')
         link_final = melhor_noticia.get('link')
-        portal_nome = melhor_noticia.get('portal', 'Portal RMC')
         
-        print(f"🎯 Notícia selecionada: {titulo_final}")
+        # Formatando o nome do portal com letras maiúsculas
+        portal_nome = str(melhor_noticia.get('portal', 'Portal RMC')).title()
+        
+        print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
 
         # 3. O ESTÚDIO DE ARTE
         print("🎨 Desenhando a arte do post...")
@@ -70,49 +73,36 @@ try:
         font_titulo = ImageFont.truetype(font_path, 55)
         font_chapeu = ImageFont.truetype(font_path, 35)
         
-        # Cria um fundo 1080x1080 (Dark Mode)
         img = Image.new('RGB', (1080, 1080), color=(17, 24, 39))
         draw = ImageDraw.Draw(img)
         
-        # Moldura Laranja fechada em volta do card (20 pixels de espessura)
         draw.rectangle([(0, 0), (1080, 1080)], outline=(234, 91, 12), width=20)
         
-        # ---- COLANDO O LOGO CENTRALIZADO ----
         url_logo = "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_mdib1mdib1mdib1m.png"
         try:
             req_logo = requests.get(url_logo)
             img_logo = Image.open(BytesIO(req_logo.content)).convert("RGBA")
-            # Redimensiona mantendo a proporção (máximo 300px)
             img_logo.thumbnail((300, 300), Image.Resampling.LANCZOS)
             logo_w, logo_h = img_logo.size
-            # Calcula o centro X da imagem
             x_logo = (1080 - logo_w) // 2
-            # Cola o logo usando ele mesmo como máscara de transparência
             img.paste(img_logo, (x_logo, 80), img_logo)
-            
-            # Ponto de partida do título empurrado para baixo do logo
             y_start_text = 80 + logo_h + 80
         except Exception as e:
             print(f"⚠️ Aviso: Não conseguiu baixar o logo: {e}")
             y_start_text = 200
 
-        # ---- DESENHANDO O TÍTULO CENTRALIZADO E NEGRITO ----
         linhas_titulo = textwrap.wrap(titulo_final, width=28)
         y_text = y_start_text
         
         for linha in linhas_titulo:
-            # Calculando a largura exata da linha para centralizar
             bbox = draw.textbbox((0, 0), linha, font=font_titulo)
             w_linha = bbox[2] - bbox[0]
             x_text = (1080 - w_linha) / 2
-            
-            # stroke_width=1 força a fonte a ficar mais gorda (Falso Negrito)
-            draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=1, stroke_fill=(255, 255, 255))
+            # AQUI ESTÁ O NEGRITO TURBINADO: stroke_width=2
+            draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=2, stroke_fill=(255, 255, 255))
             y_text += 85 
             
-        # ---- DESENHANDO O RODAPÉ CENTRALIZADO ----
         y_rodape = 900
-        
         texto_fonte = f"Fonte: {portal_nome}"
         bbox_fonte = draw.textbbox((0, 0), texto_fonte, font=font_chapeu)
         w_fonte = bbox_fonte[2] - bbox_fonte[0]
@@ -123,15 +113,24 @@ try:
         w_site = bbox_site[2] - bbox_site[0]
         draw.text(((1080 - w_site) / 2, y_rodape + 60), texto_site, font=font_chapeu, fill=(234, 91, 12))
 
-        # Salva o arquivo gerado
         caminho_imagem = 'card_gerado.jpg'
         img.save(caminho_imagem)
 
-        # 4. DISPARO PARA O FACEBOOK
+        # 4. DISPARO PARA O FACEBOOK COM ROLETA DE TEXTOS
         print("🚀 Enviando para o Facebook...")
         
+        opcoes_chapeu = [
+            "🗞️ O ASSUNTO DO MOMENTO NA RMC 🗞️",
+            "🚨 DESTAQUE DA NOSSA REGIÃO 🚨",
+            "🔥 NOTÍCIA QUENTE NO RADAR 🔥",
+            "🗣️ GIRO DE NOTÍCIAS DE AMERICANA E RMC 🗣️",
+            "📌 FIQUE POR DENTRO 📌"
+        ]
+        
+        chapeu_sorteado = random.choice(opcoes_chapeu)
+        
         mensagem = (
-            f"🗞️ O ASSUNTO DO MOMENTO NA RMC 🗞️\n\n"
+            f"{chapeu_sorteado}\n\n"
             f"📰 {titulo_final}\n\n"
             f"Acesse o Portal dos Portais e confira os detalhes dessa matéria divulgada pelo {portal_nome}.\n\n"
             f"🔗 Leia completo no link abaixo:\n{link_final}\n\n"
@@ -149,7 +148,7 @@ try:
             resposta = requests.post(url, data=payload, files={'source': foto})
         
         if resposta.status_code == 200:
-            print("✅ SUCESSO! Card exclusivo e anti-plágio publicado.")
+            print("✅ SUCESSO! Card dinâmico publicado.")
         else:
             print(f"❌ Erro ao postar: {resposta.status_code}")
             print(resposta.text)
