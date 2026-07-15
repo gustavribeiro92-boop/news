@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Piovezan acompanha saída do Time SBO pros Jogos Regionais e novo micro-ônibus da Seme",
+        "link": "https://novomomento.com.br/piovezan-saida-timesb-jog-regionais-microonibus/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784094475,
+        "data": "15/07/2026 05:47"
+    },
+    {
+        "titulo": "Nova MP poderá ser editada, se EUA confirmarem tarifaço",
+        "link": "https://sb24horas.com.br/nova-mp-podera-ser-editada-se-eua-confirmarem-tarifaco/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784091099,
+        "data": "15/07/2026 04:51"
+    },
+    {
         "titulo": "Brasil anuncia jogadores que disputarão 3ª semana da Liga das Nações",
         "link": "https://sb24horas.com.br/brasil-anuncia-jogadores-que-disputarao-3a-semana-da-liga-das-nacoes/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1231,6 +1249,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
         "timestamp": 1784021130,
         "data": "14/07/2026 09:25"
+    },
+    {
+        "titulo": "Auditório do CCL em Americana recebe recital de piano nesta terça-feira - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tYWNUaWlMUm5VZFNIVTZOemM0MU8zcHNxanNpclU0RmdYeENvOGJYT1JqUWZGVnMwb2JZZVJTZUNqUmlVUFJUU2Q4RU1rM202ejFuVWZkdzJyaEZQbHpuOUxnVm9KX1hBblhvSnJmeGxTc1F5TFNrRjN3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784020620,
+        "data": "14/07/2026 09:17"
     },
     {
         "titulo": "Revelando SP estreia em Americana com shows de Renato Teixeira, Sami Rico e Mococa & Paraíso",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1782718681,
         "data": "29/06/2026 07:38"
-    },
-    {
-        "titulo": "Brasil encara o Japão; veja os jogos desta segunda na Copa do Mundo",
-        "link": "https://hjnews.com.br/brasil-encara-o-japao-veja-os-jogos-desta-segunda-na-copa-do-mundo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1782718052,
-        "data": "29/06/2026 07:27"
-    },
-    {
-        "titulo": "Caixa paga Bolsa Família a beneficiários com NIS de final 9",
-        "link": "https://sb24horas.com.br/caixa-paga-bolsa-familia-a-beneficiarios-com-nis-de-final-9-4/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782717967,
-        "data": "29/06/2026 07:26"
-    },
-    {
-        "titulo": "Canadá elimina África do Sul com um gol no fim",
-        "link": "https://rapidonoar.com.br/canada-elimina-africa-do-sul-com-um-gol-no-fim/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/canada-1-1024x577.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782717515,
-        "data": "29/06/2026 07:18"
     }
 ]
