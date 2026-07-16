@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Americana tem campanha contra queimadas e &#8216;porquinhos&#8217;",
+        "link": "https://novomomento.com.br/americana-campanha-contra-queimadas-porquinhos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784184698,
+        "data": "16/07/2026 06:51"
+    },
+    {
+        "titulo": "Moradora do Jd Europa leva 1o carro da promoção do Pague Menos",
+        "link": "https://novomomento.com.br/moradora-jdeurop-leva-1carro-promoco-paguemenos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784181466,
+        "data": "16/07/2026 05:57"
+    },
+    {
         "titulo": "Projeção oficial de inflação sobe para 5,1%, com estouro da meta",
         "link": "https://sb24horas.com.br/projecao-oficial-de-inflacao-sobe-para-51-com-estouro-da-meta/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -754,6 +772,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1784113807,
         "data": "15/07/2026 11:10"
+    },
+    {
+        "titulo": "Americana recebe 4ª edição do Google I/O Extended com apoio da FAM - Notícia FM",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNndNaFlxNTFQdkpxRWpldmhlak9QTFdRdmFubWxUTm5tekxlN0dnOTY1MXhpaHNDa1NTZEhDU2stS1V5QW1QcWpvaGVZSEUtM0t4bDBPZVhtMWNGbV9QQWo2OUk3SkhZaHRlZEtQOHg3WkpDOFN2aGVlWGlIbXlVZ3EzUy02OUdlamN5V3dPb3BoQ1lROG43WmljWnI?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784113381,
+        "data": "15/07/2026 11:03"
     },
     {
         "titulo": "Dono de portal de Americana detido por descumprir medidas e &#8216;driblar&#8217; Justiça",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1782777780,
         "data": "30/06/2026 00:03"
-    },
-    {
-        "titulo": "Anvisa suspende lote de repelente da marca Repele após falha em teste de eficácia",
-        "link": "https://portaldeamericana.com/anvisa-suspende-lote-de-repelente-da-marca-repele-apos-falha-em-teste-de-eficacia/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/repele.webp&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782776641,
-        "data": "29/06/2026 23:44"
-    },
-    {
-        "titulo": "Bodes são encontrados mortos e decapitados em área rural de Piracicaba; caso será investigado",
-        "link": "https://rapidonoar.com.br/bodes-sao-encontrados-mortos-e-decapitados-em-area-rural-de-piracicaba-caso-sera-investigado/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/bode-capitado-piracixaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782776583,
-        "data": "29/06/2026 23:43"
-    },
-    {
-        "titulo": "Vereador cobra reforço na segurança e defende poste inteligente no Cemitério do Parque Gramado",
-        "link": "https://portaldeamericana.com/vereador-cobra-reforco-na-seguranca-e-defende-poste-inteligente-no-cemiterio-do-parque-gramado/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2025/03/Jean-Mizzoni-150x150.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782776399,
-        "data": "29/06/2026 23:39"
     }
 ]
