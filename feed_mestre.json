@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Rock em alta: show no TM Americana hoje e 6o palco no SBRock Fest",
+        "link": "https://novomomento.com.br/rock-alta-showamericana-hoje-6palco-sbrock-fest/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784189990,
+        "data": "16/07/2026 08:19"
+    },
+    {
+        "titulo": "Túlio- Pit bull da reabilitação disponível para adoção no CCZ Americana",
+        "link": "https://novomomento.com.br/tulio-pitbull-reabilta-pra-adocao-ccz-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784188925,
+        "data": "16/07/2026 08:02"
+    },
+    {
+        "titulo": "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões",
+        "link": "https://sb24horas.com.br/copa-do-mundo-feminina-no-brasil-deve-movimentar-r-88-bilhoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784186883,
+        "data": "16/07/2026 07:28"
+    },
+    {
+        "titulo": "Com outra virada incrível, Argentina despacha Inglaterra e vai à final",
+        "link": "https://sb24horas.com.br/com-outra-virada-incrivel-argentina-despacha-inglaterra-e-vai-a-final/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784186405,
+        "data": "16/07/2026 07:20"
+    },
+    {
+        "titulo": "Prefeitura de Hortolândia orienta população sobre o uso correto do ParCão",
+        "link": "https://novomomento.com.br/prefeitura-de-hortolandia-orienta-populacao-sobre-o-uso-correto-do-parcao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784186082,
+        "data": "16/07/2026 07:14"
+    },
+    {
         "titulo": "Americana tem campanha contra queimadas e &#8216;porquinhos&#8217;",
         "link": "https://novomomento.com.br/americana-campanha-contra-queimadas-porquinhos/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1132,6 +1177,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1784091099,
         "data": "15/07/2026 04:51"
+    },
+    {
+        "titulo": "SP: inscrições para o concurso de cadete encerram nesta quarta - Portal iG",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORE5kcnFsdkZNdVJlQjZKNFdqY2tkXzBHWkhhUU5DRUh5cmI3Y0VDakRFTnZNaXlhSFZ6RE1XZ1lYRXNGTERESFpONVByUmJqU3FndENNRUxzTkcxRzgwMXkzeUdEYkdWQWpmS0hEYWRrNTQwMXROS1h2N3VmZFk2aXNaOF85TnhQQTRKUkdfNWcySmg1QVN1VDFSeHdxUmtaY01qZlZ2VERFZExGVWVMTk8yNjJUSzhNejZmTdIBwgFBVV95cUxOSkJXXzRwV2tTdmE2bFBZcUJCRWdUVzdWR1M3RUtYQndKSzRqVlhYaXhJSjM0VmpUVFR6WDJVY3g3R1pEcGZBS3AtdXhwdnMtbUVLdHpRYUNuek1TTTE0MDU0QVE3Y1ZYb3FKMnVibksyTHJWYVJzN3pKLUhVRWEwYl9iQVN0RDFuVUFYNHFzZlpiOEJrQ0xlWDI2UHZqV1Ita0d4YWFyQ1o0UzRUM29lRWdxbUVqaXdwbVdhei1UbGpXQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784088000,
+        "data": "15/07/2026 04:00"
     },
     {
         "titulo": "Brasil anuncia jogadores que disputarão 3ª semana da Liga das Nações",
@@ -17944,59 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782801271,
         "data": "30/06/2026 06:34"
-    },
-    {
-        "titulo": "Teto para MEI agora passa para R$ 140 mil",
-        "link": "https://novomomento.com.br/teto-para-mei-agora-passa-para-r-140-mil/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782800138,
-        "data": "30/06/2026 06:15"
-    },
-    {
-        "titulo": "Desenrola lança modalidades de crédito para estimular bons pagadores",
-        "link": "https://sb24horas.com.br/desenrola-lanca-modalidades-de-credito-para-estimular-bons-pagadores/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782797864,
-        "data": "30/06/2026 05:37"
-    },
-    {
-        "titulo": "Paraguai vence nos pênaltis e elimina a Alemanha da Copa do Mundo",
-        "link": "https://sb24horas.com.br/paraguai-vence-nos-penaltis-e-elimina-a-alemanha-da-copa-do-mundo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782791996,
-        "data": "30/06/2026 03:59"
-    },
-    {
-        "titulo": "Lula entrega a Motta projeto para beneficiar MEIs",
-        "link": "https://sb24horas.com.br/lula-entrega-a-motta-projeto-para-beneficiar-meis/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782781865,
-        "data": "30/06/2026 01:11"
-    },
-    {
-        "titulo": "Câmara de Santa Bárbara mobiliza apoio ao passe livre estudantil - correiodamanha.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWGRsWlo1bmtuOFA4UU9sanJiQzFTUVNaVEl0dmxRRk1JX1R0VXFJQUsweTMwWkF0UERLUk9LdVVJNTZINW1lYW43RlBDTjQxOUtyN1BtYVpwcDNJNzBfaTRWTUhscU4tNXV5WWpRcXdxckZJLWpTMW9hSjR1YlY4U3ZqcjFXZldqYmtUTjFwUjB6WjFFLS1DU2ZoQUEzbGhQSUJtRjJQVnl5ekoxMngyeXVFOXh5bVZyUGFvUXdBNnJKYV8zYjVGY21qc2NidDNpcVMzdEZjeXNRX3lEZ3lvQ3hNYVhIdDd6MW9WVE1mVGtEZjVNVTU3cQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782777780,
-        "data": "30/06/2026 00:03"
-    },
-    {
-        "titulo": "CORREIO grande campinas | CPM 22 traz turnê de 30 anos para o Rock Day Americana - correiodamanha.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUHFORVNQdVRMV2NaOS1GV0sxd1VkcC1aS1dGNGR3cVhWWVNycU90RUY5V2FNc0lKRkZhSmF6S0NzREV1LWZ2aHZZOS12bHQ3XzlrQ2VkMzJ4WkdkZUpFVm9KOVFoN0laeXBMbXQxNWtOVm9ucWtlOE1MODJ4eGNBUUdhQmZ4Y3JnakNFWS1kRF9Na1RUYW5VeXh5WVFKNmlicFZwUVozN2VRS2VmRHlXcFNlYU41cHY4OUs1Q0JONEZ6VFUzZ2swY0ozTExpOVNNcHNMVkxsUER5OVU1ektfTE1EczhHVFVnQ2dSck9ZVVdVLXViQWxrVmg5NkdaSVZSYVMydDFid0E4VFU?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782777780,
-        "data": "30/06/2026 00:03"
     }
 ]
