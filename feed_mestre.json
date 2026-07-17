@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Zumbido no ouvido: mitos e verdades",
+        "link": "https://novomomento.com.br/zumbido-no-ouvido-mitos-e-verdades/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784281943,
+        "data": "17/07/2026 09:52"
+    },
+    {
+        "titulo": "Idoso atinge moto e deixa dois feridos na Fabrício Vampré em LimeiraO",
+        "link": "https://rapidonoar.com.br/idoso-atinge-moto-e-deixa-dois-feridos-na-fabricio-vampre-em-limeirao-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/acidente-de-transito-7-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784281732,
+        "data": "17/07/2026 09:48"
+    },
+    {
+        "titulo": "Moletons, jaquetas e calças entram em liquidação com até 50% de desconto na Radical Vest",
+        "link": "https://portaldeamericana.com/moletons-jaquetas-e-calcas-entram-em-liquidacao-com-ate-50-de-desconto-na-radical-vest/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/0e6be180-0965-4464-9bfa-6564e3c7d6e1.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1784280621,
+        "data": "17/07/2026 09:30"
+    },
+    {
+        "titulo": "Jiboia Morgana recebe cuidados especiais da equipe do Parque Ecológico",
+        "link": "https://portaldeamericana.com/jiboia-morgana-recebe-cuidados-especiais-da-equipe-do-parque-ecologico/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/IMG_0965.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1784280244,
+        "data": "17/07/2026 09:24"
+    },
+    {
+        "titulo": "Hortolândia terá mutirão de castração neste final de semana",
+        "link": "https://novomomento.com.br/hortolandia-tera-mutirao-castracao-fimde-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784278544,
+        "data": "17/07/2026 08:55"
+    },
+    {
+        "titulo": "Idosa morre após complicações decorrentes de quedas em Limeira",
+        "link": "https://rapidonoar.com.br/idosa-morre-apos-complicacoes-decorrentes-de-quedas-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2021/11/luto.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784278071,
+        "data": "17/07/2026 08:47"
+    },
+    {
+        "titulo": "Inter de Limeira perde para o Palmeiras em jogo-treino em São Paulo",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-perde-para-o-palmeiras-em-jogo-treino-em-sao-paulo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/luigi-7-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784277458,
+        "data": "17/07/2026 08:37"
+    },
+    {
+        "titulo": "Sucesso da liquidação faz Mar Negro transformar loja do Centro em Outlet da fábrica até o fim de julho",
+        "link": "https://portaldeamericana.com/sucesso-da-liquidacao-faz-mar-negro-transformar-loja-do-centro-em-outlet-da-fabrica-ate-o-fim-de-julho/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/IMG_0957.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1784276245,
+        "data": "17/07/2026 08:17"
+    },
+    {
+        "titulo": "Independente recebe o Brasílis e precisa vencer pelo Paulista Sub-20",
+        "link": "https://rapidonoar.com.br/independente-recebe-o-brasilis-e-precisa-vencer-pelo-paulista-sub-20/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/italo-1-1024x767.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784275968,
+        "data": "17/07/2026 08:12"
+    },
+    {
         "titulo": "Americana tem agenda cheia nos Jogos Regionais hoje",
         "link": "https://novomomento.com.br/americana-agenda-cheia-nos-jogos-regionais-hoje/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1782878194,
         "data": "01/07/2026 03:56"
-    },
-    {
-        "titulo": "Governo anuncia crédito de R$ 97,3 bi para agricultores familiares",
-        "link": "https://sb24horas.com.br/governo-anuncia-credito-de-r-973-bi-para-agricultores-familiares/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782877792,
-        "data": "01/07/2026 03:49"
-    },
-    {
-        "titulo": "Menos de três horas após apreensão, Romu prende novo suspeito por tráfico no João Ometto com mais de 300 porções de drogas",
-        "link": "https://noticiadelimeira.com.br/2026/07/01/menos-de-tres-horas-apos-apreensao-romu-prende-novo-suspeito-por-trafico-no-joao-ometto-com-mais-de-300-porcoes-de-drogas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1782871026,
-        "data": "01/07/2026 01:57"
-    },
-    {
-        "titulo": "De &#8220;Anunciação&#8221; a &#8220;La belle de jour&#8221;: Alceu Valença completa 80 anos hoje",
-        "link": "https://novomomento.com.br/anunciacao-labelle-jour-alceu-valenca-complt-80/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782870928,
-        "data": "01/07/2026 01:55"
-    },
-    {
-        "titulo": "Enquete favorito Masterchef: Vote no seu participante preferido da 13ª temporada - NSC Total",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3lOY1FBZUJadXBpRl9iYXhQNXROdWViUUtLd0NjWHNvSGRtZGNQWVU4Y2o2bEtsQjZyZkJ1LUNkSEFEQXBka2l1dG5KbGxpMXc3TUktZmMzRm9ocEQtMTNFS19PZE9pYTE4MWJYeWFLbWVnYXJ0RnhDM2I4UFo3S0lsQ0dXMk5TcDQxYVBSRGlxcUFnWXg0VTRQbnRRa2VYRjRpWXM1aU1qblg2YV8zSGJKaXgxYVU?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782869400,
-        "data": "01/07/2026 01:30"
-    },
-    {
-        "titulo": "Com dois gols de Mbappé, França despacha Suécia e avança às oitavas",
-        "link": "https://sb24horas.com.br/com-dois-gols-de-mbappe-franca-despacha-suecia-e-avanca-as-oitavas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782866699,
-        "data": "01/07/2026 00:44"
-    },
-    {
-        "titulo": "Barbie lança boneca inspirada em Miley Cyrus",
-        "link": "https://novomomento.com.br/barbie-lanca-boneca-inspirada-em-miley-cyrus/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782862911,
-        "data": "30/06/2026 23:41"
-    },
-    {
-        "titulo": "Fila do INSS cai ao menor nível em 21 meses, com 1,8 milhão de pedidos",
-        "link": "https://sb24horas.com.br/fila-do-inss-cai-ao-menor-nivel-em-21-meses-com-18-milhao-de-pedidos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782861779,
-        "data": "30/06/2026 23:22"
-    },
-    {
-        "titulo": "Polícia Civil prende suspeito de roubo de corrente de R$ 22 mil durante a Festa do Peão de Americana",
-        "link": "https://rapidonoar.com.br/policia-civil-prende-suspeito-de-roubo-de-corrente-de-r-22-mil-durante-a-festa-do-peao-de-americana/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/prisao-homem-rodeiro-americana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782858804,
-        "data": "30/06/2026 22:33"
-    },
-    {
-        "titulo": "30 de Junho de 2026 - liberal.com.br",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53REhUak1ITzRNU0t2NVdKRTZzdUJORkhlc0FZUHJvWEMzME5yd002ZXVFMmh6LW5HUHI5cFBpeUdFdjZQaVZ4Ymo1aHN6dnlTcllzRG5Yd0hyempEWlNVb1hGNVBYTFlOQ2tNZlp3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782857468,
-        "data": "30/06/2026 22:11"
     }
 ]
