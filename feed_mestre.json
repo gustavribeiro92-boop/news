@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Com gol no último lance, Botafogo bate Santos na volta do Brasileirão",
+        "link": "https://sb24horas.com.br/com-gol-no-ultimo-lance-botafogo-bate-santos-na-volta-do-brasileirao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784261107,
+        "data": "17/07/2026 04:05"
+    },
+    {
+        "titulo": "Adolescente é apreendido com mais de 200 porções de cocaína no Odécio Degan, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/17/adolescente-e-apreendido-com-mais-de-200-porcoes-de-cocaina-no-odecio-degan-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1784256593,
+        "data": "17/07/2026 02:49"
+    },
+    {
+        "titulo": "Traficante foragido da Justiça é preso com drogas após perseguição em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/07/17/traficante-foragido-da-justica-e-preso-com-drogas-apos-perseguicao-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1784256193,
+        "data": "17/07/2026 02:43"
+    },
+    {
+        "titulo": "Sérgio Reis faz show especial do Dia dos Pais em Piracicaba",
+        "link": "https://novomomento.com.br/sergio-reis-show-especial-dia-pais-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784256177,
+        "data": "17/07/2026 02:42"
+    },
+    {
+        "titulo": "Motociclista fica ferido após atropelar e matar cachorro na rodovia Limeira-Piracicaba",
+        "link": "https://noticiadelimeira.com.br/2026/07/17/motociclista-fica-ferido-apos-atropelar-e-matar-cachorro-na-rodovia-limeira-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1784255388,
+        "data": "17/07/2026 02:29"
+    },
+    {
         "titulo": "Anitta revela capa de &#8220;EQUILIBRIVM II&#8221;",
         "link": "https://novomomento.com.br/anitta-revela-capa-de-equilibrivm-ii/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -7,6 +52,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784252420,
         "data": "17/07/2026 01:40"
+    },
+    {
+        "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
+        "link": "https://sb24horas.com.br/setores-atingidos-por-tarifaco-dos-eua-terao-novo-plano-de-socorro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784250721,
+        "data": "17/07/2026 01:12"
     },
     {
         "titulo": "Tráfego nas rodovias paulistas cresce 6,5% em junho",
@@ -17944,59 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782853013,
         "data": "30/06/2026 20:56"
-    },
-    {
-        "titulo": "Engenheiro civil de Americana morre com suspeita de febre maculosa",
-        "link": "https://portaldeamericana.com/engenheiro-civil-de-americana-morre-com-suspeita-de-febre-maculosa/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9579.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782852635,
-        "data": "30/06/2026 20:50"
-    },
-    {
-        "titulo": "Única artista mulher no palco do rodeio de Itapecerica da Serra, Elis Justi vai apresentar grandes sucessos da carreira - Jornal Digital da Região Oeste",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYU5iZlN3ZW5HdjQ0aGhZdi1tc1BfMGhwMjUzTE51RlB4SDFrd3dreVlFdUxSbXVyR3hNZmFYLW9oRWF5OTRTQzVra1h1X2dnYWJ4WTlobFFRSHMxeXgtMmlXaWdjTzMxYzZZZ2F4S1NuSnZWQVBobGZJN1FxaE9PMTVQeF9NUWZxYWhoMFJLVVFwWEs3U25rU08tX2FVSWxiZVJTZ0dhU282RWlwZG0yZVd6WWNtZlJiYTctYUNUaTNYOTY0M3FNT2tjdlFHdTczWWhBbk1LQnREQ1h3X2lWejNjSTJUc2hyUG1NSTlFejBtSU0?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782851430,
-        "data": "30/06/2026 20:30"
-    },
-    {
-        "titulo": "Motociclista morre após bater em carro e ser arremessado contra poste na Avenida Dois Córregos, em Piracicaba",
-        "link": "https://rapidonoar.com.br/motociclista-morre-apos-bater-em-carro-e-ser-arremessado-contra-poste-na-avenida-dois-corregos-em-piracicaba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/morte-moto-piracicaba-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782850337,
-        "data": "30/06/2026 20:12"
-    },
-    {
-        "titulo": "Jaguatirica supera doença e volta à Mata Atlântica após meses de reabilitação",
-        "link": "https://novomomento.com.br/jaguatirica-volta-mata-atlantica-meses-reabilit/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782850147,
-        "data": "30/06/2026 20:09"
-    },
-    {
-        "titulo": "Santa Bárbara executa obras de bolsão de estacionamento e calçada no Batagin",
-        "link": "https://novomomento.com.br/santa-barbara-executa-obras-de-bolsao-de-estacionamento-e-calcada-no-batagin/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782849710,
-        "data": "30/06/2026 20:01"
-    },
-    {
-        "titulo": "Santa Bárbara executa obras de bolsão de estacionamento e calçada no Batagin",
-        "link": "https://novomomento.com.br/santa-barbara-obras-bolsao-e-calcada-no-batagin/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782849710,
-        "data": "30/06/2026 20:01"
     }
 ]
