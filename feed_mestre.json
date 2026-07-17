@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Anitta revela capa de &#8220;EQUILIBRIVM II&#8221;",
+        "link": "https://novomomento.com.br/anitta-revela-capa-de-equilibrivm-ii/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784252420,
+        "data": "17/07/2026 01:40"
+    },
+    {
+        "titulo": "Tráfego nas rodovias paulistas cresce 6,5% em junho",
+        "link": "https://novomomento.com.br/trafego-rodovias-paulistas-cresce-65-junho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784248628,
+        "data": "17/07/2026 00:37"
+    },
+    {
+        "titulo": "Tempo muito seco em Campinas (SP): alerta amarelo do INMET ate 18/07 - O TEMPO",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemtiZlZ1eWYzbVFGaXZhTGo1SmU0bTROeHhtc0xDanA2clY5MURVaGdTUEpQWWZVTWZ0ME9GVXlIMEhYbUY5RnFMWDNKaThVSjFQeGtxNXphNEQ5SkhGQ0RaZk9MYkJQMUNpdjNkQk5pOHdlY2pURDB1NFJnYnBQNUdMS2phR2dfTlhUYmV6TmkxN3FoWGlWQ0lIeHJuZ1FrUG8tQUF5TXFkdEnSAbABQVVfeXFMT3Q3b0FnNXA4bDQtWVpSLXRoVzNmUFByRUxnZmhXeE9TdjRFMGVncjh6YVZDaW9jZEdwakNqdXpKTnAzTkxqX0hLa25QVEg2RlhRMi1SMlUyT0djd2g2cHNkQklyZ0pBcEJoc09pZHRXZXhOVzNPdDNldGdGRFFxUnUzUmxJclg1OE1PMmwwaW0wVXNvS1M1emVhZTd3OEpibFhQOUNyRV9STVo5djlLUEw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784246552,
+        "data": "17/07/2026 00:02"
+    },
+    {
+        "titulo": "Vôlei masculino de Americana vence pela Liga antes dos Jogos Regionais",
+        "link": "https://novomomento.com.br/volei-masculino-americana-vence-liga-jogos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784244094,
+        "data": "16/07/2026 23:21"
+    },
+    {
+        "titulo": "Centro Cívico tem 1o torneio misto de vôlei de praia este sábado",
+        "link": "https://novomomento.com.br/centro-civico-1torneio-mix-volei-d-praia-sabado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784243958,
+        "data": "16/07/2026 23:19"
+    },
+    {
+        "titulo": "Botafogo vence o Santos com gol nos acréscimos na volta do Brasileirão",
+        "link": "https://rapidonoar.com.br/botafogo-vence-o-santos-com-gol-nos-acrescimos-na-volta-do-brasileirao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/botafogo-vitoria-contra-santos-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784242225,
+        "data": "16/07/2026 22:50"
+    },
+    {
         "titulo": "Thiago Brochi pede equipamento de radioterapia a pacientes com câncer",
         "link": "https://novomomento.com.br/thiago-brochi-equipm-radiotrpia-paciente-cancer/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -7,6 +61,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784240349,
         "data": "16/07/2026 22:19"
+    },
+    {
+        "titulo": "MP-SP descarta suicídio de influencer dos EUA no Rosewood - SBT News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHdvRFplc2xFRG4xQk5CMndHS1VDQ3F2dlVWY1FOUlZRaFJmNnZzdmgxcGczTGh2QVh2SnJLTnZXM3BWeFdYSHhyeERwZ0VtZ2FJUE9VOFNyWFMtUTVqd0FQX3VoeE9obWxLMHFtWnRZdm5FME9hVGtSMkhnM2pfOFp1aDI2V0ZFVmdEWmZPallzT3lwWW9WU1B5bzZFQ0pU?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784240203,
+        "data": "16/07/2026 22:16"
     },
     {
         "titulo": "Ação reforça atendimento à população em situação de rua em Nova Odessa",
@@ -207,6 +270,15 @@
         "data": "16/07/2026 18:19"
     },
     {
+        "titulo": "GAMA desarticula imóvel de preparo de drogas e prende três em Americana - Policial Padrão",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXJybkJEbEt2WTBqS3JLdUxULVRRenRab0g3MWpuSjVmTmZpRDRDSndOSFg2NDZlanh5SE1Wellkb0FNcDRqTG53LVRManZRQ2xfa0VCMkxnT2EwTkpNaG11eXRuaGdkdEVCY2VNdmVPekhoZl96cmlzdW5EaHNaNDd4dEpHU29vRWZEd29CYTlSdGxPd2paZGZxM3pfSU9mWE1zeQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784225957,
+        "data": "16/07/2026 18:19"
+    },
+    {
         "titulo": "Segundo assessor reacende debate sobre estrutura da Câmara de Santa Bárbara e salários do alto escalão",
         "link": "https://sb24horas.com.br/segundo-assessor-reacende-debate-sobre-estrutura-da-camara-de-santa-barbara-e-salarios-do-alto-escalao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -223,6 +295,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1784224800,
         "data": "16/07/2026 18:00"
+    },
+    {
+        "titulo": "Morre Renato Machado, ex-apresentador do ‘Bom Dia Brasil’, aos 83 anos",
+        "link": "https://portaldeamericana.com/morre-renato-machado-ex-apresentador-do-bom-dia-brasil-aos-83-anos/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/IMG_0928.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1784223870,
+        "data": "16/07/2026 17:44"
     },
     {
         "titulo": "Projeção oficial de inflação sobe para 5,1%, com estouro da meta",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1782849710,
         "data": "30/06/2026 20:01"
-    },
-    {
-        "titulo": "Guarda municipal é investigado por homicídio em alojamento na Rua Carioba",
-        "link": "https://portaldeamericana.com/guarda-municipal-e-investigado-por-homicidio-em-alojamento-na-rua-carioba/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_9572.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1782849084,
-        "data": "30/06/2026 19:51"
-    },
-    {
-        "titulo": "DAE de Santa Bárbara anuncia novo formato da conta de água e mudanças na leitura de hidrômetros em razão da Reforma Tributária",
-        "link": "https://sb24horas.com.br/dae-de-santa-barbara-anuncia-novo-formato-da-conta-de-agua-e-mudancas-na-leitura-de-hidrometros-em-razao-da-reforma-tributaria/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782848766,
-        "data": "30/06/2026 19:46"
-    },
-    {
-        "titulo": "Prefeitura de Santa Bárbara abre inscrições para Colônia de Férias com atividades gratuitas para crianças da Rede Municipal",
-        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-abre-inscricoes-para-colonia-de-ferias-com-atividades-gratuitas-para-criancas-da-rede-municipal/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1782848643,
-        "data": "30/06/2026 19:44"
-    },
-    {
-        "titulo": "Guarda prende moça de 19 por furto em loja de cosméticos em SBO",
-        "link": "https://novomomento.com.br/guarda-prende-moca19-rouba-cosmeticos-stbarbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782848053,
-        "data": "30/06/2026 19:34"
-    },
-    {
-        "titulo": "Campeonato Amador da Primeira Divisão já tem jogo de abertura definido",
-        "link": "https://rapidonoar.com.br/campeonato-amador-da-primeira-divisao-ja-tem-jogo-de-abertura-definido/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/conselho-ldl-1024x1024.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782847974,
-        "data": "30/06/2026 19:32"
-    },
-    {
-        "titulo": "Plenária Municipal debate propostas para a 18ª Conferência Nacional de Saúde",
-        "link": "https://noticiadelimeira.com.br/2026/06/30/plenaria-municipal-debate-propostas-para-a-18a-conferencia-nacional-de-saude/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1782847532,
-        "data": "30/06/2026 19:25"
-    },
-    {
-        "titulo": "Mulher fica ferida após moto derrapar em pedaço de madeira na Via Guilherme Dibbern, em Limeira",
-        "link": "https://rapidonoar.com.br/mulher-fica-ferida-apos-moto-derrapar-em-pedaco-de-madeira-na-via-guilherme-dibbern-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/06/queda-acide-moto-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1782847386,
-        "data": "30/06/2026 19:23"
-    },
-    {
-        "titulo": "Enzo Pereira do Nascimento disputa o Brasileiro Infantil em Brasília - Imparcial.com.br",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnVZcE1DVGttb1phRmprLS1lN2NmOHVVaURZYWx1ZjhnNVRtSzJkWndJcjJYb0w2QUtrRGJuTUFCbk42Sm5hM2hVbWZteHk5Q3F5NVpsZ3V0djZwUzZMTzBHbU9KOHp1VThhRldrSWQ0MDlnNmtrMXpQM0oxTXhVMTlCQ1FMWC1LeDFoVlZ3WWx1UnNHV1Y2U19YbHhMOVcxOGZCbXE4NkhXTGNIWEo4VlNR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1782847062,
-        "data": "30/06/2026 19:17"
-    },
-    {
-        "titulo": "Exposição resgata a história dos ex-combatentes de Limeira na Revolução de 1932",
-        "link": "https://noticiadelimeira.com.br/2026/06/30/exposicao-resgata-a-historia-dos-ex-combatentes-de-limeira-na-revolucao-de-1932/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1782846774,
-        "data": "30/06/2026 19:12"
     }
 ]
