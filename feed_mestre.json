@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Americana tem agenda cheia nos Jogos Regionais hoje",
+        "link": "https://novomomento.com.br/americana-agenda-cheia-nos-jogos-regionais-hoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784275722,
+        "data": "17/07/2026 08:08"
+    },
+    {
+        "titulo": "Limeira Máster conquista 33 medalhas no Paulista de Inverno",
+        "link": "https://rapidonoar.com.br/limeira-master-conquista-33-medalhas-no-paulista-de-inverno/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/inverno-1-1024x597.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784275495,
+        "data": "17/07/2026 08:04"
+    },
+    {
+        "titulo": "Inter de Limeira e Independente disputam as semifinais da Copa Leme de Base",
+        "link": "https://rapidonoar.com.br/inter-de-limeira-e-independente-disputam-as-semifinais-da-copa-leme-de-base/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/leme-1024x535.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784275188,
+        "data": "17/07/2026 07:59"
+    },
+    {
         "titulo": "Grisalho do Romano tinha 110 mil cápsulas na garagem de casa",
         "link": "https://novomomento.com.br/grisalho-romano-110mil-capsulas-garagem-de-casa/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1782857468,
         "data": "30/06/2026 22:11"
-    },
-    {
-        "titulo": "Alice Oseman (Heartstopper) e Pedro Bial na Bienal do Livro SP",
-        "link": "https://novomomento.com.br/alice-heartstopper-pedro-bial-bienal-livro-sp/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1782856373,
-        "data": "30/06/2026 21:52"
-    },
-    {
-        "titulo": "BRK realiza extensão de rede e nova ligação de esgoto na próxima semana, no Centro, em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/30/brk-realiza-extensao-de-rede-e-nova-ligacao-de-esgoto-na-proxima-semana-no-centro-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1782856093,
-        "data": "30/06/2026 21:48"
-    },
-    {
-        "titulo": "Reunião define Américo Rissato como novo delegado seccional de Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/06/30/reuniao-define-americo-rissato-como-novo-delegado-seccional-de-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1782855248,
-        "data": "30/06/2026 21:34"
     }
 ]
