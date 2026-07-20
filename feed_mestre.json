@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Hortolândia: Jardim Bela Ville recebe reforço e implantação de sinalização de solo",
+        "link": "https://novomomento.com.br/hortolandia-jardim-bela-ville-recebe-reforco-e-implantacao-de-sinalizacao-de-solo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784538274,
+        "data": "20/07/2026 09:04"
+    },
+    {
+        "titulo": "COSEMS/SP participa de reunião estratégica para fortalecer ações de enfrentamento ao sarampo no estado de São Paulo - COSEMS/SP",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd18tZkc5N2FoeTNhc0d1WHhiQjVjV09SbFdFZXUwcXBsVnRZdE9DWEpjVFFwYWhrTjQ2SElkNXpxaU8wYWpwbFNIZ0FhWTExckJPU2laUmN5TzRVV1V3Wng0dW1uVXNHSzVPZXFzb1FzNWRpek1Bbkh2ZGVfeHNjczJFejZvd0lPWEJ4amwyX2NQRjNIbGVJalFrUEJGbDEwNlNnWUFXMEREcEdZTU5JNzY2bDdQYWFCYTkzVHZBeFdrRUZWMmZYa2ROMjlCR1N3ZXVUUE4tWjBxWFRfUVFkSWdRNXg4blE0?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784538131,
+        "data": "20/07/2026 09:02"
+    },
+    {
+        "titulo": "Ulissias, influencer encontrada morta ao lado do namorado",
+        "link": "https://novomomento.com.br/ulissias-influencer-encontra-morta-lado-namordo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784535268,
+        "data": "20/07/2026 08:14"
+    },
+    {
+        "titulo": "Padre é encontrado morto em residência no Centro de Leme",
+        "link": "https://rapidonoar.com.br/padre-e-encontrado-morto-em-residencia-no-centro-de-leme/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/08/sirene-policia.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784534416,
+        "data": "20/07/2026 08:00"
+    },
+    {
+        "titulo": "Lotofácil da Independência inicia vendas: R$ 300 milhões",
+        "link": "https://novomomento.com.br/lotofacil-da-independencia-vendas-r-300-milhoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784533958,
+        "data": "20/07/2026 07:52"
+    },
+    {
+        "titulo": "Leoncine discute melhorias no trânsito na Avenida Armando Salles de Oliveira",
+        "link": "https://novomomento.com.br/leoncine-melhoria-transito-av-armando-salles/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784530919,
+        "data": "20/07/2026 07:01"
+    },
+    {
+        "titulo": "Santa Bárbara: Setores elegem membros do Conselho de Cultura",
+        "link": "https://novomomento.com.br/santa-barbara-setores-elegem-conselho-d-cultura/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784529925,
+        "data": "20/07/2026 06:45"
+    },
+    {
+        "titulo": "Canetas emagrecedoras mudam hábitos e desafiam restaurantes a rever cardápios",
+        "link": "https://novomomento.com.br/caneta-emagreced-habt-desf-restaurante-cardapio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784526048,
+        "data": "20/07/2026 05:40"
+    },
+    {
         "titulo": "Americana tem 96 vagas de emprego hoje: destaque assistente de loja",
         "link": "https://novomomento.com.br/americana-96-vagas-emprego-hoje-assistente-loja/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -7,6 +79,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784505152,
         "data": "19/07/2026 23:52"
+    },
+    {
+        "titulo": "Espanha domina Argentina e conquista sua segunda Copa do Mundo",
+        "link": "https://rapidonoar.com.br/espanha-domina-argentina-e-conquista-sua-segunda-copa-do-mundo/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/espanha-bi-768x1024.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784501525,
+        "data": "19/07/2026 22:52"
     },
     {
         "titulo": "I Festival Internacional de Música de Hortolândia tem apresentações nesta 2ª (20)",
@@ -63,12 +144,30 @@
         "data": "19/07/2026 20:21"
     },
     {
+        "titulo": "Academia da GCM de Sumaré conclui etapa prática do curso de agentes",
+        "link": "https://novomomento.com.br/academia-gcm-sumare-conclui-pratica-curso-agent/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784492469,
+        "data": "19/07/2026 20:21"
+    },
+    {
         "titulo": "Guarda municipal é atingido por carro durante operação em Limeira; passageiro é baleado após disparos",
         "link": "https://rapidonoar.com.br/guarda-municipal-e-atingido-por-carro-durante-operacao-em-limeira-passageiro-e-baleado-apos-disparos/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/guarda-municipal-e-atingido-por-carro-durante-operacao-em-limeira-passageiro-e-baleado-apos-disparos-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
         "portal": "rapidonoar",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1784491890,
+        "data": "19/07/2026 20:11"
+    },
+    {
+        "titulo": "Espanha domina a Argentina, vence na prorrogação e fatura o bicampeonato da Copa - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZklOM1RWajRiX1pLcjNmSy1UYlpEOFlOMFRHSGY5T01kZy1wb3MwWFBNVmp0NVdkU1lzX2l3cEFfQkRoZGtRdjc5UlBVOEdNOUpCQXRQLXlZM0wzNlZFUlI5VEwtOHJwdU9MQURUNm0yX1JRRlJkd2YxaGgtRVEwRnpBbm9wLXRkcXBnYkU0NWN0UnNNRHdtYWJRcGEwbWdYVlBXUkQ1blpaMl9BZ1lwUGtqQ3dCZjNMQTFlLU4yZ0cxOTh5U05sTmVHV3N0elZ4UFE5bFRnd0xCdVNNT0Y2bDR2NVo?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784491860,
         "data": "19/07/2026 20:11"
     },
     {
@@ -574,6 +673,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1784398380,
         "data": "18/07/2026 18:13"
+    },
+    {
+        "titulo": "Alerta Amarelo: Tempo Muito Seco em Campinas (SP) até sábado (20/07) - O TEMPO",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWxpN2M3cGdPSUNkaVVZSTZFT3dkMERjRkZTQzd0V0xybW9yQTBEY0lYdlh0MXE2TEZqb0szWGpzUTdiQnBsSEdXZWstaVYxcjRFMFpqaWZUdEVpU0JzeGNWS21lRjd3TUN0NVN3OW1sVU9fckYydHp0NHZjQXVoYUNNcGZsY2I5ZnoxNGNUVDlKX1J0WjZnTllSbi1RRGRHREszOTM4Vzd0ZmVBamfSAa4BQVVfeXFMTTlsaTdjN3BnT0lDZGlVWUk2RU93ZDBEY0ZGU0M3dFdMcm1vckEwRGNJWHZYdDFxNkxGam9LM1hqc1E3YkJwbEhHV2VrLWlWMXI0RTBaamlmVHRFaVNCc3hjVkttZUY3d01DdDVTdzltbFVPX3JGMnR6dDR2Y0F1aGFDTXBmbGNiOWZ6MTRjVFQ5Sl9SdFo2Z05ZUm4tUURkR0RLMzkzOFc3dGZlQWpn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784398051,
+        "data": "18/07/2026 18:07"
     },
     {
         "titulo": "Juninho Dias quer linhas de ônibus com acesso direto ao Shopping Americana",
@@ -17890,113 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1783006034,
         "data": "02/07/2026 15:27"
-    },
-    {
-        "titulo": "Durigan: governo vai começar a retirar subsídio de R$ 0,44 da gasolina",
-        "link": "https://sb24horas.com.br/durigan-governo-vai-comecar-a-retirar-subsidio-de-r-044-da-gasolina/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783005543,
-        "data": "02/07/2026 15:19"
-    },
-    {
-        "titulo": "Espetáculo “Tribobó City” será apresentado gratuitamente no CEU das Artes neste sábado",
-        "link": "https://sb24horas.com.br/espetaculo-tribobo-city-sera-apresentado-gratuitamente-no-ceu-das-artes-neste-sabado/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783005339,
-        "data": "02/07/2026 15:15"
-    },
-    {
-        "titulo": "Secretaria de Segurança Pública alerta para golpe envolvendo a pasta",
-        "link": "https://rapidonoar.com.br/secretaria-de-seguranca-publica-alerta-para-golpe-envolvendo-a-pasta/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/alerta-de-golpe-ssp-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783005255,
-        "data": "02/07/2026 15:14"
-    },
-    {
-        "titulo": "Matrículas em creches avançam 11% em quase uma década",
-        "link": "https://difusorapiracicaba.com.br/matriculas-em-creches-avancam-11-em-quase-uma-decada/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783004400,
-        "data": "02/07/2026 15:00"
-    },
-    {
-        "titulo": "Rock Day Americana 2026 começa nesta sexta-feira com line-up histórico e estrutura ampliada - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwTVpod3FXbTBWWm8xaUJuRFFLdUxwVV8yS1BzaXB0Y0ctaHJNZ1NDbXc1bVlmZE1uU0R5OG1Pb2RTRVVnems5VmZRZEp4bTdSTnJieW9CYThLQk0xcEZGSi0zZ0hpbjlkT3Z2emZiZW8yWm1JN0E2akdR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783004400,
-        "data": "02/07/2026 15:00"
-    },
-    {
-        "titulo": "Gusttavo Lima retoma formato ao vivo e lança a inédita “Bala Alojada” - Tribuna do Sertão",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2xXSnpOb0hXU0M1Y2tCdmd5Yk5zSm9weTllV2pZMW9wNlpuV0pMNm9HVnIta1QxVzE0cTh3VlRVV1VlREpsb2VzN3VjalA5Qlc0SXpJSTUzMmt6ckpMX3hmN2RzYXZGb0t2aVdYQXdtRHFtNTZXMzFwNEloek9xQ0VRMDZfYVp4SzgzQnVZdC1DenhIbTM3QmdSandGNWR0SXlqdW9pQTdacHJOV3FULWRUay00ZW9QMENJSEQ3ZXA4cTJpYlpYNmFCQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783004160,
-        "data": "02/07/2026 14:56"
-    },
-    {
-        "titulo": "Gusttavo Lima retoma formato ao vivo e lança a inédita “Bala Alojada” - Tribuna do Agreste",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVZHMEdjcHFSWnJMS0xybWh5ZjllQ3JZS1hiQnlBOEpscWk4V002WVdMZkRtaDVGelM2UnNQMFJTUkRmQ3JnTVRReE5qT29GTjlBSFRlVEVkdkYyR2ZXeEJHdzllN084QjBHY3p3Zk1LRkY2ZWlVQWRtMDVhazJhRjMxemUtcDdlSU5SZ1NPaERrNTRDWnlraDRkMEpoZnRsbkw2ZXhRQ192aWFUMHhxUk53c2dqMXRxWHctbW9DY3VuS2FjYkhPODFIaTM?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783004160,
-        "data": "02/07/2026 14:56"
-    },
-    {
-        "titulo": "Patrão do pintor morto baleado em Americana fala pela primeira vez após o caso - THMais",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQTRWZmUzV3cydlJhUXpIYzkxYnBObXphcnZJVVFIVWg0MnpoRE43ZmZueWVzLUxEa2lxQlhGNVdPWU1vd014LVdJakU1NmNxNGVhdFUyUXFLSlFKUkFOXzdaWkUyT21Da3dhSVBwaFE1MC1VaHlTSV9QcFBxdGhQR1pHZkFtbVNYNU5WUTlFTDlhQXo0V0twWTZIRVJSUThyMXYxNzBEN20wR2hCUmsyQnpMbi1ZUmtTcEVhRVAwX1dZNEpfOVIyMWRsUngtSWRV?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783003861,
-        "data": "02/07/2026 14:51"
-    },
-    {
-        "titulo": "News-single - Notícia FM - Notícia FM",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjRzc2JFWmF0bG5xZUZfR1JncmhWbFBhNjRCdDdjMmVaS3RhMVRTczMwVWYwTkxjVFMycFdUNEFaRnhTbkhWRjA0QTVlZzlLNTFNcmtOdWFLRmNNb0NwZmwzTUVmeWU5VzR4Rl9sRXNqLTFoeV9kZmsxM3BQdHZOLWRkdVRjUEtSbTRERHpCZVdzems5VFdmN2NFZFdKRVk2?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783003824,
-        "data": "02/07/2026 14:50"
-    },
-    {
-        "titulo": "Secretaria de Esportes reúne equipes do Gigantão e Amador Feminino para alinhamento na segunda-feira - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VMk5GWEF0MEpYaWgyTWs2Y1hYbVZDUnRQc2dtTEFDYjRodW9rRGVqU1BKd1hIVE9GdENRSHNSLU1fRjAwQkswZEIwWEtMZWgwQ0VLazNZR0hPb29NVUI0THhsR0lMVmVWV0ZJc2NSQWg2SVdGbUlQa01n?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783003800,
-        "data": "02/07/2026 14:50"
-    },
-    {
-        "titulo": "CEU das Artes recebe Sarau Bellas Artes com apresentações teatrais gratuitas nesta sexta-feira",
-        "link": "https://sb24horas.com.br/ceu-das-artes-recebe-sarau-bellas-artes-com-apresentacoes-teatrais-gratuitas-nesta-sexta-feira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783003727,
-        "data": "02/07/2026 14:48"
-    },
-    {
-        "titulo": "Horários especiais do comércio de Limeira para o segundo semestre são definidos pela ACIL",
-        "link": "https://rapidonoar.com.br/horarios-especiais-do-comercio-de-limeira-para-o-segundo-semestre-sao-definidos-pela-acil/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/04/limeira-comercio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783003688,
-        "data": "02/07/2026 14:48"
     }
 ]
