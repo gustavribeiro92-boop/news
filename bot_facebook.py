@@ -81,7 +81,7 @@ try:
     
     print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
 
-    # 4. O ESTÚDIO DE ARTE (CANVA TEMPLATE MELHORADO)
+    # 4. O ESTÚDIO DE ARTE
     print("🎨 Desenhando a arte do post usando o Template do Canva...")
     
     font_path = "fonte.ttf"
@@ -89,8 +89,8 @@ try:
         print("🚨 Erro: O arquivo 'fonte.ttf' não foi encontrado no repositório!")
         exit(1)
         
-    # 🔴 AUMENTAMOS A FONTE DE 55 PARA 75
-    font_titulo = ImageFont.truetype(font_path, 75)
+    # Mantivemos a fonte grande (70), pois a nova fonte será mais larga
+    font_titulo = ImageFont.truetype(font_path, 70)
     font_chapeu = ImageFont.truetype(font_path, 35)
     
     template_path = "template.png"
@@ -101,7 +101,6 @@ try:
     img = Image.open(template_path).convert('RGB')
     draw = ImageDraw.Draw(img)
 
-    # 🔴 DIMINUÍMOS OS CARACTERES POR LINHA (pois a letra está maior)
     linhas_titulo = textwrap.wrap(titulo_final, width=22)
     
     y_text = 350
@@ -111,14 +110,10 @@ try:
         w_linha = bbox[2] - bbox[0]
         x_text = (1080 - w_linha) / 2
         
-        # 🔴 NOVO EFEITO: Sombra escura no fundo para dar destaque
-        draw.text((x_text + 4, y_text + 4), linha, font=font_titulo, fill=(0, 0, 0))
-        
-        # 🔴 NOVO EFEITO: Texto em branco puro por cima da sombra (sem outline)
+        # TEXTO BRANCO PURO (Limpo e elegante)
         draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255))
         
-        # 🔴 AUMENTAMOS O ESPAÇAMENTO ENTRE LINHAS
-        y_text += 100 
+        y_text += 90 
         
     y_rodape = 950
     texto_fonte = f"Fonte: {portal_nome}"
