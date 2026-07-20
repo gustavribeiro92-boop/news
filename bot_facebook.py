@@ -4,7 +4,6 @@ import requests
 import textwrap
 import random
 from PIL import Image, ImageDraw, ImageFont
-from io import BytesIO
 
 # 1. PUXANDO AS CREDENCIAIS
 PAGE_ID = os.environ.get("FACEBOOK_PAGE_ID")
@@ -43,7 +42,6 @@ try:
     for noticia in noticias[:50]:
         link_atual = noticia.get('link')
         
-        # 🔴 BLOQUEIO ANTI-REPETIÇÃO: Se o link já está na memória, ignora a notícia!
         if link_atual in postados:
             continue
             
@@ -71,14 +69,21 @@ try:
         print("⚠️ Nenhuma notícia nova para postar (todas do topo já foram publicadas).")
         exit(0)
 
-    titulo_final = melhor_noticia.get('titulo')
+    # 🔴 O NOVO LIMPADOR DE TÍTULOS
+    titulo_bruto = melhor_noticia.get('titulo')
+    if " - " in titulo_bruto:
+        # Corta a string no último " - " e pega apenas a notícia em si, jogando o nome do jornal fora
+        titulo_final = titulo_bruto.rsplit(' - ', 1)[0]
+    else:
+        titulo_final = titulo_bruto
+
     link_final = melhor_noticia.get('link')
     portal_nome = str(melhor_noticia.get('portal', 'Portal RMC')).title()
     
     print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
 
-    # 4. O ESTÚDIO DE ARTE
-    print("🎨 Desenhando a arte do post...")
+    # 4. O ESTÚDIO DE ARTE (CANVA TEMPLATE)
+    print("🎨 Desenhando a arte do post usando o Template do Canva...")
     
     font_path = "fonte.ttf"
     if not os.path.exists(font_path):
@@ -88,44 +93,31 @@ try:
     font_titulo = ImageFont.truetype(font_path, 55)
     font_chapeu = ImageFont.truetype(font_path, 35)
     
-    img = Image.new('RGB', (1080, 1080), color=(17, 24, 39))
+    template_path = "template.png"
+    if not os.path.exists(template_path):
+        print("🚨 Erro: O arquivo 'template.png' não foi encontrado no repositório! Suba a arte do Canva.")
+        exit(1)
+        
+    img = Image.open(template_path).convert('RGB')
     draw = ImageDraw.Draw(img)
-    
-    draw.rectangle([(0, 0), (1080, 1080)], outline=(234, 91, 12), width=20)
-    
-    url_logo = "https://portaldosportais.com/wp-content/uploads/2026/05/Gemini_Generated_Image_mdib1mdib1mdib1m.png"
-    try:
-        req_logo = requests.get(url_logo)
-        img_logo = Image.open(BytesIO(req_logo.content)).convert("RGBA")
-        img_logo.thumbnail((300, 300), Image.Resampling.LANCZOS)
-        logo_w, logo_h = img_logo.size
-        x_logo = (1080 - logo_w) // 2
-        img.paste(img_logo, (x_logo, 80), img_logo)
-        y_start_text = 80 + logo_h + 80
-    except Exception as e:
-        print(f"⚠️ Aviso: Não conseguiu baixar o logo: {e}")
-        y_start_text = 200
 
     linhas_titulo = textwrap.wrap(titulo_final, width=28)
-    y_text = y_start_text
+    
+    # Altura inicial para não cobrir o seu logo no Canva
+    y_text = 350
     
     for linha in linhas_titulo:
         bbox = draw.textbbox((0, 0), linha, font=font_titulo)
         w_linha = bbox[2] - bbox[0]
         x_text = (1080 - w_linha) / 2
-        draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=2, stroke_fill=(255, 255, 255))
+        draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=2, stroke_fill=(0, 0, 0))
         y_text += 85 
         
     y_rodape = 900
     texto_fonte = f"Fonte: {portal_nome}"
     bbox_fonte = draw.textbbox((0, 0), texto_fonte, font=font_chapeu)
     w_fonte = bbox_fonte[2] - bbox_fonte[0]
-    draw.text(((1080 - w_fonte) / 2, y_rodape), texto_fonte, font=font_chapeu, fill=(156, 163, 175))
-
-    texto_site = "Acesse: portaldosportais.com"
-    bbox_site = draw.textbbox((0, 0), texto_site, font=font_chapeu)
-    w_site = bbox_site[2] - bbox_site[0]
-    draw.text(((1080 - w_site) / 2, y_rodape + 60), texto_site, font=font_chapeu, fill=(234, 91, 12))
+    draw.text(((1080 - w_fonte) / 2, y_rodape), texto_fonte, font=font_chapeu, fill=(255, 255, 255))
 
     caminho_imagem = 'card_gerado.jpg'
     img.save(caminho_imagem)
@@ -143,11 +135,10 @@ try:
     
     chapeu_sorteado = random.choice(opcoes_chapeu)
     
-    # TEXTO ATUALIZADO: Linkando direto para o Portal dos Portais
     mensagem = (
         f"{chapeu_sorteado}\n\n"
         f"📰 {titulo_final}\n\n"
-        f"👉 Confira os detalhes dessa matéria do {portal_nome} e fique por dentro de tudo o que acontece na região.\n\n"
+        f"👉 Confira os detalhes dessa matéria e fique por dentro de tudo o que acontece na região.\n\n"
         f"🔗 Acesse agora: https://portaldosportais.com\n\n"
         f"#Americana #NoticiasLocais #PortalDosPortais"
     )
@@ -165,7 +156,6 @@ try:
     if resposta.status_code == 200:
         print("✅ SUCESSO! Card dinâmico publicado.")
         
-        # 🔴 SALVANDO NA MEMÓRIA: Anota o link original no bloco de notas
         with open(ARQUIVO_HISTORICO, 'a', encoding='utf-8') as f:
             f.write(link_final + '\n')
             
