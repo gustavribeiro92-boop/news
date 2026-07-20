@@ -69,10 +69,9 @@ try:
         print("⚠️ Nenhuma notícia nova para postar (todas do topo já foram publicadas).")
         exit(0)
 
-    # 🔴 O NOVO LIMPADOR DE TÍTULOS
+    # LIMPADOR DE TÍTULOS
     titulo_bruto = melhor_noticia.get('titulo')
     if " - " in titulo_bruto:
-        # Corta a string no último " - " e pega apenas a notícia em si, jogando o nome do jornal fora
         titulo_final = titulo_bruto.rsplit(' - ', 1)[0]
     else:
         titulo_final = titulo_bruto
@@ -82,7 +81,7 @@ try:
     
     print(f"🎯 Notícia selecionada (Nota: {maior_pontuacao}): {titulo_final}")
 
-    # 4. O ESTÚDIO DE ARTE (CANVA TEMPLATE)
+    # 4. O ESTÚDIO DE ARTE (CANVA TEMPLATE MELHORADO)
     print("🎨 Desenhando a arte do post usando o Template do Canva...")
     
     font_path = "fonte.ttf"
@@ -90,7 +89,8 @@ try:
         print("🚨 Erro: O arquivo 'fonte.ttf' não foi encontrado no repositório!")
         exit(1)
         
-    font_titulo = ImageFont.truetype(font_path, 55)
+    # 🔴 AUMENTAMOS A FONTE DE 55 PARA 75
+    font_titulo = ImageFont.truetype(font_path, 75)
     font_chapeu = ImageFont.truetype(font_path, 35)
     
     template_path = "template.png"
@@ -101,23 +101,30 @@ try:
     img = Image.open(template_path).convert('RGB')
     draw = ImageDraw.Draw(img)
 
-    linhas_titulo = textwrap.wrap(titulo_final, width=28)
+    # 🔴 DIMINUÍMOS OS CARACTERES POR LINHA (pois a letra está maior)
+    linhas_titulo = textwrap.wrap(titulo_final, width=22)
     
-    # Altura inicial para não cobrir o seu logo no Canva
     y_text = 350
     
     for linha in linhas_titulo:
         bbox = draw.textbbox((0, 0), linha, font=font_titulo)
         w_linha = bbox[2] - bbox[0]
         x_text = (1080 - w_linha) / 2
-        draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255), stroke_width=2, stroke_fill=(0, 0, 0))
-        y_text += 85 
         
-    y_rodape = 900
+        # 🔴 NOVO EFEITO: Sombra escura no fundo para dar destaque
+        draw.text((x_text + 4, y_text + 4), linha, font=font_titulo, fill=(0, 0, 0))
+        
+        # 🔴 NOVO EFEITO: Texto em branco puro por cima da sombra (sem outline)
+        draw.text((x_text, y_text), linha, font=font_titulo, fill=(255, 255, 255))
+        
+        # 🔴 AUMENTAMOS O ESPAÇAMENTO ENTRE LINHAS
+        y_text += 100 
+        
+    y_rodape = 950
     texto_fonte = f"Fonte: {portal_nome}"
     bbox_fonte = draw.textbbox((0, 0), texto_fonte, font=font_chapeu)
     w_fonte = bbox_fonte[2] - bbox_fonte[0]
-    draw.text(((1080 - w_fonte) / 2, y_rodape), texto_fonte, font=font_chapeu, fill=(255, 255, 255))
+    draw.text(((1080 - w_fonte) / 2, y_rodape), texto_fonte, font=font_chapeu, fill=(200, 200, 200))
 
     caminho_imagem = 'card_gerado.jpg'
     img.save(caminho_imagem)
