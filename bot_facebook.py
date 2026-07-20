@@ -143,11 +143,12 @@ try:
     
     chapeu_sorteado = random.choice(opcoes_chapeu)
     
+    # TEXTO ATUALIZADO: Linkando direto para o Portal dos Portais
     mensagem = (
         f"{chapeu_sorteado}\n\n"
         f"📰 {titulo_final}\n\n"
-        f"Acesse o Portal dos Portais e confira os detalhes dessa matéria divulgada pelo {portal_nome}.\n\n"
-        f"🔗 Leia completo no link abaixo:\n{link_final}\n\n"
+        f"👉 Confira os detalhes dessa matéria do {portal_nome} e fique por dentro de tudo o que acontece na região.\n\n"
+        f"🔗 Acesse agora: https://portaldosportais.com\n\n"
         f"#Americana #NoticiasLocais #PortalDosPortais"
     )
     
@@ -164,7 +165,7 @@ try:
     if resposta.status_code == 200:
         print("✅ SUCESSO! Card dinâmico publicado.")
         
-        # 🔴 SALVANDO NA MEMÓRIA: Anota o link no bloco de notas
+        # 🔴 SALVANDO NA MEMÓRIA: Anota o link original no bloco de notas
         with open(ARQUIVO_HISTORICO, 'a', encoding='utf-8') as f:
             f.write(link_final + '\n')
             
