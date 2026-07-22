@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Polícia identifica mãe de bebê encontrada em lixeira de hospital no interior de SP",
+        "link": "https://rapidonoar.com.br/policia-identifica-mae-de-bebe-encontrada-em-lixeira-de-hospital-no-interior-de-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/face-hospital-evangelico-sorocaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784675828,
+        "data": "21/07/2026 23:17"
+    },
+    {
+        "titulo": "Anvisa e novos medicamentos da menopausa e esclerose múltipla",
+        "link": "https://novomomento.com.br/anvisa-medicamentos-menopausa-esclerose-multipl/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784675541,
+        "data": "21/07/2026 23:12"
+    },
+    {
         "titulo": "Gigantão 2026 3ª Divisão terá início em 11 de agosto",
         "link": "https://novomomento.com.br/gigantao-2026-3divisao-tem-inicio-11-de-agosto/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -178,6 +196,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1784657367,
         "data": "21/07/2026 18:09"
+    },
+    {
+        "titulo": "Hospital Municipal de Americana tem processo seletivo aberto para sete cargos - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEgyejRRM18yY2tld05jeUluWjBUOG1CQ3lOM2c3MUxSdkpXNTgtTmdBd09yTlg2UV9tVmZGS0RneDNpNHNOTndENVRUbWNhdlpsaFJNc09YY1dVNGpfNjVObmZOMUhyN0ZSQ1hVZGJJZnlEb0o0OTBEMlY0NjljTUEzSU5CbXF2aVFicG1sdEdyTHh0MnZWQUs3R0E3NFQtUWF4U00zVEQ3cUtFemNOSGdjVlVMdWQ3OUJPLXpRdzYzN3NSakhpcnlycU9pY016ZnNma2lUTWt4cUxtMXlZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784656920,
+        "data": "21/07/2026 18:02"
     },
     {
         "titulo": "Regionais: Americana vence no handebol, malha e tênis de mesa em Itatiba",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1783197225,
         "data": "04/07/2026 20:33"
-    },
-    {
-        "titulo": "Aneel sorteia mais quatro lotes de transmissão de energia",
-        "link": "https://sb24horas.com.br/aneel-sorteia-mais-quatro-lotes-de-transmissao-de-energia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783197058,
-        "data": "04/07/2026 20:30"
-    },
-    {
-        "titulo": "Venda de paella caipira ajudará na reforma de igreja no Jardim Nova Suíça",
-        "link": "https://rapidonoar.com.br/venda-de-paella-caipira-ajudara-na-reforma-de-igreja-no-jardim-nova-suica-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/paella-2.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783195047,
-        "data": "04/07/2026 19:57"
-    },
-    {
-        "titulo": "Limeirense participa de exposição de fotografia no litoral de São Paulo",
-        "link": "https://rapidonoar.com.br/limeirense-participa-de-exposicao-de-fotografia-no-litoral-de-sao-paulo-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/ana-5.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783193978,
-        "data": "04/07/2026 19:39"
     }
 ]
