@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Homem desorientado é encontrado às margens da Rodovia SP-304 em Piracicaba",
+        "link": "https://rapidonoar.com.br/homem-desorientado-e-encontrado-as-margens-da-rodovia-sp-304-em-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/homem-desorientado-e-encontrado-as-margens-da-rodovia-sp-304-em-piracicaba-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784795458,
+        "data": "23/07/2026 08:30"
+    },
+    {
+        "titulo": "Periquitos recebem vermifugação preventiva no zoo Americana",
+        "link": "https://novomomento.com.br/periquitos-vermifugacao-preventiv-zoo-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784795452,
+        "data": "23/07/2026 08:30"
+    },
+    {
+        "titulo": "Sara Pinto lança pré candidatura no MDB e prega mais representatividade na região",
+        "link": "https://novomomento.com.br/sara-pinto-pre-candidat-mdb-prega-representativ/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784793921,
+        "data": "23/07/2026 08:05"
+    },
+    {
+        "titulo": "Procon de Nova Odessa orienta sobre compra de veículos seminovos e usados",
+        "link": "https://novomomento.com.br/procon-de-nova-odessa-orienta-sobre-compra-de-veiculos-seminovos-e-usados/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784793605,
+        "data": "23/07/2026 08:00"
+    },
+    {
+        "titulo": "B3 anuncia Eduardo Neves como novo CTO",
+        "link": "https://novomomento.com.br/b3-anuncia-eduardo-neves-como-novo-cto/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784790037,
+        "data": "23/07/2026 07:00"
+    },
+    {
+        "titulo": "Americana sobe pra a 2ª posição nos Jogos Regionais- passa Campinas",
+        "link": "https://novomomento.com.br/americana-sobe-pra-2posicao-nos-jogos-regionais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784787019,
+        "data": "23/07/2026 06:10"
+    },
+    {
+        "titulo": "Cultura e Turismo de SBO tira-dúvidas sobre editais nesta quinta-feira (23)",
+        "link": "https://novomomento.com.br/cultura-e-turismo-de-sbo-tira-duvidas-sobre-editais-nesta-quinta-feira-23/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784786602,
+        "data": "23/07/2026 06:03"
+    },
+    {
+        "titulo": "Nova Área de Lazer &#8220;José Bellani&#8221; do Jardim Dulce será entregue hoje",
+        "link": "https://novomomento.com.br/nova-area-lazer-jose-bellani-jd-dulce-entrghoje/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784786570,
+        "data": "23/07/2026 06:02"
+    },
+    {
+        "titulo": "Palmeiras vence fácil na volta do BR (3-1) no Coritiba",
+        "link": "https://novomomento.com.br/palmeiras-vence-facil-volta-br-3-1-coritiba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784785553,
+        "data": "23/07/2026 05:45"
+    },
+    {
         "titulo": "Polícia Civil de Americana prende motorista de carreta com 270 tijolos de maconha na SP-101 em Monte Mor - SB Notícias",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGdlOTUwQ0NGV29vaXhjUmlQQ3lzUGdLTVBIcFhxQjJHUHdVNnBOME51LXp4emNtMUZtaWp2S0V4d2FmM0lmRjRFQWcxMjJsM19meXpNUTRfelNZU2J2d0FXUGNfb0JWMlJtRUNoX2lIS1phUEdnU2puYWl2eFBfbkpFOTFYeTRQeWw3cG1PLUdsQlI5NDJvSGJDaUV0aGpjZXZQT0huSWJ3U19UWWQ2WXpsRUVGdnBQR00xNDdKdWpiUS1BU0xqV2lGR3FnYTRlUU83Zm5nZkdFNXJ4VGc?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -1186,6 +1267,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784687501,
         "data": "22/07/2026 02:31"
+    },
+    {
+        "titulo": "Copa Sul-Americana 2026: onde assistir aos jogos hoje? Veja lista completa de transmissão - olympics.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVk1VWpBVjhiM1FMVzM3Wi1KWDI3dElWZF9aMnhONEtSdHE3djl6d1JwSjRJMlZWZjQ2OUtkU0FhbHVySEdxRFBxM19fMVQ5SzNfVURtMk5udnJiWW1lV1RIUW5DdklzYjZYZUlYWnNvRHRBS3AzSjJua0dWdzBQY1NvZzR2ZmZReTVvUWhQb1pydnAtUmhB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784683260,
+        "data": "22/07/2026 01:21"
     },
     {
         "titulo": "Sem Neymar, Santos goleia UCV e se aproxima das oitavas da Sul-Americana - CNN Brasil",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1783346400,
         "data": "06/07/2026 14:00"
-    },
-    {
-        "titulo": "Santa Bárbara credencia entidades para atuar na Alimentação do 5º Festival Tradições",
-        "link": "https://novomomento.com.br/santa-barbara-credencia-entidades-para-atuar-na-alimentacao-do-5o-festival-tradicoes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783345507,
-        "data": "06/07/2026 13:45"
-    },
-    {
-        "titulo": "Prefeitura moderniza controladores semafóricos na Avenida da Saudade nesta segunda-feira",
-        "link": "https://hjnews.com.br/prefeitura-moderniza-controladores-semaforicos-na-avenida-da-saudade-nesta-segunda-feira-controladores-semaforicos-na-avenida-da-saudade-nesta-segunda-feira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1783344544,
-        "data": "06/07/2026 13:29"
-    },
-    {
-        "titulo": "Briga entre irmãos termina com um baleado e o outro preso pela PM de São Pedro",
-        "link": "https://rapidonoar.com.br/briga-entre-irmaos-termina-com-um-baleado-e-o-outro-preso-pela-pm-de-sao-pedro/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/06/plantao-policial-piracicaba-saida-temporaria-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783344237,
-        "data": "06/07/2026 13:23"
-    },
-    {
-        "titulo": "PF investiga 87 empresas usadas para lavar dinheiro de 'bets' - Finsiders Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGZjdEdxNDBWS1Q1QjRvZFdJX1dhb3Zzc1VOVHBkUkZlLWcyVjdTSUVjNjFaVktJalNBX0sza2ZIUHAzX0FLR01CZzlzYWpac0dSLV80U2VTak9adjlVSUcxWU9ISldYR0JJOC1LRDlwSXIxVUJFYnA4cXRNN0lVc0x3Qml3WW8zTWNIOTRwdlhWU1E3OHlFc3FZWUY5Q2E4emF5ZkVqNnpadVM5M3FxQUREUkxCNHpkZmdCTg?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783344027,
-        "data": "06/07/2026 13:20"
-    },
-    {
-        "titulo": "PF investiga 87 empresas usadas para lavar dinheiro de 'bets' - Finsiders Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS29MSHNqYkRJVkF2VFpqc1dsbkhBNHNKSWpydGY0VUtxeUptOEg1cGFROWtFMC1QVDRkLUg2cExwdVludG1qLURqLUhxNFhsUDdlMWIzZDlZMlFtWlhVSEx1c0JueDBWTGxIVnplOFlRMFlmR2tmczBxVDBYZjR5WW9xWmZ2NW1TUHdvZnRDQzlpSDhWVl9uX0dNVWFqWG1PZk1McHNrR2dnNFp3MU5EekRtUzF0VmZiSkJyOXh0MXd3SUJJcTlUZHdpU28tRVZSOTkw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783344027,
-        "data": "06/07/2026 13:20"
-    },
-    {
-        "titulo": "Veja o cardápio do Festival Gastronômico de Inverno, que acontece nesta segunda e terça",
-        "link": "https://hjnews.com.br/veja-o-cardapio-do-festival-gastronomico-de-inverno-que-acontece-nesta-segunda-e-terca/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1783342880,
-        "data": "06/07/2026 13:01"
-    },
-    {
-        "titulo": "Câmara abre processo seletivo para vagas de estágio em setores e departamentos",
-        "link": "https://difusorapiracicaba.com.br/camara-abre-processo-seletivo-para-vagas-de-estagio-em-setores-e-departamentos-2/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783342800,
-        "data": "06/07/2026 13:00"
-    },
-    {
-        "titulo": "Rolex 6 Horas de São Paulo anuncia plano ESG robusto para 2026: Protótipo a hidrogênio, inclusão social e... - SEGS Portal Nacional",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRWViaWVTVnVzRWd6Y1Y1bzllQzNwYnVvSEhtTkNZTDlzUmpwbkNuRGl5NXdsV2RIOWk0MTNBeTJRVjQ4TVJKaU5TbzRvaWw0OEw5c280VW5meUM3T2tyZGtuSzhMNGlvQUJjb0N3NXRFUUhCVVpUMnk3UnZrRkpjR2N6VGlLQ1c3Q1B6dDBKZVRtbFNucXBYbjgxTmdaUmx0ZjJScDVRMUtFVi1nbFVqTEVMdFUyUjEydlpYLTBtU0ZpelZlR3FsS0Zpdng4QmEwbldtQklVSUdQYk5HMEl3cnk4RDRkTDFfVEhfMlhWckRPVHVnSGtsZWRSdzd4REFFZEhSZdIBigJBVV95cUxNcWx4NG1wc29NX3ZjYWNiVHB5WE05SEg2ZXFBbFFPZVhtcm5SLXNTZXBPdWJNY0ZnUDc5ejVPSmlhQXZjN1ZpeEFOT0hpWmpkQWJyQVN4eFdDNGFYUEV4UHBpWnNRSHF3cEdkbnp5MzJCOER0TDNZOUc3LWlSNC1vS1B4VUZKY3JhbWdncEI0Y1JPcHpFd3F1c282NWRGMEY2RzNGRWNLZ3JzOFE4Z2JIb21ub1RDS0YzTFdLTUlfUlFXbzRaZ1lDR0FyT1dIdHREdmNyT1hFdHFIRXhLaEhPeGFPWXplNll6RVdFa0RxUDJXZGpXYnVVYVJkcmRWN1plVllUTDJ2RWh4Zw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783341865,
-        "data": "06/07/2026 12:44"
-    },
-    {
-        "titulo": "Mercado financeiro reduz projeção da inflação para 5,30%",
-        "link": "https://sb24horas.com.br/mercado-financeiro-reduz-projecao-da-inflacao-para-530/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783340777,
-        "data": "06/07/2026 12:26"
-    },
-    {
-        "titulo": "Botafogo-SP x Avaí: Palpite, Onde Assistir, Prognóstico, Série B (06/07) - ogol.com.br",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdlhFMXpCX29VN0ZVV2pmZ050OVlkSGlQNjM4T21YdU9zaFhiOXhDc0JNazNtd0VBUzVSN2pTa19IMVpHQTgyNjNfaWFGS1k1dGNlR1Bwai1uQzdNVkMyWTlyUzRjRzlPSGFWbFdHTnNJUWQwaW41ZldKMWw5c18yRlJyZFJVUkMtS3dJSlBIaW9lRlFs?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783340282,
-        "data": "06/07/2026 12:18"
     }
 ]
