@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Marcos Caetano acompanha manutenção e reparo no asfalto do Belvedere",
+        "link": "https://novomomento.com.br/marcos-caetano-acompanha-asfalto-do-belvedere/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784815471,
+        "data": "23/07/2026 14:04"
+    },
+    {
+        "titulo": "Jovem Aprendiz: leis, regras, caminhos e dicas para conquistar a primeira vaga",
+        "link": "https://vagas019.com.br/jovem-aprendiz/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "vagas019",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
+        "timestamp": 1784814936,
+        "data": "23/07/2026 13:55"
+    },
+    {
+        "titulo": "Espaço Teste de Memória oferece oficinas gratuitas para idosos em Limeira",
+        "link": "https://rapidonoar.com.br/espaco-teste-de-memoria-oferece-oficinas-gratuitas-para-idosos-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/espaco-teste-memoria-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784814790,
+        "data": "23/07/2026 13:53"
+    },
+    {
+        "titulo": "Rio das Pedras: Idoso com Alzheimer sai para caminhar e desaparece",
+        "link": "https://rapidonoar.com.br/rio-das-pedras-idoso-com-alzheimer-sai-para-caminhar-e-desaparece/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/idoso-desaparecido-em-rio-das-pedras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784814093,
+        "data": "23/07/2026 13:41"
+    },
+    {
+        "titulo": "Guarda de Araras prende indivíduo por tentativa de furto em posto de segurança",
+        "link": "https://rapidonoar.com.br/guarda-de-araras-prende-individuo-por-tentativa-de-furto-em-posto-de-seguranca/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/posto-de-seguranca-desativado-araras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784812794,
+        "data": "23/07/2026 13:19"
+    },
+    {
+        "titulo": "DAE conclui metade da reforma dos filtros das ETAs e inicia obras no filtro 6",
+        "link": "https://hjnews.com.br/dae-conclui-metade-da-reforma-dos-filtros-das-etas-e-inicia-obras-no-filtro-6/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1784812336,
+        "data": "23/07/2026 13:12"
+    },
+    {
+        "titulo": "Santa Bárbara d’Oeste ultrapassa 30 mil doses aplicadas na vacinação contra a gripe",
+        "link": "https://sb24horas.com.br/santa-barbara-doeste-ultrapassa-30-mil-doses-aplicadas-na-vacinacao-contra-a-gripe/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784812332,
+        "data": "23/07/2026 13:12"
+    },
+    {
+        "titulo": "Homem procurado pela Justiça é preso pela Polícia Militar durante Operação Impacto em Limeira",
+        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-preso-pela-policia-militar-durante-operacao-impacto-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784812084,
+        "data": "23/07/2026 13:08"
+    },
+    {
+        "titulo": "Nova Área de Bem-Estar e Lazer “José Bellani”, no Jardim Dulce, será entregue nesta quinta-feira (23)",
+        "link": "https://sb24horas.com.br/nova-area-de-bem-estar-e-lazer-jose-bellani-no-jardim-dulce-sera-entregue-nesta-quinta-feira-23/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784811133,
+        "data": "23/07/2026 12:52"
+    },
+    {
+        "titulo": "Santa Bárbara Rock Fest 2026 divulga selecionados para a Praça de Alimentação",
+        "link": "https://sb24horas.com.br/santa-barbara-rock-fest-2026-divulga-selecionados-para-a-praca-de-alimentacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1784810889,
+        "data": "23/07/2026 12:48"
+    },
+    {
         "titulo": "Prefeitura intensifica limpeza da frota do transporte escolar durante férias para preparar retorno às aulas em Santa Bárbara d’Oeste",
         "link": "https://sb24horas.com.br/prefeitura-intensifica-limpeza-da-frota-do-transporte-escolar-durante-ferias-para-preparar-retorno-as-aulas-em-santa-barbara-doeste/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -870,6 +960,15 @@
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784727875,
+        "data": "22/07/2026 13:44"
+    },
+    {
+        "titulo": "Praça de Esportes do São Pedro recebe festa julina beneficente e gratuita neste domingo - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MZlBlQ214a3RVU2luVUE4VkdZOHBraXFuTjdVRUJoTzJZYkpUbWFUTDBJRGVISXRqOV9MWEFadFlOTXdoY0lGQWhjXzZTRWlwWG5vUlFQZU9OeVh0VHd1d3RZYy1fbVFrNDVIT081bFJIcG5XNFR1ZDVB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784727840,
         "data": "22/07/2026 13:44"
     },
     {
@@ -17899,104 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1783355355,
         "data": "06/07/2026 16:29"
-    },
-    {
-        "titulo": "Esmeralda sorri em Santa Bárbara antes da derrota da seleção- campeão amador 5x",
-        "link": "https://novomomento.com.br/esmeralda-santa-barbara-derrota-selecao-amador/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783354483,
-        "data": "06/07/2026 16:14"
-    },
-    {
-        "titulo": "Havan terá de indenizar Paulo Vieira por uso indevido de sua voz em propaganda",
-        "link": "https://portaldeamericana.com/havan-tera-de-indenizar-paulo-vieira-por-uso-indevido-de-sua-voz-em-propaganda/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/paulo-vieira-visita-goias-no-proximo-episodio-do-avisa-la-que-eu-vou-que-vai-ao-ar-no-gnt-e-na-tv-globo-d1bc7bfdb25c.webp&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1783354085,
-        "data": "06/07/2026 16:08"
-    },
-    {
-        "titulo": "Projeto piloto de acolhimento a trabalhadores do turno da madrugada é testado na Ceasa em Campinas",
-        "link": "https://rapidonoar.com.br/projeto-piloto-de-acolhimento-a-trabalhadores-do-turno-da-madrugada-e-testado-na-ceasa-em-campinas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/projeto-piloto-ceasa-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783353621,
-        "data": "06/07/2026 16:00"
-    },
-    {
-        "titulo": "STF dá 48h para tribunais explicarem pagamentos acima do limite a juiz",
-        "link": "https://difusorapiracicaba.com.br/stf-da-48h-para-tribunais-explicarem-pagamentos-acima-do-limite-a-juiz/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783353600,
-        "data": "06/07/2026 16:00"
-    },
-    {
-        "titulo": "Santa Bárbara d’Oeste realiza campanha de doação de sangue nesta terça (7)",
-        "link": "https://rapidonoar.com.br/santa-barbara-doeste-realiza-campanha-de-doacao-de-sangue-nesta-terca-7/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783352762,
-        "data": "06/07/2026 15:46"
-    },
-    {
-        "titulo": "Prefeitura de Hortolândia cria Secretaria Municipal de Tecnologia e Inovação",
-        "link": "https://novomomento.com.br/prefeitura-de-hortolandia-cria-secretaria-municipal-de-tecnologia-e-inovacao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783352748,
-        "data": "06/07/2026 15:45"
-    },
-    {
-        "titulo": "Prefeitura de Hortolândia cria Secretaria Municipal de Tecnologia e Inovação",
-        "link": "https://novomomento.com.br/prefeitura-hortolandia-secretaria-tecn-inovacao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783352748,
-        "data": "06/07/2026 15:45"
-    },
-    {
-        "titulo": "Plano de matar policial gerou Operação Escudo em Nova Odessa",
-        "link": "https://novomomento.com.br/plano-de-matar-policial-gerou-operacao-escudo-em-nova-odessa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783352588,
-        "data": "06/07/2026 15:43"
-    },
-    {
-        "titulo": "Plano de matar policial gerou Operação Escudo em Nova Odessa",
-        "link": "https://novomomento.com.br/plano-de-matar-policial-gerou-operacao-escudo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783352588,
-        "data": "06/07/2026 15:43"
-    },
-    {
-        "titulo": "Limeira sedia Fórum de Cidades Digitais e Inteligentes para Prefeituras",
-        "link": "https://noticiadelimeira.com.br/2026/07/06/limeira-sedia-forum-de-cidades-digitais-e-inteligentes-para-prefeituras/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1783351484,
-        "data": "06/07/2026 15:24"
-    },
-    {
-        "titulo": "Arraiá Julino de Limeira terá show gratuito de Sami Rico",
-        "link": "https://noticiadelimeira.com.br/2026/07/06/arraia-julino-de-limeira-tera-show-gratuito-de-sami-rico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1783351304,
-        "data": "06/07/2026 15:21"
     }
 ]
