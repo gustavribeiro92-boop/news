@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Santa Bárbara Top3 Brasil menor taxa de mortes violentas intencionais",
+        "link": "https://novomomento.com.br/santa-barbara-top3-brasil-morte-violenta-intenc/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784880123,
+        "data": "24/07/2026 08:02"
+    },
+    {
+        "titulo": "&#8220;Praça dos Namorados&#8221;, no Campos Verdes (Hortolândia), recebe revitalização geral",
+        "link": "https://novomomento.com.br/praca-dos-namorados-no-campos-verdes-hortolandia-recebe-revitalizacao-geral/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784878665,
+        "data": "24/07/2026 07:37"
+    },
+    {
+        "titulo": "Futebol feminino; brasileiro &#8216;apoia&#8217;, mas pouco assiste (24%)",
+        "link": "https://novomomento.com.br/futebol-feminino-brasil-apoia-pouco-assiste-24/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784875994,
+        "data": "24/07/2026 06:53"
+    },
+    {
+        "titulo": "Juliana cobra retroativo dos servidores e Rovina, cadeira de rodas",
+        "link": "https://novomomento.com.br/juliana-retroativ-servidor-rovina-cadeira-rodas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784872830,
+        "data": "24/07/2026 06:00"
+    },
+    {
+        "titulo": "Palestra de Viviane Mosé reúne 520 na 34ª Semana da Educação de Americana",
+        "link": "https://novomomento.com.br/palestra-viviane-mose-reune-520-semana-educacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784872169,
+        "data": "24/07/2026 05:49"
+    },
+    {
         "titulo": "Guarda Municipal tem concurso na região- já está valendo",
         "link": "https://novomomento.com.br/guarda-municipal-concurso-regiao-jesta-valendo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -17953,50 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1783421106,
         "data": "07/07/2026 10:45"
-    },
-    {
-        "titulo": "Limeira Basket disputa três jogos contra o Palmeiras na AABB",
-        "link": "https://rapidonoar.com.br/limeira-basket-disputa-tres-jogos-contra-o-palmeiras-na-aabb/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/palmeiras-basket-965x1024.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783421039,
-        "data": "07/07/2026 10:43"
-    },
-    {
-        "titulo": "Mania nacional, consumo de chocolate tende a crescer no país",
-        "link": "https://sb24horas.com.br/mania-nacional-consumo-de-chocolate-tende-a-crescer-no-pais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783420557,
-        "data": "07/07/2026 10:35"
-    },
-    {
-        "titulo": "Morre novelista Benedito Ruy Barbosa aos 95",
-        "link": "https://novomomento.com.br/morre-novelista-benedito-ruy-barbosa-aos-95/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783420413,
-        "data": "07/07/2026 10:33"
-    },
-    {
-        "titulo": "Padilha entrega ambulância do Programa &#8216;Agora Tem Especialistas&#8217; em Sumaré",
-        "link": "https://novomomento.com.br/padilha-ambulanci-agora-tem-especialista-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783419029,
-        "data": "07/07/2026 10:10"
-    },
-    {
-        "titulo": "Piovezan recebe novo caminhão-pipa do governo estadual para a Defesa Civil",
-        "link": "https://novomomento.com.br/piovezan-novo-caminhao-pipa-do-governo-estadual/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783418840,
-        "data": "07/07/2026 10:07"
     }
 ]
