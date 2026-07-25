@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Santos recebe a Chapecoense com a obrigação de vencer",
+        "link": "https://rapidonoar.com.br/santos-recebe-a-chapecoense-com-a-obrigacao-de-vencer/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/barreal-1-1024x672.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784966092,
+        "data": "25/07/2026 07:54"
+    },
+    {
+        "titulo": "Independente começa a decidir o acesso hoje em Guarulhos",
+        "link": "https://rapidonoar.com.br/independente-comeca-a-decidir-o-acesso-hoje-em-guarulhos/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/hiago-ramiro-3-1024x760.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784965177,
+        "data": "25/07/2026 07:39"
+    },
+    {
+        "titulo": "Denis Andia oficializa candidatura a deputado federal",
+        "link": "https://novomomento.com.br/denis-andia-oficializ-candidat-deputado-federal/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1784963106,
+        "data": "25/07/2026 07:05"
+    },
+    {
+        "titulo": "Rivalidade pura hoje entre Inter de Limeira e Cosmopolitano na base",
+        "link": "https://rapidonoar.com.br/rivalidade-pura-hoje-entre-inter-de-limeira-e-cosmopolitano-na-base/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/gabriel-ferreira-3-1024x780.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1784962370,
+        "data": "25/07/2026 06:52"
+    },
+    {
         "titulo": "Morre idosa atropelada no Parque Hipólito, em Limeira",
         "link": "https://noticiadelimeira.com.br/2026/07/25/morre-idosa-atropelada-no-parque-hipolito-em-limeira/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -17962,41 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1783500444,
         "data": "08/07/2026 08:47"
-    },
-    {
-        "titulo": "Secretaria de Esportes alinha organização do Gigantão e do Amador Feminino para a temporada 2026",
-        "link": "https://hjnews.com.br/secretaria-de-esportes-alinha-organizacao-do-gigantao-e-do-amador-feminino-para-a-temporada-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1783499622,
-        "data": "08/07/2026 08:33"
-    },
-    {
-        "titulo": "Americana estreia nos 68º Jogos Regionais no dia 14 de julho - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQ3Y2dzlfdTJKVGhMUlFZQ01TUWl2T3hFNXRmVjU2dzlsZDB1bUR4d1dDQ0FXVXk0eFZGRGlOcHFZeUJSbVNUMWFtb2tweXoyVnNlb3BMVlV4QTRpbGlYeUJWOU80X1l4bG43aXp5WkZyYmZsVXdZajF3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783498560,
-        "data": "08/07/2026 08:16"
-    },
-    {
-        "titulo": "Serviços essenciais serão mantidos no feriado de 9 de julho em Santa Bárbara",
-        "link": "https://novomomento.com.br/servicos-essenciais-mantidos-feriado-9-sbarbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783498519,
-        "data": "08/07/2026 08:15"
-    },
-    {
-        "titulo": "Obras de infraestrutura e modernização do Aeroporto Municipal avançam em Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhT0FxcmFKRkk2dWd4V2V4T0Fma3Q4MFp0MnlaZlpWUUpuSTRSSU1HSUp5WFJER1BXNkRpMW94Q0dCcDhtenl2YlVGZmNrUGdsdUV2VHR6TGpvYzFKczBnNk91ZHN0NFN4eHpvQUlZbFhjMmZtZWVRXzZB?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783497600,
-        "data": "08/07/2026 08:00"
     }
 ]
