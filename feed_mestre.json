@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Mapa da internet brasileira: levantamento trás revelações",
+        "link": "https://novomomento.com.br/mapa-internet-brasileira-levanta-revelacoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785022120,
+        "data": "25/07/2026 23:28"
+    },
+    {
         "titulo": "Neymar marca 2, mas Santos empata com lanterna Chapecoense",
         "link": "https://novomomento.com.br/neymar-marca-2-santos-empata-lanterna-chapeco/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -277,6 +286,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1784975492,
         "data": "25/07/2026 10:31"
+    },
+    {
+        "titulo": "Feirão Casa Paulista oferece 147 cartas de crédito habitacional neste fim de semana em Americana - Notícia FM",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWGI3NjllLWZGbFZ1eUVhY3JOZzgzZ0JUNk8yYzhpdC1MYjZkY3BEdmI0c1RidnJ4R0pISHc3a2tNU3lvWFZ2SHUyT3hHUVJGcHhia2l0T3EwUWRoOVNkSkRya1lTZVhXdTFTYl9wQjR2VWxhLVloX3VBOF8xTHFEdDliZmJUMHZIUGtFbXU0d2FkdjNmMEI3WDBsa0hVbmJxMjVRWXNLdi1JLW42WExyRl9lUEgwWk1ZMExNVXdqenZiRGtN?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1784975383,
+        "data": "25/07/2026 10:29"
     },
     {
         "titulo": "Parque Ecológico tem entrada gratuita para moradores de Americana neste fim de semana - Região Hoje",
@@ -17980,23 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1783516051,
         "data": "08/07/2026 13:07"
-    },
-    {
-        "titulo": "Limeira divulga programação cultural para os próximos dias",
-        "link": "https://noticiadelimeira.com.br/2026/07/08/limeira-divulga-programacao-cultural-para-os-proximos-dias/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1783515788,
-        "data": "08/07/2026 13:03"
-    },
-    {
-        "titulo": "EMEIEF promove 5º Torneio Interno de Xadrez e apresenta seleção para os Jogos Escolares",
-        "link": "https://noticiadelimeira.com.br/2026/07/08/emeief-promove-5o-torneio-interno-de-xadrez-e-apresenta-selecao-para-os-jogos-escolares/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1783515630,
-        "data": "08/07/2026 13:00"
     }
 ]
