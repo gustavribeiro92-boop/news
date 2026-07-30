@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Costa oferece até R$ 1.500 de desconto em cruzeiros selecionados pelo Mediterrâneo",
+        "link": "https://novomomento.com.br/costa-r1500-desconto-cruzeiro-pelo-mediterraneo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785362750,
+        "data": "29/07/2026 22:05"
+    },
+    {
+        "titulo": "BRK trata 9,89 bilhões de litros de esgoto no primeiro semestre em Limeira",
+        "link": "https://rapidonoar.com.br/brk-trata-989-bilhoes-de-litros-de-esgoto-no-primeiro-semestre-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/01/ETE-Tatu-BRK-Limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785361211,
+        "data": "29/07/2026 21:40"
+    },
+    {
+        "titulo": "Buraco em frente ao Castelo do Zé Rico gera preocupação na zona rural de Limeira",
+        "link": "https://rapidonoar.com.br/buraco-em-frente-ao-castelo-do-ze-rico-gera-preocupacao-na-zona-rural-de-limeira-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/buraco-castelo-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785359647,
+        "data": "29/07/2026 21:14"
+    },
+    {
+        "titulo": "Temporal atinge CT do Juventude e estádio Alfredo Jaconi; ventania destrói estruturas",
+        "link": "https://rapidonoar.com.br/temporal-atinge-ct-do-juventude-e-estadio-alfredo-jaconi-ventania-destroi-estruturas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/estrago-juventus-campo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785359492,
+        "data": "29/07/2026 21:11"
+    },
+    {
+        "titulo": "IPCA-15 reforça expectativa de corte de juros e impulsiona mercados",
+        "link": "https://novomomento.com.br/ipca-corte-juros-impulsiona-mercados/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785359200,
+        "data": "29/07/2026 21:06"
+    },
+    {
+        "titulo": "Defesa Civil alerta para ventos fortes em Campinas entre quinta e sexta-feira",
+        "link": "https://rapidonoar.com.br/defesa-civil-alerta-para-ventos-fortes-em-campinas-entre-quinta-e-sexta-feira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/defesa-civil-alerta-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785358093,
+        "data": "29/07/2026 20:48"
+    },
+    {
+        "titulo": "João Vallim, 3º técnico que mais comandou a Inter, se aposenta",
+        "link": "https://rapidonoar.com.br/joao-vallim-3o-tecnico-que-mais-comandou-a-inter-se-aposenta/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/joao-vallim-1-1024x734.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785355425,
+        "data": "29/07/2026 20:03"
+    },
+    {
+        "titulo": "Câmera flagra ladrão quebrando ignição e furtando moto em frente a fábrica em Limeira",
+        "link": "https://rapidonoar.com.br/camera-flagra-ladrao-quebrando-ignicao-e-furtando-moto-em-frente-a-fabrica-em-limeira-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/furto-moto-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785354465,
+        "data": "29/07/2026 19:47"
+    },
+    {
         "titulo": "Prefeitura avança com a revitalização da Praça da Bíblia",
         "link": "https://novomomento.com.br/prefeitura-avanca-revitalizacao-praca-biblia/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -43,6 +115,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1785351487,
         "data": "29/07/2026 18:58"
+    },
+    {
+        "titulo": "Dupla Diogo e Carlinhos representa Barretos no Revelando SP, em Americana - guairanews.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmEzOHFRMDcxbG85UjJoQmNXQXh6N0hLVW9LZmVhaFZfWUdFeW9DYlEtakhBNnJlai11aVRCNVNwekw5VUZtM21YcUVhcGx2TmNzVG5tUnVXVGhsSWJKZHJFTG83cUZ2dTU3YlRmMDNxYTd4NmRaVmlJX0l0RGxNVzRNYXRMOWJWSnc4TmMzbHNMTE1FT1JFWXBfOHF3OUpmYU5oS1JWRnFlYm0xbTNfdA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785351283,
+        "data": "29/07/2026 18:54"
     },
     {
         "titulo": "CDP de Americana terá de reduzir superlotação após determinação da Justiça",
@@ -199,6 +280,15 @@
     },
     {
         "titulo": "Os melhores locais para ver arte em São Paulo, segundo artista americana - VEJA SÃO PAULO",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmQyenV3Y1BaOGMyY1dWdVlSSnN3dU01dmhnV3R4VXJYQ2xyYzMyQUFucDY4LTVCSjFNTFExOEs3NUdDOE9OY0dUc3FCQXdSS0NPdEQtTnQzQUF1cS02SC1zVjVwa19ZdTlEbHQ4bnBCeFRSSUJ3ZmU1RDgxNGhxQmxlSlh6NHM1ZEN5YUVrQ1FlSnIxc00yN2Z6ZDBjZ2p0X0VhY1ZfalVWQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785343980,
+        "data": "29/07/2026 16:53"
+    },
+    {
+        "titulo": "Os melhores locais para ver arte em São Paulo, segundo artista americana - vejasp.abril.com.br",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmQyenV3Y1BaOGMyY1dWdVlSSnN3dU01dmhnV3R4VXJYQ2xyYzMyQUFucDY4LTVCSjFNTFExOEs3NUdDOE9OY0dUc3FCQXdSS0NPdEQtTnQzQUF1cS02SC1zVjVwa19ZdTlEbHQ4bnBCeFRSSUJ3ZmU1RDgxNGhxQmxlSlh6NHM1ZEN5YUVrQ1FlSnIxc00yN2Z6ZDBjZ2p0X0VhY1ZfalVWQQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -1006,6 +1096,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1785312141,
         "data": "29/07/2026 08:02"
+    },
+    {
+        "titulo": "ACIA lança nesta quarta-feira (29) a nova fase da ExpoEmpresas - Hora Campinas",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGgydWQzbW8zUi0wb0MzdlExV3NCU2VoNjIzRFZ0UDZlMG1EM0oyTk9TcnBVUHBvOXlfd1dRZktISV93eThtSUJDUjItTkdXbFpPYnJQbVZlRlNQbHREMzZCUE5RUFNrRmhFUnMwVmx1Q1RHdGkycTBDaXRDWGxHNWlpclNRSmRoQ1NF?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785310683,
+        "data": "29/07/2026 07:38"
     },
     {
         "titulo": "Azeite, antes vilão da inflação, fica 17% mais barato",
@@ -17899,104 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1783953020,
         "data": "13/07/2026 14:30"
-    },
-    {
-        "titulo": "XV empata com o Cianorte e encerra trajetória no Campeonato Brasileiro Série D 2026",
-        "link": "https://difusorapiracicaba.com.br/xv-empata-com-o-cianorte-e-encerra-trajetoria-no-campeonato-brasileiro-serie-d-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783953000,
-        "data": "13/07/2026 14:30"
-    },
-    {
-        "titulo": "McDia Feliz 2026: Participe desta corrente do bem e apoie a Rede Feminina de Combate ao Câncer - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaFIxT3l0QnY0eVlhTV9wQm91elZ1V1cxeFh6azZKY1dERjNkWDRlbTdoNkdJNFNENXJ6LVpQeTR1T0dkSFEwSFdQNkNNVUNpZm5NM0VEWktVRzhCNVRNbjFNTFdIUGJKSDJxRC1FNkl3OS1oYU40THpjbTZxeUowX2t0NHdtTDZJdU95LVJzc0FmODFwN0hzRk5jWm1va280cjJ0ZFBiN0dCcDNIdTBZUFE2REVYWERjcUg2Tmg4TXgzUi12N3BMVWdfQVFHdk5YUF9mYTFFZHRvY2ZaTEhITmYyWVVwOEQ1a29PaF9xTUR6UlNEQ1hZ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783952940,
-        "data": "13/07/2026 14:29"
-    },
-    {
-        "titulo": "Supermercados: Apas em Campinas e PagueMenos faz 37 anos",
-        "link": "https://novomomento.com.br/supermercados-apas-campinas-paguemenos-37-anos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783951928,
-        "data": "13/07/2026 14:12"
-    },
-    {
-        "titulo": "Acidente na Rodovia dos Bandeirantes: Carro bate em barreira e capota em Santa Bárbara d’Oeste",
-        "link": "https://difusorapiracicaba.com.br/acidente-na-rodovia-dos-bandeirantes-carro-bate-em-barreira-e-capota-em-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783951200,
-        "data": "13/07/2026 14:00"
-    },
-    {
-        "titulo": "Atenção citricultores: Relatório de Cancro e Greening deve ser entregue até quarta-feira (15)",
-        "link": "https://rapidonoar.com.br/atencao-citricultores-relatorio-de-cancro-e-greening-deve-ser-entregue-ate-quarta-feira-15/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/citrucultores-relatorio-de-cancro-e-greening-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783950587,
-        "data": "13/07/2026 13:49"
-    },
-    {
-        "titulo": "Audiência pública no Museu da Água vai discutir criação de novo distrito industrial em Piracicaba",
-        "link": "https://rapidonoar.com.br/audiencia-publica-no-museu-da-agua-vai-discutir-criacao-de-novo-distrito-industrial-em-piracicaba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/audiencia-publica-para-novo-distrito-industrial-em-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783949946,
-        "data": "13/07/2026 13:39"
-    },
-    {
-        "titulo": "GEN4 faz história em Goodwood e reforça revolução tecnológica da Fórmula E antes da estreia oficial",
-        "link": "https://sb24horas.com.br/gen4-faz-historia-em-goodwood-e-reforca-revolucao-tecnologica-da-formula-e-antes-da-estreia-oficial/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783949675,
-        "data": "13/07/2026 13:34"
-    },
-    {
-        "titulo": "Saiba como economizar até 40% em multas no Estado de SP",
-        "link": "https://difusorapiracicaba.com.br/saiba-como-economizar-ate-40-em-multas-no-estado-de-sp/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1783949400,
-        "data": "13/07/2026 13:30"
-    },
-    {
-        "titulo": "Encontro Internacional de Cordas de Limeira está com inscrições abertas",
-        "link": "https://rapidonoar.com.br/encontro-internacional-de-cordas-de-limeira-esta-com-inscricoes-abertas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/violoncelo-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783949085,
-        "data": "13/07/2026 13:24"
-    },
-    {
-        "titulo": "Setor de mel destaca dependência americana para reverter tarifas - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0wzNzFlcnB1NktPY2I3T2p4ZFBNYV9vaERJU0tJV2JTXzNyZTFpamtTdC1ONnUwVDBWNEx5bk1BTEs0S0R6akJRUVlMTmFsWUdPaUVtcTVwRy1OX1gyOWtOeTJIcUVlQjhXOGcxT3AtcmZzWTE4Nk9RN0M3N1VndGlXUUNQTkRMWmdUbjRabDRxMTVKWEdxM21qUVlxNGFP?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783948889,
-        "data": "13/07/2026 13:21"
-    },
-    {
-        "titulo": "Santa Bárbara tem palestra e a profissionais de saúde bucal na 6ª-feira (17)",
-        "link": "https://novomomento.com.br/santa-barbara-tem-palestra-e-a-profissionais-de-saude-bucal-na-6a-feira-17/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783948470,
-        "data": "13/07/2026 13:14"
     }
 ]
