@@ -1,7 +1,97 @@
 [
     {
+        "titulo": "USF Jardim Primavera retoma atendimento à população",
+        "link": "https://difusorapiracicaba.com.br/usf-jardim-primavera-retoma-atendimento-a-populacao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785420000,
+        "data": "30/07/2026 14:00"
+    },
+    {
+        "titulo": "Novo Terminal Leste amplia mobilidade e já se consolida como referência para pacientes e trabalhadores",
+        "link": "https://hjnews.com.br/novo-terminal-leste-amplia-mobilidade-e-ja-se-consolida-como-referencia-para-pacientes-e-trabalhadores/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1785419969,
+        "data": "30/07/2026 13:59"
+    },
+    {
+        "titulo": "Novo Terminal Leste amplia integração do transporte coletivo e concentra serviços públicos em Santa Bárbara d’Oeste",
+        "link": "https://sb24horas.com.br/novo-terminal-leste-amplia-integracao-do-transporte-coletivo-e-concentra-servicos-publicos-em-santa-barbara-doeste/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1785419899,
+        "data": "30/07/2026 13:58"
+    },
+    {
+        "titulo": "Educação abre período de matrícula antecipada para o ano letivo de 2027",
+        "link": "https://noticiadelimeira.com.br/2026/07/30/educacao-abre-periodo-de-matricula-antecipada-para-o-ano-letivo-de-2027/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1785419796,
+        "data": "30/07/2026 13:56"
+    },
+    {
+        "titulo": "Capivara faz o trânsito parar no Centro de Limeira e é resgatada pela GCM",
+        "link": "https://rapidonoar.com.br/capivara-faz-o-transito-parar-no-centro-de-limeira-e-e-resgatada-pela-gcm/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/capivara-no-centro-de-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785419507,
+        "data": "30/07/2026 13:51"
+    },
+    {
+        "titulo": "Prefeitura de Jaguariúna terá programação especial na Brazil Equipo Show",
+        "link": "https://hjnews.com.br/prefeitura-de-jaguariuna-tera-programacao-especial-na-brazil-equipo-show/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1785419437,
+        "data": "30/07/2026 13:50"
+    },
+    {
+        "titulo": "Halterofilismo paralímpico de Piracicaba participa do Paresp",
+        "link": "https://difusorapiracicaba.com.br/halterofilismo-paralimpico-de-piracicaba-participa-do-paresp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785418200,
+        "data": "30/07/2026 13:30"
+    },
+    {
+        "titulo": "Espetáculo “Memórias” transforma histórias reais de idosos em emocionante experiência teatral em Americana",
+        "link": "https://sb24horas.com.br/espetaculo-memorias-transforma-historias-reais-de-idosos-em-emocionante-experiencia-teatral-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1785416523,
+        "data": "30/07/2026 13:02"
+    },
+    {
+        "titulo": "Exposição “Caipiras de Salão” entra no último dia de visitação em Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/exposicao-caipiras-de-salao-entra-no-ultimo-dia-de-visitacao-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785416400,
+        "data": "30/07/2026 13:00"
+    },
+    {
         "titulo": "Ameaçou a ex com faca &#8216;no escuro&#8217; e foi em cana (Sumaré)",
         "link": "https://novomomento.com.br/ameacou-a-ex-com-faca-no-escuro-e-foi-em-cana-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785415054,
+        "data": "30/07/2026 12:37"
+    },
+    {
+        "titulo": "Sumaré: Ameaçou a ex com faca &#8216;no escuro&#8217; e foi em cana",
+        "link": "https://novomomento.com.br/ameacou-ex-com-faca-escuro-foi-em-cana-sumare/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -46,6 +136,15 @@
     },
     {
         "titulo": "Casal confessa que m4atou bebê asfixiado (veja",
+        "link": "https://novomomento.com.br/casal-confessa-que-m4atou-bebe-asfixiado-veja/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785411700,
+        "data": "30/07/2026 11:41"
+    },
+    {
+        "titulo": "Casal confessa que m4atou bebê asfixiado (veja vídeo)",
         "link": "https://novomomento.com.br/casal-confessa-que-m4atou-bebe-asfixiado-veja/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
@@ -257,6 +356,15 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785405568,
+        "data": "30/07/2026 09:59"
+    },
+    {
+        "titulo": "Suzano leva educação ambiental a 300 pessoas por mês em Americana - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OTHJyT3hVWWRZdU96SklsejRSQmlubEVLTjlyb0pGNG4tT05RNUhOZnYxQXp6c0ltV2lTaUZSOXNwLVhSejJRYW1ITVJKVGk3SURhd1JzTzB5NW5jdmF5T1FqeTRpV1RxYTkteUpDZmNpMlpjSWhJcmYzbWR5RUE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785405568,
         "data": "30/07/2026 09:59"
     },
@@ -511,6 +619,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785369780,
         "data": "30/07/2026 00:03"
+    },
+    {
+        "titulo": "Americana recebe Revelando SP neste final de semana com shows de Sami Rico, Renato Teixeira e mais - Jornal Americanense",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVhOQWFoVTdhTFMwZXJiSE1hRXpLNWdKNzVmZnVIVmVWZnUzUlZxRUFORWFEWDk5NWp0aGR4QUtMWDFfZFFadGFJbTFhcmZ4Skdlc2JEQTBxbVlrc0FiZGNtcUxKMEU4Nm8tM29UQXdEeXZHN3pPWmRKMkJnX1dHM0Q2NUVuSmlPRHVRZ3Y3MXhYNkdtRmVVVGV5TTRsSHpZUWlLYWs5MHlQNGhNSHBkaUJuWXdVamVXUmFnajZlQk82bmprdDdLTlJFZEJoS24yTFFFdHRPNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785369447,
+        "data": "29/07/2026 23:57"
     },
     {
         "titulo": "Homem é preso por tráfico de drogas no Jardim Olga Veroni, em Limeira",
@@ -17881,122 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1783995421,
         "data": "14/07/2026 02:17"
-    },
-    {
-        "titulo": "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado",
-        "link": "https://sb24horas.com.br/invictas-selecoes-do-brasil-jogam-oitavas-do-mundial-de-volei-sentado/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783987239,
-        "data": "14/07/2026 00:00"
-    },
-    {
-        "titulo": "Cervejaria de Hortolândia é incluída em roteiro de turismo gastronômico do Estado",
-        "link": "https://novomomento.com.br/cervejaria-hortolandia-roteiro-turismo-gastron/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783985703,
-        "data": "13/07/2026 23:35"
-    },
-    {
-        "titulo": "Samuel Rosa faz 60 anos, veja mais tocadas",
-        "link": "https://novomomento.com.br/samuel-rosa-faz-60-anos-veja-mais-tocadas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783981524,
-        "data": "13/07/2026 22:25"
-    },
-    {
-        "titulo": "Bolsa cai 1,2%, e dólar sobe para R$ 5,13 com tensão global",
-        "link": "https://sb24horas.com.br/bolsa-cai-12-e-dolar-sobe-para-r-513-com-tensao-global/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783979416,
-        "data": "13/07/2026 21:50"
-    },
-    {
-        "titulo": "Santos confirma mudança de local de jogo pela Sul-Americana na Venezuela - LANCE!",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVlDbmJCTElnV21yTjNPczM5UHhsR3hDRFA5LUVxYkNGd0J5YlczbDBfZGZpb0xCNURHNWc1Z3FUb25HZ1Nhd1ZkZ2NWend5VjlSeXk3TUMyd3BybkFraFhqdUtDMlF2bjRaLVotQ1lTZ0xqbHJFZmZEYWc4SFlxSWJ1YW9lZXg2Z2M1c2xzRll3NkVJOWpiTm91UzN3cHFJVE5tNUZMU2l3NFFOakE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783978790,
-        "data": "13/07/2026 21:39"
-    },
-    {
-        "titulo": "Santa Bárbara Rock Fest 2026 divulga expositores selecionados para Vila do Rock",
-        "link": "https://novomomento.com.br/santa-barbara-rock-fest-2026-expositores-vila/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783977922,
-        "data": "13/07/2026 21:25"
-    },
-    {
-        "titulo": "Jogo do Santos pela Sul-Americana muda de cidade na Venezuela - ge",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEZkYjZSUm9sSTl1Sk0xSlo3ZTM1T1dwWVhYT3psSXItbnoxNmpqd3Voc2pUS2RZOWxyZVR6MXBaN2lLczdTNVlWQl84TnBtXzZQZ053d1dfN2szeVpfTlJ1ZWJ4X0NmTkUzTDdvbElhazd3ZmZaTGp5RW1sOWF1SEp2Z1Nfemk0ZmtsbFFOb2dxMDBTZVR5QW9sTF9WVXhteWw2MlFENnBTWENVOXlNOTNWSEV3V2JSM2g5UEVNek5IX2czTlBXZkhJY3JIOV8yM0lDZExhRnNEVUpoU3pUQtIB7wFBVV95cUxQX2NqNzdNLVVUc2ZBQ0ViZE52UW1sS3RydUxmd1FHUjVwX2QyeXhaa0ZHVEM4cHo1RU9oRzBWZW9kd3VOU3NKUG1GYkdRTlRMeUMzVlBhUUxnUUFPckQ0XzRXOVVza0l4UzV0aGRVaC16b3RBVGtpclRvTWZQNlJzRHBEWjA3Y0N2Z1NKQmRBRkhVdFhjd1I4Ul9zbXkyVzkwTXpCTGhxWE1pa1BMZEJLV1g2VEJzLXNzMmZ2NTJpNGVXUFFlU1R3eWgwaDlndmRfdGRicGhsTmRiRXBESlljcTg3REYzeXk0S1lEcDlBSQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783976948,
-        "data": "13/07/2026 21:09"
-    },
-    {
-        "titulo": "Jogo do Santos pela Sul-Americana muda de cidade na Venezuela - GE",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEZkYjZSUm9sSTl1Sk0xSlo3ZTM1T1dwWVhYT3psSXItbnoxNmpqd3Voc2pUS2RZOWxyZVR6MXBaN2lLczdTNVlWQl84TnBtXzZQZ053d1dfN2szeVpfTlJ1ZWJ4X0NmTkUzTDdvbElhazd3ZmZaTGp5RW1sOWF1SEp2Z1Nfemk0ZmtsbFFOb2dxMDBTZVR5QW9sTF9WVXhteWw2MlFENnBTWENVOXlNOTNWSEV3V2JSM2g5UEVNek5IX2czTlBXZkhJY3JIOV8yM0lDZExhRnNEVUpoU3pUQtIB7wFBVV95cUxQX2NqNzdNLVVUc2ZBQ0ViZE52UW1sS3RydUxmd1FHUjVwX2QyeXhaa0ZHVEM4cHo1RU9oRzBWZW9kd3VOU3NKUG1GYkdRTlRMeUMzVlBhUUxnUUFPckQ0XzRXOVVza0l4UzV0aGRVaC16b3RBVGtpclRvTWZQNlJzRHBEWjA3Y0N2Z1NKQmRBRkhVdFhjd1I4Ul9zbXkyVzkwTXpCTGhxWE1pa1BMZEJLV1g2VEJzLXNzMmZ2NTJpNGVXUFFlU1R3eWgwaDlndmRfdGRicGhsTmRiRXBESlljcTg3REYzeXk0S1lEcDlBSQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783976948,
-        "data": "13/07/2026 21:09"
-    },
-    {
-        "titulo": "Percurso da Meia Maratona de Sorocaba é aferida pela CBAt - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZEl3T1ExdVBEUDNXc1NXenpfRmpfV3h0UkxqdWdHSzhMZThZMkE4cVpfY0FyaEc2dzkyNnRWbW5QWUsxVVc1SEI5RlNRV0VjVEE2N1p4MVh4ZWN2RjRIVUJaNnpWaGFjZmdfVFdKY1c5bk4zVnpFU0h6X3lXWmluNkE5WmdJRm9FeU83UkJtN2p0elI1MXlTOEZ6eTBEZ3ItbHRyMHhBeUVIVl9pRXRheC1ta0ZVTm5Ua0VQb1dvUFFjekJzMFJF?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783976160,
-        "data": "13/07/2026 20:56"
-    },
-    {
-        "titulo": "Simulações e conspirações de um mundo onde nada é o que parece",
-        "link": "https://novomomento.com.br/simulacoe-conspiracoes-mundo-nada-parece/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783975365,
-        "data": "13/07/2026 20:42"
-    },
-    {
-        "titulo": "Em Paulínia, Ipem-SP realiza Operação GLP Seguro - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXZxMXc0MEFnOGFuMUpIekVVSjZTd3BDTWdkUFpONlYzU1pkNzNsSnMzZ0FRMFBEMG9aRlc1OFk5cEFhWXhhV3piRllPQzVGUExRX3pDb0lZcko1OUlCOEVpdmJuNWN1RUZ3ekVmcmxhT2Z2Wm11QmZTTzFiRFA3bFVnbFNpb2JGa3pEcWcwMUlaUkRocU1uSmdza3R3NFBsbWF4WTJVY3BjOC0wU3lUZmNkaDRFcXZDcnc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783975260,
-        "data": "13/07/2026 20:41"
-    },
-    {
-        "titulo": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3ZidHFHX0J2MklkcXMtdmtMdU95dTdNTkNGNG8xRzVKdFVEQ21BWEFnSU1ETmZHUXl4MFVZdnY1MXRVVkZyWHhhRTJ2MkpXLWd4akdQMm94b0JjVWU5MkctdWJYSFFxcVpHZHZrU1JwSHNSb0VDYS1qUUdzdkMwdU16TDlHT1ozd29hNy1aWEJkUWlwT2tMSDhkRG43NW1IaTcwd2JjU1EyRmhucTRXZHVHbm5VdkZOUnR6U3R1VGpaakVtd1FxekQ4RmZsSVBfQmJtNHVR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783974300,
-        "data": "13/07/2026 20:25"
-    },
-    {
-        "titulo": "Moto fica pendurada em carro após batida em cruzamento no Centro de Limeira",
-        "link": "https://rapidonoar.com.br/moto-fica-pendurada-em-carro-apos-batida-em-cruzamento-no-centro-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/acidente-moto-4-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783973987,
-        "data": "13/07/2026 20:19"
     }
 ]
