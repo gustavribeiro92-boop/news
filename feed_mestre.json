@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "CineMisp Férias e Nhô Cine levam programação gratuita ao Engenho Central",
+        "link": "https://difusorapiracicaba.com.br/cinemisp-ferias-e-nho-cine-levam-programacao-gratuita-ao-engenho-central/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785427200,
+        "data": "30/07/2026 16:00"
+    },
+    {
+        "titulo": "Novos ônibus com ar-condicionado e entradas USB para recarga de celular já circulam em Campinas",
+        "link": "https://rapidonoar.com.br/novos-onibus-com-ar-condicionado-e-entradas-usb-para-recarga-de-celular-ja-circulam-em-campinas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/novos-onibus-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785427029,
+        "data": "30/07/2026 15:57"
+    },
+    {
+        "titulo": "Oito pessoas são multadas em R$ 8,4 mil por pesca proibida no Rio Piracicaba, em Americana",
+        "link": "https://www.americanapost.com.br/oito-pessoas-sao-multadas-em-r-84-mil-por-pesca-proibida-no-rio-piracicaba-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "americana post",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
+        "timestamp": 1785426139,
+        "data": "30/07/2026 15:42"
+    },
+    {
+        "titulo": "Autor de furto de veículo tenta tirar arma de PM em Araras e acaba morto",
+        "link": "https://rapidonoar.com.br/autor-de-furto-de-veiculo-tenta-tirar-arma-de-pm-em-araras-e-acaba-morto/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/morto-por-pm-em-araras-furto-de-veiculo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785425021,
+        "data": "30/07/2026 15:23"
+    },
+    {
+        "titulo": "Região: 83% das empresas não sabem como o cliente avalia a experiência de compra",
+        "link": "https://novomomento.com.br/regiao-83-empresa-n-sabe-como-cliente-avalia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785424229,
+        "data": "30/07/2026 15:10"
+    },
+    {
+        "titulo": "Coluna Pimba com as curtas do Esporte",
+        "link": "https://rapidonoar.com.br/coluna-pimba-com-as-curtas-do-esporte-163/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/thiago-mendes-1024x786.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785423725,
+        "data": "30/07/2026 15:02"
+    },
+    {
+        "titulo": "Prefeitura conclui obra de iluminação em estrada que leva aos bairros rurais Santana e Santa Olímpia",
+        "link": "https://difusorapiracicaba.com.br/prefeitura-conclui-obra-de-iluminacao-em-estrada-que-leva-aos-bairros-rurais-santana-e-santa-olimpia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785423600,
+        "data": "30/07/2026 15:00"
+    },
+    {
+        "titulo": "Governo de SP inicia Campanha de Multivacinação nos 645 municípios",
+        "link": "https://novomomento.com.br/governo-sp-campanha-multivacinacao-645-municip/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785423221,
+        "data": "30/07/2026 14:53"
+    },
+    {
+        "titulo": "Molina defende implantação do hospital infantil regional",
+        "link": "https://novomomento.com.br/molina-defend-implant-hospital-infantil-regionl/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785422537,
+        "data": "30/07/2026 14:42"
+    },
+    {
+        "titulo": "Tesouro musical: Sousas redescobre a história do maestro Ágide Azzoni",
+        "link": "https://hjnews.com.br/tesouro-musical-sousas-redescobre-a-historia-do-maestro-agide-azzoni/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1785421534,
+        "data": "30/07/2026 14:25"
+    },
+    {
+        "titulo": "Atitude suspeita leva a PM de Limeira à prisão de homem por tráfico de drogas",
+        "link": "https://rapidonoar.com.br/atitude-suspeita-leva-a-pm-de-limeira-a-prisao-de-homem-por-trafico-de-drogas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/trafico-no-centro-de-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785421132,
+        "data": "30/07/2026 14:18"
+    },
+    {
         "titulo": "USF Jardim Primavera retoma atendimento à população",
         "link": "https://difusorapiracicaba.com.br/usf-jardim-primavera-retoma-atendimento-a-populacao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -325,6 +424,15 @@
     },
     {
         "titulo": "Justiça determina redução da superlotação em CDP de Americana, SP - metronews.com.br",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObm1YYy1iUmdvbWV0eFRNeWxJbjA4akxCdHpMUklzeFhlLW9aeXBxRlRWM2NqWjVjbTc5M3hKM2otTjZWRDVkaXQwNTlNUDlmdXIwUHAtanFjcE5iMndCYlJ3SmZ5YVU1VU9yem42a2JRMFdDdmNxUm0wRXYxcXdpanIxaXJqcVB0QlMtTzJRdngwamI1?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785406080,
+        "data": "30/07/2026 10:08"
+    },
+    {
+        "titulo": "Justiça determina redução da superlotação em CDP de Americana, SP - Metrô News Jornal",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObm1YYy1iUmdvbWV0eFRNeWxJbjA4akxCdHpMUklzeFhlLW9aeXBxRlRWM2NqWjVjbTc5M3hKM2otTjZWRDVkaXQwNTlNUDlmdXIwUHAtanFjcE5iMndCYlJ3SmZ5YVU1VU9yem42a2JRMFdDdmNxUm0wRXYxcXdpanIxaXJqcVB0QlMtTzJRdngwamI1?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17890,113 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1784017407,
         "data": "14/07/2026 08:23"
-    },
-    {
-        "titulo": "Revelando SP: Show grátis de Sami Rico e Renato Teixeira em Americana (1 e 2 de agosto)",
-        "link": "https://novomomento.com.br/revelando-sp-sami-rico-rteixeira-americana-agst/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784015212,
-        "data": "14/07/2026 07:46"
-    },
-    {
-        "titulo": "Americana confirma morte por febre maculosa de engenheiro civil de 37 anos - Portal de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21GdkFaeVA3V0N4Sk9EZWQydExTQzlONTE5XzlwZi1GaDhHN1lfM0tsWXVwdk5QVjZTdUY3NDFfUmZJQnNkSGdPOFFUbHhQbXlhU1NaUzNGaTRqekhIYm91SVJKOVRtaFBla0hLS2FkZUh6ZDZXNWI4UWY4MldFczhUQThkMk51UmxJejVoal94LUFNMU1WX0ZGVU5WaTZvS3Y5TGhZUmM?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784015209,
-        "data": "14/07/2026 07:46"
-    },
-    {
-        "titulo": "Fundação Procon alerta para golpes com uso indevido do nome da instituição",
-        "link": "https://novomomento.com.br/fundacao-procon-alerta-para-golpes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784015140,
-        "data": "14/07/2026 07:45"
-    },
-    {
-        "titulo": "Fundação Procon alerta para golpes com uso indevido do nome da instituição - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQkFuSmVYdzlRN3RJRWZxR2dnS0hoQ0hIWXZIaV9hSnBGUUdqb1hXblljWHJoQlZGMkVfa0I1S0EyNjBMRmlDNGNkakZBakdwSWl4N2JIM2hlNElIMkVxQmEyeXY1SlU2RW9SZ1lJaw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784015140,
-        "data": "14/07/2026 07:45"
-    },
-    {
-        "titulo": "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino",
-        "link": "https://sb24horas.com.br/palmeiras-conquista-ladies-cup-antes-da-volta-do-brasileiro-feminino/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1784012138,
-        "data": "14/07/2026 06:55"
-    },
-    {
-        "titulo": "Cidade do Rio proíbe publicidade de bets em espaços públicos",
-        "link": "https://sb24horas.com.br/cidade-do-rio-proibe-publicidade-de-bets-em-espacos-publicos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1784011357,
-        "data": "14/07/2026 06:42"
-    },
-    {
-        "titulo": "Tarifa integral e lista de exceções maior: a expectativa das empresas para o novo tarifaço de Trump - Estadão",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObHJCb2hSdHYzMWNjTGFXcDBPQUN4Wk1RQ2F4VXlkeFZ5Vy0ySUxaR1Q1NU9LTmlFS2ZoZUZTVEJiVDgxY3dndDUtUE9TcWNtdWhxT3RDWVhESUs4VFM4RVNtX3hLZjc2aXdVSzNodVdZTm5nME8zdWhvLUtDY1h5bFlKalRxT0VhMDdieHlRdXpqY2xjWWZJUHh3M1NDeXVKRUQzYW5vbGtyM3B2aTQ2dVNoTG5NNW9hWXUwUTltbWtva0lpNmxGWG9UaktCYmUt0gHWAUFVX3lxTFBMWlRETXFraXUtcnJuMkZUTTBMazJSXzdjeVFrZUNLSVFreENIM3NFdm83Vm8wQmpBYk5pSklzVE5keGY1blBjc1JqTWVCblNBRklEZV9EcmphLWtiWXg5ZFJhWldGUG1WaDM0UTY2N1cxWU9FS25aakhvdGVKUEFsZEwzOTA3ZW1aVzJydnlSaFhGZGc3QWRHcEJETlJKY21YTE5fd3RJaU1IcmxhU2VndElDc3YycXMtUzhNQ1hRdkxxdUdJNWdOUTFhQlBaRU0zOFA0NGc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784007000,
-        "data": "14/07/2026 05:30"
-    },
-    {
-        "titulo": "Renato Teixeira, Sami Rico e Mococa & Paraíso são atrações do Revelando SP em Americana - Portal de Americana",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGtIVmp6bkpKU3JnclVScUxPSGNIelhNeGUySHltbS1QTk5uSkVQZGtOR1hyOHhmMWF5WnVFdG5TWEpXbGdQTl9KTVRzWkZpN3ZkckZsNm5xbDk2Z2JabU93aHR2WEk1X0J0SmlHQlhLTm82WHRqOXhUemdqZ1lBRExXY0l5VnhDaWV4NlptakhnZTJIMkluQjFELWVEeTBHdHVFUEJQSl9WR29uZld4eEdDenFGdw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784006607,
-        "data": "14/07/2026 05:23"
-    },
-    {
-        "titulo": "Redes sociais, filtros e a busca pela &#8220;beleza perfeita&#8221;: o papel do cirurgião plástico",
-        "link": "https://novomomento.com.br/redes-soc-filtros-beleza-perfeita-cirurg-plasti/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784005245,
-        "data": "14/07/2026 05:00"
-    },
-    {
-        "titulo": "Programa de Lula amplia atendimentos, mas 1/4 dos pacientes enfrenta espera maior, diz TCU - Folha de S.Paulo",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWHUwLUFVWGdiaXR3aFhzaXNZUl8xdzZoX2thdGtnVUJUV2VxTTBISWl6TnlEU3ZJMUNsM3h6VzF3alpOWUp1OW1XR19HY2ExUlZ0bmtSSjZaZHRNQllEblpuaHl0MkNkTUNaZFBGOTZMd2pHX3J3ZzE0WnhRd3NIR3VwREJmdWxrNldnUG52dEJHY3M3Tl9TNVdXcGNtY2lYNno4bTFZS0dQUzhQZnBkYVZaalNHTnltc0ZRTm9fRks1YkYxSHRyT2FySU5WWkhnUk5EeVlqc3NKaDRidS1FSHFR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784001600,
-        "data": "14/07/2026 04:00"
-    },
-    {
-        "titulo": "DAE e Comgás promovem treinamento para reforçar segurança em obras em Santa Bárbara",
-        "link": "https://novomomento.com.br/dae-comgas-treinam-reforc-seguranca-obras-sbrba/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783997431,
-        "data": "14/07/2026 02:50"
-    },
-    {
-        "titulo": "Confiança da indústria cai ao menor nível desde a pandemia",
-        "link": "https://sb24horas.com.br/confianca-da-industria-cai-ao-menor-nivel-desde-a-pandemia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1783995421,
-        "data": "14/07/2026 02:17"
     }
 ]
