@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Vendas de CD superam o Vinil com aumento de 16%. É o fim do streaming?",
+        "link": "https://novomomento.com.br/vendas-cd-superam-vinil-streaming/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785371698,
+        "data": "30/07/2026 00:34"
+    },
+    {
+        "titulo": "Homem é preso por tráfico de drogas no Jardim Olga Veroni, em Limeira",
+        "link": "https://rapidonoar.com.br/homem-e-preso-por-trafico-de-drogas-no-jardim-olga-veroni-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/drogas-prisao-olga-veroni-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785368623,
+        "data": "29/07/2026 23:43"
+    },
+    {
+        "titulo": "Hospital Municipal de Americana promove treinamento de reanimação cardiopulmonar",
+        "link": "https://novomomento.com.br/hospital-americana-treina-reanima-cardio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785366144,
+        "data": "29/07/2026 23:02"
+    },
+    {
         "titulo": "Costa oferece até R$ 1.500 de desconto em cruzeiros selecionados pelo Mediterrâneo",
         "link": "https://novomomento.com.br/costa-r1500-desconto-cruzeiro-pelo-mediterraneo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -784,6 +811,15 @@
     },
     {
         "titulo": "Vídeo: menino é salvo após passar 9 horas preso em lamaçal - iG Último Segundo",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3BpaEpyNnQzYnpJT1dvYnFqeFY2aWZFMXRLNm5HRVpfY0dpQU5peHY1N1ZBOGRST3Y4RVlOUmNDQ1M3czhGTGEza0gzVUF5UlhVcFpaNWlHM19kYm95bzZjLTZjMzFoRWdheUdtUjYycHlrNkdOMVdVY2NXWGtFcmd3c1VHRXZfQVBpcTVTQzI1Y2J0aC1Gd2ZQSTYwM3RVeERCOHJvSW9oRzhsb29wYXZsMGJMT2lOdzFNRjRvV1hwN0E0Nzc4V2JHdHlwV25CekZCOFlWaUVaQdIB3wFBVV95cUxPbHZudkJPQm5vay16OVJCNnZUT3V5QWlSbTE4dlF4VTk2WTIwRnNZU2lOX2lDdjB1LWtwNFM0aXphZDMyWkFJaHJ3dVJTVExCNWNUd0tzcG96OURGbUJSQVNaVDRyX3RrS0luWE43LVdDSVFmajRSMUw5dHZPQks4VmFIWGhMU1QxbS1FN3NyV0k3RjJ0OV9nQ0VwZ2xlLVQtZk1zNlMyalhaQjhjcWVBMmdmNHZQaFBGc0xRNFNRZHhoa09QNGpsZUtTeGQxYWRiMl9hOThwUzdqRzViVGZj?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785325560,
+        "data": "29/07/2026 11:46"
+    },
+    {
+        "titulo": "Vídeo: menino é salvo após passar 9 horas preso em lamaçal - ultimosegundo.ig.com.br",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3BpaEpyNnQzYnpJT1dvYnFqeFY2aWZFMXRLNm5HRVpfY0dpQU5peHY1N1ZBOGRST3Y4RVlOUmNDQ1M3czhGTGEza0gzVUF5UlhVcFpaNWlHM19kYm95bzZjLTZjMzFoRWdheUdtUjYycHlrNkdOMVdVY2NXWGtFcmd3c1VHRXZfQVBpcTVTQzI1Y2J0aC1Gd2ZQSTYwM3RVeERCOHJvSW9oRzhsb29wYXZsMGJMT2lOdzFNRjRvV1hwN0E0Nzc4V2JHdHlwV25CekZCOFlWaUVaQdIB3wFBVV95cUxPbHZudkJPQm5vay16OVJCNnZUT3V5QWlSbTE4dlF4VTk2WTIwRnNZU2lOX2lDdjB1LWtwNFM0aXphZDMyWkFJaHJ3dVJTVExCNWNUd0tzcG96OURGbUJSQVNaVDRyX3RrS0luWE43LVdDSVFmajRSMUw5dHZPQks4VmFIWGhMU1QxbS1FN3NyV0k3RjJ0OV9nQ0VwZ2xlLVQtZk1zNlMyalhaQjhjcWVBMmdmNHZQaFBGc0xRNFNRZHhoa09QNGpsZUtTeGQxYWRiMl9hOThwUzdqRzViVGZj?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "portal",
@@ -17962,41 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1783954355,
         "data": "13/07/2026 14:52"
-    },
-    {
-        "titulo": "‘Mascotes’ que entraram em campo com jogadores da Inter são adotados; jogador quis dois",
-        "link": "https://rapidonoar.com.br/mascotes-que-entraram-em-campo-com-jogadores-da-inter-sao-adotados-jogador-quis-dois/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/jogador-da-inter-adota-dois-caes-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1783953814,
-        "data": "13/07/2026 14:43"
-    },
-    {
-        "titulo": "Caiado afirma que ‘liderança não se herda’ após Flávio ler carta de Bolsonaro",
-        "link": "https://portaldeamericana.com/caiado-afirma-que-lideranca-nao-se-herda-apos-flavio-ler-carta-de-bolsonaro/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/07/caiado.webp&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1783953748,
-        "data": "13/07/2026 14:42"
-    },
-    {
-        "titulo": "SBT manda Nadine Basttos aos EUA para dividir final da Copa com Galvão Bueno - RD1",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0p3cjVMSFFDdkpRNjNySVgzOG8zeTM5VVJYdUw5T2dPbUpORURFa3NuUlM3cjhfck9wM2pLNFdNbUNHNXJ5b0hiWFY3bERNQnNLdkZ2N05ydnJsZDhEZk1GZ29NRW5oV3I2NnpYaEN2ZFVnODRjU08xa2VoczQ2T25jT2dVQVdWWVg4MGtBY3A2MTQ2M2ktZVphQnQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1783953269,
-        "data": "13/07/2026 14:34"
-    },
-    {
-        "titulo": "Desktop tem mais de 60 vagas abertas e promove curso gratuito para atrair talentos na região",
-        "link": "https://novomomento.com.br/desktop-60-vagas-curso-gratis-talentos-n-regiao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1783953020,
-        "data": "13/07/2026 14:30"
     }
 ]
