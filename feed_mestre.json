@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Dois foragidos da Justiça voltam pras celas na região",
+        "link": "https://novomomento.com.br/dois-foragidos-justica-voltam-pras-celas-regiao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785493030,
+        "data": "31/07/2026 10:17"
+    },
+    {
+        "titulo": "Vacinação contra a gripe chega a 31,5 mil doses aplicadas em Santa Bárbara",
+        "link": "https://novomomento.com.br/vacinacao-gripe-doses-aplicadas-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785492328,
+        "data": "31/07/2026 10:05"
+    },
+    {
+        "titulo": "Homem procurado pela Justiça é capturado pela PM em Limeira",
+        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-capturado-pela-pm-em-limeira-4/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785490543,
+        "data": "31/07/2026 09:35"
+    },
+    {
+        "titulo": "Semana da Educação de Santa Bárbara ainda tem vagas",
+        "link": "https://novomomento.com.br/semana-educacao-santa-barbara-ainda-tem-vagas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785489858,
+        "data": "31/07/2026 09:24"
+    },
+    {
+        "titulo": "Mister prepara três mudanças no Independente para o jogo do acesso",
+        "link": "https://rapidonoar.com.br/mister-prepara-tres-mudancas-no-independente-para-o-jogo-do-acesso/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/filipe-ferreira-4-1024x823.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785489446,
+        "data": "31/07/2026 09:17"
+    },
+    {
+        "titulo": "Prefeitura promove curso de Elétrica Avançada para moradores do Vida Nova",
+        "link": "https://novomomento.com.br/prefeitura-curso-eletrica-moradores-vida-nova/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785488670,
+        "data": "31/07/2026 09:04"
+    },
+    {
+        "titulo": "São Paulo enfrentará 'fantasma da altitude' nas oitavas da Sul-Americana - Notícias ao Minuto Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHNfN2k2c2RWSlVNWFdaRVQ4Zy1YbVM0cXp5VXV6cmtsVUx5dkJWN2JZUmRBMGpLblR2N2NodjZiQUFUMjlHRmJZMkh2Ry00OXE1M0ZsWU1wdmpzUEczZWo2N1V4RnNrREdsNTRSU1NkRkI2NHJ2S1U0QzNTUzFfSzJNX2NGZUlsbWdDSS1vZC0taTFsc0YzVkVKOXR0aUg2bEp5dHBEd2JqQXlHZXMxQnB2ZDcwajJ1NWNRc1BsYw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785488400,
+        "data": "31/07/2026 09:00"
+    },
+    {
+        "titulo": "Carro é furtado durante a noite em Limeira e ação é registrada por câmeras de segurança",
+        "link": "https://rapidonoar.com.br/carro-e-furtado-durante-a-noite-em-limeira-e-acao-e-registrada-por-cameras-de-seguranca/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/10/plantao-policial-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785487985,
+        "data": "31/07/2026 08:53"
+    },
+    {
         "titulo": "Galinho decide classificação no Sub-20 hoje no Pradão",
         "link": "https://rapidonoar.com.br/galinho-decide-classificacao-no-sub-20-hoje-no-pradao/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/luiz-otavio-1024x989.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -11,6 +83,15 @@
     {
         "titulo": "Lula não deve ir a debates no 1o turno, e Flávio também",
         "link": "https://novomomento.com.br/lula-nao-deve-ir-a-debates-no-1o-turno-e-flavio-tambem/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785487604,
+        "data": "31/07/2026 08:46"
+    },
+    {
+        "titulo": "Lula não deve ir a debates no 1o turno, e Flávio também",
+        "link": "https://novomomento.com.br/lula-nao-deve-ir-debate-1o-turno-flavio-tambem/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -164,6 +245,15 @@
     {
         "titulo": "Ex-policial civil de SP é condenada pela quinta vez por desvios de fianças que somam R$ 40 mil - G1",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnBycDctalJSUHFISTl3dkZZLTd3Z1F6TlJfR0d1RnRrbmVULXRrbWs4dzdMeEpMQU1zR29tSDBKWnpnUGpHYXh6a2NqVWVVSXA3aEtqWGRFVnpUTDMyaXNCWlFSMWlHb1ZXMEJrdW1UVmxRTmtXRmtSZEhUUmdNWUJMWXpHOF9YWF9Dc3lSOFdWWEtmMlBUenpfLU1raTFMcTFoUTV4Z2d1dHplTTVLMHBmbkZEUVVhSTl5eVdGUDl0dTNIRGc40gHWAUFVX3lxTFB4UXBDeGdCX3h2S0JveFVXYXBRSGJkU2ZFOEp2bm9jMTUyWjVUdzFhUDZjNEFGYUQ5VzVPUnVrMWhKbTFrNzc4MHYxSi1kSUZaRUFleUFNTHNBZzNVVUpRTFFiR3l6RTdvalhFVWdzWUtjVXNSUFk1eHotUGZzTTQwOWYzSVdUeTVNRG5zTWp2Q3d2VkNWTUYzWnNtdkw3YW1zeEVyRE9nb1R3Tkt5Wk5kb1UzU2twdHdMMW5FLXJ1NmdVMFoxTXdSZTRQSHhyQ0dVTFVZYVE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785463208,
+        "data": "31/07/2026 02:00"
+    },
+    {
+        "titulo": "Ex-policial civil no interior de SP acumula condenações por desvios de fianças que somam R$ 40 mil - G1",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeFFwQ3hnQl94dktCb3hVV2FwUUhiZFNmRThKdm5vYzE1Mlo1VHcxYVA2YzRBRmFEOVc1T1J1azFoSm0xazc3ODB2MUotZElGWkVBZXlBTUxzQWczVVVKUUxRYkd5ekU3b2pYRVVnc1lLY1VzUlBZNXh6LVBmc000MDlmM0lXVHk1TURuc01qdkN3dlZDVk1GM1pzbXZMN2Ftc3hFckRPZ29Ud05LeVpOZG9VM1NrcHR3TDFuRS1ydTZnVTBaMU13UmU0UEh4ckNHVUxVWWFR0gHWAUFVX3lxTFB4UXBDeGdCX3h2S0JveFVXYXBRSGJkU2ZFOEp2bm9jMTUyWjVUdzFhUDZjNEFGYUQ5VzVPUnVrMWhKbTFrNzc4MHYxSi1kSUZaRUFleUFNTHNBZzNVVUpRTFFiR3l6RTdvalhFVWdzWUtjVXNSUFk1eHotUGZzTTQwOWYzSVdUeTVNRG5zTWp2Q3d2VkNWTUYzWnNtdkw3YW1zeEVyRE9nb1R3Tkt5Wk5kb1UzU2twdHdMMW5FLXJ1NmdVMFoxTXdSZTRQSHhyQ0dVTFVZYVE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1342,6 +1432,15 @@
     },
     {
         "titulo": "Americana recebe Revelando SP neste final de semana com shows de Sami Rico, Renato Teixeira e mais - Jornal Americanense",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVhOQWFoVTdhTFMwZXJiSE1hRXpLNWdKNzVmZnVIVmVWZnUzUlZxRUFORWFEWDk5NWp0aGR4QUtMWDFfZFFadGFJbTFhcmZ4Skdlc2JEQTBxbVlrc0FiZGNtcUxKMEU4Nm8tM29UQXdEeXZHN3pPWmRKMkJnX1dHM0Q2NUVuSmlPRHVRZ3Y3MXhYNkdtRmVVVGV5TTRsSHpZUWlLYWs5MHlQNGhNSHBkaUJuWXdVamVXUmFnajZlQk82bmprdDdLTlJFZEJoS24yTFFFdHRPNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785369447,
+        "data": "29/07/2026 23:57"
+    },
+    {
+        "titulo": "Americana recebe Revelando SP neste final de semana com shows de Sami Rico, Renato Teixeira e mais - jornalamericanense.com.br",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVhOQWFoVTdhTFMwZXJiSE1hRXpLNWdKNzVmZnVIVmVWZnUzUlZxRUFORWFEWDk5NWp0aGR4QUtMWDFfZFFadGFJbTFhcmZ4Skdlc2JEQTBxbVlrc0FiZGNtcUxKMEU4Nm8tM29UQXdEeXZHN3pPWmRKMkJnX1dHM0Q2NUVuSmlPRHVRZ3Y3MXhYNkdtRmVVVGV5TTRsSHpZUWlLYWs5MHlQNGhNSHBkaUJuWXdVamVXUmFnajZlQk82bmprdDdLTlJFZEJoS24yTFFFdHRPNA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17899,104 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1784041215,
         "data": "14/07/2026 15:00"
-    },
-    {
-        "titulo": "Fies: inscrições para edição do segundo semestre vão até 17 de julho",
-        "link": "https://difusorapiracicaba.com.br/fies-inscricoes-para-edicao-do-segundo-semestre-vao-ate-17-de-julho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1784041200,
-        "data": "14/07/2026 15:00"
-    },
-    {
-        "titulo": "Fundo Social de Solidariedade recebe cerca de 4 toneladas de alimentos do “Boxer Day 2026”",
-        "link": "https://hjnews.com.br/fundo-social-de-solidariedade-recebe-cerca-de-4-toneladas-de-alimentos-do-boxer-day-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784041142,
-        "data": "14/07/2026 14:59"
-    },
-    {
-        "titulo": "Unacon de Americana apresenta trabalho premiado em congresso nacional de saúde pública",
-        "link": "https://hjnews.com.br/unacon-de-americana-apresenta-trabalho-premiado-em-congresso-nacional-de-saude-publica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784040796,
-        "data": "14/07/2026 14:53"
-    },
-    {
-        "titulo": "Esther cobra ações no combate ao câncer de mama e Kifu quer Libras nas repartições",
-        "link": "https://novomomento.com.br/esther-cobra-combate-cancer-mama-kifu-qu-libras/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784040628,
-        "data": "14/07/2026 14:50"
-    },
-    {
-        "titulo": "Emefei “Dagmar” recebe melhorias na estrutura da unidade escolar",
-        "link": "https://hjnews.com.br/emefei-dagmar-recebe-melhorias-na-estrutura-da-unidade-escolar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784040336,
-        "data": "14/07/2026 14:45"
-    },
-    {
-        "titulo": "Revelando SP estreia em Americana com shows de Renato Teixeira, Sami Rico e Mococa & Paraíso",
-        "link": "https://hjnews.com.br/revelando-sp-estreia-em-americana-com-shows-de-renato-teixeira-sami-rico-e-mococa-paraiso/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784039890,
-        "data": "14/07/2026 14:38"
-    },
-    {
-        "titulo": "Alemanha e Bélgica são países que mais importam de Americana",
-        "link": "https://novomomento.com.br/alemanha-belgica-paises-mais-importam-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784039677,
-        "data": "14/07/2026 14:34"
-    },
-    {
-        "titulo": "Alemanha e Bélgica são países que mais importam de Americana - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmIxWnp0SVpzbktSM1JaRVdUd1NfWEFiMUZiS3BlbG1VT2luSVRDTy0xX1JmdHB6a1p3UklEOXE4emYzUTQ3ZkZPcGpGUWNkZ1RDZ1lXdGxQU3RhNk1UbmpXcHVuZGt3SHVGOFdaVmJRRGdWNldScnp1WUt1QURmeQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784039677,
-        "data": "14/07/2026 14:34"
-    },
-    {
-        "titulo": "Secretaria de Saúde de Americana confirma morte de homem de 37 anos por febre maculosa",
-        "link": "https://rapidonoar.com.br/secretaria-de-saude-de-americana-confirma-morte-de-homem-de-37-anos-por-febre-maculosa/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/morte-por-febre-maculosa-em-americana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784039601,
-        "data": "14/07/2026 14:33"
-    },
-    {
-        "titulo": "Prefeitura Municipal de Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pQ0VhQVBoTnlONVNseEFOMVRWYlMzUTZGZExyNWpOcGtDNXhLMEhzN3hsUF9hQ3cxakkxOGt3aE0yY2dqSl96NVVGNjdrWC1GeUYyS1ZXX25ncW9UZmoySUhJNzNqWjRMX011VGZzZjdlQURLbTZteTVxeDBhVFk?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784039486,
-        "data": "14/07/2026 14:31"
-    },
-    {
-        "titulo": "Teatro Municipal Dr. Losso Netto recebe concerto gratuito da Orquestra Educacional de Piracicaba",
-        "link": "https://difusorapiracicaba.com.br/teatro-municipal-dr-losso-netto-recebe-concerto-gratuito-da-orquestra-educacional-de-piracicaba/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1784039400,
-        "data": "14/07/2026 14:30"
     }
 ]
