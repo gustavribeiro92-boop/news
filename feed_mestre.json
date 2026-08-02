@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Piovezan decide apoiar Franco Sardelli a estadual",
+        "link": "https://novomomento.com.br/piovezan-decide-apoiar-franco-sardelli-estadual/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785657501,
+        "data": "02/08/2026 07:58"
+    },
+    {
+        "titulo": "Revelando SP estreia em Americana e continua hoje no CCL",
+        "link": "https://novomomento.com.br/revelando-sp-estreia-americana-continua-hojeccl/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785655423,
+        "data": "02/08/2026 07:23"
+    },
+    {
+        "titulo": "Revelando SP estreia em Americana e continua hoje no CCL - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTFRT3RiNW1tMW1NbEtoWmNzQWFmLWJlUmExTld0cFJVTXNIQTAtalg1bEhSNzNxNVVJLVdRbTF1cDdxUjFRSGttTUxGTlV2Y0Z3dnUtUVdtVGlKVTh3ZU9lcjJmMDJuc1FDWGlqV3BQVnZTUnFBQzlnMEp3alFRWQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785655423,
+        "data": "02/08/2026 07:23"
+    },
+    {
+        "titulo": "Gustavo Henrique, 19, morre em acidente de moto em SB",
+        "link": "https://novomomento.com.br/gustavo-henrique-19-morre-em-acidente-em-sb/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785654324,
+        "data": "02/08/2026 07:05"
+    },
+    {
         "titulo": "Zoo Americana registra nascimento inédito de 6 filhotes de emu",
         "link": "https://novomomento.com.br/zoo-americana-nascimento-inedito-6-filhotes-emu/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -7,6 +43,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1785652893,
         "data": "02/08/2026 06:41"
+    },
+    {
+        "titulo": "Aplicativo da ANP avalia 359 postos de combustíveis na região de Campinas e dá notas 0 ou 1 para nove; veja onde - G1",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdloyb184SDhtRE1TQTRkSDFHbDI4S0xnYW80ZF83ZDgxVmNzaS1kMklpR0VJUVowZVlfRFdXZVpQem1od21saVRyQWJ4T0JXazVFckJhbG5IRVNuZHRrZktNNGxPbDRnRE5XQzJUMXpmX0NnYngzLUhkUTdwS2NCRlRTSWpGcXZNdlkzd0dXV191RjJVWklUc3BBcWVRNHBWVXdidF9KcXZicXk5TFg5cGI0Y2VaSGktNzMyZ0M1VmdtWDRuWGdn0gHWAUFVX3lxTFAxTE9VSjI1cjVNMy1RTGlZRVl2TEZ4MjEydW93NHctd1lxQkhIamltZ3NCM1ZmV2RHT2RmSjlVMVNTd2Zra25rN0s5R2duUkd0bGNlUTN1RElFb2lvcDBLTkI0TnY3Q1JJWlppNHl2RXVSbGJJN2wtbGpjaVMxbDltRVRDRHpVTGtxekljS21ZZHUzUkxSb1lqWmlyd01CN25oLVEyc0djLVU3SFphZzFzNFJiTzRaZDNXTmdjZFlDUkg2a3VMR1ZEMUlHdExmWl96cGNNaEE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785650410,
+        "data": "02/08/2026 06:00"
     },
     {
         "titulo": "Atendimentos relacionados a vício em bets crescem 140% no SUS em 5 anos",
@@ -282,6 +327,15 @@
         "titulo": "Vozes ancestrais de Mongaguá percorrem o Estado e levam a cultura indígena ao Revelando SP - Jornal Impresso Brasil",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGJ3MnpISjJTZHVxUmFBOThZUTVVQ2dZbGd3bjZRNW5MaFhYT1I2eGRINlZvaXZKZ2pmVXk0OURRdGhYRWxwM2NyTF9lYnZPenNkeXFwQmkyVjY1dkp1XzhqWTVTU1hKcFBDUkg4ZjByQmVRa3MzaV8zTzNsXzF6ZUxLOWExNnN4VklWX3JZMmJ1ek5sVDJYaGNWNURTYjJSS01rd09nUmtvM2kxYUdFNlVrSklOM0V4Yl9PYVlTLTBId0JDZVE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785586380,
+        "data": "01/08/2026 12:13"
+    },
+    {
+        "titulo": "Vozes ancestrais de Mongaguá percorrem o Estado e levam a cultura indígena ao Revelando SP - jornalimpressobrasil.com.br",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGJ3MnpISjJTZHVxUmFBOThZUTVVQ2dZbGd3bjZRNW5MaFhYT1I2eGRINlZvaXZKZ2pmVXk0OURRdGhYRWxwM2NyTF9lYnZPenNkeXFwQmkyVjY1dkp1XzhqWTVTU1hKcFBDUkg4ZjByQmVRa3MzaV8zTzNsXzF6ZUxLOWExNnN4VklWX3JZMmJ1ek5sVDJYaGNWNURTYjJSS01rd09nUmtvM2kxYUdFNlVrSklOM0V4Yl9PYVlTLTBId0JDZVE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785586380,
@@ -1261,6 +1315,15 @@
     },
     {
         "titulo": "Nina Neder y Los Peregrinos percorrem a música latino-americana em ‘Boleros para una Primavera’ - cartacampinas.com.br",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdURYU0FEMlZQTFBuSTBBYVdCV2pobzVxRGVGM1J1X2xwVFczekk2VnNRb0hiQkxRSkh1dXVEUGRXZTJ0bzVEZEdacVgwMm5tZUtDZHdTU0MteG83WTlEZ1JxcnZoYlJuTlBpbzA0eDl1dUVybjZoSjZKT0theU1NOEJhQ1ZfdTk0S0tJa1d4ZmpuVlA3Wk1UY3Mwb2dXMGRSUzNyNXFhT2w3cEVUdldfNUpLVHF3by16N2ZUNUM1SHB6cEFiWm1tR1JvVjnSAdIBQVVfeXFMTUhXZGdtVGJkcWxkMDBEUDk1TFNsaW8tS3hCS1dkbklTclk5RTFOd0tkVElGeDhIdTdOMnBsalZYRFREN1NMQ3ZRMWV0WXh4YkZoMXVnMVpZQVRlRGxBZXJNZWRxTjA2SGNHbWg4OVFiX1RNbmY3NjA5SnNOZ2tnNS15SEZMTDdPTHZCb2REX01OcGpib0Foc0d1a2NqSzItZlAtT0JWOTVOLW5kRWxxRzRUa1VZU1dvOTRSUkdxeTlwYlVzeU1iY0ZISjZ3WFRxck5R?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785503186,
+        "data": "31/07/2026 13:06"
+    },
+    {
+        "titulo": "Nina Neder y Los Peregrinos percorrem a música latino-americana em ‘Boleros para una Primavera’ - Carta Campinas",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdURYU0FEMlZQTFBuSTBBYVdCV2pobzVxRGVGM1J1X2xwVFczekk2VnNRb0hiQkxRSkh1dXVEUGRXZTJ0bzVEZEdacVgwMm5tZUtDZHdTU0MteG83WTlEZ1JxcnZoYlJuTlBpbzA0eDl1dUVybjZoSjZKT0theU1NOEJhQ1ZfdTk0S0tJa1d4ZmpuVlA3Wk1UY3Mwb2dXMGRSUzNyNXFhT2w3cEVUdldfNUpLVHF3by16N2ZUNUM1SHB6cEFiWm1tR1JvVjnSAdIBQVVfeXFMTUhXZGdtVGJkcWxkMDBEUDk1TFNsaW8tS3hCS1dkbklTclk5RTFOd0tkVElGeDhIdTdOMnBsalZYRFREN1NMQ3ZRMWV0WXh4YkZoMXVnMVpZQVRlRGxBZXJNZWRxTjA2SGNHbWg4OVFiX1RNbmY3NjA5SnNOZ2tnNS15SEZMTDdPTHZCb2REX01OcGpib0Foc0d1a2NqSzItZlAtT0JWOTVOLW5kRWxxRzRUa1VZU1dvOTRSUkdxeTlwYlVzeU1iY0ZISjZ3WFRxck5R?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784195385,
         "data": "16/07/2026 09:49"
-    },
-    {
-        "titulo": "Motociclistas empinam moto ao lado da GM em Americana; caso é investigado - G1",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNazBsaWFGSU5rUXU4NU5DWGlmQ2dMRDd4YWpFU1NkOWZfcFJ4YXkwaE0wdVhIRm05NTJsVjg2MkJmaTA1SHpraWJHNTQ0R0VlSXR3clhXQ0RaQzlVWmFid1RwaFdPalJ6WVM1S0duOUhvblVDZHpUUmFYRFJxbmhzbThWeVM2T2ZQdVBrODIwM0JiOGZrUE5JcTJtSW5NSkdtTzlDNDdIOG9uc3R4RXB5V2tPQ3JobjdKa1R6eDM0bUF5UGEzNGgxS1VwdU95MzdDUExQZlB6ODFWczUyaTJCUDcyMXQtVTlZNUNXZFdTTXZTOFRGWEtTaU5KRDhVbEx2NC1DWUtPdzjSAZcCQVVfeXFMT1ZIaVZlZ1hBbDVPTjNhd0pERHk4b3lCOGhsN2puYi1iNVlDMWJoeE16RzczZGM0WWgyNHZOV1FmcDA5eXRXSXVsNm82VXBLWG55TW5pSkZ0OXZpMEdDdzRvbktVYk9BdUx2T25XeVdNc3p6Vl9JVVFiSTV4Mk5RZWQtSHJkai13RDFxeUpkX1F2ZVU2NERrT01od2VMMjlkQVpEck9tT21SczUxN1NsTl91T3NCSld1d2JnZTVoNTVocmxzWk5zakRoSU1NWmgzRTliTlNpQVlUdjJtYXI0Q0F5R0ZINUozRTNKcFB1SW0ycElFME5jeUsydGpLMlpOaUdxWTBNNTE1WDdmdkJ6b05ZNmU4TE8w?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784194161,
-        "data": "16/07/2026 09:29"
-    },
-    {
-        "titulo": "Homem é preso por tráfico de drogas após denúncia no Ernesto Kuhl, em Limeira",
-        "link": "https://rapidonoar.com.br/homem-e-preso-por-trafico-de-drogas-apos-denuncia-no-ernesto-kuhl-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784193444,
-        "data": "16/07/2026 09:17"
-    },
-    {
-        "titulo": "Três homens são presos por tráfico de drogas em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWGhWNFhqLTB0OVhURklVb29rOWFBLVd2M0RWQl9BZ0xKS01DVmIwajM3WDNETXNHRVh6VVpSd25NU29sblk2aXY0WnprX2ZTYTZxZHhoSEc4THBaMXJkVVE4VDlJd2NqM3VmVGVVWVRwcWhEVjBNUWo0WDl0NkxlZXBneVpqSHlwdUFtdXltWkVJYTUyM3ZRelNoMG8xM0N1THVYRTJLTS1nekpPbXJCZ1QweDlUSHlHT1ZEVUtNaC15eUlpa0MwRjBNVzhYc0dHeDlRSkk4bXBydk9HVFg5aG5GMlVkaklPZm9HX0ItbGZHc0xs0gGDAkFVX3lxTFB6NGpMZ1BMUXRwWlZ1bWpDZzdnWTEtb0JCanM4MzFXNDNtLWtJSENxUEg1VnJtOG9mUlpzWnZaUEF1c0VEVFFvSHNfdHNCRWdnOTVFTHZvbXFpWlktY29GWXBqS1NLODRXeGhHZ0JyOGNGUTAtcGhlT0pDV3pOMDF5Z0x2N2FqaThQVGl0TjdGdVNjWWpVanJ5NkczYy1DZVJJUTQ4dGFvbjdQSDNjaV85VzdBNUZJWDlDeGRQM1hTaFZ6MnVtMGZyYlM4UjFiWkROVFFvYmZycENMVVh6UHlVTGJTWHo4dlVkUVFDa19tSWh1ZHVpbFZHbHB2QkVHUWZWaDg?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784193196,
-        "data": "16/07/2026 09:13"
-    },
-    {
-        "titulo": "Safra recorde de grãos e isenção tarifária americana reforçam dependência do Brasil à demanda externa - Agrimidia",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ2gwRXJhd0pzb1ZkTWZjcVZEREVxSjViR0FJQkRMZ1pxYWwzV2lwbEpmSVJYSGRTaGJlUklvOTEzWk9pQ05RT2o5STExYzQyRmZGWVRvbF8wR1Z2Z1R0X0o3T3NNZndMZFN3TWE3M3Q0UHlScXBKUzZaQnJsdXlsWjBFektFaHdvc3ZYQjRwempvU01XQWRWcnl6TXFtajBvSmN6bEQ2NTZDVnpSRlVjY1dCNHhSWXhpZ29LdENuLVRxWVVBTDF2SjBESFZZRkdlbENuVHZLSGUzWk5SSnV0a2RJZVBsZjNrRnNrM1RlWUZKQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784193177,
-        "data": "16/07/2026 09:12"
-    },
-    {
-        "titulo": "Campeonato Amador de Sumaré começa dia 25 com novo formato",
-        "link": "https://novomomento.com.br/campeonato-amador-de-sumare-comeca-dia-26-com-novo-formato/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784193138,
-        "data": "16/07/2026 09:12"
-    },
-    {
-        "titulo": "Nota da Amcham Brasil: impacto da aplicação de tarifaço de 25% pelos EUA",
-        "link": "https://novomomento.com.br/nota-amcham-brasil-impacto-tarifaco-25-dos-eua/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784190587,
-        "data": "16/07/2026 08:29"
-    },
-    {
-        "titulo": "Rock em alta: show no TM Americana hoje e 6o palco no SBRock Fest",
-        "link": "https://novomomento.com.br/rock-alta-showamericana-hoje-6palco-sbrock-fest/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784189990,
-        "data": "16/07/2026 08:19"
     }
 ]
