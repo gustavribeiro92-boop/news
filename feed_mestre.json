@@ -1,5 +1,113 @@
 [
     {
+        "titulo": "Famílias e indústrias buscam energia solar para reduzir custos",
+        "link": "https://novomomento.com.br/familia-industria-energia-solar-reduzir-custo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785785680,
+        "data": "03/08/2026 19:34"
+    },
+    {
+        "titulo": "Agosto Lilás: Americana inicia programação com destaque para o Fórum que vai debater 20 anos da Lei Maria da Penha - SB Notícias",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYzJQXzhyVFdWRDRRcEFKUGdLckQ1VkF4TnZfcWxyM1hGZGVYU1FEM0cyaTVTTXljSXNrSDlhUGd3WU1HQjBKNENONmNIVnNWSkVWRVA2VE5MSTB0Z2RUV3E2RHVmWVhjVElKN0ZsNFBjMzRsRnpOVDUtQy1HQkc0WEkwVHAtaTZQY1F6S3d1c1BWUXZPeURMbWluMW1CQUxNY3oybkw2OUd4aWhqYTdhektvLXd3REpNcnh2LXNHT0ZLalV3VVYxeU1ncHBOczRoX2RuYVV5dGZzeGZtZzRQdzFqZnJqM25IN2c?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785785400,
+        "data": "03/08/2026 19:30"
+    },
+    {
+        "titulo": "Feira de adoção em Limeira garante novo lar para 14 animais resgatados",
+        "link": "https://noticiadelimeira.com.br/2026/08/03/feira-de-adocao-em-limeira-garante-novo-lar-para-14-animais-resgatados/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1785781884,
+        "data": "03/08/2026 18:31"
+    },
+    {
+        "titulo": "Alimentação pode ajudar a reduzir a queda de cabelo",
+        "link": "https://novomomento.com.br/alimentacao-pode-ajudar-reduzir-queda-cabelo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785781872,
+        "data": "03/08/2026 18:31"
+    },
+    {
+        "titulo": "Americana, no interior de SP, registra mais uma morte por febre maculosa - UOL Notícias",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcDJMSzdBN1k2c3UzQ0U1Z1l2c0Z6V3ZqaEc2Q2prWjBVX2ZDYVJKQTFqQ0NxQ25VbVp2SVk4eUFTM1ZPbm00ck16Q0pfMnFHeTM4S1QyWmJobVNUcm9mSTJJTFVHM29Ed29zQm1xdkFGR244Nlo0ZURiZjM3RjVvV0dHVHo4OXVzUGFJZlJLUkVUOWdOU1ZwdVJ2azNuZHlEZWg5Z195OGVLWWJJV18xSUpNTjl6SGJhQ3M3cWJRNHhtakVNdm9yYlN5ZjF1SmdYNnMzamZR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785781660,
+        "data": "03/08/2026 18:27"
+    },
+    {
+        "titulo": "Condutor envolvido na morte de motociclista em Piracicaba é localizado pela Polícia Civil em Limeira",
+        "link": "https://rapidonoar.com.br/condutor-envolvido-na-morte-de-motociclista-em-piracicaba-e-localizado-pela-policia-civil-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/condutor-que-matou-motociclista-em-rodovia-de-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785781642,
+        "data": "03/08/2026 18:27"
+    },
+    {
+        "titulo": "Limeira ganha curso superior gratuito de inteligência artificial",
+        "link": "https://noticiadelimeira.com.br/2026/08/03/limeira-ganha-curso-superior-gratuito-de-inteligencia-artificial/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1785781553,
+        "data": "03/08/2026 18:25"
+    },
+    {
+        "titulo": "Cada vez mais pessoas usam IA como ‘psicólogo’; reportagem revela perigos da tecnologia em conversa sobre depressão",
+        "link": "https://rapidonoar.com.br/cada-vez-mais-pessoas-usam-ia-como-psicologo-reportagem-revela-perigos-da-tecnologia-em-conversa-sobre-depressao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/lucas-tecnologia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785781190,
+        "data": "03/08/2026 18:19"
+    },
+    {
+        "titulo": "Governo de SP amplia o acesso à saúde publica no estado - abcdoabc.com.br",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VQU5lNkw5WTJhd1M2czhudThETk1tQTFpaUY4NmJHSF9CcV83bkV4aU5YOWFoSWdaOWJJU19rNVVEZ090Zkl2RVJfSXZwYXhMSG9mLXVZcjlKX055N3BLRDJUb0lzc1BETHZBNzB5R1ZmaW9DdnlFTA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785780716,
+        "data": "03/08/2026 18:11"
+    },
+    {
+        "titulo": "Daniel Caesar anuncia show em São Paulo em dezembro com a turnê 'Son of Spergy' - Terra",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd3VYekxyVEtYcWFUYmdHSVR3N2hJR0NxTndjekVUOGRHMWRvcm1TMjdKcDJlUkhDMFVGQWlOdXN5bVZXWGQxOHlIOWtJS1JCajRHSFo4TVktTWZQc3JuZ3l6NG1kTUJ1WU1mR1VLc21XM3NUYzl2UXJ5emc1QjR6UGhLbFB0Vm81N0Ywc010ZDIwQUpWZlhtMnY3elI3T3l1X1ZQNVo0bG5ZU2pHM1p0R1lpZ3h4ckY0UFA5QUFDLW02MzFWbnRwVVp6aUotOEMxUXJiTDhJaFRBSHRzV3lPbllLclBKTk1EQXpqV0NzV3czYkJzQkFN?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785780081,
+        "data": "03/08/2026 18:01"
+    },
+    {
+        "titulo": "Piracicaba recebe Seleção Brasileira de Karatê nesta semana",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-recebe-selecao-brasileira-de-karate-nesta-semana-2/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1785780000,
+        "data": "03/08/2026 18:00"
+    },
+    {
+        "titulo": "Juliana inicia &#8216;rodas de conversa&#8217; pela região (com dobradas)",
+        "link": "https://novomomento.com.br/juliana-inicia-rodas-de-conversa-regiao-dobrada/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785779584,
+        "data": "03/08/2026 17:53"
+    },
+    {
         "titulo": "Programação Agosto Lilás tem início em Americana; Fórum vai debater 20 anos da Lei Maria da Penha",
         "link": "https://www.americanapost.com.br/programacao-agosto-lilas-tem-inicio-em-americana-forum-vai-debater-20-anos-da-lei-maria-da-penha/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -550,6 +658,15 @@
     },
     {
         "titulo": "Excesso de telas preocupa? Pediatra Daniel Becker vem a Americana para falar sobre os desafios da infância - Portal Atualidade",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejUyRklEaU13TXc5bzZfMTdMQ3ZWTjVuOVZFdXFjTmZIM3ZmMnZ4dHNjUmJSSGxDWUVzM3Z1Uk01T3pHck9yWFQzeHlXWUJnZTREc3BleUN3LWhGNmRRMmlMdE5IZ2RhdkFObE1DbkhkWnJKOXVuRERkT0RVOFRoWngwTFFuZFd4M0hnUmhCelpLcHh5NUV0WF9WLTNQYXdUYzZrcFI4Q0FSM01MTG9QZ3RlZ2lWSmhGd2UwU09kZC1VanZzY3hfMDcxcGREVjQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785758916,
+        "data": "03/08/2026 12:08"
+    },
+    {
+        "titulo": "Excesso de telas preocupa? Pediatra Daniel Becker vem a Americana para falar sobre os desafios da infância - portalatualidade.com.br",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejUyRklEaU13TXc5bzZfMTdMQ3ZWTjVuOVZFdXFjTmZIM3ZmMnZ4dHNjUmJSSGxDWUVzM3Z1Uk01T3pHck9yWFQzeHlXWUJnZTREc3BleUN3LWhGNmRRMmlMdE5IZ2RhdkFObE1DbkhkWnJKOXVuRERkT0RVOFRoWngwTFFuZFd4M0hnUmhCelpLcHh5NUV0WF9WLTNQYXdUYzZrcFI4Q0FSM01MTG9QZ3RlZ2lWSmhGd2UwU09kZC1VanZzY3hfMDcxcGREVjQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17881,122 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1784302020,
         "data": "17/07/2026 15:27"
-    },
-    {
-        "titulo": "Morte de influenciadora americana em hotel de luxo em SP é arquivada como natural - diarioesp.com.br",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0w0clozckF6WjZxT3hZYmtlcE1MNXlDWnl2YXF1UkVBZWd1X0k5V3kzRTVHX2tsUnJBMWVLU2VJNHFLZjJSd2NvSVdTam42aHhJQjc1Q25CN1ZHZ2RTMzJtcXdDN0I3dlpzQjVHZHFxdDNEbzNNRTZ6SHVCZWhseVdsQlUzemt0OFpmOWlWRDg2TmhjU3FGMVE0QmVZanFrWGJSVGlLZVVUa2tMeFFoTjJfZHZDY2RCWDdRc3Q5UzVZYXEyem5SeW02aWdFY2M?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784302020,
-        "data": "17/07/2026 15:27"
-    },
-    {
-        "titulo": "Motociclista morre na Rodovia Anhanguera, em Americana",
-        "link": "https://www.americanapost.com.br/motociclista-morre-na-rodovia-anhanguera-em-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1784301938,
-        "data": "17/07/2026 15:25"
-    },
-    {
-        "titulo": "SP: inquérito sobre americana morta em hotel de luxo é arquivado - Metrópoles",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYk9zbG4zUVhJLVV3Z0h5UUd0a3R5QWhnYjhWRk15aHVSQm9uVzh1dkgxY2lUd05ZeFVEMWRSbVUxcEFPc3B5M25QUm4wdlNmYXJwVlY1R3piSEN0OEVoUjMxRGxqMXd1RGtwRjNyTUJIeWhfaXJDVHkxSVBUSVN6R3lGT2gyNzFBQmc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784301840,
-        "data": "17/07/2026 15:24"
-    },
-    {
-        "titulo": "Americana recebe Feirão Casa Paulista nos dias 25 e 26 de julho",
-        "link": "https://www.americanapost.com.br/americana-recebe-feirao-casa-paulista-nos-dias-25-e-26-de-julho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1784301734,
-        "data": "17/07/2026 15:22"
-    },
-    {
-        "titulo": "PAT disponibiliza 96 vagas de emprego - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xZmllOGVIeHp3VlRGQUpPem5aSUFKVFV2ZFB6c0lxQl9wbnpOTEVZeFdSN3QzUkJxQUFJZ0tCM0tJdjE1UkpsS0w3R2hwU2Z0azJ1ZnQzcGJrdV9rZnc0bzRJZEVBMlI5cmNzQU42VVNaTHExd2Zsc01B?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784301660,
-        "data": "17/07/2026 15:21"
-    },
-    {
-        "titulo": "Tarifaço chinês chega ao Brasil e frigoríficos já sentem o impacto",
-        "link": "https://novomomento.com.br/tarifaco-chines-brasil-frigorificos-impacto/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784301518,
-        "data": "17/07/2026 15:18"
-    },
-    {
-        "titulo": "DAE inicia desinsetização na rede de esgoto do Jardim Guanabara - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpX2lXaS12cU1JNFhOSUhnbUVBSkR2VWV1clNBZnhKOGs0UG1kUXoxZGo2V0tRbFY3RzhlQ2thTWhXVFp3NjY4dHZfUTgtcExXcjU5RVpoTDB2bkRmMHZMR012dmdFZTI0Vk14aGJTUzJuLVV3WDVLOXhR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784301240,
-        "data": "17/07/2026 15:14"
-    },
-    {
-        "titulo": "Campinas, Paulínia e Americana registram 43 veículos irregulares em operação do Ipem-SP contra transporte de gás - Todo Dia",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNX1p5YWJJZVZqZl83SFpwUHo2V0tGWU0yaFlpYldzY3ZrYUJwLWxSRkhRRktUVHFsMm1XVlh5aTRVeURYQTdPMXJvc0tqOGExQmZvenNRUGtiWGFFbENfRkpuYWlJam5QeEc3T3BNYzE5UjRtdjZNYm95RFlJS2JmajBBb3hRU2VDTmdPdFI2YUtxNTJCNHhPc2VUQzBTMGYwemJfa0dwNlBSc05SQ1hOa0tkaFdKeHhMaVFxbm02eXZHSHl4RkF5YmJmelNZd0hPdzQtYWRXLUFsbWwzbXpScS0yOEV5TG1ySXFqTmZQdnNOc1RFZVlZWHI0Z3AzQlk3M3ZuSEtKYUR0YkIz?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784300510,
-        "data": "17/07/2026 15:01"
-    },
-    {
-        "titulo": "Prefeitura instala aeradores na lagoa do Parque dos Ipês para preservar qualidade da água e fauna aquática",
-        "link": "https://sb24horas.com.br/prefeitura-instala-aeradores-na-lagoa-do-parque-dos-ipes-para-preservar-qualidade-da-agua-e-fauna-aquatica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1784300486,
-        "data": "17/07/2026 15:01"
-    },
-    {
-        "titulo": "Dia de Cooperar: população terá acesso a serviços, saúde e lazer gratuitos no sábado, 18/07",
-        "link": "https://difusorapiracicaba.com.br/dia-de-cooperar-populacao-tera-acesso-a-servicos-saude-e-lazer-gratuitos-no-sabado-18-07/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1784300400,
-        "data": "17/07/2026 15:00"
-    },
-    {
-        "titulo": "Atividade econômica cresceu 0,1% em maio",
-        "link": "https://difusorapiracicaba.com.br/atividade-economica-cresceu-01-em-maio/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1784300400,
-        "data": "17/07/2026 15:00"
-    },
-    {
-        "titulo": "Orquestra de Americana tem noite de intercâmbio musical com regente alemão e solista brasileiro - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjd0eVloWEdHNEx4LWo3U01ZeGFXMkhLRmlwRmg2MGtBSWFzdmVCWjY0eWt2aWI0WmVkMTNTdFUtUXRmRnZGZWlVMC1aS2ZXbUJrUmd2ZmE4RUlQX19Na0o4RGlqeTQ5cHVzdzBZX0o3bmZaSzNRWGNXeUZxX3I1aGJMNmliUS1GZHA4WmNUR1V3bFVhNTFDZzEzQlZsNEV5NUxjUEV0UUI2MHRPbGZoV2NzVTAwRHpHZXMweXhPWFpMVXY1R3FKT0hHSmoxZzRjaHlMUWRCdU5CVmNyM2VXVVFEUXBPUzZPbUtnQ1dxMDZ5T21oRU9qNGt3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784298960,
-        "data": "17/07/2026 14:36"
-    },
-    {
-        "titulo": "Engenheiro Helton Costa destaca infraestrutura, habitação e desenvolvimento regional durante participação no Iron Podcast",
-        "link": "https://sb24horas.com.br/engenheiro-helton-costa-destaca-infraestrutura-habitacao-e-desenvolvimento-regional-durante-participacao-no-iron-podcast/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1784298958,
-        "data": "17/07/2026 14:35"
     }
 ]
