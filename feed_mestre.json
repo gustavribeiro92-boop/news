@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Rede D&#8217;Or abre vagas para a região",
+        "link": "https://novomomento.com.br/rede-dor-abre-vagas-para-a-regiao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785891869,
+        "data": "05/08/2026 01:04"
+    },
+    {
+        "titulo": "Americana amplia proteção contra a poliomielite com segunda dose para crianças",
+        "link": "https://novomomento.com.br/americana-poliomielite-segunda-dose-criancas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785889658,
+        "data": "05/08/2026 00:27"
+    },
+    {
+        "titulo": "Homem é preso após tentar assaltar trailer de lanches e ameaçar criança em Limeira",
+        "link": "https://rapidonoar.com.br/homem-e-preso-apos-tentar-assaltar-trailer-de-lanches-e-ameacar-crianca-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/prisao-homem-lanchonete-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785886253,
+        "data": "04/08/2026 23:30"
+    },
+    {
+        "titulo": "CASACOR São Paulo 2026 celebra cultura boliviana: Co-Living Chiquitano",
+        "link": "https://novomomento.com.br/casacor-sao-paulo-2026-cultura-bolivia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1785884857,
+        "data": "04/08/2026 23:07"
+    },
+    {
+        "titulo": "Copom inicia reunião que definirá taxa básica de juros",
+        "link": "https://sb24horas.com.br/copom-inicia-reuniao-que-definira-taxa-basica-de-juros/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1785884451,
+        "data": "04/08/2026 23:00"
+    },
+    {
+        "titulo": "Vídeo mostra resgate de motociclista após ficar preso sob caminhão na rotatória do Tigrinho, em Limeira",
+        "link": "https://rapidonoar.com.br/video-mostra-resgate-de-motociclista-apos-ficar-preso-sob-caminhao-na-rotatoria-do-tigrinho-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/moto-caminhao-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1785884420,
+        "data": "04/08/2026 23:00"
+    },
+    {
         "titulo": "TRE lança página &#8220;É real, Tribunal?&#8221; com foco no combate à desinformação",
         "link": "https://novomomento.com.br/tre-pagina-real-tribunal-combate-desinformacao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -70,6 +124,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1785875534,
         "data": "04/08/2026 20:32"
+    },
+    {
+        "titulo": "Unicamp aprova título de Doutora Honoris Causa para Conceição Evaristo, primeira mulher negra a receber a honraria - G1",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRC02bThvWDBnUlRRLUVZcXF2REY2M2d0S1dtVTNHT0FHaV91aTd0LUhmNVNEU3VtZHFEZDg2Mzg0d0FsWHNOeVUxXzhOVWZrMVBFVkxBQ3I4OHpGS19nc2hPSmJ5SzNqVnVTVGR6TF9pV21nYjNRa3YtMmJrTjdkU3lNeTNvV0JFX2ZSNlRBaUR0ei1mcGR0SmNJdzhhVmtPb0RtY3pEeG9wc016d0hkVm4zbllMX3JOZUlFaGUwOFhPN3hCQ1E3RHFHUXpfRDFmTElrVmgydFNYdzR5dUZCY1pnNzZhQ25PZmlsYzZZYnIyNThyRGdwcFRsYkxhY1R3UDVzQ2J1Q2tzNkFtdkR5N3l3MWpxWVlo0gGYAkFVX3lxTE9ELTZtOG9YMGdSVFEtRVlxcXZERjYzZ3RLV21VM0dPQUdpX3VpN3QtSGY1U0RTdW1kcURkODYzODR3QWxYc055VTFfOE5VZmsxUEVWTEFDcjg4ekZLX2dzaE9KYnlLM2pWdVNUZHpMX2lXbWdiM1Frdi0yYmtON2RTeU15M29XQkVfZlI2VEFpRHR6LWZwZHRKY0l3OGFWa09vRG1jekR4b3BzTXp3SGRWbjNuWUxfck5lSUVoZTA4WE83eEJDUTdEcUdRel9EMWZMSWtWaDJ0U1h3NHl1RkJjWmc3NmFDbk9maWxjNllicjI1OHJEZ3BwVGxiTGFjVHdQNXNDYnVDa3M2QW12RHk3eXcxanFZWWg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785873871,
+        "data": "04/08/2026 20:04"
     },
     {
         "titulo": "PAT e Instituto Aprimorar realizam processo seletivo para atendente terapêutico em Araras",
@@ -1361,6 +1424,15 @@
     {
         "titulo": "Governo de SP amplia o acesso à saúde publica no estado - Portal ABC do ABC",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VQU5lNkw5WTJhd1M2czhudThETk1tQTFpaUY4NmJHSF9CcV83bkV4aU5YOWFoSWdaOWJJU19rNVVEZ090Zkl2RVJfSXZwYXhMSG9mLXVZcjlKX055N3BLRDJUb0lzc1BETHZBNzB5R1ZmaW9DdnlFTA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1785780716,
+        "data": "03/08/2026 18:11"
+    },
+    {
+        "titulo": "Governo de SP amplia o acesso à saúde publica no estado - Portal ABC do ABC",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPVkZBR2RFYjF2V2t3VWVzeVBzQkVMZUV3WFkyNkZBRWxnUC04UldKaFVhQ1lNeUdYckxObTV0YlpWSlVua0xtSllCNFNyUlBKWVFSRzZQVVpCOHhwOGlXeHlIQXB1TWVVTVk2dTJyblJCZExLS0huVnZB?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784477789,
         "data": "19/07/2026 16:16"
-    },
-    {
-        "titulo": "Incêndio de grandes proporções atinge área de mata no bairro Vila Nova em Limeira",
-        "link": "https://rapidonoar.com.br/incendio-de-grandes-proporcoes-atinge-area-de-mata-no-bairro-vila-nova-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/incendio-de-grandes-proporcoes-atinge-area-de-mata-no-bairro-vila-nova-em-limeira-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784476726,
-        "data": "19/07/2026 15:58"
-    },
-    {
-        "titulo": "Prazo para as convenções partidárias começa nesta segunda-feira - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenltWXhuR3hWMU1sVlQyUnVDUml3VjEwTEdMZnA0WEdfdl8tWjdJNm9BeEZjSVFFMmRiVks3ZlVsVUpTQ2t2TEtybzd1by16MzFoXzBNNE1ZeGoxMUM5c1lDajFESEQzeG9tUDZPUm5fMHlWakRLeUhodmpzbGlJLUZPek1EY2FKOWhFRVMzV0pBM1dyeFZWN1d1RlNwSUdoV040dzVMUXRqTnhoeGFDR1lQMnQtNDRRTnp1VjZhYi02ZkZyNXpHR3Q1MW9jZw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784474700,
-        "data": "19/07/2026 15:25"
-    },
-    {
-        "titulo": "Auxiliar administrativo cai em golpe e tem prejuízo de mais de R$ 45 mil - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3hmMVVDUi1mSEZRNlMzcVhxMmdMcjNlMmthWWpKdjdTc2hXeHlkSmFoOU1laU54RWtWaVd2OEdTbFNxTXdzUUhwR0o5WUdJMGZzdVYxMWZkUGh3clRZemJwV0dXX1M2VHJWTUtjWkM1bUJQWUhvVk1xV0c1ZlFWRFE1QWdoODlkT3Q4bEY2ZWhTeUt1LVUzYUJhVTNEcnVSS3VUVDJjVk1rdUtRTENPVGJIZHM5Qkh3eEYxZ0w3bllRODllMm5EUmpKLWtRVW5PRGctSi12VmRYUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784474040,
-        "data": "19/07/2026 15:14"
-    },
-    {
-        "titulo": "Americana convoca mais 58 do concurso- quase tudo na Educação",
-        "link": "https://novomomento.com.br/americana-convoca-mais-58-do-concurso/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784473926,
-        "data": "19/07/2026 15:12"
-    },
-    {
-        "titulo": "Americana convoca mais 58 do concurso- quase tudo na Educação - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MeUc2dFQ0ZjU3WUZUbmd2ZTBLOFREWWRsVEdIYXFjOG91THlSZkZRTml3SktRUjd2Z3VwaFFsR2NyOTJkSG9QQ05BTHFHY1NsYmcybkZMZndtZnFTVm9iUjdjeC1SZ2R1NERyZTAxZ29QV0U?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784473926,
-        "data": "19/07/2026 15:12"
-    },
-    {
-        "titulo": "GCMs salvam criança de 2 anos engasgada com bala durante patrulhamento em Limeira",
-        "link": "https://rapidonoar.com.br/gcms-salvam-crianca-de-2-anos-engasgada-com-bala-durante-patrulhamento-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/gcms-salvam-crianca-de-2-anos-engasgada-com-bala-durante-patrulhamento-em-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784473770,
-        "data": "19/07/2026 15:09"
-    },
-    {
-        "titulo": "Santos faz treino físico com Neymar na véspera de embarque para jogo da Sul-Americana - ge",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTczOGd6TllPaFB5S0RSeGZraWpiU3hGam41dWVNeUc5VW9jejEwNmNURjk5WU5QQTd1MEN1ellMNVVHRkJHcTd4MTVrUnNTNVU1VHNhYm1KcEZ3SEpteWRUVmFrWW9oWF9ONjJ0VnJjTEU2Y1kwY1BsT0w1Ni03WDFxb0ttWlZKSEowdmJYNV83dWNDYzhYQ1YtRW80c08wMHRMM2FpS0xBYWZJakNvV2p5U2hOY1lyVHE4OVBPYVN2N1BiU0dCTjh6SVd5QUFMalJ4cU1vSmdSNVVrVFdjaVZxWWIwLU90WjRMSDVYVXJKYnBNY2poY0tCMUtfQmZO0gGPAkFVX3lxTE5QVGg2ME5xSjRIUEI5a3lZVXRwamhCRE9wY1RmZ1FFUlluOHExa2Z3dmljUnYtRlJvTmhTdDdiZUE0SDVONmI5NWtGS0VnelBuT3h6c1duV2VFV0JJa1AzLUhNOWZtS3IzZURhRmJfZ1hXTXRLSmk4U2lxejJPSk5uWmNvcnpnOF96MzNMY05FMzBlTkQ5LWtVc0VUbXpUbG9kdTlUaEFKTVprTFcwWjVmOXBfT0t3SXBKTFF4SmdlSGE2V2xQVjFYendNSWR2VlE3am9TQUU4ZEpkbVdOdG5ScFdHVDlHUFFWOVBpU09INFlKeDNuOFJFTXl0dzZXNFhJYjNmTXNyX0pkZnJTa2M?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784473567,
-        "data": "19/07/2026 15:06"
-    },
-    {
-        "titulo": "Pai bebe, agride a filha e acaba preso em Santa Bárbara - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzhjN3didGpRZE5EenhvRUhHbFFVLTlmUTFmVC1WOHJwXzJISDcxWGswbXRwWUp1TTVDY282YUp6R0xGbXZFQnZPVkdXeG12ZGZISG5tSGhSV2ZTbHZhdmxWal9BUHpVbkJ6Z1hsNEs1QUNYSmllaUhQOHUyMXlMZzVuNkV0M3RHeFNkRkxYbmZjYjlBZjdrYzB6Z0Z1UTQyOVdqb3h4QkdMcDRHaEhiU2dMMVZ4dHJuZE0teDFiaGpxS0E?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784472900,
-        "data": "19/07/2026 14:55"
     }
 ]
