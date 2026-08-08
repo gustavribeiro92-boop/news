@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Homem é preso em flagrante por tráfico de drogas no Profilurb, em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/08/08/homem-e-preso-em-flagrante-por-trafico-de-drogas-no-profilurb-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1786159101,
+        "data": "08/08/2026 03:18"
+    },
+    {
+        "titulo": "Corpo encontrado em córrego entre Cecap e Parque das Nações é identificado em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/08/08/corpo-encontrado-em-corrego-entre-cecap-e-parque-das-nacoes-e-identificado-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1786158261,
+        "data": "08/08/2026 03:04"
+    },
+    {
+        "titulo": "CNC: endividamento das famílias sobe para 82%, mas inadimplência cai",
+        "link": "https://sb24horas.com.br/cnc-endividamento-das-familias-sobe-para-82-mas-inadimplencia-cai/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786156085,
+        "data": "08/08/2026 02:28"
+    },
+    {
+        "titulo": "&#8220;Sexto sentido&#8221; do corpo pode ser a chave para movimentos mais eficientes",
+        "link": "https://novomomento.com.br/sexto-sentido-do-corpo-chave-movimento-eficient/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786155928,
+        "data": "08/08/2026 02:25"
+    },
+    {
         "titulo": "Familiares celebram legado de primeira medalha paralímpica do Brasil",
         "link": "https://sb24horas.com.br/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -205,6 +241,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1786128360,
         "data": "07/08/2026 18:46"
+    },
+    {
+        "titulo": "Santa Bárbara se despede do diácono permanente Carlos Alberto Vila - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU44MW9idkZWVHFsRGJveDhXQWxiZUJLODZSLWw3Ni1JeTBiYXhTd3puYmF0MlBYUFo4YVNUZ0dqLTBQMDRLME14YkZzcHJBRGF5M2prdWVCMnFHbVduSTB3ZmRxNHVURWlDZ25GUWVTNGpzeFBLUGJ3ZkFZeDlSeDVWdVpKMUlnWnJuZlBWSkhOOWdzdk1xeWVaS0pRSjNFdzBzaF9wZEgwU2J1aDdGRVJVSjRPMnhzaVJuYW9aazc2R2pDTUVzY0FMaThnX3p3TW9n?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786128360,
+        "data": "07/08/2026 18:46"
+    },
+    {
+        "titulo": "Projeto regulamenta emendas impositivas parlamentares no Regimento Interno - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWQtd3pXOVMxSFpqM1BDM1pzam54MnJtaGtFVndtcV9KQ3FTRG1SbHRrZGhvSS1vYk5xRkQxUGYwY21kMjJsWTcwSUxtZHY4emw5Yk5zalFCUmh5ckF1VjJMMUtQS3NjZWQ5Q294cVJjVWdmX0NxZ3p0c0tXdjN1NktZd1BMdjhPckRHQjFkSVY2UUxab1NXemdScVc4V3NyZGxUU0JOTE85ekJsU3hlcW91MTZFNWMzaERFWnZkWlBQTFFYRFdyblBEUWhnODZ1Z3plaTY0S0hwRHd6Rk1V?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786127580,
+        "data": "07/08/2026 18:33"
     },
     {
         "titulo": "Libertadores e Sula: ida das oitavas terá brasileiros da Copa no apito - UOL",
@@ -515,6 +569,15 @@
     {
         "titulo": "Grupo armado invade loja, tranca comerciante em cômodo e rouba mercadorias em Americana - G1",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWFNZQV9hMHhtdmpnbDNTeDBvdVRuRk9NNnkwaHlVMFlPaWctOEYwOEpUUHptVUJfQXI2N09COFBUUjZRX3JYeHdrcHdmQnhyVHRYZnBzNm4ydnA1T0o0X1gxQ3VMcE9NbEUtZTZHd1dCMjZRWGZkWlBsak9kY05yZXYzQ1Uwb2pyRVpqMlpFam95eVQ5bkhWNE04dVVTVFpRVjlKUXhadS1JOGdMU0dXZWtfdHVyOXBzdTFmeXZPbWxIUmZFQV9VOWY4NDIzR3FNX2lkeHdtQTE4cjEwMF9JYkdndENJZ9IB9AFBVV95cUxNejJUQXV6TTBvd1FucjBSX3NrQkRva0VUS3dyRGk0WXQ3cW1LYWt6ZTBfWldyWklPeVlXNXBCNUJBWUFHaWUxaG5lV1FvVS1JdTI0SjFpYW1zdVB5M2ZCXzJXREdfREZXRHl5Ni1WWERpaGZ5SU1yNG1OeVgzcDNyUVFrM0VfbHQ4VEVhaUMwYWx4bEVfVDBIQXExVmVSdFBrYy1JSnotY2VKWUdMQVprUGxrRU8xbFpuZlVGNzQ2bmw0bG1JemZ5SlVUSmxuelFmazhjdXo1MllyT2k0andEWG9pVVp3RXBLNGxkX3dvSHN5WEJH?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786116689,
+        "data": "07/08/2026 15:31"
+    },
+    {
+        "titulo": "Grupo armado invade loja, tranca comerciante em cômodo e rouba mercadorias em Americana - G1",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNejJUQXV6TTBvd1FucjBSX3NrQkRva0VUS3dyRGk0WXQ3cW1LYWt6ZTBfWldyWklPeVlXNXBCNUJBWUFHaWUxaG5lV1FvVS1JdTI0SjFpYW1zdVB5M2ZCXzJXREdfREZXRHl5Ni1WWERpaGZ5SU1yNG1OeVgzcDNyUVFrM0VfbHQ4VEVhaUMwYWx4bEVfVDBIQXExVmVSdFBrYy1JSnotY2VKWUdMQVprUGxrRU8xbFpuZlVGNzQ2bmw0bG1JemZ5SlVUSmxuelFmazhjdXo1MllyT2k0andEWG9pVVp3RXBLNGxkX3dvSHN5WEJH0gH0AUFVX3lxTE16MlRBdXpNMG93UW5yMFJfc2tCRG9rRVRLd3JEaTRZdDdxbUtha3plMF9aV3JaSU95WVc1cEI1QkFZQUdpZTFobmVXUW9VLUl1MjRKMWlhbXN1UHkzZkJfMldER19ERldEeXk2LVZYRGloZnlJTXI0bU55WDNwM3JRUWszRV9sdDhURWFpQzBhbHhsRV9UMEhBcTFWZVJ0UGtjLUlKei1jZUpZR0xBWmtQbGtFTzFsWm5mVUY3NDZubDRsbUl6ZnlKVVRKbG56UWZrOGN1ejUyWXJPaTRqd0RYb2lVWndFcEs0bGRfd29Ic3lYQkc?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784804634,
         "data": "23/07/2026 11:03"
-    },
-    {
-        "titulo": "Morador de Limeira tem WhatsApp clonado e criminosos tentam pedir dinheiro a contatos",
-        "link": "https://rapidonoar.com.br/morador-de-limeira-tem-whatsapp-clonado-e-criminosos-tentam-pedir-dinheiro-a-contatos/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/10/plantao-policial-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784803861,
-        "data": "23/07/2026 10:51"
-    },
-    {
-        "titulo": "Estádio de tradicional do interior de SP pode ir a leilão por dívida de IPTU - ge",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ1F3LVRmcFZxUDVSVFNrUW9VSTVCWlJTeU81QmxiTml0MU80YU9FVGtjZm1ndXBxMTVOU21PanJhRENjN3RVQjBmN0h4VWRJMHhaRzcxMEpPaVRXTnV5WXIySWtXUWthWGN4QmlNenVCNjlScXo1UGVsYTRrRVJtU21hUjllaE1LV1h5QjhvaEtlUkVJY3JXaGJwN1Z2Q3JQSXVXSThFTUlGRHJsMkZtRzdaVWp3Q3VoTnV0MTlwUUE2aGdUUm1BcWxkbVhZdzZqZUxjUVFkNkdXamwwcDRtS3UyeHVsMTZHdndmQ0xB0gH8AUFVX3lxTE9XUV9VeUE3LUgyektzOWwyOWxhZlRsTzBidWJiYmhpa3ltYTc5MmdYWVV4eklLTmNjbnlldDhHaFBCbVViczc2WG14bmo5aDR4T185ejY5al9LRDg5ZXFmNG0wX0hYbFhSUTVZRTItQW1qeXNzbXVmZ1J5RkJxM0k3ZWZFeWRIZWxIcTVrR29jMXhXZEZOMXFFZ0duSWlqb1pYMk96SzF3S3ItbHZwTVBNQ2xockhRVXFNeEMtWjBzQUU4Yk9RblpZOElCSHNUcTI5ZVU4YVJIQkZuMHR6Wkx2d3lpR1lCMzZJS0FFeWstcG5zZ3FEREhLaFdObw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784803707,
-        "data": "23/07/2026 10:48"
-    },
-    {
-        "titulo": "Tráfico e violência doméstica dão cadeia em Americana e Santa Bárbara",
-        "link": "https://novomomento.com.br/trafico-e-violencia-domestica-dao-cadeia-em-americana-e-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784803600,
-        "data": "23/07/2026 10:46"
-    },
-    {
-        "titulo": "A Era do Peso Perdido: por que emagrecer deixou de ser sinônimo de saúde",
-        "link": "https://novomomento.com.br/peso-perdido-emagrecer-sinonimo-saude/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784803408,
-        "data": "23/07/2026 10:43"
-    },
-    {
-        "titulo": "Apeoesp ingressa com ação judicial pela prorrogação do concurso e convocação de novos professores - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaUt5TUhVX3NTdXlnU0ZrTmdUYW1NOVZrOXNVN0xESlFKeEt5bU1LYWN4aV9ucXJuOFEwU3c1b0tLUjh6b2dYTUtSWWRTd28zUE1mRnNrUXNpampMbzBkclp4NzNJeDVaSU0ySlhMajY3VUc4U0l1bTVVU1pjczJkSVlkVV9GVlBBUi13OFo4cWw1UEVtRkZrT3RMR0JCVjJBT0Mwb3ZGNUhJa016bnhxdDZEZEVTUDY3N2RXblhzVWRxa2R4ZlBpMVFSUmFDNDVwX3JhaFJnQmY1bWozdVo1V05OQVFRdkd4YWJOOG1jbm5uSThYUFRsNDUydi1QUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784802960,
-        "data": "23/07/2026 10:36"
-    },
-    {
-        "titulo": "2 homens presos na região: um tentou sufocar esposa e outro quebrou casa",
-        "link": "https://novomomento.com.br/2-homens-presos-na-regiao-violencia-domestica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784801936,
-        "data": "23/07/2026 10:18"
-    },
-    {
-        "titulo": "Santa Bárbara continua &#8216;dando um trato&#8217; nas estradas rurais",
-        "link": "https://novomomento.com.br/santa-barbara-continua-dando-um-trato-nas-estradas-rurais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784801049,
-        "data": "23/07/2026 10:04"
     }
 ]
