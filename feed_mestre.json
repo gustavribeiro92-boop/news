@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Acidente entre duas motocicletas deixa dois feridos em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/08/08/acidente-entre-duas-motocicletas-deixa-dois-feridos-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1786233423,
+        "data": "08/08/2026 23:57"
+    },
+    {
+        "titulo": "Tornado causa diversos estragos em Piraí do Sul, no Estado do Paraná",
+        "link": "https://rapidonoar.com.br/tornado-causa-diversos-estragos-em-pirai-do-sul-no-estado-do-parana/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/tornado-em-pirai-do-sul-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786228640,
+        "data": "08/08/2026 22:37"
+    },
+    {
+        "titulo": "Faustão surpreende Programa do João na edição que celebra 1 ano",
+        "link": "https://novomomento.com.br/faustao-surpreende-programa-do-joao-celebra1ano/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786228189,
+        "data": "08/08/2026 22:29"
+    },
+    {
+        "titulo": "Mulher é presa pela GCM de Araras tentando aplicar golpe do ‘Pix agendado’",
+        "link": "https://rapidonoar.com.br/mulher-e-presa-pela-gcm-de-araras-tentando-aplicar-golpe-do-pix-agendado/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/gcm-de-araras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786226779,
+        "data": "08/08/2026 22:06"
+    },
+    {
+        "titulo": "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica",
+        "link": "https://sb24horas.com.br/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786225851,
+        "data": "08/08/2026 21:50"
+    },
+    {
+        "titulo": "Obituário: Confira os falecimentos ocorridos neste sábado, 8 de agosto, em Limeira e região",
+        "link": "https://rapidonoar.com.br/obituario-confira-os-falecimentos-ocorridos-neste-sabado-8-de-agosto-em-limeira-e-regiao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/07/luto-cemiterio-obituario-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786225614,
+        "data": "08/08/2026 21:46"
+    },
+    {
         "titulo": "Motoboy fica gravemente ferido em colisão com outra moto em Limeira",
         "link": "https://rapidonoar.com.br/motoboy-fica-gravemente-ferido-em-colisao-com-outra-moto-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/colisao-entre-motos-na-vila-sao-cristovao-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -178,6 +232,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1786203836,
         "data": "08/08/2026 15:43"
+    },
+    {
+        "titulo": "BAEP prende homem com 10 armas de fogo e 136 munições em Piracicaba - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVjZ3S3JHSUZiWnZ6QTc2LWVoUDJzOTNhZVpHdEFRbmdzZ1FyWHp2N0RJdFBwdDVZRUdBTG83SHpPSFJEQ1M1YTlrQmtJZjBCclRxcE1mZkI2OTdKZDVLNkhBWmY3M1UtbE8wcWFndUpBSDAyeXktV1hDNHRmRzkzSUt2akZ6aldRcmxfUGJWbmZJUTZQX0h6eE1aTkdKd3Fqdnpnb29vT1JQZzdHeUZfZWk5OG94VUlWS1BzOWpEMnoxcnI5aWZuNzV3WmM3bG1wV2I0eQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786203600,
+        "data": "08/08/2026 15:40"
     },
     {
         "titulo": "Sessão Pontos MIS exibe documentário nacional “À Margem do Concreto” no MAC Americana - Região Hoje",
@@ -637,6 +700,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1786172040,
         "data": "08/08/2026 06:54"
+    },
+    {
+        "titulo": "Bolsa americana vira refém da IA e agora há um risco que ameaça a economia global - Estadão",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZTRveC0zSnhrbUt6bHlzRHp4ZEUwenB2WHpXTEg5RkpKanVvT3NrOWtRRnBlcVBrZEhzWnpJMjMwZHlpME1hTFVpamNfUVhpeDFleGFxRE5CNkVSZ1d6ZVVUbHJYXzVjRkxtM3dEMmI0MWJ1YUstWFYxVUZPNndNeFU0ck5hWUtUVFNNRnVod3d4MGpoWE90VERoTFlINmdzT3FwNGRtR25IbGNiUVB4QW5lNE0xNUVQRFJUX3hpZHpndWlNRHI4MGh5T2lNSEE4MXBOLWc1MVBMZkNVWlZOdjJ3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786171203,
+        "data": "08/08/2026 06:40"
     },
     {
         "titulo": "Opinião | Vinhos uruguaios ganham menus harmonizados em restaurantes de SP, RJ e Florianópolis - estadao.com.br",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1784885745,
         "data": "24/07/2026 09:35"
-    },
-    {
-        "titulo": "Inter de Limeira apresenta o lateral-esquerdo Heitor Roca",
-        "link": "https://rapidonoar.com.br/inter-de-limeira-apresenta-o-lateral-esquerdo-heitor-roca/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/heitor-roca-4-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784885670,
-        "data": "24/07/2026 09:34"
-    },
-    {
-        "titulo": "Inter de Limeira venceu o Guarani cinco vezes no Brinco de Ouro",
-        "link": "https://rapidonoar.com.br/inter-de-limeira-venceu-o-guarani-cinco-vezes-no-brinco-de-ouro/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/brinco-1-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784884969,
-        "data": "24/07/2026 09:22"
-    },
-    {
-        "titulo": "Motorista é rendido por quadrilha armada, tem caminhão roubado e é abandonado em mata de Limeira",
-        "link": "https://rapidonoar.com.br/motorista-e-rendido-por-quadrilha-armada-tem-caminhao-roubado-e-e-abandonado-em-mata-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/08/sirene-policia.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784884599,
-        "data": "24/07/2026 09:16"
-    },
-    {
-        "titulo": "Lula prepara aumento do salário mínimo para R$ 2.020,00",
-        "link": "https://hjnews.com.br/lula-prepara-aumento-do-salario-minimo-para-r-2-02000/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784884355,
-        "data": "24/07/2026 09:12"
-    },
-    {
-        "titulo": "Zagueiro Eduardo Porto rescinde com a Inter de Limeira",
-        "link": "https://rapidonoar.com.br/zagueiro-eduardo-porto-rescinde-com-a-inter-de-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/eduardo-porto-9-1024x868.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784884013,
-        "data": "24/07/2026 09:06"
-    },
-    {
-        "titulo": "Independente faz jogo de vida ou morte hoje pelo Sub-20",
-        "link": "https://rapidonoar.com.br/independente-faz-jogo-de-vida-ou-morte-hoje-pelo-sub-20/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/caemerson-1024x835.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784883567,
-        "data": "24/07/2026 08:59"
-    },
-    {
-        "titulo": "Vacinação contra a gripe supera a marca de 30 mil doses aplicadas em Santa Bárbara",
-        "link": "https://hjnews.com.br/vacinacao-contra-a-gripe-supera-a-marca-de-30-mil-doses-aplicadas-em-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784882605,
-        "data": "24/07/2026 08:43"
-    },
-    {
-        "titulo": "Americana encerra Jogos Regionais na 3ª colocação entre 46 cidades",
-        "link": "https://hjnews.com.br/americana-encerra-jogos-regionais-na-3a-colocacao-entre-46-cidades/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1784881806,
-        "data": "24/07/2026 08:30"
     }
 ]
