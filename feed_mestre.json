@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Lula quer mostrar a Trump números de queda do desmatamento na Amazônia",
+        "link": "https://hjnews.com.br/lula-quer-mostrar-a-trump-numeros-de-queda-do-desmatamento-na-amazonia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1786258444,
+        "data": "09/08/2026 06:54"
+    },
+    {
+        "titulo": "Paulistanos enfrentam filas para tomar vacina contra sarampo",
+        "link": "https://hjnews.com.br/paulistanos-enfrentam-filas-para-tomar-vacina-contra-sarampo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1786258306,
+        "data": "09/08/2026 06:51"
+    },
+    {
         "titulo": "Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre",
         "link": "https://sb24horas.com.br/tenista-bia-haddad-anuncia-pausa-na-carreira-neste-segundo-semestre/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1717,6 +1735,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1786112373,
         "data": "07/08/2026 14:19"
+    },
+    {
+        "titulo": "Antena 10 FM - Antena 10 FM",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeC1YNEVNVmVRUWVva0UybFlfRnhiTGdRUWVTdXEwWUkyempsNkVkR3pDcEhob2hhWl9QUXMzZElrLU94bC1RcEUwOFY2a3hPX1k2b2Q4eTVFam1uS1hZMGZsT0VZN0dMVGVkWndkdENCLTJWZkN6S2ozUUVQYjZ6Z0IwYkZQY1hUUlpIamxNR2ZkNHVVTzhMQjhTaFlQdF9HV0NSeDNEdENQZktBX3lBa0dvbjExbUFBTExIT0JEa1hzMDVmVVgzbjlFM3RRQm9wdlUxQ2N2TmR0UllYb1dTX2QzSVZKbGNtWjM3ZjU3ZXFWUkZSWHdoUWVCQ2lydU9zOHhjOUJn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786112275,
+        "data": "07/08/2026 14:17"
     },
     {
         "titulo": "Polícia recupera caminhão furtado e prende dois em oficina de Americana - vtvnews.com.br",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1784891760,
         "data": "24/07/2026 11:16"
-    },
-    {
-        "titulo": "Homem é preso por tráfico de drogas após denúncia em Americana",
-        "link": "https://www.americanapost.com.br/homem-e-preso-por-trafico-de-drogas-apos-denuncia-em-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1784891201,
-        "data": "24/07/2026 11:06"
-    },
-    {
-        "titulo": "DJ mineiro consolida presença no circuito de luxo internacional",
-        "link": "https://sb24horas.com.br/dj-mineiro-consolida-presenca-no-circuito-de-luxo-internacional/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1784890970,
-        "data": "24/07/2026 11:02"
-    },
-    {
-        "titulo": "Mais de 3,2 mil eleitores se declaram analfabetos em Americana, Santa Bárbara e Nova Odessa",
-        "link": "https://www.americanapost.com.br/mais-de-32-mil-eleitores-se-declaram-analfabetos-em-americana-santa-barbara-e-nova-odessa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1784890537,
-        "data": "24/07/2026 10:55"
     }
 ]
