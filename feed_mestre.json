@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "PAT hoje com 150 vagas- destaque para vigilante e operador de tecelagem",
+        "link": "https://novomomento.com.br/pat-hoje-150-vaga-vigilante-operador-tecelagem/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786318778,
+        "data": "09/08/2026 23:39"
+    },
+    {
+        "titulo": "Homem que perseguia faxineiras da Rodoviária de Limeira é detido pela GCM",
+        "link": "https://rapidonoar.com.br/homem-que-perseguia-faxineiras-da-rodoviaria-de-limeira-e-detido-pela-gcm/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/perseguicao-rodoviaria-de-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786315685,
+        "data": "09/08/2026 22:48"
+    },
+    {
+        "titulo": "1a fase do plantio de ipês na Avenida Armando Sales em Americana",
+        "link": "https://novomomento.com.br/1a-fase-plantio-ipes-av-armando-sales-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786315425,
+        "data": "09/08/2026 22:43"
+    },
+    {
+        "titulo": "Obituário: Confira os falecimentos ocorridos neste domingo, 9 de agosto, em Limeira e região",
+        "link": "https://rapidonoar.com.br/obituario-confira-os-falecimentos-ocorridos-neste-domingo-9-de-agosto-em-limeira-e-regiao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/07/obituario-cemiterio-despedida-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786313170,
+        "data": "09/08/2026 22:06"
+    },
+    {
+        "titulo": "Condutor de Kadett fica ferido após colidir contra caminhão estacionado na Vila Rosana, em Limeira",
+        "link": "https://rapidonoar.com.br/condutor-de-kadett-fica-ferido-apos-colidir-contra-caminhao-estacionado-na-vila-rosana-em-limeira-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/colisao-de-kadett-em-caminhao-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786312149,
+        "data": "09/08/2026 21:49"
+    },
+    {
         "titulo": "Homem sofre para cardiorrespiratória e morre a caminho de hospital em Limeira",
         "link": "https://rapidonoar.com.br/homem-sofre-para-cardiorrespiratoria-e-morre-a-caminho-de-hospital-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/homem-morre-a-caminho-do-hospital-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -34,6 +79,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1786307896,
         "data": "09/08/2026 20:38"
+    },
+    {
+        "titulo": "Obra do DAE avança pela noite e Avenida Brasil segue interditada",
+        "link": "https://portaldeamericana.com/obra-do-dae-avanca-pela-noite-e-avenida-brasil-segue-interditada/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/IMG_2257.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1786303341,
+        "data": "09/08/2026 19:22"
     },
     {
         "titulo": "Fernando da Farmácia pede melhorias em playground de praça na Cidade Jardim",
@@ -124,6 +178,24 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1786290123,
         "data": "09/08/2026 15:42"
+    },
+    {
+        "titulo": "‘Vivemos uma cultura de distração’, diz Rebecca Goldstein em debate com Maria Homem - Estadão",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEhtcnUzYWctUlNjTkc2MElscXRlWVRHWFZZVTlHVU85Tm5YbllLWFpnZjd4am96Vlkta2Iza0FrcFpFT1MzeDIxY0Z1cE9wc2V2YmgzWUpfWjM5ZlpRNURJY3Q5WTdXMjMzZFRhS19jR0l4bGdNRkgyMlpQTHVOTHFLaEQwN3VNUXNyWk9pRnhCb2dTNTJpYlBIN2h5eXRza1BZMV8weU5Ha2RGc0Q2YlhvUFVsUVNETGxubjRMcTRoempPZHfSAcsBQVVfeXFMUDNxamw1QjFQd0Z4cldJcEV0VHNCaHdjdWtLbnVzNEFFa3FQSXRraFNrTFE5TG9pZkxaOTRGRGw5dTg0MGpfY3Z4dTdDWklfZlhpQzh1Rm80Sml6LTZSSEhvM29KdTN1MDBUME0xZDIzRnF4QUMtcEJPS3oxc2g0UXpvY3U5X05TVTJ5SjNiZkZ4UWhoTWJfSHlYN2hNdFVTS2s4UHdXMXFEWVZYbXduTURmU0tnN3Y1MGpuLTEtR0paQmV5bk5CanZFbm8?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786289595,
+        "data": "09/08/2026 15:33"
+    },
+    {
+        "titulo": "Tarcísio e Haddad se enfrentam neste domingo em primeiro debate pelo governo de SP",
+        "link": "https://portaldeamericana.com/tarcisio-e-haddad-se-enfrentam-neste-domingo-em-primeiro-debate-pelo-governo-de-sp/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/IMG_2244.png&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1786287036,
+        "data": "09/08/2026 14:50"
     },
     {
         "titulo": "ANEEL reconsidera decisão que restringia autoprodução para usinas de até 5 MW",
@@ -1001,6 +1073,15 @@
     {
         "titulo": "Tempestade com 30 mm/h e granizo põe Campinas em alerta amarelo até as 23h59 - O TEMPO",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGR4OWdmYWVqdlcyQnY3VGJ0NV9aVFBianVnMFNnV0NKTFRMelVZZXR3eHV5OVdteTRWX2w2bkxhY3pnNjgxR29kWDFGTjl5cXlfdnVkNXZ3NzJqQzlnR3JrcTNhajVKSkl0QWFJVFYxRWstSW8wUHlCU1ZGeXNuNW14NmR2VlRFdlV4dHQ0MlVsZHdSOUlDMXVzLWR3eHlrMXNwLXFzWkVTSVB6ZFBSMlluRlUyNFBB0gG-AUFVX3lxTE9GQ241SDZzZno0dXBBeWx6aVRCcDE5Y3YybjFnTjBJMC12SHA3UUFCd00tQUJPbmNvSEVMYW93cHlyTFZQcWNfd3B4TmtmQVhnV2xzZXJfQUw2cUhfMGJ4VjZOSkNfUHVEckVXYU5IUktESlJmbjNieVJweGFRejF5V0VWSDEyTHltNFNNTTE2RHFPWWZya1N0a2x2WHhtNThpNVRyLUx6Z1JCOS1OazF4MENPUDhWOTVpYVRXaWc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786191237,
+        "data": "08/08/2026 12:13"
+    },
+    {
+        "titulo": "Tempestade com 30 mm/h e granizo põe Campinas em alerta amarelo até as 23h59 - O TEMPO",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkNuNUg2c2Z6NHVwQXlsemlUQnAxOWN2Mm4xZ04wSTAtdkhwN1FBQndNLUFCT25jb0hFTGFvd3B5ckxWUHFjX3dweE5rZkFYZ1dsc2VyX0FMNnFIXzBieFY2TkpDX1B1RHJFV2FOSFJLREpSZm4zYnlScHhhUXoxeVdFVkgxMkx5bTRTTU0xNkRxT1lmcmtTdGtsdlh4bTU4aTVUci1MemdSQjktTmsxeDBDT1A4Vjk1aWFUV2ln0gG-AUFVX3lxTE9GQ241SDZzZno0dXBBeWx6aVRCcDE5Y3YybjFnTjBJMC12SHA3UUFCd00tQUJPbmNvSEVMYW93cHlyTFZQcWNfd3B4TmtmQVhnV2xzZXJfQUw2cUhfMGJ4VjZOSkNfUHVEckVXYU5IUktESlJmbjNieVJweGFRejF5V0VWSDEyTHltNFNNTTE2RHFPWWZya1N0a2x2WHhtNThpNVRyLUx6Z1JCOS1OazF4MENPUDhWOTVpYVRXaWc?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1784908288,
         "data": "24/07/2026 15:51"
-    },
-    {
-        "titulo": "Em SP, ex-secretário de Trump diz que tarifa ao Brasil tem interesse apenas comercial - InfoMoney",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXNubGtYNF9PYnVmSzlfQURqTVVRMXZQYjRMX3N1ZmswMG1aV0xwdE9jT1lNT3VFbjAzaGtybE9ZQU5JUHJCS1I5RUc0R0V6eFJIM0V1YmdINzBrckpROFJhVWhGTHRIT2FORUVyZ2JQMTh2OVVCbGVfVkFpVzFpaV85emJLNWpXNl9LNFFBLTdaSnhzV000ZmNiMTJERUkyV3hJRjA4SFlteGxVdXVFVE5rUG9fSGJEeFN2eVVUUzXSAcYBQVVfeXFMTmxlcW5wMFM4clZjdVlmb09oQTNuX3Y2VXI1VkxnQ1VjcjhOeEV5X0k3NkY3TGYtY0VENXp2R2JlVDVqd242U3d2Z2lJV1pmVTByZlltcHpEb2FMZEltTlhkanFmeUR0SHF6NmlqT3VMcF9OZFhPcHhDc0RaS3M4MVFrWlRwTnZYWDN1dWMwdHE4ZXJIXzAtbXVNRFVqVkNTTFBLNjQwbENBaHp1OUVQTFhMZy1XYmwyaWk5T2duZ3V4RmwyQll3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784908271,
-        "data": "24/07/2026 15:51"
-    },
-    {
-        "titulo": "Pais cobram retomada de projeto de voleibol suspenso após investigação sobre suposto desvio de verba em Limeira",
-        "link": "https://rapidonoar.com.br/pais-cobram-retomada-de-projeto-de-voleibol-suspenso-apos-investigacao-sobre-suposto-desvio-de-verba-em-limeira-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/volei-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784908099,
-        "data": "24/07/2026 15:48"
-    },
-    {
-        "titulo": "Inaugurada Área de Bem-Estar e Lazer &#8220;José Bellani&#8221;, no Jardim Dulce",
-        "link": "https://novomomento.com.br/inaugurada-area-de-bem-estar-e-lazer-jose-bellani-no-jardim-dulce/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784907834,
-        "data": "24/07/2026 15:43"
-    },
-    {
-        "titulo": "Polícia Civil de Americana incinera quase 2 toneladas de entorpecentes",
-        "link": "https://rapidonoar.com.br/policia-civil-de-americana-incinera-quase-2-toneladas-de-entorpecentes/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/incineracao-de-drogas-em-americana-02-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784907375,
-        "data": "24/07/2026 15:36"
-    },
-    {
-        "titulo": "Diogo Nogueira é a atração da 3ª Festa do Dia dos Pais de Hortolândia",
-        "link": "https://novomomento.com.br/diogo-nogueira-e-a-atracao-da-3a-festa-do-dia-dos-pais-de-hortolandia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784907323,
-        "data": "24/07/2026 15:35"
-    },
-    {
-        "titulo": "Limeira termina em 5º lugar nos Jogos Regionais de Itatiba",
-        "link": "https://rapidonoar.com.br/limeira-termina-em-5o-lugar-nos-jogos-regionais-de-itatiba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/tenis-de-mesa-ouro-2-1024x768.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1784906808,
-        "data": "24/07/2026 15:26"
-    },
-    {
-        "titulo": "Música inédita de Marília Mendonça é lançada",
-        "link": "https://novomomento.com.br/musica-inedita-marilia-mendonca-lancada/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784906714,
-        "data": "24/07/2026 15:25"
-    },
-    {
-        "titulo": "Polícia Civil incinera duas toneladas de drogas em Americana - band.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUE1VkZZS2o3RWNINmkxOXBTTHhTdDNqSm9Bb0R2X00yLXJ1MDF5RWNxRWVwMV9zLVBHQUgxaUdsQkM5QUdsRUR4ZFMzd3AwMmdSczU4TVBJSnVQQmZvSlplZVdKNXljcXVSZkxINkVzMnZsS1ByTzA4Si0wb2JLQUhGSi03SlpaZGVrd1ZVLUpxNk5QYXBDcjBhRU9uTlEtM2R3eWJhWDdHZUREYWdRdXphU2hUTEVBYVgtNzV4aVlkOTZGdkJNNmR6TnJSQ29V?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1784905541,
-        "data": "24/07/2026 15:05"
-    },
-    {
-        "titulo": "Corrente de oração por Kayan Nicolas hoje no HM Americana",
-        "link": "https://novomomento.com.br/corrente-oracao-kayan-nicolas-hoje-hm-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1784905187,
-        "data": "24/07/2026 14:59"
     }
 ]
