@@ -1,5 +1,41 @@
 [
     {
+        "titulo": "Tráfico com derrotas, seja em APP no Zabani ou no fim da noite no Romano",
+        "link": "https://novomomento.com.br/trafico-com-derrotas-seja-em-app-ou/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786513715,
+        "data": "12/08/2026 05:48"
+    },
+    {
+        "titulo": "Americana luta pra conter carrapato estrela na av Bandeirantes",
+        "link": "https://novomomento.com.br/americana-luta-carrapato-estrela-avbandeirantes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786513169,
+        "data": "12/08/2026 05:39"
+    },
+    {
+        "titulo": "Número de candidatos a deputado deve cair 48% em São Paulo",
+        "link": "https://novomomento.com.br/numero-candidatos-deputado-deve-cai45-sao-paulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786511034,
+        "data": "12/08/2026 05:03"
+    },
+    {
+        "titulo": "Exposição celebra 70 anos da Romi-Isetta",
+        "link": "https://novomomento.com.br/exposicao-celebra-70-anos-da-romi-isetta/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786509431,
+        "data": "12/08/2026 04:37"
+    },
+    {
         "titulo": "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
         "link": "https://sb24horas.com.br/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -189,6 +225,15 @@
         "data": "11/08/2026 21:30"
     },
     {
+        "titulo": "São Paulo segura o empate com o Bolívar na altitude pela Sul-Americana - Correio Braziliense",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUp0a2ZFZDdWOXBraFlaSVlkUDVSOHZZdW4tTFpvTE9wRVIzZkJmb0k1RTZxd21MWEFnVEhjSkhWckNOV0ZxdFFKTWNlUG1uaUcyN0ctWG5tWHBhS0lDN29BbmJ6NTJqQk10MmJpdmk2QjR3VkhJSmI3d1VJdjhUdG5tODRLdnNycUdhUkx5bDd4aEdJLUJBQmhrWTl5d3ZmS1BrTDFnUGZnU05VelZzeHBFSDRpemNGMjktak11Q1lKV3ZSTW1Nd0V0REN4VU03M3lkONIB2gFBVV95cUxNdFpqVVA5Z0tnU25uU0hRcnpUV3k0UUF4c0ZKZlBEODhsb2ZNU2lwbTF0M04zWE95SzFuUTdQMjdtN3MwcWpjT1VEODZuSXY4emwtYzdWcWxuUm9KeHpIX2pkZkVreUU1Zzh1QThDLUVaRlBOaTZoQmdadWJpdFFGdTVmdnRrbXlRS1YtcVpNNU9SNHhlV0pJeHNwVHpqLUxibDRBNGMxYUFwcmZfX3RrUWdDNGdaR00zZ3AxTWdTNl93Qkw5aHRvaGRtVWw3bXR2Ym5vZGFhdmIydw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786483800,
+        "data": "11/08/2026 21:30"
+    },
+    {
         "titulo": "Ônibus que buscaria o São Paulo na Bolívia é apreendido com mais de 86 kg de maconha",
         "link": "https://rapidonoar.com.br/onibus-que-buscaria-o-sao-paulo-na-bolivia-e-apreendido-com-mais-de-86-kg-de-maconha/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/maconha-onibus-droga-sao-paulo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -253,6 +298,15 @@
     },
     {
         "titulo": "Bolívar x São Paulo: veja escalações confirmadas e onde assistir - lance.com.br",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0QyV2wycTFfU3ZiTkx6NXU5aVBJSUNMX2ZjODVEM3JLdTAxbFdFMEVmWTAzMTdPVDQxbDNEaVJfd2k2eUFlc3BBMHBSN0xQUUMwX2hNRlZ4QktMVmhxNlRaMWo1c3hYcUpEX1hvWU9CYVFRQnJwNTVSeWFFbHRXS3NJdDJ6azB5M29xZkMyUHBMODRQeTlUR1NHWENJQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786480235,
+        "data": "11/08/2026 20:30"
+    },
+    {
+        "titulo": "Bolívar x São Paulo: veja escalações confirmadas e onde assistir - LANCE!",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0QyV2wycTFfU3ZiTkx6NXU5aVBJSUNMX2ZjODVEM3JLdTAxbFdFMEVmWTAzMTdPVDQxbDNEaVJfd2k2eUFlc3BBMHBSN0xQUUMwX2hNRlZ4QktMVmhxNlRaMWo1c3hYcUpEX1hvWU9CYVFRQnJwNTVSeWFFbHRXS3NJdDJ6azB5M29xZkMyUHBMODRQeTlUR1NHWENJQQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -594,6 +648,15 @@
         "data": "11/08/2026 16:26"
     },
     {
+        "titulo": "Americana fará diagnóstico da estrutura do turismo local em parceria com o Sebrae - americana.sp.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NTG1lb2diZzJ1a3lZNlFaQmo4emlxWWdvcGhGeFB3NlJtR2twLU53a2ZXRlpuR2JBejJzWUdWQklET0VrRG5UUjRKc3VmcmtldWI0Z0FxQXFJVWEwSFNhSTh4c2MyaUFMa0IzVmpuVE9vTm9oaXA2dV9R?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786465560,
+        "data": "11/08/2026 16:26"
+    },
+    {
         "titulo": "DISE prende dois e apreende drogas em operação em Americana - band.com.br",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQm1HSDltMy1LUzRtNlpsbW03ZnluQnBKVDQ2dGVQdGxKOXNxWWZGMWt3WklTOElVUXdqM1czcVEzYVoxY09DNDkzcEo3TDR2YXR3LThwWGhodkFJQ1N1cUNMMG4weUVfM2pab1ppS0YtS3J3Y0dKSXJuU1lMdFUzS0tIRFVkRFEyVXVKRnNPU2w1VWtxYUlvUVpKMHVtWUJua0FFdzdKTHFUN3BfbjdIa1p5UXBBek10MVcxUy0tMGdrYk5oVUhJemN6QzNQNlE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -633,6 +696,15 @@
         "titulo": "Americana recebe congresso de defesa pessoal para mulheres neste sábado - Prefeitura de Americana",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92aXhGZGlydWVIaUMwNnVoZTkwRHdDcks5VmoxM0xIRmlucnBjU3pHWnN3WHZYenIyemdlTUlnY25yY3RoR0t6ZlRnVjdzVlM2NGVqZnYzUnN5TGNwanJxZVV1ZDdpbERfYTBnd2RxLUxnYm0zd3JJd1dn?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786463100,
+        "data": "11/08/2026 15:45"
+    },
+    {
+        "titulo": "Americana recebe congresso de defesa pessoal para mulheres neste sábado - americana.sp.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92aXhGZGlydWVIaUMwNnVoZTkwRHdDcks5VmoxM0xIRmlucnBjU3pHWnN3WHZYenIyemdlTUlnY25yY3RoR0t6ZlRnVjdzVlM2NGVqZnYzUnN5TGNwanJxZVV1ZDdpbERfYTBnd2RxLUxnYm0zd3JJd1dn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1786463100,
@@ -1225,6 +1297,15 @@
     },
     {
         "titulo": "Prefeitura abre inscrições para o Encontro de Canto Coral de Americana - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41ajhLT3V2WDVsMEp3enJSVFNubWFaWmZQY1VvUnlsQ1ptcHpDLWV1dDRDbDV5dGc0RVhFRXNkV2tzOXpIaWFXMTRsbm1ZTGJvbnNrU2VqSnY1czZfYklyakFIY2Nxa2Y3ODNjNEI2ekE4LUJSSjBhUXBR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786436160,
+        "data": "11/08/2026 08:16"
+    },
+    {
+        "titulo": "Prefeitura abre inscrições para o Encontro de Canto Coral de Americana - americana.sp.gov.br",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41ajhLT3V2WDVsMEp3enJSVFNubWFaWmZQY1VvUnlsQ1ptcHpDLWV1dDRDbDV5dGc0RVhFRXNkV2tzOXpIaWFXMTRsbm1ZTGJvbnNrU2VqSnY1czZfYklyakFIY2Nxa2Y3ODNjNEI2ekE4LUJSSjBhUXBR?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "portal",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785252600,
         "data": "28/07/2026 15:30"
-    },
-    {
-        "titulo": "Onde vai passar Santos x Universidad Central pela Copa Sul-Americana? Como assistir - bol.uol.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzU5Qjd6ODBUMUtka2N0SXJ3dUtYaFR0dldHd3JqT1FWN2oydWhCblFHMkhWNlhCQzBXaXZTcDhXamMtSnhFWkthVTVGRWMxOW9pSElMNkZJdENRVzVXcnY1d1VXYi1IeGN6aTBCNW4wYkwyWWgwdUE5N1Y1TkpUNFFsN2QzUW5IdTFKdnRiV25JWlF3eHNORTluVnYtZUpkb1BOeW9iYVJDZ3J4ZFFES3Vwd0R5TW81UmUwUGhxMndHS0k3OW1abnFwTTRDLVp0cF9uaC1Kc3DSAdwBQVVfeXFMUFVpYUhCQmNtdTdKTzJVSjJPME95U0FHYS1IcXFwVlRDTkt2aVo4R3ZFSmNyYmxRUUtDVmdyZWxhS0tJQ0pzNFVNUUlDS2tQeVRvOGFwSDB2OHBUN0E2SGszWHVQbE5vS1V5OEt3dTI1MVpMNERaakF6aFM1QTB2LXVhUl96cHU5Q1VSM1ItM2otTGloUGxHdGY1X0FKUC01azRVcGJ2aThlbXhfb1FnQzhHeGRIcXVNblpkMmMzSlU1aENvU1VOZ0dJZW9SRHNnSHM4VFdwb1FNcTZKXw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785252600,
-        "data": "28/07/2026 15:30"
-    },
-    {
-        "titulo": "Gol de Cabo Verde contra a Argentina é o mais bonito da Copa",
-        "link": "https://rapidonoar.com.br/gol-de-cabo-verde-contra-a-argentina-e-o-mais-bonito-da-copa/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/cabral-1024x672.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785251557,
-        "data": "28/07/2026 15:12"
-    },
-    {
-        "titulo": "Tivoli será palco de concurso de Cosplay da Studio Ludco",
-        "link": "https://sb24horas.com.br/tivoli-sera-palco-de-concurso-de-cosplay-da-studio-ludco/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785251411,
-        "data": "28/07/2026 15:10"
-    },
-    {
-        "titulo": "Técnico do tetra, Carlos Alberto Parreira deixa a UTI",
-        "link": "https://rapidonoar.com.br/tecnico-do-tetra-carlos-alberto-parreira-deixa-a-uti/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/parreira-1-1024x679.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785251107,
-        "data": "28/07/2026 15:05"
-    },
-    {
-        "titulo": "Candidatura de Felipe Sanches ganha força em alinhamento de trabalho com prefeito, vereadores e suplentes",
-        "link": "https://sb24horas.com.br/candidatura-de-felipe-sanches-ganha-forca-em-alinhamento-de-trabalho-com-prefeito-vereadores-e-suplentes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785250891,
-        "data": "28/07/2026 15:01"
-    },
-    {
-        "titulo": "Parque da Rua do Porto ganha novo cercamento; instalação teve início nesta semana",
-        "link": "https://difusorapiracicaba.com.br/parque-da-rua-do-porto-ganha-novo-cercamento-instalacao-teve-inicio-nesta-semana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1785250800,
-        "data": "28/07/2026 15:00"
-    },
-    {
-        "titulo": "Prefeito Rafael Piovezan declara apoio a Felipe Sanches e Franco Sardelli durante encontro com lideranças em Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/prefeito-rafael-piovezan-declara-apoio-a-felipe-sanches-e-franco-sardelli-durante-encontro-com-liderancas-em-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785250650,
-        "data": "28/07/2026 14:57"
-    },
-    {
-        "titulo": "E.E Professora Leontina Silva Busch recebe formação do Projeto Escola Antirracista para o segundo semestre",
-        "link": "https://noticiadelimeira.com.br/2026/07/28/e-e-professora-leontina-silva-busch-recebe-formacao-do-projeto-escola-antirracista-para-o-segundo-semestre/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1785250528,
-        "data": "28/07/2026 14:55"
-    },
-    {
-        "titulo": "Mostra de Teatro é aberta e segue com programação gratuita até agosto, em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/07/28/mostra-de-teatro-e-aberta-e-segue-com-programacao-gratuita-ate-agosto-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1785249948,
-        "data": "28/07/2026 14:45"
     }
 ]
