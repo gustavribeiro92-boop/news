@@ -1,5 +1,140 @@
 [
     {
+        "titulo": "Corrida de Kart realizada em Limeira mobilizará pilotos de toda a região",
+        "link": "https://rapidonoar.com.br/corrida-de-kart-realizada-em-limeira-mobilizara-pilotos-de-toda-a-regiao-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/piloto-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786734017,
+        "data": "14/08/2026 19:00"
+    },
+    {
+        "titulo": "ACIL realiza sorteio do Dia dos Pais e distribui R$ 10 mil em vales-compra aos consumidores",
+        "link": "https://rapidonoar.com.br/acil-realiza-sorteio-do-dia-dos-pais-e-distribui-r-10-mil-em-vales-compra-aos-consumidores-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/1-acil-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786733080,
+        "data": "14/08/2026 18:44"
+    },
+    {
+        "titulo": "Onda de calor pode elevar temperaturas em até 7°C e aumenta risco de queimadas em Limeira",
+        "link": "https://rapidonoar.com.br/onda-de-calor-pode-elevar-temperaturas-em-ate-7c-e-aumenta-risco-de-queimadas-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/fogo-incendio-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1786731804,
+        "data": "14/08/2026 18:23"
+    },
+    {
+        "titulo": "Santa Bárbara d’Oeste amplia descarte correto de eletroeletrônicos com nove pontos de coleta",
+        "link": "https://sb24horas.com.br/santa-barbara-doeste-amplia-descarte-correto-de-eletroeletronicos-com-nove-pontos-de-coleta/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786731531,
+        "data": "14/08/2026 18:18"
+    },
+    {
+        "titulo": "De Charlie Brown Jr. a AC/DC: Palco Água reúne grandes tributos no Santa Bárbara Rock Fest 2026; conheça as bandas",
+        "link": "https://sb24horas.com.br/de-charlie-brown-jr-a-ac-dc-palco-agua-reune-grandes-tributos-no-santa-barbara-rock-fest-2026-conheca-as-bandas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786731400,
+        "data": "14/08/2026 18:16"
+    },
+    {
+        "titulo": "Programação especial do Agosto Dourado segue na Praça Central",
+        "link": "https://sb24horas.com.br/programacao-especial-do-agosto-dourado-segue-na-praca-central/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786731093,
+        "data": "14/08/2026 18:11"
+    },
+    {
+        "titulo": "Café da Educação reúne profissionais e destaca avanços da rede municipal de Santa Bárbara",
+        "link": "https://sb24horas.com.br/cafe-da-educacao-reune-profissionais-e-destaca-avancos-da-rede-municipal-de-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786731014,
+        "data": "14/08/2026 18:10"
+    },
+    {
+        "titulo": "Novo espaço do Programa Mamãe Nenê avança",
+        "link": "https://novomomento.com.br/novo-espaco-do-programa-mamae-nene-avanca/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1786730897,
+        "data": "14/08/2026 18:08"
+    },
+    {
+        "titulo": "Americana Shopping transforma a Praça de Alimentação em ponto de encontro para a Semana de Boteco com estacionamento grátis durante o período do evento - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTlRPdmhyUEhTTTQzRE1WZDMyV0pITnBXTi1RcFFVUklMdU5CWGZLYTIzWmZfLUlMVkpGNzNLWUVRdi1TNnVVdU1ydTU5eFk5Um5WR2VkelRCaTFRQW9rM3pXaGtITU5rSGJzdzdVTDRPbE51UGVVRkFPSmItenV5NjhCeVV5WHRwQVZCQU5YTzdZY0RVbjl3NnhsWDVYS1A3TFpJMmd4T3BhMGx5dHdRcEVQaTZMT2Z0d1hqY2FXbHgtZ0NVTWxrT2J0cENjOVlRTUxNODhpS0M1NmdjTHk1UHNTRnRiZVctZTBuMFFiTl9PbW81S3JhQTE1ZENub0ZJMnpiUDBUZll6aEFxUlpOcjdJdk1iSkY4RTlKS0NVMjFkeTh6NWtRSmNTZ3FqMGlXaFVLUzlUdDNFM0swSW56MFg4eFg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786730880,
+        "data": "14/08/2026 18:08"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara promove formatura de 52 estudantes da Univesp",
+        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-promove-formatura-de-52-estudantes-da-univesp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786730786,
+        "data": "14/08/2026 18:06"
+    },
+    {
+        "titulo": "Durigan rebate críticas de inércia sobre crise do BRB",
+        "link": "https://sb24horas.com.br/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786730704,
+        "data": "14/08/2026 18:05"
+    },
+    {
+        "titulo": "Garage Bomb leva rock nacional ao palco do Bem-vindo ao Engenho",
+        "link": "https://difusorapiracicaba.com.br/garage-bomb-leva-rock-nacional-ao-palco-do-bem-vindo-ao-engenho/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1786730400,
+        "data": "14/08/2026 18:00"
+    },
+    {
+        "titulo": "DAE remove grande volume de gordura da rede de esgoto no Jardim Europa",
+        "link": "https://sb24horas.com.br/dae-remove-grande-volume-de-gordura-da-rede-de-esgoto-no-jardim-europa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786730293,
+        "data": "14/08/2026 17:58"
+    },
+    {
+        "titulo": "Eleições 2026: DivulgaCandContas mostra dados sobre candidaturas e gastos de campanha",
+        "link": "https://sb24horas.com.br/eleicoes-2026-divulgacandcontas-mostra-dados-sobre-candidaturas-e-gastos-de-campanha/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1786729741,
+        "data": "14/08/2026 17:49"
+    },
+    {
+        "titulo": "Igreja Nossa Senhora da Assunção celebra 100 anos de história em Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/igreja-nossa-senhora-da-assuncao-celebra-100-anos-de-historia-em-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1786728600,
+        "data": "14/08/2026 17:30"
+    },
+    {
         "titulo": "Homem acusado de abusar de jovem com necessidades especiais é preso pela PM em Piracicaba",
         "link": "https://rapidonoar.com.br/homem-acusado-de-abusar-de-jovem-com-necessidades-especiais-e-preso-pela-pm-em-piracicaba/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/abuso-contra-jovem-com-necessidades-especiais-piraiccaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -918,6 +1053,15 @@
         "data": "13/08/2026 22:09"
     },
     {
+        "titulo": "Santos 2 x 1 Macará: assista aos melhores momentos - GE",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFNNdDdBbU1rRUdZaEV6Q2tOZzNPRFFjQnZ0OEJ1dUhmdUMzeWJyTE4tS1JuZ2huR2ZvX0Y2VTdnMG1HQ2N2bHRubFNhcW01MUlPSk81VzFOMmFfci1OZ1Jva0tDaG1pLWI3MkxhR1oxMW5kR0JPQmJTbTNUZUtUSVZueWV2N3RFUU1SZWxhR0ctTXpiLVk2SzFTbWZtVkh4eG13d1gxYlJCMEJyTHUtN1c1Ulh2RGY4TGliQWxRanhnZjlBV0dfYWFtLWIzZjZF0gHfAUFVX3lxTE5HNEFqOWhZZVBRUk1jdmU5cVlrOFliVTJKSzJYb3dNUE1DVTNTQkhROVBsSUh5V0JOdkZmeG93dWtoTWdoUzh3S0ZHeTN1bW45ak1JVUVQWU9pa1RJX1BEUFBOOXRRRHFOS3lGcHBBRXFpRVZGRHA4UUMwRzBpbkZQcFNZNGJyME9QRkNrSHBaMzVkTE5wdEpQQWFqUElWQmxpUV9xcjVkNWtyWmtkRktyZEEyYjUyQndEVUxHYjNjZG1RMlZiVnJIV21CWXNiY1B0NW5SbmRxRU1NYmZZZEU?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786658957,
+        "data": "13/08/2026 22:09"
+    },
+    {
         "titulo": "Elano reúne estrelas do futebol em jogo beneficente no Brinco de Ouro, em Campinas",
         "link": "https://rapidonoar.com.br/elano-reune-estrelas-do-futebol-em-jogo-beneficente-no-brinco-de-ouro-em-campinas/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/elano-futebol-brinco-de-ouro-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -1647,6 +1791,15 @@
         "data": "13/08/2026 11:52"
     },
     {
+        "titulo": "Polícia Militar prende três procurados pela justiça na região do 19º Batalhão - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRmZDUGZnVXJyS2ttM1F0NVROczlrQ0FkVWVjd2tfc0d3Wmd5YzFFRmxrUmFmcXhKek03X0NlOHJ0VlZXTC0xVHpsLURCSDE5Z1NHVmlkWVVsVEM0UENNQkVDbkxDemNVRGVURnZoR2dwNkw3LVUxbXA0d01vLTdsdjE0a3VmWE84blFvWEdnV0RGRzUyZUN5WUpaeEVlQVltOE04QVBGdG9WQU8yVjBWdUE0N2NJX1dtWDVwNFJsdHVsVTA0MGVpQjU5eDlFYzc0WjB4MkRwejlheWY1Xzh1TGxPMTRyZlE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786621920,
+        "data": "13/08/2026 11:52"
+    },
+    {
         "titulo": "Suzano reporta EBITDA ajustado de R$4,7 bilhões no segundo trimestre de 2026",
         "link": "https://sb24horas.com.br/suzano-reporta-ebitda-ajustado-de-r47-bilhoes-no-segundo-trimestre-de-2026/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -2077,6 +2230,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1786599217,
         "data": "13/08/2026 05:33"
+    },
+    {
+        "titulo": "Santos x Macará (EQU): onde assistir, horário e escalação da Sul-Americana - Olhar Digital",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTN5OTc3UVE4RnpBcUE4SE5TSHB6akZtREZPSTlNV01qbTBFeTQ3ZGhGd3JkT0hOMHNNd3ZkbDQ0b3BNM3YwLWh0V3N0RlFJMmt5NzFBaF9xTU1WWnV3MDlDYlg1SERUbzB5VVFxNXltSDJGdUhRZjFEWVlsOEVjUW00b1Y3LTlWMmt4ajNnS01manNMTjV0YmxIMVNrY0c0eVphcTYtZzZpbzY5STlVWmxNcUU5ZHIwRWZhUlhrcFVDc3hTSTVhMTVJblROdkt5?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786599000,
+        "data": "13/08/2026 05:30"
     },
     {
         "titulo": "Básico Malhas anuncia fim de atividades e liquida estoque em Americana",
@@ -17836,167 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1785503399,
         "data": "31/07/2026 13:09"
-    },
-    {
-        "titulo": "Nina Neder y Los Peregrinos percorrem a música latino-americana em ‘Boleros para una Primavera’ - cartacampinas.com.br",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdURYU0FEMlZQTFBuSTBBYVdCV2pobzVxRGVGM1J1X2xwVFczekk2VnNRb0hiQkxRSkh1dXVEUGRXZTJ0bzVEZEdacVgwMm5tZUtDZHdTU0MteG83WTlEZ1JxcnZoYlJuTlBpbzA0eDl1dUVybjZoSjZKT0theU1NOEJhQ1ZfdTk0S0tJa1d4ZmpuVlA3Wk1UY3Mwb2dXMGRSUzNyNXFhT2w3cEVUdldfNUpLVHF3by16N2ZUNUM1SHB6cEFiWm1tR1JvVjnSAdIBQVVfeXFMTUhXZGdtVGJkcWxkMDBEUDk1TFNsaW8tS3hCS1dkbklTclk5RTFOd0tkVElGeDhIdTdOMnBsalZYRFREN1NMQ3ZRMWV0WXh4YkZoMXVnMVpZQVRlRGxBZXJNZWRxTjA2SGNHbWg4OVFiX1RNbmY3NjA5SnNOZ2tnNS15SEZMTDdPTHZCb2REX01OcGpib0Foc0d1a2NqSzItZlAtT0JWOTVOLW5kRWxxRzRUa1VZU1dvOTRSUkdxeTlwYlVzeU1iY0ZISjZ3WFRxck5R?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785503186,
-        "data": "31/07/2026 13:06"
-    },
-    {
-        "titulo": "Nina Neder y Los Peregrinos percorrem a música latino-americana em ‘Boleros para una Primavera’ - Carta Campinas",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdURYU0FEMlZQTFBuSTBBYVdCV2pobzVxRGVGM1J1X2xwVFczekk2VnNRb0hiQkxRSkh1dXVEUGRXZTJ0bzVEZEdacVgwMm5tZUtDZHdTU0MteG83WTlEZ1JxcnZoYlJuTlBpbzA0eDl1dUVybjZoSjZKT0theU1NOEJhQ1ZfdTk0S0tJa1d4ZmpuVlA3Wk1UY3Mwb2dXMGRSUzNyNXFhT2w3cEVUdldfNUpLVHF3by16N2ZUNUM1SHB6cEFiWm1tR1JvVjnSAdIBQVVfeXFMTUhXZGdtVGJkcWxkMDBEUDk1TFNsaW8tS3hCS1dkbklTclk5RTFOd0tkVElGeDhIdTdOMnBsalZYRFREN1NMQ3ZRMWV0WXh4YkZoMXVnMVpZQVRlRGxBZXJNZWRxTjA2SGNHbWg4OVFiX1RNbmY3NjA5SnNOZ2tnNS15SEZMTDdPTHZCb2REX01OcGpib0Foc0d1a2NqSzItZlAtT0JWOTVOLW5kRWxxRzRUa1VZU1dvOTRSUkdxeTlwYlVzeU1iY0ZISjZ3WFRxck5R?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785503186,
-        "data": "31/07/2026 13:06"
-    },
-    {
-        "titulo": "Prefeitura prepara programação especial para celebrar os 259 anos de Piracicaba",
-        "link": "https://difusorapiracicaba.com.br/prefeitura-prepara-programacao-especial-para-celebrar-os-259-anos-de-piracicaba/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1785502800,
-        "data": "31/07/2026 13:00"
-    },
-    {
-        "titulo": "‘Pai que acompanha cada passo’: Tivoli lança campanha do Dia dos Pais presenteando clientes com brinde especial",
-        "link": "https://sb24horas.com.br/pai-que-acompanha-cada-passo-tivoli-lanca-campanha-do-dia-dos-pais-presenteando-clientes-com-brinde-especial/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785502162,
-        "data": "31/07/2026 12:49"
-    },
-    {
-        "titulo": "Festival de cultura paulista em Americana tem shows gratuitos de Renato Teixeira, Sami Rico e mais - irecelider.com.br",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbkN1eTBITWw5Wk9ucV9tVGw4T3JJZkxYYnBaT2UzUXRZNTluVXVMZ0NkLVdmV01lbmp4aFYzVTFtNEt1dTVYNjg5TmoyaVI3ZjhkbXhOZW92OFMzblVXX1RiQlhBRmlqQWFtYXRyb0xiZ0puTTZGVWs5WGZHWi1pRFJvc0FaNVItOWFLc1Nuc21NS0lQa2xXcm8zT2p3aUdzVkVRLTRNNGNkRTBHNi1SbHIyYmxqSmw1YlJVVHBmSkJpaGd4MlUyQk16T2pBZThScF9LX25yMlNxeXBzaG5jbzFENzJhSnJxb1RIb2hoOXNlODdmZkw3Q0l0bzdTa3NERFNYQjJTeTNKbjFO0gGSAkFVX3lxTE5TbDJiSU1XVnk3R0EwSm5IVnZnSHQxbUc2aHZwSndXMzVYU2dLODFMOExKbm1BcFRGU2FmT3VEUXpfbVpHWC1hMXJKS1hnemE1RTh4V3lVMmEzb19LTTQzQ0RnSlZJXzM4MGdlZGl2Q2dNdURPRm9MeFQ4OUtUN0g4U09zMnVnN0JhOXZsa2hFandMVVNTb3NNOHVUc2p3T0FnSElOLTZ6anBjalpCTk1yWWoyeTBTOGRYNWwyUmhTbEc1MFpRYzRvVndhQy1pVm9hTDR4aWhNVFRxclU3a2hfLUdKZVdMa0lQMmdXZTl5cG9DNmZfb3psTFhaU1BYRWw3Y2UzYUU4aFdka2pRRXVZMUE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785502028,
-        "data": "31/07/2026 12:47"
-    },
-    {
-        "titulo": "Festival de cultura paulista em Americana tem shows gratuitos de Renato Teixeira, Sami Rico e mais - Grupo Jota Sidney",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbkN1eTBITWw5Wk9ucV9tVGw4T3JJZkxYYnBaT2UzUXRZNTluVXVMZ0NkLVdmV01lbmp4aFYzVTFtNEt1dTVYNjg5TmoyaVI3ZjhkbXhOZW92OFMzblVXX1RiQlhBRmlqQWFtYXRyb0xiZ0puTTZGVWs5WGZHWi1pRFJvc0FaNVItOWFLc1Nuc21NS0lQa2xXcm8zT2p3aUdzVkVRLTRNNGNkRTBHNi1SbHIyYmxqSmw1YlJVVHBmSkJpaGd4MlUyQk16T2pBZThScF9LX25yMlNxeXBzaG5jbzFENzJhSnJxb1RIb2hoOXNlODdmZkw3Q0l0bzdTa3NERFNYQjJTeTNKbjFO0gGSAkFVX3lxTE5TbDJiSU1XVnk3R0EwSm5IVnZnSHQxbUc2aHZwSndXMzVYU2dLODFMOExKbm1BcFRGU2FmT3VEUXpfbVpHWC1hMXJKS1hnemE1RTh4V3lVMmEzb19LTTQzQ0RnSlZJXzM4MGdlZGl2Q2dNdURPRm9MeFQ4OUtUN0g4U09zMnVnN0JhOXZsa2hFandMVVNTb3NNOHVUc2p3T0FnSElOLTZ6anBjalpCTk1yWWoyeTBTOGRYNWwyUmhTbEc1MFpRYzRvVndhQy1pVm9hTDR4aWhNVFRxclU3a2hfLUdKZVdMa0lQMmdXZTl5cG9DNmZfb3psTFhaU1BYRWw3Y2UzYUU4aFdka2pRRXVZMUE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785502028,
-        "data": "31/07/2026 12:47"
-    },
-    {
-        "titulo": "Sumaré tem saldo de 2.902 empregos no 1º semestre: 2ª na RMC e 13ª no Estado",
-        "link": "https://novomomento.com.br/sumare-saldo-2902-empregos-1o-sem-2rmc-13estado/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785501200,
-        "data": "31/07/2026 12:33"
-    },
-    {
-        "titulo": "Festival de cultura paulista em Americana tem shows gratuitos de Renato Teixeira, Sami Rico e mais - G1",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHREZVNPVkpRRngxZG9zQmVoMTVGVTNIZUVIeUJndUNtVEVMNTZPZTZOQ29XOUlWZ2ZpSWNRWENQcF9aYmJDbk5TbkFZejdNbDNzUkh3d2NWRjdmellENTRNbGpScENRS1BwU1o3VlIwS2trdi1KWkFRbjVHOUt6XzVFWEpWVjZsYUV4SFFJeGdEaHM4RHlYVXBIUUd3WmRXVE1mN3U5bkJEaXJHYmlUOWgwY1N1SnVDbXlISkQtdkdxalRnSTlwVVllSnZhLTk2Q2ZrU25WR0w4R0syR3JkM0dZcDZXRTE4VVBtMTJsT29NVFMwdXFWQ25uY0xwdm_SAY4CQVVfeXFMTjV1Ri1LbzZLa1ozaWZaeFNYR3ZOczYzOVI3SlFncVRHRGppZENfVzdJdXZjZzlyVTlBVlo2VHNnaTVBREZBTTNEYVBPam1JQlczdlc1U19LT2ZqUGZiRm1DSTJkcDJmdnEwOFF1R3ZQOTVheV9oUHZyWXdkcnM3NjlTNktUZFNyYVZiS3ZRWlh4RWlVT0dIQU92TDdCa3k1TjFkNlNnNWxhckc5OE9SWldxWjRQWTFhMktuVjlMM1c5dkpnZXRIUWdKWWRNU3hsS1FoVVBuZDVJUEdRQjcwZ0ZFY080cWNIT093cXhiMFU0XzFnS3dzUlNOWGpQTkNCUzFpOXNiXzRQZWNSWXdR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785501157,
-        "data": "31/07/2026 12:32"
-    },
-    {
-        "titulo": "Festival de cultura paulista em Americana tem shows gratuitos de Renato Teixeira, Sami Rico e mais - g1.globo.com",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHREZVNPVkpRRngxZG9zQmVoMTVGVTNIZUVIeUJndUNtVEVMNTZPZTZOQ29XOUlWZ2ZpSWNRWENQcF9aYmJDbk5TbkFZejdNbDNzUkh3d2NWRjdmellENTRNbGpScENRS1BwU1o3VlIwS2trdi1KWkFRbjVHOUt6XzVFWEpWVjZsYUV4SFFJeGdEaHM4RHlYVXBIUUd3WmRXVE1mN3U5bkJEaXJHYmlUOWgwY1N1SnVDbXlISkQtdkdxalRnSTlwVVllSnZhLTk2Q2ZrU25WR0w4R0syR3JkM0dZcDZXRTE4VVBtMTJsT29NVFMwdXFWQ25uY0xwdm_SAY4CQVVfeXFMTjV1Ri1LbzZLa1ozaWZaeFNYR3ZOczYzOVI3SlFncVRHRGppZENfVzdJdXZjZzlyVTlBVlo2VHNnaTVBREZBTTNEYVBPam1JQlczdlc1U19LT2ZqUGZiRm1DSTJkcDJmdnEwOFF1R3ZQOTVheV9oUHZyWXdkcnM3NjlTNktUZFNyYVZiS3ZRWlh4RWlVT0dIQU92TDdCa3k1TjFkNlNnNWxhckc5OE9SWldxWjRQWTFhMktuVjlMM1c5dkpnZXRIUWdKWWRNU3hsS1FoVVBuZDVJUEdRQjcwZ0ZFY080cWNIT093cXhiMFU0XzFnS3dzUlNOWGpQTkNCUzFpOXNiXzRQZWNSWXdR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785501157,
-        "data": "31/07/2026 12:32"
-    },
-    {
-        "titulo": "Copa Sul-Americana: São Paulo vai a Bolívia, mira premiação e conhece caminho até o título - Blog São Paulo Sempre | Daniel Perrone",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmZUNlhaMEF5QW4tMTZyRmoyWFlXSzN1bm1aM2lBdTBWRldGQ3lSblFzeExKX19VcF9Hbm1WQXFwV3lxZXZyVURkQmJ3RVV2NFBhWGJkRWp5eHN0dTRKV243YlltMkRXX2YxQ2RiWGtkdE9tS0Q5NDYzLThaNEZjS0Jsem9kM1YyMTZVdHM3eF9kdVFBOTF6R3JvNlIxSnc1NmZDY2g1X1ZaT0JZYU5GSkkyUGhZRWdPVlprTEItd2FzWVk4azFSb3NB?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785500719,
-        "data": "31/07/2026 12:25"
-    },
-    {
-        "titulo": "Mulher é esfaqueada no peito durante briga com companheiro em Piracicaba; suspeito fugiu",
-        "link": "https://rapidonoar.com.br/mulher-e-esfaqueada-no-peito-durante-briga-com-companheiro-em-piracicaba-suspeito-fugiu/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/tentativa-de-feminicidio-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785500536,
-        "data": "31/07/2026 12:22"
-    },
-    {
-        "titulo": "Americana realiza ação de multivacinação em nove unidades de saúde no dia 22 de agosto",
-        "link": "https://www.americanapost.com.br/americana-realiza-acao-de-multivacinacao-em-nove-unidades-de-saude-no-dia-22-de-agosto/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1785499679,
-        "data": "31/07/2026 12:07"
-    },
-    {
-        "titulo": "Melhor Idade celebra Festa Julina com música, dança e feijoada em Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/melhor-idade-celebra-festa-julina-com-musica-danca-e-feijoada-em-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785499604,
-        "data": "31/07/2026 12:06"
-    },
-    {
-        "titulo": "DAE de Santa Bárbara e Assemae participam de oficina da Funasa sobre Planos de Segurança da Água",
-        "link": "https://sb24horas.com.br/dae-de-santa-barbara-e-assemae-participam-de-oficina-da-funasa-sobre-planos-de-seguranca-da-agua/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785499294,
-        "data": "31/07/2026 12:01"
-    },
-    {
-        "titulo": "“Homem-Aranha: Um Novo Dia” estreia quebrando recordes e leva mais de 1 milhão de pessoas aos cinemas",
-        "link": "https://difusorapiracicaba.com.br/homem-aranha-um-novo-dia-estreia-quebrando-recordes-e-leva-mais-de-1-milhao-de-pessoas-aos-cinemas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1785499200,
-        "data": "31/07/2026 12:00"
-    },
-    {
-        "titulo": "Circuito Hip Hop recebe rapper Rincon Sapiência no próximo domingo (2)",
-        "link": "https://sb24horas.com.br/circuito-hip-hop-recebe-rapper-rincon-sapiencia-no-proximo-domingo-2/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785498819,
-        "data": "31/07/2026 11:53"
-    },
-    {
-        "titulo": "Americana recebe Feirão Casa Paulista neste sábado e domingo",
-        "link": "https://novomomento.com.br/americana-recebe-feirao-casa-sab-dom/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785498518,
-        "data": "31/07/2026 11:48"
-    },
-    {
-        "titulo": "Americana recebe Feirão Casa Paulista neste sábado e domingo - Novo Momento",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93eWZJX2RsLVBkVERYZTdZZ0R6Wnd3bGRHc3B4T1dnRjB1VktsbFpnMUNrcmZRQUNyT2s4Mmo2dkE4V2tnYzRBa2toR2Z4Um15Zm5KTU56T1FDSF83ZkJhNTVMZ1c2bEQzMFkzNUtaUnhrQQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785498518,
-        "data": "31/07/2026 11:48"
     }
 ]
