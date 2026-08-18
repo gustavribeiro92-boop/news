@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Aplicativo Pardal já está no ar; veja como usar",
+        "link": "https://novomomento.com.br/aplicativo-pardal-ja-esta-no-ar-veja-como-usar/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787036685,
+        "data": "18/08/2026 07:04"
+    },
+    {
+        "titulo": "Tesouro pagou R$ 152,46 milhões em dívidas de estados e municípios",
+        "link": "https://sb24horas.com.br/tesouro-pagou-r-15246-milhoes-em-dividas-de-estados-e-municipios/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787034051,
+        "data": "18/08/2026 06:20"
+    },
+    {
+        "titulo": "Morre aos 98 atriz Laura Cardoso, ícone da TV brasileira",
+        "link": "https://novomomento.com.br/morre-98-atriz-laura-cardoso-icone-tvbrasileira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787033538,
+        "data": "18/08/2026 06:12"
+    },
+    {
+        "titulo": "Festival de Literatura de Americana premia 12 escritores de crônicas e poesias",
+        "link": "https://novomomento.com.br/festival-literatura-americana-cronicas-poesias/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787032672,
+        "data": "18/08/2026 05:57"
+    },
+    {
+        "titulo": "Incêndio destroi galpão de recicláveis em Americana",
+        "link": "https://novomomento.com.br/incendio-destroi-galpao-reciclaveis-m-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787032354,
+        "data": "18/08/2026 05:52"
+    },
+    {
         "titulo": "Santa Casa de Chavantes faz 103 anos e &#8216;domina&#8217; saúde pública em Americana",
         "link": "https://novomomento.com.br/santa-casa-de-chavantes-103-domn-saudeamericana/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -7,6 +52,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1787026574,
         "data": "18/08/2026 04:16"
+    },
+    {
+        "titulo": "Arquivos CIDADES - Keller Stocco",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJdFFCemVoODBEaUplcklUelh5R0QyNkhabjFWZ1JSSjB5VlhmZ2tCcXBybVFZTFlIZ3hHbmJqSG5ETGQ5eDlTQ0ZGRnJhODMxdm43U2V1ekc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787026327,
+        "data": "18/08/2026 04:12"
     },
     {
         "titulo": "Escolas de Americana terão sala de autorregulação para crianças",
@@ -45,6 +99,15 @@
         "data": "18/08/2026 02:42"
     },
     {
+        "titulo": "Pré-inscrições para o curso gratuito de Cuidador de Idosos em Americana vão até sexta - novomomento.com.br",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rLUtZeDRBdWwtVkYxWXBaaFlqVThvdVB5RTNIQjI1blZscHdVa20yYm14ai1mbXc2WS1XNmhtNHlMalhwNEhWWWlxZ0JSSGhUSzA3MzlQbnNGWGJlcWNMclpwNXQyY3J2dzBfT3BBZlRPWVktYlE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787020978,
+        "data": "18/08/2026 02:42"
+    },
+    {
         "titulo": "Nem só de proteína vive o emagrecimento",
         "link": "https://novomomento.com.br/nem-so-de-proteina-vive-o-emagrecimento/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -73,6 +136,15 @@
     },
     {
         "titulo": "Procon de Americana registra 4,8 mil atendimentos - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUdtdjZ1UkE1Z2VKY1BwQkZyMC1LaXBpVkRHN3RDRnFyLVJPanVJaGRrWk96dVhmQ29xQ0dLVzd3RG1DckU5WlhHNmRINVhlYkxVV0M2Yko5alY4SHpNZ0t3QXhTTjY5TVM5eXBEeWZDNHBNU2lxX3lNR3ZxMzRaOGNR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787016958,
+        "data": "18/08/2026 01:35"
+    },
+    {
+        "titulo": "Procon de Americana registra 4,8 mil atendimentos - novomomento.com.br",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUdtdjZ1UkE1Z2VKY1BwQkZyMC1LaXBpVkRHN3RDRnFyLVJPanVJaGRrWk96dVhmQ29xQ0dLVzd3RG1DckU5WlhHNmRINVhlYkxVV0M2Yko5alY4SHpNZ0t3QXhTTjY5TVM5eXBEeWZDNHBNU2lxX3lNR3ZxMzRaOGNR?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -424,6 +496,15 @@
     },
     {
         "titulo": "SUL-AMERICANA: São Paulo decide vaga no Morumbis e Boca defende vantagem - GF Esporte",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEVVaUtHZzFnWXpDcElCU0plWG1oaXQ2UHZkZTN5TXJ6dXVNUXV5YmRQV3hpRnlpRG15T19weU13aG5aNUZwdEZ1ZnluUTlINVZ2Zms2dmJVRl9xX0VRQm5aSTFQeGhCY2xYN2JIRDVMWW5vNzA0NHcwX2I2Q2dQNDROTWtoRkJJZDViVlVjTGs0bWc1Qks3YUxZODAtLXhFNHNjNnRRcG80NjF3SHI2SS0wa3MtZ1R5R2ZGaHhHZzZldw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786991331,
+        "data": "17/08/2026 18:28"
+    },
+    {
+        "titulo": "SUL-AMERICANA: São Paulo decide vaga no Morumbis e Boca defende vantagem - gfesporte.com.br",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEVVaUtHZzFnWXpDcElCU0plWG1oaXQ2UHZkZTN5TXJ6dXVNUXV5YmRQV3hpRnlpRG15T19weU13aG5aNUZwdEZ1ZnluUTlINVZ2Zms2dmJVRl9xX0VRQm5aSTFQeGhCY2xYN2JIRDVMWW5vNzA0NHcwX2I2Q2dQNDROTWtoRkJJZDViVlVjTGs0bWc1Qks3YUxZODAtLXhFNHNjNnRRcG80NjF3SHI2SS0wa3MtZ1R5R2ZGaHhHZzZldw?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785801780,
         "data": "04/08/2026 00:03"
-    },
-    {
-        "titulo": "CFM libera uso de plasma rico em plaquetas em quatro tratamentos ortopédicos",
-        "link": "https://novomomento.com.br/cfm-plasma-rico-plaqueta-trata-ortopedico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785800512,
-        "data": "03/08/2026 23:41"
-    },
-    {
-        "titulo": "Prefeitura de Santa Bárbara conquista nota A em ranking nacional",
-        "link": "https://novomomento.com.br/prefeitura-santa-barbara-nota-ranking-nacional/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785799136,
-        "data": "03/08/2026 23:18"
-    },
-    {
-        "titulo": "Unicamp lança curso de Inteligência Artificial em Limeira com 40 vagas",
-        "link": "https://rapidonoar.com.br/unicamp-lanca-curso-de-inteligencia-artificial-em-limeira-com-40-vagas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/curso-ia-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785796340,
-        "data": "03/08/2026 22:32"
-    },
-    {
-        "titulo": "Feirão Casa Paulista realiza mais 122 atendimentos em Americana - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGtnay1ZZDM1THRQQnRNWTR2ZUxrMk1CdVhVY2tXN0F4UHRUQ0FBU3JxVWI5SXM0X3pBLU0zTkRhUzFkMmVIZWUyT1JOd29OVk9ldUVLb2Y5aXVHYm5sUERWbjBBNWVreXpKZXlscXFqWjJiTmRsS01TQWpRTENCWDRGZXc1b2dkdEM5cHFUcjBKT1hOZDFtbUIwWUVjYUswdkFIb2N5SjB1UFFkUXRhVENfUlFjTlpkYVFOYWtmWldJZVNrUGkxSERLSV9aMXc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785795960,
-        "data": "03/08/2026 22:26"
-    },
-    {
-        "titulo": "Autores e escritores de &#8220;SuperCapivara &#8220;encontram fãs em Campinas",
-        "link": "https://novomomento.com.br/autor-escritor-supercapivara-fas-campinas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785795931,
-        "data": "03/08/2026 22:25"
-    },
-    {
-        "titulo": "O &#8220;efeito Vini Jr.&#8221; e o boom do mercado de estética no Brasil",
-        "link": "https://novomomento.com.br/efeito-vini-jr-boom-mercado-estetica-brasil/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785795185,
-        "data": "03/08/2026 22:13"
-    },
-    {
-        "titulo": "CAOA Chery celebra 100 mil unidades produzidas do Tiggo 5x",
-        "link": "https://novomomento.com.br/caoa-chery-celebra-unidades-tiggo-5x/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785794337,
-        "data": "03/08/2026 21:58"
-    },
-    {
-        "titulo": "Vereadora Tatiane Lopes tem candidatura a deputada federal oficializada pelo Avante",
-        "link": "https://rapidonoar.com.br/vereadora-tatiane-lopes-tem-candidatura-a-deputada-federal-oficializada-pelo-avante/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/eleicoes-tatiana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785792143,
-        "data": "03/08/2026 21:22"
-    },
-    {
-        "titulo": "Programação Agosto Lilás tem início em Americana; Fórum vai debater 20 anos da Lei Maria da Penha - Portal Veloz",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWVqSklTSW5SNWFrWEdiYWZIYW5rRksyT01iU1B0anNUT0VVa1ZNN21WTzhwQ0JMZG4xcDlLY2F4a01DcTFVbjBTRk9tZXp5SWlhYkdTVUlTLWNmMThDQWtqWERRekc5RFlpaEYzWFFsc0gzUmxKak9vMFYtVFh5dlBBNGJtdjRndmczNDNLOUxDMG1fS2FIQTVkMm5DNkppYkxRMjJqV3d1dFExQk1HTEF0RXA3REd4bjNwUlZVNDgyZw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785791940,
-        "data": "03/08/2026 21:19"
     }
 ]
