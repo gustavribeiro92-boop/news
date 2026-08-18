@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Santa Casa de Chavantes faz 103 anos e &#8216;domina&#8217; saúde pública em Americana",
+        "link": "https://novomomento.com.br/santa-casa-de-chavantes-103-domn-saudeamericana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787026574,
+        "data": "18/08/2026 04:16"
+    },
+    {
+        "titulo": "Escolas de Americana terão sala de autorregulação para crianças",
+        "link": "https://novomomento.com.br/escolas-americana-sala-autorregula-criancas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787025810,
+        "data": "18/08/2026 04:03"
+    },
+    {
         "titulo": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
         "link": "https://sb24horas.com.br/remo-empata-no-ultimo-lance-mas-inter-deixa-a-zona-de-rebaixamento/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
@@ -124,6 +142,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1787008019,
         "data": "17/08/2026 23:06"
+    },
+    {
+        "titulo": "Ana Castela é confirmada no Jaguariúna Rodeo Festival 2026 - Portal VV8",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMldBV0g2WWdFNXdTOENVUFBSWmpiVmRFVnpoZjU2UkRNUFNheFpHU1hWdzQzelIzeEVPcTZ4R2tmaUdUeGphcDFzU2otYUJ6WkdmaVY0dFdfMFFqOWRZUk52eTNzUkx2LXQzdkpOdzBEa2RHYnZwb1RlSzBaeE5YU2EzdEVmQU5IT0h4aEp5ZmZmaDJwV0NYc1BFc2JZZw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787006367,
+        "data": "17/08/2026 22:39"
     },
     {
         "titulo": "Santa Bárbara Rock Fest terá arrecadação de leite em todos os dias do evento - Região Hoje",
@@ -253,6 +280,15 @@
     },
     {
         "titulo": "São Paulo pode se aproximar de recorde histórico na Sul-Americana - abcdjornal.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjhZYTgyRGZTNUg3OVRpSm9yVXllV003dmpIYzVlSlBZYlBhNVNrZFBZbHBhaVQwMTJOM0xSaVBaRDVkMWZUYXBVN0QzMjNIUWhaaDloRkRWaHJlMlYxVmVjN3hyR01nMmRLTGdYRG1pYjlvc05tbTRKTGRZNUFvdmdsMVk1Zk4ydE5NREgxcTNIR0NxWEpvT1dTWVBDM2RzTE85a1hjNFNXSVktQ0s2VFFBWnptX0FZd0xJ0gHAAUFVX3lxTFBCOHRuT1NDd1NPZHhKVjNQWU5LWklhUG9BWUFvNThIX0p5aVFKbGYyVzF0YXIxUUdYS1c1MnFlTHJxWW5zSGtXTGNZU0V3WHI4MnZOcWJJTGVxcU8tQThQMEZ3bG9IWVd1WjBOcHdNbnpxeHVZemVXM3FhN3ZxSFNVakNIa3NFTTVPZGplRmJxdHlZNm5RSGc0WmRncjZGckc3MUlzRERJR0Jqa1JobmREcUtLdW9xaHBJeU9rNW5MVQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1786997293,
+        "data": "17/08/2026 20:08"
+    },
+    {
+        "titulo": "São Paulo pode se aproximar de recorde histórico na Sul-Americana - ABCD Jornal",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjhZYTgyRGZTNUg3OVRpSm9yVXllV003dmpIYzVlSlBZYlBhNVNrZFBZbHBhaVQwMTJOM0xSaVBaRDVkMWZUYXBVN0QzMjNIUWhaaDloRkRWaHJlMlYxVmVjN3hyR01nMmRLTGdYRG1pYjlvc05tbTRKTGRZNUFvdmdsMVk1Zk4ydE5NREgxcTNIR0NxWEpvT1dTWVBDM2RzTE85a1hjNFNXSVktQ0s2VFFBWnptX0FZd0xJ0gHAAUFVX3lxTFBCOHRuT1NDd1NPZHhKVjNQWU5LWklhUG9BWUFvNThIX0p5aVFKbGYyVzF0YXIxUUdYS1c1MnFlTHJxWW5zSGtXTGNZU0V3WHI4MnZOcWJJTGVxcU8tQThQMEZ3bG9IWVd1WjBOcHdNbnpxeHVZemVXM3FhN3ZxSFNVakNIa3NFTTVPZGplRmJxdHlZNm5RSGc0WmRncjZGckc3MUlzRERJR0Jqa1JobmREcUtLdW9xaHBJeU9rNW5MVQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17962,41 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1785791940,
         "data": "03/08/2026 21:19"
-    },
-    {
-        "titulo": "Programação Agosto Lilás tem início em Americana; Fórum vai debater 20 anos da Lei Maria da Penha - portalveloz.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWVqSklTSW5SNWFrWEdiYWZIYW5rRksyT01iU1B0anNUT0VVa1ZNN21WTzhwQ0JMZG4xcDlLY2F4a01DcTFVbjBTRk9tZXp5SWlhYkdTVUlTLWNmMThDQWtqWERRekc5RFlpaEYzWFFsc0gzUmxKak9vMFYtVFh5dlBBNGJtdjRndmczNDNLOUxDMG1fS2FIQTVkMm5DNkppYkxRMjJqV3d1dFExQk1HTEF0RXA3REd4bjNwUlZVNDgyZw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785791940,
-        "data": "03/08/2026 21:19"
-    },
-    {
-        "titulo": "Setor de alimentação fora do lar tem maior volume de admissões",
-        "link": "https://novomomento.com.br/setor-alimenta-fora-lar-maior-volume-admissoes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785790035,
-        "data": "03/08/2026 20:47"
-    },
-    {
-        "titulo": "Roteiro Gastronômico de Americana 2026 terá patrocínio do Supermercado São Vicente - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX1RiZzZZRVo0bmlKRXdfdmN6SE9PeEROc0pLYlJOM3h6NUIxMXpGdTU5OFhmSnhRZ0dvajZfZ01SczBCUlRUdE9Rak80M2N3LU5YOUtPaEJBXzB6bjJJalBXUmVmVHp1SFp4VUJlUVpEbWYtVzZHaVdxYUZncDV4WTg3TE1vNm96MDlqLWxQdWpqMTdrRmYwMnJ2LVBkMHVvYlFmeGVCUWluZ01HSUVOTjRiSFpFVEU1bDBuTUtrRXNvUFVkdld2OGh3bVRjUWtqYzBGTmJyb1YxS3hMY1NTM3ozSlNmbVdM?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1785789360,
-        "data": "03/08/2026 20:36"
-    },
-    {
-        "titulo": "Allan ‘Puro Osso’ Nascimento, lutador do UFC, morre aos 34 anos",
-        "link": "https://rapidonoar.com.br/allan-puro-osso-nascimento-lutador-do-ufc-morre-aos-34-anos/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/lutador-puro-osso-ufc-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785787896,
-        "data": "03/08/2026 20:11"
     }
 ]
