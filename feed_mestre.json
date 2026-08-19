@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Americana realiza 500 inserções de Implanon em mutirão gratuito",
+        "link": "https://novomomento.com.br/americana-500-insercoes-implanon-mutirao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787107769,
+        "data": "19/08/2026 02:49"
+    },
+    {
+        "titulo": "Região tem 451 mil pequenos negócios; crescimento traz desafios jurídicos",
+        "link": "https://novomomento.com.br/regiao-pequenos-negocios-crescimento-desafios/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787103770,
+        "data": "19/08/2026 01:42"
+    },
+    {
         "titulo": "Vereadores aprovam 46 proposituras durante sessão ordinária",
         "link": "https://novomomento.com.br/vereadores-aprovam-46-proposituras-sessao-2/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -18,7 +36,52 @@
         "data": "19/08/2026 00:21"
     },
     {
+        "titulo": "Dívida bancária do Rio chega a R$ 26 bilhões, diz governador",
+        "link": "https://sb24horas.com.br/divida-bancaria-do-rio-chega-a-r-26-bilhoes-diz-governador/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787097919,
+        "data": "19/08/2026 00:05"
+    },
+    {
+        "titulo": "Hortência é indicada a prêmio de maior atleta da história dos Mundiais",
+        "link": "https://sb24horas.com.br/hortencia-e-indicada-a-premio-de-maior-atleta-da-historia-dos-mundiais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787097591,
+        "data": "18/08/2026 23:59"
+    },
+    {
+        "titulo": "São Paulo vence Bolívar, dá fim a jejum e enfrentará o Boca na Sul-Americana - No Ataque",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcWwxblE5d0paOVlFOXdxVEh5Y2U0MHhyZzVqaEtfaFlJSV9iU3dnMXlvNTlwb2tidkQtSnhFY3VFNkR1ZmdETksyWHdsRVlTRWI3QnFiVVBpS2k2OVJ5TzVNZDNyYWo3dHVaN0NJVkF2ZVdFejl3V0JkYUpUcWZsNXplcUdzcjNEdC1JQV92UzdCdzJiSTAxRmFONk5wYXVpSlphVmRQd1RfbWNKUVY4ZXVHSFJnaUJSZVo0TU05UHh4c0ZyeFNzbFpZNVQtX3luRVNkNlNvemRvUVJzTTFqT2NtalBMaVZCSC1YWlhvVjBMMDQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787096049,
+        "data": "18/08/2026 23:34"
+    },
+    {
+        "titulo": "São Paulo encerra jejum, bate o Bolívar e avança na Sul-Americana - Terra",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNjV2QnJsdkFBeUVsM1h2bWJ6Y0M0NGhWSnRfN1VBT3h2SlRSQUNTNUFDQWpmMF9EX1ZObl9nWm5TYUYzaDQ2VVVjYzY3Qm5lTVJFRVlrdXkxNzRwT1lyVUVSc2U1Y1RVSFZJODFiekNmODh3SU51bDdxSmVOa0ZYU0lPQzUyQ2VEY3AzZE9kWmh3d3FZVDItdS1GNklPUG1ZNHNGWUZHbldZYUgyel96Y1JnTVBHcVRISDZaRUkxcnNWdlQ3T25PMUJuTloxcDNUdDNPaGdoRTZueVZJcTRFT1Eta0c3OWZsX2c?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787095920,
+        "data": "18/08/2026 23:32"
+    },
+    {
         "titulo": "São Paulo vence Bolívar e avança às quartas da Sul-Americana - LANCE!",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRyMFZad1lodEZ4SkR1MmVEaXREYi1RY2ZZRml6blRMbXZ4ZE1xT3pYc1J4ZHY0bk44dnpCOVk3T0FzdmZTekRPUmhVSEtWdF9qYmV3ZWhIdEpfRFhxcjBZSHBpeFlqNFRlelJ0UC11MkRpWkVQUzlGb0tfMnhJWGllYTRMcjhRLXk0NDN2bHR0UkxVaUtGTVlBX09DLUdYakE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787095652,
+        "data": "18/08/2026 23:27"
+    },
+    {
+        "titulo": "São Paulo vence Bolívar e avança às quartas da Sul-Americana - lance.com.br",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRyMFZad1lodEZ4SkR1MmVEaXREYi1RY2ZZRml6blRMbXZ4ZE1xT3pYc1J4ZHY0bk44dnpCOVk3T0FzdmZTekRPUmhVSEtWdF9qYmV3ZWhIdEpfRFhxcjBZSHBpeFlqNFRlelJ0UC11MkRpWkVQUzlGb0tfMnhJWGllYTRMcjhRLXk0NDN2bHR0UkxVaUtGTVlBX09DLUdYakE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -127,6 +190,15 @@
     },
     {
         "titulo": "São Paulo x Bolívar: escalações e onde assistir à Copa Sul-Americana - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ01wdHc2R0FRU2QyVHFBaTRBUlQtMGowSGJma2tZTnhXSjJ6emZLc1RLZWpxTmNsQjBNMjlHOEt0SEd2MW1vWVQzeTRjR0NPOFpoUlI1aFNCaXBlRXZWcVp4S0h4WjltTmVZdDY4Z240UEl6aFpWUkNiZkVLNmdxMjM4aC02dHQ0VUxjRFhOZmRMSThHaU4yNXJYT1FBX1dpdmJONlBlX0d1OWthanMzMmNGbkhrSGEzMl9nWjAyb1dYSTBlYmNaSUJFUkJ4Z3FUM3dGS1ViNUM0cnRaakMwc1dJaw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787085443,
+        "data": "18/08/2026 20:37"
+    },
+    {
+        "titulo": "São Paulo x Bolívar: escalações e onde assistir à Copa Sul-Americana - cnnbrasil.com.br",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ01wdHc2R0FRU2QyVHFBaTRBUlQtMGowSGJma2tZTnhXSjJ6emZLc1RLZWpxTmNsQjBNMjlHOEt0SEd2MW1vWVQzeTRjR0NPOFpoUlI1aFNCaXBlRXZWcVp4S0h4WjltTmVZdDY4Z240UEl6aFpWUkNiZkVLNmdxMjM4aC02dHQ0VUxjRFhOZmRMSThHaU4yNXJYT1FBX1dpdmJONlBlX0d1OWthanMzMmNGbkhrSGEzMl9nWjAyb1dYSTBlYmNaSUJFUkJ4Z3FUM3dGS1ViNUM0cnRaakMwc1dJaw?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1785927033,
         "data": "05/08/2026 10:50"
-    },
-    {
-        "titulo": "ISTs além do positivo ou negativo: 4 razões para repensar o diagnóstico",
-        "link": "https://novomomento.com.br/ists-alem-positivo-negativo-4razoes-diagnostico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785927017,
-        "data": "05/08/2026 10:50"
-    },
-    {
-        "titulo": "Adversário do Independente na final está invicto em São José do Rio Preto",
-        "link": "https://rapidonoar.com.br/adversario-do-independente-na-final-esta-invicto-em-sao-jose-do-rio-preto/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/america-2-1024x936.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785927001,
-        "data": "05/08/2026 10:50"
-    },
-    {
-        "titulo": "Inter receberá um time carioca pela 19ª vez no Limeirão",
-        "link": "https://rapidonoar.com.br/inter-recebera-um-time-carioca-pela-19a-vez-no-limeirao/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/nova-iguacu-2-1024x819.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785925928,
-        "data": "05/08/2026 10:32"
-    },
-    {
-        "titulo": "Tavam com Frontier de 2 placas mandrake, tentaram dar no pé mas 1 se deu mal",
-        "link": "https://novomomento.com.br/tava-frontier-2-placas-mandrake-tenta-dar-no-pe/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785925853,
-        "data": "05/08/2026 10:30"
-    },
-    {
-        "titulo": "DAE de Santa Bárbara conclui melhorias em reservatórios da Zona Leste",
-        "link": "https://sb24horas.com.br/dae-de-santa-barbara-conclui-melhorias-em-reservatorios-da-zona-leste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785925201,
-        "data": "05/08/2026 10:20"
-    },
-    {
-        "titulo": "Com ampla vantagem, Palmeiras decide vaga na Copa do Brasil",
-        "link": "https://rapidonoar.com.br/com-ampla-vantagem-palmeiras-decide-vaga-na-copa-do-brasil/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/mauricio-gol-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1785925044,
-        "data": "05/08/2026 10:17"
-    },
-    {
-        "titulo": "Prefeitura de Santa Bárbara troca 1,7 mil placas de identificação de ruas",
-        "link": "https://sb24horas.com.br/prefeitura-de-santa-barbara-troca-17-mil-placas-de-identificacao-de-ruas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1785925014,
-        "data": "05/08/2026 10:16"
-    },
-    {
-        "titulo": "Ensino e avaliação não podem ser tratados separadamente",
-        "link": "https://novomomento.com.br/ensino-avaliacao-nao-podem-tratados-separada/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1785924732,
-        "data": "05/08/2026 10:12"
     }
 ]
