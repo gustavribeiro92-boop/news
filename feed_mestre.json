@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Fernando da Farmácia discute ações de infraestrutura",
+        "link": "https://novomomento.com.br/fernando-farmacia-discute-acoes-infraestrutura/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787199713,
+        "data": "20/08/2026 04:21"
+    },
+    {
+        "titulo": "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores",
+        "link": "https://sb24horas.com.br/palmeiras-vence-cerro-porteno-fora-e-vai-as-quartas-da-libertadores/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787197221,
+        "data": "20/08/2026 03:40"
+    },
+    {
         "titulo": "Bancários farão paralisação de 24 horas nesta quinta-feira",
         "link": "https://sb24horas.com.br/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -811,6 +829,24 @@
     },
     {
         "titulo": "'Até quando': trecho do bairro Parque Novo Mundo, em Americana, segue sem recapeamento - G1",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRmQ2N0NqY1BhV1JqTzdhMm9hR3paS2xTRDJlRzN2ZkRmYmdvWXdLNjkyYVlFVTFBR2xGVC10TlBuVi1HYjNCTVpaZWxySTA1dzRwNGtoMWNBeUJyRy1mWm4wb010SC1RblQwczJ4UzJNS3FHa0VTQlB2RnRKcnFRQk5lQ0R3am1qT2V6VExkcWxmMzVMRTdSeDFJaExGdElKT1hob2pqYk5mdGh1d0hhSGo3enZEa3RBandJd1hXOWxfdDdReTdudl9zakFyN1pfX2xjUWgyWWU5ZmhrZUdHTWt3YUsyLU1VRHl5NGpySERYcVdRRGdpdThOazZON1BGVm5YTUFMamFKMjZOd2ZfTUd3RXFZbFBNRUVoVnpkYkrSAa8CQVVfeXFMTnAxVHV4MzFQT2pOUDA2Zi00OU1xazlXTXliMXQtX2gzVV9UTEMweWgwc3VZcWotN2VEbjM0LTJ0VndJbjZxcDZVaVVNRTM3SXF5a3p5dTZWTHBDc1dvVS00QldQNjJGU2ZaRGowUV9jYTJZcGpWTDB1SDJjV0dIQ29wZ1l1dm12NFkwNHJWeWlmakJnQ05QNkVzM0Q2eVVudXNzWG4zcGRFSlNNSk1FTDlMMlZ1bjlQR3pXV1hyOWtnN25MQkdZT3I0RllOT1pIdUFiM1czSmdPRGFOelZyZGFFSUdrYW8tRGJBYUJ4Qms1S0tELUpnUXdmNGJaMWwxN1VtSUZBUlk0NU14RldQX1Y1Z0JsQzk3bWlxOGI4OHo2VHBsa2ZQWk1rQ1VKejcw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787145818,
+        "data": "19/08/2026 13:23"
+    },
+    {
+        "titulo": "'Até quando': trecho do bairro Parque Novo Mundo, em Americana, passa por recape - g1.globo.com",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONW1fbk9FYmRmcjFTbEhmRkNoT3czZC1ra2VxVTZOdmUwcUkzOHJvLS15Y3lYOXE0Vm82NVFSNGY0ZlJJX1lHLWJWOGlPNzdYdGVDN3puZW9WNUVmRG9Ba3FnOEhZeGY1eE1vSEpSSEFPd3R4ZTBkX3dKd3RBd1gzN0UzalVzNDhkZXdUTVZTY2hpSTFJalN0ZkFvSi1fVW1LM09GRnMycDdhd3NJVW9RUUk1NFlQTlBoRzFfSnN2aUhyZ1JORXBNRWJFbVRvLTRwcFI5d3lBMkdXdkdDcV9KMFRJV056R3kxenY5WTVuWm1zM3ItWVJ4b1YzWnQyV254MlM4a0RyOFpRR05mQW9OMFp6QlFKcW9T0gGnAkFVX3lxTE5QbUg3TTcwQWFEYlk3d2U5a3p2WGVWMkktc29vZE5KZENUQlBGdXg1TXFzNks2Wi1qREJVRWlBV2JDMkU0dG90dy1XSTR6bFp5T1hyalBHdDdkRXJzTWdWWVlTQlpIdkk1aGt1bTl2cnlhZlNIcW9HVS1Za0Y3cWtxazhFYkJuOV9waG5ybnVteVdLc2xaRjBpdTFUQ0xXdmFzMHNMbHR0MENMYnBHMDB5cTJFNG1EYnFlU1plTTJBQnlta2lqZUZOY1o4aGJrcExTSmxCRWt3SmtGZDEwa1I4M0tlVFd3RVBBYVM1bnRyOVJhQVg1ZWV0Q2pvMHUwc2pKOFQ2S3BlUDg0aFhCUUlnbWd3RjF2SFNVRkJMZXVwYzdrZDNKSXc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787145818,
+        "data": "19/08/2026 13:23"
+    },
+    {
+        "titulo": "'Até quando': trecho do bairro Parque Novo Mundo, em Americana, segue sem recapeamento - g1.globo.com",
         "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRmQ2N0NqY1BhV1JqTzdhMm9hR3paS2xTRDJlRzN2ZkRmYmdvWXdLNjkyYVlFVTFBR2xGVC10TlBuVi1HYjNCTVpaZWxySTA1dzRwNGtoMWNBeUJyRy1mWm4wb010SC1RblQwczJ4UzJNS3FHa0VTQlB2RnRKcnFRQk5lQ0R3am1qT2V6VExkcWxmMzVMRTdSeDFJaExGdElKT1hob2pqYk5mdGh1d0hhSGo3enZEa3RBandJd1hXOWxfdDdReTdudl9zakFyN1pfX2xjUWgyWWU5ZmhrZUdHTWt3YUsyLU1VRHl5NGpySERYcVdRRGdpdThOazZON1BGVm5YTUFMamFKMjZOd2ZfTUd3RXFZbFBNRUVoVnpkYkrSAa8CQVVfeXFMTnAxVHV4MzFQT2pOUDA2Zi00OU1xazlXTXliMXQtX2gzVV9UTEMweWgwc3VZcWotN2VEbjM0LTJ0VndJbjZxcDZVaVVNRTM3SXF5a3p5dTZWTHBDc1dvVS00QldQNjJGU2ZaRGowUV9jYTJZcGpWTDB1SDJjV0dIQ29wZ1l1dm12NFkwNHJWeWlmakJnQ05QNkVzM0Q2eVVudXNzWG4zcGRFSlNNSk1FTDlMMlZ1bjlQR3pXV1hyOWtnN25MQkdZT3I0RllOT1pIdUFiM1czSmdPRGFOelZyZGFFSUdrYW8tRGJBYUJ4Qms1S0tELUpnUXdmNGJaMWwxN1VtSUZBUlk0NU14RldQX1Y1Z0JsQzk3bWlxOGI4OHo2VHBsa2ZQWk1rQ1VKejcw?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
         "portal": "portal",
@@ -17962,41 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
         "timestamp": 1786026616,
         "data": "06/08/2026 14:30"
-    },
-    {
-        "titulo": "Renovação da frota em Piracicaba reforça transporte de pacientes para tratamentos especializados",
-        "link": "https://difusorapiracicaba.com.br/renovacao-da-frota-em-piracicaba-reforca-transporte-de-pacientes-para-tratamentos-especializados/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1786026600,
-        "data": "06/08/2026 14:30"
-    },
-    {
-        "titulo": "Sumaré entra na rota dos grandes festivais",
-        "link": "https://hjnews.com.br/sumare-entra-na-rota-dos-grandes-festivais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1786025199,
-        "data": "06/08/2026 14:06"
-    },
-    {
-        "titulo": "Hoje tem tributo gratuito a Raul Seixas no Tivoli Shopping",
-        "link": "https://portaldeamericana.com/hoje-tem-tributo-gratuito-a-raul-seixas-no-tivoli-shopping/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/banda-ecologia-tivoli-site.webp&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1786024986,
-        "data": "06/08/2026 14:03"
-    },
-    {
-        "titulo": "Senac inicia inscrições para cursos do segundo semestre com vagas gratuitas",
-        "link": "https://difusorapiracicaba.com.br/senac-inicia-inscricoes-para-cursos-do-segundo-semestre-com-vagas-gratuitas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1786024800,
-        "data": "06/08/2026 14:00"
     }
 ]
