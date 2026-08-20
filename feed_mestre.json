@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Nova ETA em Americana tem avanço na obra",
+        "link": "https://novomomento.com.br/nova-eta-em-americana-tem-avanco-na-obra/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787216970,
+        "data": "20/08/2026 09:09"
+    },
+    {
+        "titulo": "Belchior decor está com 3 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
+        "link": "https://vagas019.com.br/vagas-belchior-decor-santa-barbara-d-oeste/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "vagas019",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
+        "timestamp": 1787216219,
+        "data": "20/08/2026 08:56"
+    },
+    {
+        "titulo": "Confraadel celebra 30 anos com programação para mais de 1,2 mil adolescentes e presença do cantor Gabriel Guedes em Limeira",
+        "link": "https://rapidonoar.com.br/confraadel-celebra-30-anos-com-programacao-para-mais-de-12-mil-adolescentes-e-presenca-do-cantor-gabriel-guedes-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/jovens-que-louvam-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787215044,
+        "data": "20/08/2026 08:37"
+    },
+    {
+        "titulo": "Propaganda eleitoral: o que pode e o que não pode na campanha 2026",
+        "link": "https://novomomento.com.br/propaganda-eleitoral-pode-campanha-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787214861,
+        "data": "20/08/2026 08:34"
+    },
+    {
+        "titulo": "Homem é preso em flagrante após ser flagrado furtando fios e disjuntores de obra em Limeira",
+        "link": "https://rapidonoar.com.br/homem-e-preso-em-flagrante-apos-ser-flagrado-furtando-fios-e-disjuntores-de-obra-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2020/01/plantao-policial-site.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787213971,
+        "data": "20/08/2026 08:19"
+    },
+    {
+        "titulo": "ExpoEmpresas 2026 promete combo negócios, networking e atrações culturais",
+        "link": "https://novomomento.com.br/expoempresas-2026-combo-negocio-network-cultura/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787213120,
+        "data": "20/08/2026 08:05"
+    },
+    {
         "titulo": "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto",
         "link": "https://sb24horas.com.br/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-agosto-2/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -2977,6 +3031,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
         "timestamp": 1787051065,
         "data": "18/08/2026 11:04"
+    },
+    {
+        "titulo": "Vaga valiosa: por que classificação na Sul-Americana pode dar fôlego financeiro ao São Paulo - ge",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFNleTJyOV9CaGFwUWFudjFfY0JjOTRDRHhOOUxXUmxHMDk2MFVrcUZobTYxUF91S3dEWjEwLU02OUYyd0xoZG1MdXVoTGNVMFFCSWlVMGtGMzhJZWxSX0xGNUNDXzJVLTZWRmphem1iaUcxT1dGR3R3NUZzZlB3U0wwWHhRQThrQm02T2cyYU1FOUhhd2VUejBiR1dITzJUbzFmdlR1YldNT05ERmZ3VzQwNS1ENG9UZ0tjMmhXS3dzQjBFN2NWbEt6YXFTdVhHaVp2WndpMF91ZEdETHB3Z21sR1lQa0lpLURMVnYwTVB4MWPSAYICQVVfeXFMTXZrS0s5TEF0VkppYlpNdUZvTDdEaFBiT25rVFNOUUtwMWlzWDBvMXdGRUVibGFjTHRjbnRZNm9Ga0pCMklUVzdRa3BFczk5VjBXLXgteURROUJ4MDBmdmgzVm9yaE9iSVRyNmlib1cxdWdZWmlRZWtCVnl6V0RWUzhNVy1rSlJmYU5Xc3JyVk9xcndleEgtNF9KTXNjNUFzMUNxRDdaaEppdm4zNF9LXzZVYU1KYy1uR1Y4NFZQcktOdzFfUFRfTFJvSm54cjZSQUlnTmhFanBDTWpEWjFGNjdCN0lKanRrWGJ3cmJYc1VwSGx5OUxzdVJnWks2YWl3T3pn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787050813,
+        "data": "18/08/2026 11:00"
     },
     {
         "titulo": "Tivoli será palco nesta sexta-feira de show gratuito com os grandes hits do grupo ABBA",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1786030688,
         "data": "06/08/2026 15:38"
-    },
-    {
-        "titulo": "Em nova redução, Copom baixa taxa Selic para 14% ao ano",
-        "link": "https://difusorapiracicaba.com.br/em-nova-reducao-copom-baixa-taxa-selic-para-14-ao-ano/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1786030200,
-        "data": "06/08/2026 15:30"
-    },
-    {
-        "titulo": "Prefeitura de Limeira abre inscrições para oficinas gratuitas da Mostra de Teatro 2026",
-        "link": "https://noticiadelimeira.com.br/2026/08/06/prefeitura-de-limeira-abre-inscricoes-para-oficinas-gratuitas-da-mostra-de-teatro-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1786029921,
-        "data": "06/08/2026 15:25"
-    },
-    {
-        "titulo": "Desktop abre 60 vagas na região- veja como participar",
-        "link": "https://novomomento.com.br/desktop-abre-60-vagas-regiao-veja-comparticipar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786029540,
-        "data": "06/08/2026 15:19"
-    },
-    {
-        "titulo": "Hoje tem tributo gratuito a Raul Seixas no Tivoli",
-        "link": "https://www.americanapost.com.br/hoje-tem-tributo-gratuito-a-raul-seixas-no-tivoli/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1786028988,
-        "data": "06/08/2026 15:09"
-    },
-    {
-        "titulo": "Dia dos pais: Praça Toledo Barros recebe apresentação musical neste sábado em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/08/06/dia-dos-pais-praca-toledo-barros-recebe-apresentacao-musical-neste-sabado-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1786028641,
-        "data": "06/08/2026 15:04"
-    },
-    {
-        "titulo": "DPIR de Limeira realiza formação antirracista para profissionais de serviços e equipamentos municipais",
-        "link": "https://noticiadelimeira.com.br/2026/08/06/dpir-de-limeira-realiza-formacao-antirracista-para-profissionais-de-servicos-e-equipamentos-municipais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1786028519,
-        "data": "06/08/2026 15:01"
-    },
-    {
-        "titulo": "Biblioteca Municipal de Piracicaba recebe oficina literária sobre técnicas de narração",
-        "link": "https://difusorapiracicaba.com.br/biblioteca-municipal-de-piracicaba-recebe-oficina-literaria-sobre-tecnicas-de-narracao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1786028400,
-        "data": "06/08/2026 15:00"
     }
 ]
