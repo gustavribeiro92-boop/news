@@ -1,5 +1,32 @@
 [
     {
+        "titulo": "Mais tempo ao ar livre: coberturas para aproveitar melhor sua casa",
+        "link": "https://novomomento.com.br/mais-tempo-ao-ar-livre-6-tipos-de-coberturas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787408745,
+        "data": "22/08/2026 14:25"
+    },
+    {
+        "titulo": "Ruas do São Vito e Vila Franciscangelis recebem asfalto na próxima semana",
+        "link": "https://novomomento.com.br/ruas-svito-vila-franciscangelis-asfalto-semana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787407222,
+        "data": "22/08/2026 14:00"
+    },
+    {
+        "titulo": "McDia Feliz mobiliza Santa Bárbara e região com solidariedade e esperança no Tivoli Shopping",
+        "link": "https://sb24horas.com.br/mcdia-feliz-mobiliza-santa-barbara-e-regiao-com-solidariedade-e-esperanca-no-tivoli-shopping/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787405059,
+        "data": "22/08/2026 13:24"
+    },
+    {
         "titulo": "Passeata Agosto Lilás mobiliza mulheres em Nova Odessa",
         "link": "https://novomomento.com.br/passeata-agosto-lilas-mobiliza-mulheres-nodessa/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
         "timestamp": 1786200384,
         "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Policiais do 10º BAEP tiram 11 armas de fogo de circulação num prazo de cinco horas",
-        "link": "https://rapidonoar.com.br/policiais-do-10o-baep-tiram-11-armas-de-fogo-de-circulacao-num-prazo-de-cinco-horas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/porte-de-arma-piracicaba-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786199687,
-        "data": "08/08/2026 14:34"
-    },
-    {
-        "titulo": "Santos x Macará: veja preços e como comprar ingressos - ge",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXhUelU4S3dtRDRTdlI1THYtZlF0Y29NQ1UxLVA0NElaOVdKQmN2M2lhM0g2N1lMaXZFcUw1LVdrWWZ4OEo2SVhSclg1Y1lSWk9OQjlCLV82eVg2Y2Fka0lndFY1RkRDVVpiMVFnM24xSVRaWEpaRFhhRDJydS1udzBsdnZyVjBYLXlWY2pxQ0VkTU5ESERMaHFpVmZKVm04bkE4T2JRbFJNNGNvMVQ4dV9vZ1RURzhYOGJhVlp4aFRWRkItczQ4bjBLZHQxN0RXdmVyV9IB4wFBVV95cUxNb09PU29OYU9iRmF4RUVzcGJVdWtoREVpbElPYS1sU25rYmE1TVNhaS1Ra3pRbHVRS2tVZjBXV0o1MF9WRXlCeTBuZ3pwbUlmWDFZQVdjaFZ3ejdZTjhpaXlFbzhCaWItbG9QR09jS0xqZWszeEpka1JVeXJrR3Z1TVlaYVJpRnZfLV9ySTYwSDBmY1pmc2cySnpaTVBUdDZxSmRBeTBON0RrMWNOWmxnUHNqdVI4THNoejNxaGN4YzBRTTRNYWxMSWZpT3lYQnZDc3R1bHIwT3VDdVNOZHhVRzlBWQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786198405,
-        "data": "08/08/2026 14:13"
-    },
-    {
-        "titulo": "Santos x Macará: veja preços e como comprar ingressos - GE",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXhUelU4S3dtRDRTdlI1THYtZlF0Y29NQ1UxLVA0NElaOVdKQmN2M2lhM0g2N1lMaXZFcUw1LVdrWWZ4OEo2SVhSclg1Y1lSWk9OQjlCLV82eVg2Y2Fka0lndFY1RkRDVVpiMVFnM24xSVRaWEpaRFhhRDJydS1udzBsdnZyVjBYLXlWY2pxQ0VkTU5ESERMaHFpVmZKVm04bkE4T2JRbFJNNGNvMVQ4dV9vZ1RURzhYOGJhVlp4aFRWRkItczQ4bjBLZHQxN0RXdmVyV9IB4wFBVV95cUxNb09PU29OYU9iRmF4RUVzcGJVdWtoREVpbElPYS1sU25rYmE1TVNhaS1Ra3pRbHVRS2tVZjBXV0o1MF9WRXlCeTBuZ3pwbUlmWDFZQVdjaFZ3ejdZTjhpaXlFbzhCaWItbG9QR09jS0xqZWszeEpka1JVeXJrR3Z1TVlaYVJpRnZfLV9ySTYwSDBmY1pmc2cySnpaTVBUdDZxSmRBeTBON0RrMWNOWmxnUHNqdVI4THNoejNxaGN4YzBRTTRNYWxMSWZpT3lYQnZDc3R1bHIwT3VDdVNOZHhVRzlBWQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786198405,
-        "data": "08/08/2026 14:13"
     }
 ]
