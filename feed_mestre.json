@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Escola de Música de Americana divulga aprovados em cursos livres",
+        "link": "https://novomomento.com.br/escola-musica-americana-cursos-livres/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787381728,
+        "data": "22/08/2026 06:55"
+    },
+    {
+        "titulo": "Independente Sub-17 recebe o São Paulo hoje no Pradão",
+        "link": "https://rapidonoar.com.br/independente-sub-17-recebe-o-sao-paulo-hoje-no-pradao/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/galinho-17-1-1024x693.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787381151,
+        "data": "22/08/2026 06:45"
+    },
+    {
         "titulo": "Axé de Anitta: o que o novo álbum traz sobre a Umbanda?",
         "link": "https://novomomento.com.br/axe-anitta-novo-album-sobre-a-umbanda/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -70,6 +88,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1787356745,
         "data": "21/08/2026 23:59"
+    },
+    {
+        "titulo": "Dia D de Multivacinação em Americana acontece HOJE",
+        "link": "https://novomomento.com.br/dia-d-multivacina-americana-sabado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787356123,
+        "data": "21/08/2026 23:48"
     },
     {
         "titulo": "Veja o cardápio das praças de alimentação do Santa Bárbara Rock Fest 2026",
@@ -17971,32 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1786192808,
         "data": "08/08/2026 12:40"
-    },
-    {
-        "titulo": "Santos inscreve João Paulo e Caballero na Copa Sul-Americana - GE",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWhTdXpKcUdpcmVOR2tENkdRS3hfMW9xMEpqcjdOdHZGNWFBQjFJYllfSEFSczQ3TC1tcTczbU1RVGxyaEtMbEFMX0djR3pNa2NISVV1eWJrSmtNN2YxSU84MHAxLWtyNEpCcWRpbWd2VEdvQ2sxWWM5RUx5MG1OblplMDlnMndwLXUyUTZiNTF3VjY4QWNuTHVvTkM0VkxqNS1qYS1URkdJemlzUXJuRzJlZkZIODJrVUJmQ3FHR3J6dDFCTlkxbW9ncjFjaVJTWGM5SkVzWVRIU1drbDhn0gHuAUFVX3lxTE9zNG1sSVQ2VkxPZnNOSlZENXpHSmdKOEcyUjNWWTdBOGJRTzlTQm1HVkpLU2NLZGdYREdmZ1VtOVpHSlBWTW5MYXpqVGFPaldNY3g1RDdOTUpoY190cXRqZWYzMjN4Ul8yMXJRNVRFdWNwUUVITE1UbURXMWxzUEdyczgzTjJNOFRMV1NWcEgyM0NFYlRLYmJ5dG55dUJVLXJUVEFXMVVBREtoTEF5eGhYeUhITGh2TjI0Z29jS2RBT0gwMVo4WjlNbDJ6RHJBM2U4SERBNE8xTWliemtTeHNPU0NmZDllWGhfQTlWWWc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786192808,
-        "data": "08/08/2026 12:40"
-    },
-    {
-        "titulo": "Santos inscreve João Paulo e Caballero na Copa Sul-Americana - ge.globo.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWhTdXpKcUdpcmVOR2tENkdRS3hfMW9xMEpqcjdOdHZGNWFBQjFJYllfSEFSczQ3TC1tcTczbU1RVGxyaEtMbEFMX0djR3pNa2NISVV1eWJrSmtNN2YxSU84MHAxLWtyNEpCcWRpbWd2VEdvQ2sxWWM5RUx5MG1OblplMDlnMndwLXUyUTZiNTF3VjY4QWNuTHVvTkM0VkxqNS1qYS1URkdJemlzUXJuRzJlZkZIODJrVUJmQ3FHR3J6dDFCTlkxbW9ncjFjaVJTWGM5SkVzWVRIU1drbDhn0gHuAUFVX3lxTE9zNG1sSVQ2VkxPZnNOSlZENXpHSmdKOEcyUjNWWTdBOGJRTzlTQm1HVkpLU2NLZGdYREdmZ1VtOVpHSlBWTW5MYXpqVGFPaldNY3g1RDdOTUpoY190cXRqZWYzMjN4Ul8yMXJRNVRFdWNwUUVITE1UbURXMWxzUEdyczgzTjJNOFRMV1NWcEgyM0NFYlRLYmJ5dG55dUJVLXJUVEFXMVVBREtoTEF5eGhYeUhITGh2TjI0Z29jS2RBT0gwMVo4WjlNbDJ6RHJBM2U4SERBNE8xTWliemtTeHNPU0NmZDllWGhfQTlWWWc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786192808,
-        "data": "08/08/2026 12:40"
-    },
-    {
-        "titulo": "Transporte público será gratuito em Americana nos dias de eleição - Todo Dia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXRJYlRvTFdpcWZpbUdWdGFYTGZZdnA4TkhZSGxnOEJ0WjNwV3VsZlZBMG4xaG1JT2I3T2VGRlBCTUZ3WkVyN1hKS0p1aHJGRjF0SkViR1NFTnMzVC1rSkpWZ0c4NUpIQ2hCaUpLVXJSQmJQb3F0QTBJb24xeDdWamg5SWI0Wk80ZE13YURtdGJKbGVNbno1M0V0ejFEUlFMTTVYYnRjLWFfbEk?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786192200,
-        "data": "08/08/2026 12:30"
     }
 ]
