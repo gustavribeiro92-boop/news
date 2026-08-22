@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Votação para escolher as 7 Maravilhas de Americana vai até terça-feira (25)",
+        "link": "https://novomomento.com.br/votacao-7-maravilhas-americana-vai-ate-terca-25/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787422516,
+        "data": "22/08/2026 18:15"
+    },
+    {
+        "titulo": "Votação para escolher as 7 Maravilhas de Americana vai até terça-feira (25) - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblhuQ2NKeHJza2lLdnZGV255ZDI2UzRFcXQxLWxlMlRCanI3OTJIVHVvLUVIYmwwcHhxTHZZdFhQZzYxYUxFb014MC0yMFRiTi0yRzJaYUlIX3FuaG8xd0g1elliUlNKR3R1WTVsNDVQZlplUTBuRnl1bF9XT3dzMA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787422516,
+        "data": "22/08/2026 18:15"
+    },
+    {
+        "titulo": "Americana divulga cursos online de formação do CULTSP PRO - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMzVBWk56QzItaGFBc0VucWNyU3RpR2pRaGh1RVZ2c3UtbFY5SDk0enBqTW54VDdkRGtkcjU1T3dqSlRSRUhCT0UxZ0FDZGstTlhnd2U5VVNtM0hBSFhfdzFYWUZONnNJT1ExaURaS3N6REJZWW9iY2pQYTN1eUFhakxSZkZIWm1KZUk3bjJpZUtxejNPTGJZeWNWX2xOUVJyejRiOVhXUlFvT21RTnRaYkxuMlRFZUVvYXBPb3E5Yl95YVZBYmlr?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787422380,
+        "data": "22/08/2026 18:13"
+    },
+    {
+        "titulo": "Esther lança campanha com apoio de Giovana e Zé Maria",
+        "link": "https://novomomento.com.br/esther-lanca-campanha-apoio-giovana-e-ze-maria/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787422323,
+        "data": "22/08/2026 18:12"
+    },
+    {
+        "titulo": "PAT de Americana oferece 214 vagas de emprego, estágio e Jovem Aprendiz",
+        "link": "https://rapidonoar.com.br/pat-de-americana-oferece-214-vagas-de-emprego-estagio-e-jovem-aprendiz/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/08/vagas-pat-americana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787421629,
+        "data": "22/08/2026 18:00"
+    },
+    {
+        "titulo": "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono",
+        "link": "https://sb24horas.com.br/lando-norris-faz-a-pole-do-gp-da-holanda-bortoleto-larga-em-nono/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787421378,
+        "data": "22/08/2026 17:56"
+    },
+    {
+        "titulo": "Dono de adega é preso em flagrante por venda de bebida alcoólica a menores em Leme",
+        "link": "https://rapidonoar.com.br/dono-de-adega-e-preso-em-flagrante-por-venda-de-bebida-alcoolica-a-menores-em-leme/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/bebida-alcoolica-a-menores-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787420173,
+        "data": "22/08/2026 17:36"
+    },
+    {
         "titulo": "Homem procurado pela Justiça é preso em bairro de Limeira",
         "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-preso-em-bairro-de-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/procurado-pela-justica-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -54,6 +117,15 @@
         "data": "22/08/2026 14:25"
     },
     {
+        "titulo": "Angra e Malvada agitam 1º dia do Santa Bárbara Rock Fest 2026",
+        "link": "https://portaldeamericana.com/angra-e-malvada-agitam-1o-dia-do-santa-barbara-rock-fest-2026/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/rock-fest.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787407378,
+        "data": "22/08/2026 14:02"
+    },
+    {
         "titulo": "Ruas do São Vito e Vila Franciscangelis recebem asfalto na próxima semana",
         "link": "https://novomomento.com.br/ruas-svito-vila-franciscangelis-asfalto-semana/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
@@ -70,6 +142,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787406840,
         "data": "22/08/2026 13:54"
+    },
+    {
+        "titulo": "PM apreende adolescente por tráfico de drogas em adega de Americana e homem acaba preso - Policial Padrão",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE1pNFBIQkNITDZOMk13Tml6Ri1WRm1vLWp4dTFfM216TjZQQ3pzTkZuWnhxMjQybG9kTk5HaDc0SFd0eTh5dWJIbmF6RlNFajZDSERWR0h5VnBoSzBydWxCQkVkZS1tWDBNeG9ZR0tZMWxyWVlkcEh3U0xLNWo4dGUtYm1hSzYxMk83LVh0TFJ1MUtKTDAxTWhEVDB0dUFwN0lZVnJnVXA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787406176,
+        "data": "22/08/2026 13:42"
     },
     {
         "titulo": "McDia Feliz mobiliza Santa Bárbara e região com solidariedade e esperança no Tivoli Shopping",
@@ -115,6 +196,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787400499,
         "data": "22/08/2026 12:08"
+    },
+    {
+        "titulo": "Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas",
+        "link": "https://portaldeamericana.com/com-autorizacao-de-moraes-bolsonaro-podera-voltar-a-receber-visitas/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/Solar-Brasilia.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787397398,
+        "data": "22/08/2026 11:16"
     },
     {
         "titulo": "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
@@ -511,6 +601,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787336340,
         "data": "21/08/2026 18:19"
+    },
+    {
+        "titulo": "PF aponta Lulinha como beneficiário indireto de negociações de lobista com empresários",
+        "link": "https://portaldeamericana.com/pf-aponta-lulinha-como-beneficiario-indireto-de-negociacoes-de-lobista-com-empresarios/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/Fabio-Luis-Lula-da-Silva.avif&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787336250,
+        "data": "21/08/2026 18:17"
     },
     {
         "titulo": "GAMA reforça armamento com a compra de 5 novos fuzis e 3 carabinas",
@@ -927,6 +1026,15 @@
         "data": "21/08/2026 14:09"
     },
     {
+        "titulo": "Santa Bárbara Rock Fest 2026 começa nesta sexta (21), com recorde de atrações, palco inédito e espaço ampliado",
+        "link": "https://portaldeamericana.com/santa-barbara-rock-fest-2026-comeca-nesta-sexta-21-com-recorde-de-atracoes-palco-inedito-e-espaco-ampliado/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/IMG_2924.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787321312,
+        "data": "21/08/2026 14:08"
+    },
+    {
         "titulo": "Agressor é preso pela GCM de São Pedro após dar socos no seio da esposa e ameaçar testemunhas",
         "link": "https://rapidonoar.com.br/agressor-e-preso-pela-gcm-de-sao-pedro-apos-dar-socos-no-seio-da-esposa-e-ameacar-testemunhas/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/gcm-de-sao-pedro-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -1143,6 +1251,15 @@
         "data": "21/08/2026 11:05"
     },
     {
+        "titulo": "Brazão celebra vaga do Santos na Copa Sul-Americana e mira Brasileirão: \"Agora é cabeça no Mirassol\" - GE",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQc0tYQjQyNGlZb2dqa2tGUHFvT1JySnN4UjJFYkxfTksxMnRoUElsVFhzLTZmeDlOdjMteXVQS2p5R1VFTGZaX000dWhIQzdiMWtqVExMU1lkaC0tNmIxOTBwT2JhdjFfSm9mRE54bmE0cnprUXMxSndPcGRfWndxMDQzZ1IzM0F0QlRvamNoV2o3VlRKbjVHZERnVUMwVEU2MC1lNkRQNVh6eWJZb0RFTzNEWjJWR194U1Q4NFpVSGNRbG5HYnIxby15S2E5QUx0WDFQcmVZcmFaV1BKLWhPMk1RNFNiNUxPb1pvVHgtQUJfMFZ4ZnRoY1FiY2c1YmdTeTBTT0NKckY2d1ZKZXozb9IBnwJBVV95cUxNc0pJNjVHeEdZZExPYXpCWFVjbkQ5VmF2MWRhTnVkNUVxM19CWDlGbU9zWVBpWGFlQzl1RXdISEozdDdnVElXUzJXXzlnN2Y2N2tkMk5BRzl4NFVMQU1pNWVLMzB0bl9HY1hTb2Y4bklfR2pCbVZPXzVtczUwclQ5U0dfQlRLbzZTM0wzbjVVNlllMlo3MlZrRzE5dnVEZHB0aDNlNWVHTUhhZm5pVV9qVjgzczZ6SEJ6VE4tM2dtbU1ydVRJbGZpMFNabTlmeGZmNUpqQ3FXZkd1d3JpeUE3SGd2VXBKNjkxNE45WU02TlR4NWVmczMybFlaZ2xta2RsdXh4T0ZLS1NxTm5LcS1DS2xISHYwOElqNHB3YUxLaw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787310342,
+        "data": "21/08/2026 11:05"
+    },
+    {
         "titulo": "Viver mais, trabalhar mais e planejar melhor: o desafio da longevidade financeira no interior de São Paulo",
         "link": "https://sb24horas.com.br/viver-mais-trabalhar-mais-e-planejar-melhor-o-desafio-da-longevidade-financeira-no-interior-de-sao-paulo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -1269,6 +1386,15 @@
         "data": "21/08/2026 09:23"
     },
     {
+        "titulo": "Americana terá mínima de 11°C no fim de semana",
+        "link": "https://portaldeamericana.com/americana-tera-minima-de-11c-no-fim-de-semana/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/06/IMG_7523.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787304118,
+        "data": "21/08/2026 09:21"
+    },
+    {
         "titulo": "Aril recebe novos uniformes e bolas para equipe de futsal",
         "link": "https://rapidonoar.com.br/aril-recebe-novos-uniformes-e-bolas-para-equipe-de-futsal/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/aril-2-1024x746.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -1294,6 +1420,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1787302894,
         "data": "21/08/2026 09:01"
+    },
+    {
+        "titulo": "GAMA adquire cinco fuzis e três carabinas para reforçar patrulhamento em Americana",
+        "link": "https://portaldeamericana.com/gama-adquire-cinco-fuzis-e-tres-carabinas-para-reforcar-patrulhamento-em-americana/",
+        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/55477095339_76054e9c8e_b.webp&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1787302753,
+        "data": "21/08/2026 08:59"
     },
     {
         "titulo": "TSE proíbe Pablo Marçal de fazer campanha e ir a debates",
@@ -17863,140 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1786202460,
         "data": "08/08/2026 15:21"
-    },
-    {
-        "titulo": "Sessão Pontos MIS exibe documentário nacional “À Margem do Concreto” no MAC Americana - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOakJnNm1hbE5jRG95UnFyTlBoVVJrYXdxN09LZDU4Y0h6TDAzQm5Fal8wYV9ib3hTeWVoaTdpZWNMNGM0RkNERkZBWFhIa0h0YkNySHJXN21yNEplaktwMVRQYktXV1dmN0xFVENkM2lfZHdQeXBzX0JrWHNsLUlPYjQ0bVpvRDhYamtKczJ6Vl9NUjFjMllIMFRrUUt3cWM2MGp6V2EyanFJWkM2V0lfT3FYZTdCdXhnZlBNai1hNG1MV2JqNjJwX0prTHBmNGphMzhKME5MbnJQdDctSHZpUkxiTGlyUHlGQWpDWWtZQVFlXzdENVFNM1ZR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786202400,
-        "data": "08/08/2026 15:20"
-    },
-    {
-        "titulo": "Sessão Pontos MIS exibe documentário nacional “À Margem do Concreto” no MAC Americana - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOakJnNm1hbE5jRG95UnFyTlBoVVJrYXdxN09LZDU4Y0h6TDAzQm5Fal8wYV9ib3hTeWVoaTdpZWNMNGM0RkNERkZBWFhIa0h0YkNySHJXN21yNEplaktwMVRQYktXV1dmN0xFVENkM2lfZHdQeXBzX0JrWHNsLUlPYjQ0bVpvRDhYamtKczJ6Vl9NUjFjMllIMFRrUUt3cWM2MGp6V2EyanFJWkM2V0lfT3FYZTdCdXhnZlBNai1hNG1MV2JqNjJwX0prTHBmNGphMzhKME5MbnJQdDctSHZpUkxiTGlyUHlGQWpDWWtZQVFlXzdENVFNM1ZR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786202400,
-        "data": "08/08/2026 15:20"
-    },
-    {
-        "titulo": "Renan quer mutirão na Praça da Matriz e Rovina discute saúde com governo",
-        "link": "https://novomomento.com.br/renan-quer-mutirao-na-praca-da-matriz-e-rovina/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786201447,
-        "data": "08/08/2026 15:04"
-    },
-    {
-        "titulo": "Pai de Lionel Messi morre aos 68 anos na Argentina",
-        "link": "https://sb24horas.com.br/pai-de-lionel-messi-morre-aos-68-anos-na-argentina/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786200952,
-        "data": "08/08/2026 14:55"
-    },
-    {
-        "titulo": "Covolan está com 4 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-covolan-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Jocle está com 3 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-jocle-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Casa Linda Toalhas está com vaga aberta em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-casa-linda-toalhas-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Ciamarro Textil está com 7 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-ciamarro-textil-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Flamma Gastronomia LTDA está com 2 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-flamma-gastronomia-ltda-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Zaraplast está com 7 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-zaraplast-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Deposito de Bebidas Sao Paulo está com 3 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-deposito-de-bebidas-sao-paulo-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Jocle está com 4 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-jocle-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Ciamarro Textil está com 8 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-ciamarro-textil-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Deposito de Bebidas Sao Paulo está com 4 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-deposito-de-bebidas-sao-paulo-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
-    },
-    {
-        "titulo": "Jocle está com 5 vagas abertas em Santa Bárbara d’Oeste pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-jocle-santa-barbara-d-oeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1786200385,
-        "data": "08/08/2026 14:46"
     }
 ]
