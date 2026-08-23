@@ -1,5 +1,14 @@
 [
     {
+        "titulo": "Relógio avisou que seu coração está batendo diferente. É preciso se preocupar?",
+        "link": "https://novomomento.com.br/relogio-avisou-coracao-batendo-diferente/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787454083,
+        "data": "23/08/2026 03:01"
+    },
+    {
         "titulo": "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição",
         "link": "https://sb24horas.com.br/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -322,6 +331,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787396160,
         "data": "22/08/2026 10:56"
+    },
+    {
+        "titulo": "Dia D de Multivacinação ocorre neste sábado (22) em 31 municípios da região de Campinas - Portal VV8",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWZUMzlxVlJ5eGs0R0VxZW5fX1pfZjNjbHVwSDNZaDJLdDI3dlRjb3pTRGRJOFlJRW9aRGlHbTg0ZS15UC16cVIyRExYdzFleGxmbWFrLTFDelBuVElFQ2JBSVl2OFNoRUItTlUySnl2NHVhNF9yYnFqdEwtQ3c3Q05tRnhwdF8yQUt1NUdkVmhFSTBlY1NrY3FVNGNvaXJFVTJUZVFsMDliMnFPUWlmZ19pVldpYl9saHNDQ2FCdmIzQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787387687,
+        "data": "22/08/2026 08:34"
     },
     {
         "titulo": "Aviação doméstica brasileira tem a maior movimentação em 26 anos",
@@ -17980,23 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1786214460,
         "data": "08/08/2026 18:41"
-    },
-    {
-        "titulo": "Homem é socorrido inconsciente após ser agredido com pedaço de madeira em Piracicaba",
-        "link": "https://rapidonoar.com.br/homem-e-socorrido-inconsciente-apos-ser-agredido-com-pedaco-de-madeira-em-piracicaba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/agredido-com-madeira-em-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786214160,
-        "data": "08/08/2026 18:36"
-    },
-    {
-        "titulo": "Fafá de Belém 70 anos: canções que valorizam a cultura brasileira",
-        "link": "https://novomomento.com.br/fafa-de-belem-70-cancoes-valor-culturabrasileir/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786213991,
-        "data": "08/08/2026 18:33"
     }
 ]
