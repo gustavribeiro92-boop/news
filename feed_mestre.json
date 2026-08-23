@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Pix falha esta manhã e usuários reclamam",
+        "link": "https://novomomento.com.br/pix-falha-esta-manha-e-usuarios-reclamam/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787475934,
+        "data": "23/08/2026 09:05"
+    },
+    {
+        "titulo": "Dia D de Multivacinação aplica cerca de 500 mil doses em São Paulo",
+        "link": "https://novomomento.com.br/dia-d-multivacinacao-aplica-500-mil-dose-spaulo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787474701,
+        "data": "23/08/2026 08:45"
+    },
+    {
+        "titulo": "Robô chinês bate recorde e vence corrida de humandóides",
+        "link": "https://novomomento.com.br/robo-chines-bate-recorde-corrida-de-humandoides/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787472272,
+        "data": "23/08/2026 08:04"
+    },
+    {
+        "titulo": "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão",
+        "link": "https://sb24horas.com.br/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787471197,
+        "data": "23/08/2026 07:46"
+    },
+    {
+        "titulo": "Rodrigo da Horta do Cruzeiro do Sul leva facada no peito e amigos pedem justiça",
+        "link": "https://novomomento.com.br/rodrigo-da-horta-cruzeiro-sul-atac-amig-justica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787470197,
+        "data": "23/08/2026 07:29"
+    },
+    {
         "titulo": "Veja como São Paulo e Chapecoense chegam ao duelo - LANCE!",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYmtkR092NzhXbDl5Vzhad0c3YWFQVzJyVTR0UFlYRmlwejFNQ1dUUFJzdmxCNkJxRjNqSXh2VHo1TXcxNE9qZ3hoMmlfQ01zekpPdEdrcG9Bc1lKeGNYd29aSnlTUTBXWDVpSVNSQi12Q1N4YmNZYWhyYUdpZjFlenJXeGd3VTJCNkFDVEZ4c1VSTGQzOWVrUGZ5WTlRenZ0SXpYMnpxcGFIMXhuY1BOYV91T0d5ampBUHBlNm5SRQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -88,6 +133,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787428980,
         "data": "22/08/2026 20:03"
+    },
+    {
+        "titulo": "Veja mandos das quartas de final da Libertadores e da Sul-Americana - Jornal do Tocantins",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGllZHRvTm5pQWllM2VtZUp5X1E0cXNMYzlzMWZpNlg2TV93MHJGTlJuT1A3ZjZFb0VMN0lwRDktdHVDWUZQWVZ5RF9NOWVxcEVSRW44OG1VQTJ0VmQySHR1NGRDU2lFSGxvekViNV9BczN0bjlhdng5VmJZY3pmRVY1bzRwRFVjd3ZTUHhWdFhpdUlKU01RYlEtU3BkZW01M2pYV0NzSnVXZHFac1ZSVERlQ3J2cFZTY1ZvY0VnVQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787428369,
+        "data": "22/08/2026 19:52"
     },
     {
         "titulo": "Caso Lito (saiba novidades sobre a doença mais mortal de todas)",
@@ -565,6 +619,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787347740,
         "data": "21/08/2026 21:29"
+    },
+    {
+        "titulo": "ALFACE/CEPEA: Clima quente antecipa colheita e derruba preços no cinturão verde paulista - HF Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNE5DWXVQZDZ5LTZ5VlItT2g5cW9KYWsza3ZCcXJhTE81a1Iyc05LWEd1VC14TTZ2eWczNGlxcFlWNlJIMDNwMEhySHF0TFp1LWhiRkF2U0RrTkNTTnFqbjZNcTFlMXdTMzdNd1IxTGI5ZzhMYXJsX1hLZFRfMzFkYXpiMDJMY0dnTGJwOTZrUWZQRmdIZzV0VDQ1YUlMMlFrbVZpY2Z5SUl4dFJDUTREWmJ3TkJYUlFENW1KRGdMWm0?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787347534,
+        "data": "21/08/2026 21:25"
     },
     {
         "titulo": "Antena 10 FM - Antena 10 FM",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1786224293,
         "data": "08/08/2026 21:24"
-    },
-    {
-        "titulo": "Alex Escobar retira tumor após susto na Copa",
-        "link": "https://novomomento.com.br/alex-escobar-retira-tumor-apos-susto-na-copa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786219400,
-        "data": "08/08/2026 20:03"
-    },
-    {
-        "titulo": "Rafinha cobra arbitragem após derrota do São Paulo - LANCE!",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkpjLWRjY1E0QXIzUFctYS1MdlFET0lFTTRzY3ZkeFVJS1M5Y3JqTHZqa2FhS1ppZEhsZWhMNFJfa19QZmJ1blI2TVJjbEN2M0Y0eUpnb05VOUw3MUdxY3o1clktZUdGVjMwRFhBN2sxU2Fwb3pFcl96RmJmMHNnZ3JTbzBCQ29jeXltV2s5RkVnVlVR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786218980,
-        "data": "08/08/2026 19:56"
-    },
-    {
-        "titulo": "DAE Santa Bárbara: capacitação técnica projeta economia anual de R$ 300 mil",
-        "link": "https://novomomento.com.br/dae-sbarbara-capacita-tecnica-economia-r300mil/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786218289,
-        "data": "08/08/2026 19:44"
-    },
-    {
-        "titulo": "Conheça as 12 plataformas digitais gratuitas utilizadas na rede pública de SP para reforçar a aprendizagem - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTURpZm52U3k2OGxleTcwWm1sRXYwUE1ka3pBWlVzNFZXaVAzSzJ0RmFiQWVXeUd5X3FFNXFqbmh4RlRWOERQOGxnWkJ3ZGtydlJVajV1VUVQeUpuaG5yUlJ0VEFWamNFZ0lnVENtWEhTUHlTSmFLWEQ2SnZ5RzlqdVpNaWp5QXhsSWVWTVNGX0lYbERMWllWaGg4eTlRZUMwNVJWMm5zakNQTVZCc3h0M3I1VGNuS3VJWTFHWEdmV2ZaTzc3SU83UWg1R0FxR3BRbXppNW9YX25YSHVHcFZ4dFVYVWMydzFGRlhiUGNoYmpVZkg5SFNNUXlUXzNIZ3NWZlZCamxYdTN6UQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786218120,
-        "data": "08/08/2026 19:42"
-    },
-    {
-        "titulo": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026 - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMDNtRmh1aVpoNnhpVEt4WUtRRDNaaWFXUFdXWGdWRVJwQWd2WjFZTWc4Z0w0TC13cEhkazExTERESVBwRFhqd3l2U2NKXzBkTnVxZFhXejdJczViSGVLeHp0cGp1bk5tVEt1bkFNLTE3ZENkYlI5UDd5eEhrc2NNRkF0ZVBXVFhWMmxKX2YtYkx6VkVXMHV2YUZGTTREMVI0RHFTc3h6YjRMWkM4OUw0MlN5R2lqSEt5bU95MVQ3REFXUTZTUVBiTXNSQktlLTZHVXgxYU9KdU1vRTVWM25WZzhmOA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786217880,
-        "data": "08/08/2026 19:38"
-    },
-    {
-        "titulo": "Feriado de 7 de Setembro: destinos perfeitos no Estado de São Paulo para descansar e renovar as energias - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPU1VISHI4X2I0dmRId0J2X0ZUaHVhTUNiS2FKbWx2Z085SmlfbHVvekk1V1Q1clNjT2lrU1ZhNWEzRm1xekZGc0hKYm9UMG9ZLUtrTjE1cGsySkxHSGItdld0aVZDNVF4RDdKdHNkLVZVMDR1OFdUQ2ZBX1VJekw3RWxTVnVpVzZKSWQ1S0R4dGI2cUlTMmt3MGE0SmxDcFhKLVowYWk1SHh3WWxsbDJqV3h2bGRVNkE4d3hvOTd6V2JTQUlOLTQtaEdmV3p0bmttMEVRODNIOUhnT21HVXBIRVBwM29hMjN3R2ZBY2Q0LTdMdVByRmRPRWxRVnRFQi10RUt4N1RjcEFqcGYzVVE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786215480,
-        "data": "08/08/2026 18:58"
-    },
-    {
-        "titulo": "Feriado de 7 de Setembro: destinos perfeitos no Estado de São Paulo para descansar e renovar as energias - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPU1VISHI4X2I0dmRId0J2X0ZUaHVhTUNiS2FKbWx2Z085SmlfbHVvekk1V1Q1clNjT2lrU1ZhNWEzRm1xekZGc0hKYm9UMG9ZLUtrTjE1cGsySkxHSGItdld0aVZDNVF4RDdKdHNkLVZVMDR1OFdUQ2ZBX1VJekw3RWxTVnVpVzZKSWQ1S0R4dGI2cUlTMmt3MGE0SmxDcFhKLVowYWk1SHh3WWxsbDJqV3h2bGRVNkE4d3hvOTd6V2JTQUlOLTQtaEdmV3p0bmttMEVRODNIOUhnT21HVXBIRVBwM29hMjN3R2ZBY2Q0LTdMdVByRmRPRWxRVnRFQi10RUt4N1RjcEFqcGYzVVE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786215480,
-        "data": "08/08/2026 18:58"
     }
 ]
