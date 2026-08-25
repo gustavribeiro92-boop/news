@@ -1,5 +1,149 @@
 [
     {
+        "titulo": "Americana aprova alteração na regra para pagar ISS",
+        "link": "https://novomomento.com.br/americana-aprova-alteracao-regra-para-pagar-iss/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787677678,
+        "data": "25/08/2026 17:07"
+    },
+    {
+        "titulo": "GCM recupera em Piracicaba caminhão furtado horas antes em Itapetininga",
+        "link": "https://difusorapiracicaba.com.br/semae-investe-r-12-milhao-na-modernizacao-da-cabine-de-forca-da-eta-capim-fino/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1787677200,
+        "data": "25/08/2026 17:00"
+    },
+    {
+        "titulo": "DIG Americana prende investigado por roubo de carga de R$ 1 milhão",
+        "link": "https://novomomento.com.br/dig-americn-prnde-investig-roubo-carga-r1milhao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787677152,
+        "data": "25/08/2026 16:59"
+    },
+    {
+        "titulo": "GWM testa caminhão a hidrogênio de 544 cv puxando cegonheira carregada em SP",
+        "link": "https://rapidonoar.com.br/gwm-testa-caminhao-a-hidrogenio-de-544-cv-puxando-cegonheira-carregada-em-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/caminhao-gwm-gas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787676933,
+        "data": "25/08/2026 16:55"
+    },
+    {
+        "titulo": "Tribunal de Justiça alerta para golpes em falsos leilões, telefonemas, mensagens e sites",
+        "link": "https://rapidonoar.com.br/tribunal-de-justica-alerta-para-golpes-em-falsos-leiloes-telefonemas-mensagens-e-sites/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/01/alerta-de-golpes-tjsp-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787676773,
+        "data": "25/08/2026 16:52"
+    },
+    {
+        "titulo": "Piracicaba encerra comemorações de 259 anos com obras, cultura, esporte e gastronomia",
+        "link": "https://difusorapiracicaba.com.br/piracicaba-encerra-comemoracoes-de-259-anos-com-obras-cultura-esporte-e-gastronomia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1787675400,
+        "data": "25/08/2026 16:30"
+    },
+    {
+        "titulo": "BRK realiza manutenção elétrica preventiva na Estação Elevatória de Água Nossa Senhora das Dores, em Limeira",
+        "link": "https://rapidonoar.com.br/brk-realiza-manutencao-eletrica-preventiva-na-estacao-elevatoria-de-agua-nossa-senhora-das-dores-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/06/brk-ambiental-obra-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787674710,
+        "data": "25/08/2026 16:18"
+    },
+    {
+        "titulo": "Santa Bárbara vai ter leilão de 310 carros apreendidos pela Guarda",
+        "link": "https://novomomento.com.br/santa-barbara-leilao-310-carro-apreendid-guarda/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787673916,
+        "data": "25/08/2026 16:05"
+    },
+    {
+        "titulo": "Mãe esfaqueia homem após denúncia de abuso contra filha de 5 anos",
+        "link": "https://rapidonoar.com.br/mae-esfaqueia-homem-apos-denuncia-de-abuso-contra-filha-de-5-anos/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/face-influenciadora-franca-facada-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787673628,
+        "data": "25/08/2026 16:00"
+    },
+    {
+        "titulo": "SUS oferece teleatendimentos de saúde mental para mulheres em situação de violência e mães atípicas",
+        "link": "https://difusorapiracicaba.com.br/sus-oferece-teleatendimentos-de-saude-mental-para-mulheres-em-situacao-de-violencia-e-maes-atipicas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1787673600,
+        "data": "25/08/2026 16:00"
+    },
+    {
+        "titulo": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
+        "link": "https://sb24horas.com.br/arrecadacao-federal-cresce-897-em-julho-e-chega-a-r-2893-bilhoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787672604,
+        "data": "25/08/2026 15:43"
+    },
+    {
+        "titulo": "Campinas tem mais de 30 mortes provocadas pelo vírus da gripe neste ano",
+        "link": "https://rapidonoar.com.br/campinas-tem-mais-de-30-mortes-provocadas-pelo-virus-da-gripe-neste-ano/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/vacina-conrra-a-gripe-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787672065,
+        "data": "25/08/2026 15:34"
+    },
+    {
+        "titulo": "Centro de Especialidades Odontológicas ultrapassa marca de 100 mil procedimentos",
+        "link": "https://novomomento.com.br/centro-especial-odonto-mil-procedimentos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787671947,
+        "data": "25/08/2026 15:32"
+    },
+    {
+        "titulo": "Sumaré bate Campinas (4&#215;3) e vai à final da Copa Futsal SP",
+        "link": "https://novomomento.com.br/sumare-bate-campinas-4x3-final-copa-futsal-sp/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787671931,
+        "data": "25/08/2026 15:32"
+    },
+    {
+        "titulo": "Larissa Manoela deixa cinebiografia de Carmen Miranda; entenda o motivo",
+        "link": "https://difusorapiracicaba.com.br/larissa-manoela-deixa-cinebiografia-de-carmen-miranda-entenda-o-motivo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1787671800,
+        "data": "25/08/2026 15:30"
+    },
+    {
+        "titulo": "EXPOSIBRAM 2026 reúne líderes da mineração brasileira em Fórum inédito de CEOs",
+        "link": "https://hjnews.com.br/exposibram-2026-reune-lideres-da-mineracao-brasileira-em-forum-inedito-de-ceos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1787671597,
+        "data": "25/08/2026 15:26"
+    },
+    {
         "titulo": "Morre Dolly Parton, 80, ícone do country nos EUA",
         "link": "https://novomomento.com.br/morre-dolly-parton-80-icone-do-country-nos-eua/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -17854,149 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1786443398,
         "data": "11/08/2026 10:16"
-    },
-    {
-        "titulo": "Mulher é presa após atacar outra mulher com golpes de faca em Leme",
-        "link": "https://rapidonoar.com.br/mulher-e-presa-apos-atacar-outra-mulher-com-golpes-de-faca-em-leme/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/estaqueamento-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786443078,
-        "data": "11/08/2026 10:11"
-    },
-    {
-        "titulo": "Unacon de Americana promove ação de doação gratuita de perucas para pacientes oncológicos - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIUGxuZk5wQWEtRHJMSzFnZDdZU05sZjk4cmtZZEhWa3lNVmNJMnVXaTdsY1g0ampwNzZCNFhqSXBlVlpwcEt5NGhDcm44RUxHQ3c1OFpxR1VGZVpTUnFueHZwblpEcm9qdS12Mjh3eGZ0NmZlbkhDblh3?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786442820,
-        "data": "11/08/2026 10:07"
-    },
-    {
-        "titulo": "Jhonatan, 27, motociclista morto após ser &#8216;atropelado&#8217; por motorista embriagado",
-        "link": "https://novomomento.com.br/jhonatan-27-morto-atropelado-motorista-embrigdo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786442643,
-        "data": "11/08/2026 10:04"
-    },
-    {
-        "titulo": "São Paulo terá novidade contra o Bolívar na Copa Sul-Americana; veja escalação - terra.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSDBBNmFFTUNMTHZaQmRnQjAxZ1g2cjZ1TTlYQ2hnOUtSMzljcjlLZUhQVEVaeXBQUmtFRHdPV1JpTDMxSmxQUFFuaFJQQy1RMFNnbDM3eWJ1NkpVVEtoZldkNnBPSG5zSEtPWTdxcm5FdzhNSjVhWnNqY0pDX3lpVGJHQjhzWGxtMnhoRV9JSy1hXzBmUmxRc0dsZ1VaWGViRWJreHVpamtUNnQ3M0lkVF9yd3F4Y0tkNFh5cTNROUtCTzFTV182dVNqeC1ENEQ2TXF0TXpVQjZhbUx1Y0lXTzRfb3M4ZUtwQjNGT1NUYXNSM0ExVXhXZnQ1aw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786442160,
-        "data": "11/08/2026 09:56"
-    },
-    {
-        "titulo": "Motorista embriagado avança PARE e provoca morte de jovem em Santa Bárbara",
-        "link": "https://portaldeamericana.com/motorista-embriagado-avanca-pare-e-provoca-morte-de-jovem-em-santa-barbara/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/IMG_2314.png&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1786441302,
-        "data": "11/08/2026 09:41"
-    },
-    {
-        "titulo": "São Paulo vê Sul-Americana como 'salvação' da temporada em meio a jejum - uol.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUjgxMWdUOXBtRjN4UklvQTV0a0N6OTVVR21sZEVuSko3T2NXRFpLWDBNbnRQbDNaaHVuV01uYjNtMTB5UmZDNlBXQjJsT3BhV3FwMHBHcl9OMHJXWTB3aTB5TU1wOGtkWG1hSEFWZ1NOOHFVUk11OG9PWkNnQWJWUTJ3UmVtTVBMdnlIX2pZNzdMVEd1NHdBX1F5YmVtV0RVVkV1VFVXQURJRkZqYVhPVWF2N20xRjZLUVphbV82RWxJdURXNnRlNzdFRUJldXptbnBMZUVxNFQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786440600,
-        "data": "11/08/2026 09:30"
-    },
-    {
-        "titulo": "PagueMenos adota 5&#215;2, mas em Ribeirão Preto",
-        "link": "https://novomomento.com.br/paguemenos-adota-5x2-mas-em-ribeirao-preto/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786440171,
-        "data": "11/08/2026 09:22"
-    },
-    {
-        "titulo": "Homem procurado pela Justiça é preso durante cumprimento de mandado em Limeira",
-        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-preso-durante-cumprimento-de-mandado-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786438049,
-        "data": "11/08/2026 08:47"
-    },
-    {
-        "titulo": "Homem procurado pela Justiça é preso durante cumprimento de mandado em Limeira",
-        "link": "https://rapidonoar.com.br/homem-procurado-pela-justica-e-preso-durante-cumprimento-de-mandado-em-limeira-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/03/policia-civil-sp-prisao-policial-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786438049,
-        "data": "11/08/2026 08:47"
-    },
-    {
-        "titulo": "Câmara de Sumaré vota homenagens com nomes de ruas",
-        "link": "https://novomomento.com.br/camara-sumare-vota-homenagens-com-nomes-de-ruas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786437554,
-        "data": "11/08/2026 08:39"
-    },
-    {
-        "titulo": "Biblioteca Municipal de Americana recebe exposição de artista americanense - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IemI2S19yTW9VVFB4VmFhc3o1TWJueVFjTEhBaVFteFZpNUVFenZMTVFzTVNDUmtST0VjNkNpQTl6eENUNm1CeDZMMmtCU2V6Ql9lRGRsQTAzeTFqN3RiREFLdjJmYkRYWmxseDJRd01JMFIxOXM3Q3pR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786437000,
-        "data": "11/08/2026 08:30"
-    },
-    {
-        "titulo": "Av. Raphael Vitta será interditada parcialmente para limpeza do córrego Pyles nesta quarta e quinta-feira",
-        "link": "https://hjnews.com.br/av-raphael-vitta-sera-interditada-parcialmente-para-limpeza-do-corrego-pyles-nesta-quarta-e-quinta-feira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1786436934,
-        "data": "11/08/2026 08:28"
-    },
-    {
-        "titulo": "Prefeitura abre inscrições para o Encontro de Canto Coral de Americana",
-        "link": "https://hjnews.com.br/prefeitura-abre-inscricoes-para-o-encontro-de-canto-coral-de-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1786436732,
-        "data": "11/08/2026 08:25"
-    },
-    {
-        "titulo": "Clubes aprovam adoção de novas regras contra cera no Campeonato Brasileiro",
-        "link": "https://hjnews.com.br/clubes-aprovam-adocao-de-novas-regras-contra-cera-no-campeonato-brasileiro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1786436286,
-        "data": "11/08/2026 08:18"
-    },
-    {
-        "titulo": "Prefeitura abre inscrições para o Encontro de Canto Coral de Americana - Prefeitura de Americana",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41ajhLT3V2WDVsMEp3enJSVFNubWFaWmZQY1VvUnlsQ1ptcHpDLWV1dDRDbDV5dGc0RVhFRXNkV2tzOXpIaWFXMTRsbm1ZTGJvbnNrU2VqSnY1czZfYklyakFIY2Nxa2Y3ODNjNEI2ekE4LUJSSjBhUXBR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786436160,
-        "data": "11/08/2026 08:16"
-    },
-    {
-        "titulo": "Prefeitura abre inscrições para o Encontro de Canto Coral de Americana - americana.sp.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41ajhLT3V2WDVsMEp3enJSVFNubWFaWmZQY1VvUnlsQ1ptcHpDLWV1dDRDbDV5dGc0RVhFRXNkV2tzOXpIaWFXMTRsbm1ZTGJvbnNrU2VqSnY1czZfYklyakFIY2Nxa2Y3ODNjNEI2ekE4LUJSSjBhUXBR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786436160,
-        "data": "11/08/2026 08:16"
     }
 ]
