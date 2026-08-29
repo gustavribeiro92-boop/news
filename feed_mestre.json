@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "Brutos Futsal estreia com derrota na Liga Campineira Feminina",
+        "link": "https://rapidonoar.com.br/brutos-futsal-estreia-com-derrota-na-liga-campineira-feminina/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/brutos-fem-1024x752.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787993182,
+        "data": "29/08/2026 08:46"
+    },
+    {
+        "titulo": "Sem vencer há quatro meses, São Paulo recebe o Red Bull",
+        "link": "https://rapidonoar.com.br/sem-vencer-ha-quatro-meses-sao-paulo-recebe-o-red-bull/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/luciano-5-1024x785.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1787992882,
+        "data": "29/08/2026 08:41"
+    },
+    {
+        "titulo": "Programa de renegociação de dívidas termina nesta segunda-feira",
+        "link": "https://sb24horas.com.br/programa-de-renegociacao-de-dividas-termina-nesta-segunda-feira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787991899,
+        "data": "29/08/2026 08:24"
+    },
+    {
+        "titulo": "Governo Federal disponibiliza Guia De Proteção a Jornalistas no Período Eleitoral",
+        "link": "https://novomomento.com.br/governo-guia-protecao-jornalista-perd-eleitoral/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787990951,
+        "data": "29/08/2026 08:09"
+    },
+    {
+        "titulo": "Zeca Baleiro e Elba Ramalho agitam 1a noite do Roteiro Gastronômico 2026",
+        "link": "https://novomomento.com.br/zeca-baleiro-elba-agita-1noite-roteiro-gastro26/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787990044,
+        "data": "29/08/2026 07:54"
+    },
+    {
+        "titulo": "Zeca Baleiro e Elba Ramalho agitam primeira noite do Roteiro Gastronômico de Americana 2026 - Keller Stocco",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTy1tV0tvaGh3ekNZdC1ybjc0ZmN5aTFSTnFlbzhocXhKY2I3RU9ZYzJVTU0zTDZWVTNLdUZIckkwaGlPbEpqYXNoSnY1LXEzVXdCSS1CYVZxMVlTVEJLSE1xMTBSZXBGU3VXYWpSUUh6VFlnTzRfdlhabU44ek5TUUVrT3owVUlXNlBTUVJsekx3elVESjZvVXJLTGlTemc5bVJOTVpzSDRTdWY3Wm1KX0FULWZmNW0yRnFOaA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787986337,
+        "data": "29/08/2026 06:52"
+    },
+    {
+        "titulo": "&#8220;A Bela e a Fera&#8221; em Americana hoje e amanhã",
+        "link": "https://novomomento.com.br/a-bela-e-a-fera-em-americana-hoje-e-amanha/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787985132,
+        "data": "29/08/2026 06:32"
+    },
+    {
+        "titulo": "Vacinas: quando é seguro e quando é preciso esperar?",
+        "link": "https://novomomento.com.br/vacinas-seguro-quando-preciso-esperar/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787976375,
+        "data": "29/08/2026 04:06"
+    },
+    {
+        "titulo": "Dólar sobe a R$ 5,19 após tom mais duro de presidente do Fed",
+        "link": "https://sb24horas.com.br/dolar-sobe-a-r-519-apos-tom-mais-duro-de-presidente-do-fed/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787975939,
+        "data": "29/08/2026 03:58"
+    },
+    {
+        "titulo": "Brasil garante 3 bronzes na abertura do Grand Slam de judô na Suíça",
+        "link": "https://sb24horas.com.br/brasil-garante-3-bronzes-na-abertura-do-grand-slam-de-judo-na-suica/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1787969184,
+        "data": "29/08/2026 02:06"
+    },
+    {
+        "titulo": "Selmi amplia conexões internacionais em jantar com Embaixada",
+        "link": "https://novomomento.com.br/selmi-conexoes-internacionais-embaixada/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1787968813,
+        "data": "29/08/2026 02:00"
+    },
+    {
         "titulo": "Ciclista de 17 anos é atropelado e motorista deixa local sem prestar socorro em Limeira",
         "link": "https://rapidonoar.com.br/ciclista-de-17-anos-e-atropelado-e-motorista-deixa-local-sem-prestar-socorro-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/img-20260829-wa0004-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -351,6 +450,15 @@
         "data": "28/08/2026 17:35"
     },
     {
+        "titulo": "Bárbaros BBQ volta a Americana para celebrar 10 anos - Giro19",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2pRQmtMRTR6U2E0SzI4Z1liRmFYR0NKSmNCbGZQVnBsQnlRNlAzYll0Z0hxSE9OcDRFMkVFeUhid0VyYU1NM2JNTndkYnQ5YXBUVmt2U0ZJMklpUG1RYzI3bjM4TlJrSDU4ZjJQSDdnSl9TMjVPQTJ1WUFGRjBTRXh1d2t2ak1wc09IV2EwTUNRdGJCMG9Xc1pzWi00MHVnSGcyMWJmNFdOakxE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787938080,
+        "data": "28/08/2026 17:28"
+    },
+    {
         "titulo": "7 de Setembro: Desfile Cívico em Americana terá participação de 40 grupos - Jornal Americanense",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjZobzNuLUdtRC1CUk9mOTJ3ZTVSbk44UHJaVVFxQ0V2YjYzS2lfWk1ydG02NUFveU5WUTRxRTFUMDBvNTMtSVVpQ3R3UmhpeUhrYnZGVVdTeHZJVENtZWdzTFc3a244eVE2M0xSZHpVMGFwUXAtR2UwRkxYM2ZGelZUbHpGX1hNdTRJaVo2UmxYRGMtT3NPby1jM1hlTnhMMzVxLUlPalJsMWU2M0VfTGk2aXlGdw?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -547,6 +655,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1787925600,
         "data": "28/08/2026 14:00"
+    },
+    {
+        "titulo": "Empresário que matou mulher a facadas disse ter agido no calor da discussão - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVlNlT29DaEY0dkREempIeThOX2J3N25xNV96dHRuV1NydlNpWkJLWGNEbjBRSENmVUd4dkVGSm5QTjVwRnVuVG0yWEpTUFBjYXhXVVd3TE5PYlV4VGZ1UTlXRTlZakRwV2g3R2ktamZyekpVQ19MUVFMbWFnZExFaFkwRjRNNnREMkdQdmpSTUtPT3o4TWVwU29kTFU0R1MzcTVQRlI1VXhjSEpENDE2RTRBVUhLdEtpRU14dll2cnUyQVlSY0U2d3ZLNmdMZHFrck13QnB4ejBUZk9Sd3BZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1787925240,
+        "data": "28/08/2026 13:54"
     },
     {
         "titulo": "Pele acneica exige mais do que controle da oleosidade: rotina adequada e informação fazem diferença",
@@ -17881,122 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1786625849,
         "data": "13/08/2026 12:57"
-    },
-    {
-        "titulo": "Estudos para construção de Complexo Esportivo projetado por Niemeyer são retomados em Limeira",
-        "link": "https://rapidonoar.com.br/estudos-para-construcao-de-complexo-esportivo-projetado-por-niemeyer-sao-retomados-em-limeira-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/projeto-de-construcao-de-complexo-esportivo-em-limiera-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1786625642,
-        "data": "13/08/2026 12:54"
-    },
-    {
-        "titulo": "Zoo Americana conclui ciclo de vermifugação das aves - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUdRekx3U2l0eGMwalA5TVRWSnBkeU5KNE1HT3BDWUVpZ2lVdHpfUGUzZE5HaTBZbDc4MXZ4MzdVei1xZE5FcXFhSko2OUpYeEtiY2J2QmRiUWRyeUhBMHBHbUJES2V5dXJUNmVSRkJsNUlta3BTanh2cUhVY2s3UGgwNEo0cm1lUGVrdG9qa1hCUy1tb21YTnNabFE4ajBfcVhKUEVaWVVuenRWWlExYy1HT2tpcjJEVW1qLV9NaXc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786625280,
-        "data": "13/08/2026 12:48"
-    },
-    {
-        "titulo": "Cruzeiro e Flamengo empatam pelas oitavas de final da Libertadores",
-        "link": "https://sb24horas.com.br/cruzeiro-e-flamengo-empatam-pelas-oitavas-de-final-da-libertadores/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786624319,
-        "data": "13/08/2026 12:31"
-    },
-    {
-        "titulo": "Banco de Sangue do HM começa a adotar novos critérios para doação de sangue",
-        "link": "https://hjnews.com.br/banco-de-sangue-do-hm-comeca-a-adotar-novos-criterios-para-doacao-de-sangue/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1786624246,
-        "data": "13/08/2026 12:30"
-    },
-    {
-        "titulo": "Comer ovos 5 vezes por semana reduz em 27% o risco de Alzheimer, revela estudo",
-        "link": "https://sb24horas.com.br/comer-ovos-5-vezes-por-semana-reduz-em-27-o-risco-de-alzheimer-revela-estudo/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786623993,
-        "data": "13/08/2026 12:26"
-    },
-    {
-        "titulo": "DAE de Santa Bárbara d’Oeste recebe equipe do SAAE de Volta Redonda (RJ) para troca de experiências",
-        "link": "https://sb24horas.com.br/dae-de-santa-barbara-doeste-recebe-equipe-do-saae-de-volta-redonda-rj-para-troca-de-experiencias/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786623823,
-        "data": "13/08/2026 12:23"
-    },
-    {
-        "titulo": "Vacinação contra a gripe segue disponível para toda a população em Santa Bárbara d’Oeste",
-        "link": "https://sb24horas.com.br/vacinacao-contra-a-gripe-segue-disponivel-para-toda-a-populacao-em-santa-barbara-doeste/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786623737,
-        "data": "13/08/2026 12:22"
-    },
-    {
-        "titulo": "Quem responde pelos golpes via Pix?",
-        "link": "https://novomomento.com.br/quem-responde-pelos-golpes-via-pix/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786622899,
-        "data": "13/08/2026 12:08"
-    },
-    {
-        "titulo": "Paula Fernandes celebra parceria com Ana Castela em DVD: “Sensação de missão cumprida”",
-        "link": "https://difusorapiracicaba.com.br/paula-fernandes-celebra-parceria-com-ana-castela-em-dvd-sensacao-de-missao-cumprida/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1786622400,
-        "data": "13/08/2026 12:00"
-    },
-    {
-        "titulo": "Arnaldo cobra carteirinha pro povo da fibromialgia em Santa Bárbara",
-        "link": "https://novomomento.com.br/arnaldo-cobra-carteirinha-fibromialgia-sbarbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1786622044,
-        "data": "13/08/2026 11:54"
-    },
-    {
-        "titulo": "ABBA Hits leva clássicos que atravessam gerações ao Tivoli Shopping em show gratuito",
-        "link": "https://sb24horas.com.br/abba-hits-leva-classicos-que-atravessam-geracoes-ao-tivoli-shopping-em-show-gratuito/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786621940,
-        "data": "13/08/2026 11:52"
-    },
-    {
-        "titulo": "Polícia Militar prende três procurados pela justiça na região do 19º Batalhão - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRmZDUGZnVXJyS2ttM1F0NVROczlrQ0FkVWVjd2tfc0d3Wmd5YzFFRmxrUmFmcXhKek03X0NlOHJ0VlZXTC0xVHpsLURCSDE5Z1NHVmlkWVVsVEM0UENNQkVDbkxDemNVRGVURnZoR2dwNkw3LVUxbXA0d01vLTdsdjE0a3VmWE84blFvWEdnV0RGRzUyZUN5WUpaeEVlQVltOE04QVBGdG9WQU8yVjBWdUE0N2NJX1dtWDVwNFJsdHVsVTA0MGVpQjU5eDlFYzc0WjB4MkRwejlheWY1Xzh1TGxPMTRyZlE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1786621920,
-        "data": "13/08/2026 11:52"
-    },
-    {
-        "titulo": "Suzano reporta EBITDA ajustado de R$4,7 bilhões no segundo trimestre de 2026",
-        "link": "https://sb24horas.com.br/suzano-reporta-ebitda-ajustado-de-r47-bilhoes-no-segundo-trimestre-de-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1786621512,
-        "data": "13/08/2026 11:45"
     }
 ]
