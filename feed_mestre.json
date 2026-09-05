@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "Apenas três animais são adotados em evento realizado no Parque Cidade de Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/09/05/apenas-tres-animais-sao-adotados-em-evento-realizado-no-parque-cidade-de-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1788633248,
+        "data": "05/09/2026 18:34"
+    },
+    {
+        "titulo": "Alison Piu campeão da temporada 2026 da Diamond League",
+        "link": "https://novomomento.com.br/alison-piu-campeao-temporada26-diamond-league/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788631312,
+        "data": "05/09/2026 18:01"
+    },
+    {
+        "titulo": "Homem é preso pela GCM de Limeira após agredir a companheira com golpes na cabeça",
+        "link": "https://rapidonoar.com.br/homem-e-preso-pela-gcm-de-limeira-apos-agredir-a-companheira-com-golpes-na-cabeca/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/violencia-domestica-condominio-rubi-limeira-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788630805,
+        "data": "05/09/2026 17:53"
+    },
+    {
+        "titulo": "DAE realiza 277 consertos de vazamentos de água em oito dias",
+        "link": "https://novomomento.com.br/dae-277-consertos-vazamentos-de-agua-oito-dias/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788630610,
+        "data": "05/09/2026 17:50"
+    },
+    {
+        "titulo": "PM de Piracicaba prende condutor de Gol com 435 porções de drogas",
+        "link": "https://rapidonoar.com.br/pm-de-piracicaba-prende-condutor-de-gol-com-435-porcoes-de-drogas/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/trafico-gordela-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788627693,
+        "data": "05/09/2026 17:01"
+    },
+    {
         "titulo": "Observatório Municipal registra fotografia do maior aglomerado de estrelas do céu",
         "link": "https://novomomento.com.br/observatorio-municipal-fotografia-estrelas-ceu/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -34,6 +79,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1788622286,
         "data": "05/09/2026 15:31"
+    },
+    {
+        "titulo": "São Paulo abre espaço para três jovens antes do confronto com o Boca Juniors; veja - Terra",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZmwtVHhoVVIyY0tXUldXS1VmVi1oRDV3eXY5YWRCaENSMDhyb3FHLWZCVWZUUVZGTkNfY0IwNy1FcXhrR3ZYV08xSy1IR25pQkdMLUZwM2VadnpnLW9TTEtDMi1QY0VMNG9CSWZHNXNhcmF2M2QzVFRNdFRzVXpTY2g0WkZ6RUVhalc0T2NjclVXNzVEb1pRTGpwelRhTkRqM18tVThZSG5LcURvZ192aW8xdVllSDFqNm1yNTJVTlZvcU53MFFaX29Ra2U2RktOMkxzMmdFQ0lxMkNtd21jUlJ5U25RbExxSGlwVllGVXA5TUc0amdQeUV2ZTV0QVRs?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788621180,
+        "data": "05/09/2026 15:13"
     },
     {
         "titulo": "Buraco ‘engole’ pneu de carro no Olga Veroni em Limeira",
@@ -718,6 +772,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1788536964,
         "data": "04/09/2026 15:49"
+    },
+    {
+        "titulo": "Secretaria de Meio Ambiente realiza vivência de educação ambiental com frequentadores do SOMA Adulto - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDWWl6ZWRaQmpzUXk3SnBwdjYwZHhHWi10Wk1mYmpfa3F3OHZVMkgxWDNEVVphclQ2Z1I0R3hZYl8zUmIzNmhIU29GZFF2a0VHN3VrRXkwbng4WWhTcm1pNEJ5cG8zaTl2d1h4V3ZXR2JMNTBhZy1KMXN3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788536580,
+        "data": "04/09/2026 15:43"
     },
     {
         "titulo": "Bancos não terão atendimento presencial no feriado da Independência",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1787175608,
         "data": "19/08/2026 21:40"
-    },
-    {
-        "titulo": "Após batida, carro invade loja e ‘estaciona’ certinho entre veículos à venda em Bauru",
-        "link": "https://rapidonoar.com.br/apos-batida-carro-invade-loja-e-estaciona-certinho-entre-veiculos-a-venda-em-bauru/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/acidente-carro-flagra-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1787174911,
-        "data": "19/08/2026 21:28"
-    },
-    {
-        "titulo": "Trem da República lança 'Trilhos e Taças' pacote turístico que une universo ferroviário ao dos vinhos - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOckdkdnJYenlNYzBReE5zNzlMOHg0SjJiRFhnQXYtbkZjclV4c1M1ZXlvelFGYzNrY19CcEE2TUhvY2stVVZLVjc0bE1LdHBDekR1S0RuMUk1N3I1UHFxUFBfSXotZUZWNjhiUVdoSG1heWtpcl9SYUtvY0pYaWJZZTF1Y2J1emJkX3dwakVKSU9qeUppVm95a3hWNzg1RnhNN0psZ2dVWTVKRUtaQ1ZyLWhncnUtemhvWXNMWnctV2pSdUNpQ2JjUGlueENyNFpiTzItRDFPY0FKLXgtQUJUZUVhODg1X2lPWDMzd0tNMGZzdkN4Ym1QZU55NnlrUFdWcTNTSXVoa01zRWprWlVjVkZQTXdHUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787173680,
-        "data": "19/08/2026 21:08"
-    },
-    {
-        "titulo": "Trem da República lança 'Trilhos e Taças' pacote turístico que une universo ferroviário ao dos vinhos - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOckdkdnJYenlNYzBReE5zNzlMOHg0SjJiRFhnQXYtbkZjclV4c1M1ZXlvelFGYzNrY19CcEE2TUhvY2stVVZLVjc0bE1LdHBDekR1S0RuMUk1N3I1UHFxUFBfSXotZUZWNjhiUVdoSG1heWtpcl9SYUtvY0pYaWJZZTF1Y2J1emJkX3dwakVKSU9qeUppVm95a3hWNzg1RnhNN0psZ2dVWTVKRUtaQ1ZyLWhncnUtemhvWXNMWnctV2pSdUNpQ2JjUGlueENyNFpiTzItRDFPY0FKLXgtQUJUZUVhODg1X2lPWDMzd0tNMGZzdkN4Ym1QZU55NnlrUFdWcTNTSXVoa01zRWprWlVjVkZQTXdHUQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787173680,
-        "data": "19/08/2026 21:08"
-    },
-    {
-        "titulo": "Palmeiras vence no Paraguai e avança (1-0)",
-        "link": "https://novomomento.com.br/palmeiras-vence-no-paraguai-e-avanca-1-0/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787173630,
-        "data": "19/08/2026 21:07"
-    },
-    {
-        "titulo": "Colisão entre moto e carro deixa casal ferido no Nova Itália em Limeira",
-        "link": "https://rapidonoar.com.br/colisao-entre-moto-e-carro-deixa-casal-ferido-no-nova-italia-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/colisao-vitima-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1787172728,
-        "data": "19/08/2026 20:52"
-    },
-    {
-        "titulo": "O design que protagoniza as estantes nos projetos de interiores",
-        "link": "https://novomomento.com.br/design-protagoniza-estantes-projetos-interiores/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787172649,
-        "data": "19/08/2026 20:50"
-    },
-    {
-        "titulo": "Rodada ajuda e Flamengo volta a depender apenas de si no Brasileirão",
-        "link": "https://sb24horas.com.br/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1787172321,
-        "data": "19/08/2026 20:45"
     }
 ]
