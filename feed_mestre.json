@@ -1,5 +1,59 @@
 [
     {
+        "titulo": "Observatório Municipal registra fotografia do maior aglomerado de estrelas do céu",
+        "link": "https://novomomento.com.br/observatorio-municipal-fotografia-estrelas-ceu/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788624302,
+        "data": "05/09/2026 16:05"
+    },
+    {
+        "titulo": "Jr Dias pede câmeras no viaduto Centenário em Americana",
+        "link": "https://novomomento.com.br/jr-dias-pede-cameras-viaduto-centenario-americn/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788623556,
+        "data": "05/09/2026 15:52"
+    },
+    {
+        "titulo": "Limeira se despede de ‘Turbina’, um dos primeiros moradores do Abílio Pedro em Limeira",
+        "link": "https://rapidonoar.com.br/limeira-se-despede-de-turbina-um-dos-primeiros-moradores-do-abilio-pedro-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/morte-turbina-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788622514,
+        "data": "05/09/2026 15:35"
+    },
+    {
+        "titulo": "Ex-técnico da Seleção, Parreira recebe alta após 80 dias internado",
+        "link": "https://sb24horas.com.br/ex-tecnico-da-selecao-parreira-recebe-alta-apos-80-dias-internado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1788622286,
+        "data": "05/09/2026 15:31"
+    },
+    {
+        "titulo": "Buraco ‘engole’ pneu de carro no Olga Veroni em Limeira",
+        "link": "https://rapidonoar.com.br/buraco-engole-pneu-de-carro-no-olga-veroni-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/pneu-de-carro-em-buraco-olga-veroni-03-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788620294,
+        "data": "05/09/2026 14:58"
+    },
+    {
+        "titulo": "Treinamento no HM reforça preparo para casos de sepse",
+        "link": "https://novomomento.com.br/treinamento-hm-reforca-casos-sepse/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788619762,
+        "data": "05/09/2026 14:49"
+    },
+    {
         "titulo": "Brasil testa plataforma para pesquisas em microgravidade no espaço",
         "link": "https://sb24horas.com.br/brasil-testa-plataforma-para-pesquisas-em-microgravidade-no-espaco/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17944,59 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1787172321,
         "data": "19/08/2026 20:45"
-    },
-    {
-        "titulo": "Veja os gols do São Paulo pela Copa Sul-americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2tiWmRqbVQxY3RCZy01ZXB4UnhqVi1PVmV0ckxOcEdXZy01Mm9VbHM5ZHJGN3hzNHpZVWwySWV5UUpKUVAwb185Wk9Ic1R0RjZBUXVyaHVnUFZ0dEp5NDNidkV0enVrVTYzbWxWdDNGVVNqVUFwTndNREE1QncxQl9VVkdoczNSNTJEcnJIWHZOcFNESHBrS2dlcXROY19fTnN3dDNZTEkzU2hjSUoxTk5fbzRPWnIxYjNpbVpXMG5GMS1wY251UFg1OXcwLTNINDRJUkRmbjdrOEVuaDQwTk5pajB0VXPSAecBQVVfeXFMTWdrYlpkam1UMWN0QmctNWVweFJ4alYtT1ZldHJMTnBHV2ctNTJvVWxzOWRyRjd4czR6WVVsMklleVFKSlFQMG9fOVpPSHNUdEY2QVF1cmh1Z1BWdHRKeTQzYnZFdHp1a1U2M21sVnQzRlVTalVBcE53TURBNUJ3MUJfVVZHaHMzUjUyRHJySFh2TnBTREhwa0tnZXF0TmNfX05zd3QzWUxJM1NoY0lKMU5OX280T1pyMWIzaW1aVzBuRjEtcGNudVBYNTl3MC0zSDQ0SVJEZm43azhFbmg0ME5OaWowdFVz?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787171472,
-        "data": "19/08/2026 20:31"
-    },
-    {
-        "titulo": "McDia Feliz mobiliza Americana Shopping em ação de solidariedade e diversão para toda a família - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHV1NlBYeFpMandubEE4N2FRU2VocUp2NzZ5UW9WZi1XXzFVR0wtRnBLLUNOT1BsUWxlV1A1RDhYSkUzYTVwcEp4VmE2Mng2Yy1zS09QY2VZZDFDVmtZZ2M3bmRGR2ZETUFQZlVrdFJqVkdNd3ZQcXU1NXVRajhnTjhzaVJhSS1vdHl4Z3FOZFFiYUxtOE9lSjYtQkluS2ozSmlMNWlCbThXdjBEcUFWSkJacE1kc1lRT2NfY3ZiVzM5MHdxOXlMbVgzZHE4MDk2SUpZUzUwS2JSeWpsNW5QenlRUmpNem8xSmhNRUl0d2JfaVhHbkpyX3FR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787171100,
-        "data": "19/08/2026 20:25"
-    },
-    {
-        "titulo": "McDia Feliz mobiliza Americana Shopping em ação de solidariedade e diversão para toda a família - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHV1NlBYeFpMandubEE4N2FRU2VocUp2NzZ5UW9WZi1XXzFVR0wtRnBLLUNOT1BsUWxlV1A1RDhYSkUzYTVwcEp4VmE2Mng2Yy1zS09QY2VZZDFDVmtZZ2M3bmRGR2ZETUFQZlVrdFJqVkdNd3ZQcXU1NXVRajhnTjhzaVJhSS1vdHl4Z3FOZFFiYUxtOE9lSjYtQkluS2ozSmlMNWlCbThXdjBEcUFWSkJacE1kc1lRT2NfY3ZiVzM5MHdxOXlMbVgzZHE4MDk2SUpZUzUwS2JSeWpsNW5QenlRUmpNem8xSmhNRUl0d2JfaVhHbkpyX3FR?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787171100,
-        "data": "19/08/2026 20:25"
-    },
-    {
-        "titulo": "Morre Antônio Calixto, cover de Junior Lima que apareceu em documentário de Sandy & Junior",
-        "link": "https://rapidonoar.com.br/morre-antonio-calixto-cover-de-junior-lima-que-apareceu-em-documentario-de-sandy-junior/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/cover-junior-sandy-junior-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1787170512,
-        "data": "19/08/2026 20:15"
-    },
-    {
-        "titulo": "DAE avança na etapa de obra civil da nova ETA - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON08waVd1YU5sTzBvbmJyUlFCUk42aGV1cEcwT0NHOXVBWGZTay11c09MTWNtN2VZNklYRGU5WmoySVdDcDhSdXh1TkpCNHpZOVBnZ2JSNGRZa05qWkxFRHlVbmZtSndGM1o0UjRIY3ZHQTYxcloycjRDeHJUZlV2UWpmdk5faWJlbUEwTmFPX000T2RHdkFxN3lGQklNeTA4ZVNjYXZzTW1hNGJrSGYzck1zU0t2Q1k?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787170320,
-        "data": "19/08/2026 20:12"
-    },
-    {
-        "titulo": "DAE avança na etapa de obra civil da nova ETA - regiaohoje.com.br",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON08waVd1YU5sTzBvbmJyUlFCUk42aGV1cEcwT0NHOXVBWGZTay11c09MTWNtN2VZNklYRGU5WmoySVdDcDhSdXh1TkpCNHpZOVBnZ2JSNGRZa05qWkxFRHlVbmZtSndGM1o0UjRIY3ZHQTYxcloycjRDeHJUZlV2UWpmdk5faWJlbUEwTmFPX000T2RHdkFxN3lGQklNeTA4ZVNjYXZzTW1hNGJrSGYzck1zU0t2Q1k?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787170320,
-        "data": "19/08/2026 20:12"
     }
 ]
