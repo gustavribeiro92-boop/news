@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais",
+        "link": "https://sb24horas.com.br/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1788647156,
+        "data": "05/09/2026 22:25"
+    },
+    {
+        "titulo": "Lançamento da campanha de Franco Sardelli reúne mais de três mil pessoas em Americana",
+        "link": "https://hjnews.com.br/lancamento-da-campanha-de-franco-sardelli-reune-mais-de-tres-mil-pessoas-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1788646861,
+        "data": "05/09/2026 22:21"
+    },
+    {
+        "titulo": "Exposição “Cats & Company” fica no Fórum de Piracicaba até o final deste mês",
+        "link": "https://rapidonoar.com.br/exposicao-cats-company-fica-no-forum-de-piracicaba-ate-o-final-deste-mes/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/exposicao-cats-e-company-forum-de-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788646307,
+        "data": "05/09/2026 22:11"
+    },
+    {
+        "titulo": "Prefeitura de Santa Bárbara mantém serviços essenciais no Dia da Independência",
+        "link": "https://novomomento.com.br/pref-santa-barbara-servicos-independencia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788645853,
+        "data": "05/09/2026 22:04"
+    },
+    {
+        "titulo": "Obituário de Limeira e região: Veja os falecimentos ocorridos neste sábado (5)",
+        "link": "https://rapidonoar.com.br/obituario-de-limeira-e-regiao-veja-os-falecimentos-ocorridos-neste-sabado-5-2/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2019/11/obituario-3.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788645569,
+        "data": "05/09/2026 21:59"
+    },
+    {
+        "titulo": "Idec denuncia anúncios de fórmulas infantis encontrados no Google",
+        "link": "https://novomomento.com.br/idec-denuncia-formula-infantil-google/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788642678,
+        "data": "05/09/2026 21:11"
+    },
+    {
+        "titulo": "Fábio Porchat divulga filme no XVídeos",
+        "link": "https://novomomento.com.br/fabio-porchat-divulga-filme-no-xvideos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788641697,
+        "data": "05/09/2026 20:54"
+    },
+    {
+        "titulo": "Confusão por causa de imóvel vira caso de polícia em Limeira",
+        "link": "https://rapidonoar.com.br/confusao-por-causa-de-imovel-vira-caso-de-policia-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/confusao-por-causa-de-imovel-em-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1788641071,
+        "data": "05/09/2026 20:44"
+    },
+    {
         "titulo": "Inter deixa escapar a vitória nos acréscimos",
         "link": "https://rapidonoar.com.br/inter-deixa-escapar-a-vitoria-nos-acrescimos/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/inter-e-ferroviaria-no-limeirao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -855,6 +927,15 @@
         "data": "04/09/2026 15:28"
     },
     {
+        "titulo": "PAT disponibiliza 236 vagas de emprego - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EcXpfdFlPQ0h0S0c2a1ZXUTQtdVdaRGl2VmpRRGpBM3cxVXVYWktjc3VpZGV6Y29kZFhPYko1bVNPSGVZSG4wejVpbnhraWVPYUk5R2RuVzMteFJ0d1BLNDR5RUtvUVN4b1plNUhWMTVGVmU0VXhHd29B?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788535080,
+        "data": "04/09/2026 15:18"
+    },
+    {
         "titulo": "Câmara recebe exposição ‘Arte Entre Fios’ durante o mês de setembro",
         "link": "https://sb24horas.com.br/camara-recebe-exposicao-arte-entre-fios-durante-o-mes-de-setembro/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -1024,6 +1105,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1788527199,
         "data": "04/09/2026 13:06"
+    },
+    {
+        "titulo": "SESMT reforça protocolos de prevenção e combate a incêndios no Teatro Municipal - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XekdtMVlYUEdfVm4xQ29OMGIxQWdCTFRDTDBlZV9Ub3RCdEVvZ3R1YUhQVVRPS0pfVFNNeFN4V1VVaGRMY2UydVItRjNjRnB6ME5tdXp5ZUxpY2xDMTdlMHhuWVhBMUVWWTJ6VDNwb2lsanprWmEyczRR?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788527100,
+        "data": "04/09/2026 13:05"
     },
     {
         "titulo": "Intervenção da CPFL danifica rede de água e afeta abastecimento em bairros da região Leste de Piracicaba",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1787207460,
         "data": "20/08/2026 06:31"
-    },
-    {
-        "titulo": "Americana discute &#8220;Vale do Silício&#8221; em reunião da RMC",
-        "link": "https://novomomento.com.br/americana-discute-vale-do-silicio-reuniao-d-rmc/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787206988,
-        "data": "20/08/2026 06:23"
-    },
-    {
-        "titulo": "Morador reclama de mato alto perto do terminal Metropolitano",
-        "link": "https://novomomento.com.br/morador-reclama-matoalto-terminal-metropolitano/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787205965,
-        "data": "20/08/2026 06:06"
-    },
-    {
-        "titulo": "Fernando da Farmácia discute ações de infraestrutura",
-        "link": "https://novomomento.com.br/fernando-farmacia-discute-acoes-infraestrutura/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787199713,
-        "data": "20/08/2026 04:21"
-    },
-    {
-        "titulo": "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores",
-        "link": "https://sb24horas.com.br/palmeiras-vence-cerro-porteno-fora-e-vai-as-quartas-da-libertadores/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1787197221,
-        "data": "20/08/2026 03:40"
-    },
-    {
-        "titulo": "Bancários farão paralisação de 24 horas nesta quinta-feira",
-        "link": "https://sb24horas.com.br/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1787193688,
-        "data": "20/08/2026 02:41"
-    },
-    {
-        "titulo": "Dia D acontece neste sábado em 12 unidades de saúde de Santa Bárbara",
-        "link": "https://novomomento.com.br/dia-d-sabado-12-saude-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787192250,
-        "data": "20/08/2026 02:17"
-    },
-    {
-        "titulo": "TIC gera mais de 60 novas oportunidades de emprego",
-        "link": "https://novomomento.com.br/tic-gera-60-novas-oportunidades-de-emprego/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787186942,
-        "data": "20/08/2026 00:49"
-    },
-    {
-        "titulo": "Trem SP Campinas gera mais de 60 vagas de emprego",
-        "link": "https://novomomento.com.br/tic-gera-60-novas-oportunidades-de-emprego/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787186942,
-        "data": "20/08/2026 00:49"
-    },
-    {
-        "titulo": "Procurado por tráfico de drogas é capturado pela Força Tática em Limeira",
-        "link": "https://rapidonoar.com.br/procurado-por-trafico-de-drogas-e-capturado-pela-forca-tatica-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/viatura-pm-forca-tatica-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1787183385,
-        "data": "19/08/2026 23:49"
-    },
-    {
-        "titulo": "Guarda Municipal realiza apreensão de 172 porções de drogas em Santa Bárbara - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS2V1Rm1ad2NjTExodnZyWl90M1FkR2I0YlgzYUZZNTV1cHFiNnFTck5XcVM2Y3N4ckJmNnpybVZ0dFM4SV9pY0ZJdHNNNktDdnV1MmFjUVp1X0UtaVRTYVI0SWtSREZZT2VxaU95STdWbDdPZmdMUzF5a1UzS1VMVUNGS3I3eE5yallQeGw1aVJvTzlTVkhtY1JoT0hBVjAyVDJjbkFYc3dzN1Ywb0ZZa3pGMkZUR3RrZHdBM1Y0ZXc4LWhwbklJS1pZQy1USzNIVngzOERQV0I2Q0ZLMmJjRA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1787180160,
-        "data": "19/08/2026 22:56"
     }
 ]
