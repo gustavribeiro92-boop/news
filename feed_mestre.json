@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Prefeitura de Santa Bárbara d&#8217;Oeste abre processo seletivo para estágio",
+        "link": "https://novomomento.com.br/prefeitura-sbarbara-abre-processo-selet-estagio/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788717100,
+        "data": "06/09/2026 17:51"
+    },
+    {
+        "titulo": "Alerta do smartwatch é caso de pronto-socorro?",
+        "link": "https://novomomento.com.br/alerta-do-smartwatch-e-caso-de-pronto-socorro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1788713176,
+        "data": "06/09/2026 16:46"
+    },
+    {
         "titulo": "Homem é socorrido em estado grave após ocorrência no Viaduto Paulo Natal em Limeira",
         "link": "https://rapidonoar.com.br/homem-e-socorrido-em-estado-grave-apos-ocorrencia-no-viaduto-paulo-natal-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/queda-do-viaduto-paulo-natal-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -36,6 +54,15 @@
         "data": "06/09/2026 14:04"
     },
     {
+        "titulo": "São Paulo começa preparativos para Sul-Americana e Dorival tem novidades - folhadealphaville.com.br",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUJCeFdfVkFhMFF6ajZ3bWxHaTU2WjgyUGZXYzZ4ZWZ3MUp4c3VvMFVJSnNFc1N5NzhZazcyNy1wRTZzd195M0ZaUjRJMzFRMi1fdG5iUHNXX1VZTnp2SThIXzhBejM1dllYdnRHZmU0YzNqVUdJUDYwR2JzUllFUnMycVNMNlVyTjBjV1pqZnhJenlHUFhUSUNkZHl2eVdRUDY5cmlBSzBoQTRvN2poVE5QN3NiVWdWMldsZ2Nn?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788703440,
+        "data": "06/09/2026 14:04"
+    },
+    {
         "titulo": "Castelo de cartas - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGlHY2VuNDRVcUZoZVY3eThGaWg0U1FsckkyZ1RvdWJFVnVpYUdLWGQzSzZWM1J3akFYWXBDSnlBbTdHQ1N1U2ZOY1VIUUpVMDZKSVRiUjhObnQzYTVNcU9NSGUyVFlleVpDaUNNcl9OU3ZfZG9iWGJ4ZE44akZveWZUTFdzWFRCR1dxZ2ZhX2FWSkt0b004WkRSWEc?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -61,6 +88,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1788700288,
         "data": "06/09/2026 13:11"
+    },
+    {
+        "titulo": "Do anúncio histórico ao dia da estreia: relembre os passos da chegada do Maroon 5 a Rio Preto - G1",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWFo2cU9PRnBIOEc1bHFyU3g3bDNwNmdFaENfTHNlVWllRnNHNm14OGt5NDNJUUlnWEVOSHBZSmMtc2g2XzZxQUtKa1l0Yk1pSnBzLXAtRjNQWGFKaEV2UDRoNDREcHNlY3pZcWxHMlpzRkRkSXF4YmJnaGZfTUYzdkhpNXEwY1l4ZzhxYVYwMWpwMjFHeU5fNzJJYVhTQVJsc1ZvVFViTmdaQ2MxSF9IZ0xsV1k4d2ItWjdIbDY0YzdJcUdjMVdua1lxdDFtSUlaY2JtbTBJTDV5VDlHcmFTd3BxY1VJRkVVOFVXb2VseS1kWGJZQVBkVDA2UUFfa2J2R196REI3SdIBlgJBVV95cUxNbDk5bjlDb3VaRjBPM3M5Q01Yalg5SzY5V1pNV1Z2Rk5uVHR3b3VQR0U1ZDIzQlgtSlFhc1UwSF94ZFhFdUVQUjBCVDBXSWRCaXFFa0YxSTFnVUhJX2R2V0ZmMkpOTGdDOFhXMFlYNEI0Zl9xV2VGNXQxQ050V2psQU96Yk54bTN1NTQwdHFQRkZEbGo3TUx4VjZWMjBxVk1aWmgybFctcHFXSDRxbHJ5MTQ4dy1UVTdJRGRPUldXVGZHTldRZzlzVi1waDlSUFV2UkJYaGFUclFOV0J0Mm4weGx3azU4bmlBX0xseDVjU2lMMFVFMzlVeXhnWXVWOU4tVlRvV0hucEtDOHVUT0s1LW9MeHM4dw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788699677,
+        "data": "06/09/2026 13:01"
     },
     {
         "titulo": "Obras de modernização avançam no Aeroporto de Americana com ampliação da pista - Região Hoje",
@@ -234,6 +270,15 @@
         "data": "06/09/2026 09:16"
     },
     {
+        "titulo": "Dorival confirma força máxima do São Paulo contra o Boca Juniors após vitória sobre o Atlético-MG - Terra",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSlc0d1hYZkR2RkhFcm9JODE0SnJWc3FXMW83X1pwekplT3BXTGhOekxYOUgtQlZtdnlSdERZVW00NWgwMklYNTVCOVJfRnUxcXUtSE0tWnVqaWc1NjlfQnU3bEdjcF9nVnRsNnMxX01XaTl4eFRFU3pPVFAwX2dSd0Z4TjVVRjhrbDRTWjFIZkFmVU5OY0dmOVU2YV9TYlczRENscTgyelo3MlBGZTAzMUJVX0QxRDVvM3I5TGR2bGkzVGdVYWlnd3pXZDNseFZadkM1M2FLemhuOG9yVG9wUWJRYWlUQVBJaTdkUWI0eDJHSXdFWDRweTdSNmhkNkpSbU4wZzBxb2c5MVpCNmVVeVkyUlhtdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788685260,
+        "data": "06/09/2026 09:01"
+    },
+    {
         "titulo": "\"Todas as nossas forças\": como Dorival planeja jogo contra o Boca Juniors pela Sul-Americana - ge.globo.com",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYlAzSTRfTThNSHBQUTlPMjhhd2d2VjRoX2J3Q3Buek1qWXc3RWZBZDJrVjd2Nm9XMFMxRDFSZGQyNDFmWGhxWEtIa09oQUJMc1QxRHBURVdyWjZvdm83ZlFPdlR4UGdrUU8yY2hoU2pFUjhFcW9LNnA1Wkp5OE9kU3hTdWdGUEVGUm8wVFNZMndCbWU1dWZxbnlUdHRlYlZYVmRtZ0VDUV9yaEV2MVpKRGVpemVaVTd0dEdYOVN1OGpWRzhPX3htOXk4c1hNTDFocXltazByZGZFR2U1UzRFYlptR3N6ZElkeWxaNmZXckfSAf8BQVVfeXFMTjRfeTVpMl9JTjJNV3Fyb1dCSUxiUGdabGhkSjhWMWtmVnJfVjZ5OVAtT256cUJqa05va0s1OGxUek45b3BfMzkxdmRGZXg0MXh3RFpMblBNdjVlSlo3QlZ5RUptQXBSZFNuazI2a2ZHNmM5Wk5iYjhRbHc4Q2dNd0hUT3NPVzY4TV85WXNUU014eDJ0dzNjTjJUZ0NwWDY0TXc5U2lwV1FaLTU2SDBiSmtHTV9Sdmd3ZEVfRG0wYnRPaXBDS3FQcGRrQmNMRXdBcklXTl9scUNsSTFEaVdVOEl1Yks4ank2d0xBNktLVEZqTnJUREV4UG1ZUXhfa0VZ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -244,6 +289,15 @@
     },
     {
         "titulo": "\"Todas as nossas forças\": como Dorival planeja jogo do São Paulo contra o Boca Juniors - GE",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYlAzSTRfTThNSHBQUTlPMjhhd2d2VjRoX2J3Q3Buek1qWXc3RWZBZDJrVjd2Nm9XMFMxRDFSZGQyNDFmWGhxWEtIa09oQUJMc1QxRHBURVdyWjZvdm83ZlFPdlR4UGdrUU8yY2hoU2pFUjhFcW9LNnA1Wkp5OE9kU3hTdWdGUEVGUm8wVFNZMndCbWU1dWZxbnlUdHRlYlZYVmRtZ0VDUV9yaEV2MVpKRGVpemVaVTd0dEdYOVN1OGpWRzhPX3htOXk4c1hNTDFocXltazByZGZFR2U1UzRFYlptR3N6ZElkeWxaNmZXckfSAf8BQVVfeXFMTjRfeTVpMl9JTjJNV3Fyb1dCSUxiUGdabGhkSjhWMWtmVnJfVjZ5OVAtT256cUJqa05va0s1OGxUek45b3BfMzkxdmRGZXg0MXh3RFpMblBNdjVlSlo3QlZ5RUptQXBSZFNuazI2a2ZHNmM5Wk5iYjhRbHc4Q2dNd0hUT3NPVzY4TV85WXNUU014eDJ0dzNjTjJUZ0NwWDY0TXc5U2lwV1FaLTU2SDBiSmtHTV9Sdmd3ZEVfRG0wYnRPaXBDS3FQcGRrQmNMRXdBcklXTl9scUNsSTFEaVdVOEl1Yks4ank2d0xBNktLVEZqTnJUREV4UG1ZUXhfa0VZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788681600,
+        "data": "06/09/2026 08:00"
+    },
+    {
+        "titulo": "\"Todas as nossas forças\": como Dorival planeja jogo do São Paulo contra o Boca Juniors - ge",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYlAzSTRfTThNSHBQUTlPMjhhd2d2VjRoX2J3Q3Buek1qWXc3RWZBZDJrVjd2Nm9XMFMxRDFSZGQyNDFmWGhxWEtIa09oQUJMc1QxRHBURVdyWjZvdm83ZlFPdlR4UGdrUU8yY2hoU2pFUjhFcW9LNnA1Wkp5OE9kU3hTdWdGUEVGUm8wVFNZMndCbWU1dWZxbnlUdHRlYlZYVmRtZ0VDUV9yaEV2MVpKRGVpemVaVTd0dEdYOVN1OGpWRzhPX3htOXk4c1hNTDFocXltazByZGZFR2U1UzRFYlptR3N6ZElkeWxaNmZXckfSAf8BQVVfeXFMTjRfeTVpMl9JTjJNV3Fyb1dCSUxiUGdabGhkSjhWMWtmVnJfVjZ5OVAtT256cUJqa05va0s1OGxUek45b3BfMzkxdmRGZXg0MXh3RFpMblBNdjVlSlo3QlZ5RUptQXBSZFNuazI2a2ZHNmM5Wk5iYjhRbHc4Q2dNd0hUT3NPVzY4TV85WXNUU014eDJ0dzNjTjJUZ0NwWDY0TXc5U2lwV1FaLTU2SDBiSmtHTV9Sdmd3ZEVfRG0wYnRPaXBDS3FQcGRrQmNMRXdBcklXTl9scUNsSTFEaVdVOEl1Yks4ank2d0xBNktLVEZqTnJUREV4UG1ZUXhfa0VZ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "portal",
@@ -277,6 +331,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1788672057,
         "data": "06/09/2026 05:20"
+    },
+    {
+        "titulo": "Vai poupar? O que o São Paulo planeja para jogos contra Boca e Palmeiras - itatiaia.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPczdNSDI4aHVUWUxIYURDQVNGcnV4UTVXdXRBNnZCR3pSNnJsMUJOZDQtMnJXZVRHNlotQ2lPdFRwR3plRGlsQkhJSml0SDl0UTNnMVh1NF90cm03dHROa3UxQ3lNSmlFbjRCS2RFenBYbFFFN2lkNEdodlY0MkFiSTM1aWQ2VWlrLTE3OU1OTEFIeGpDX05NNlpUTnZ1WktiSWtyN3d3SHl1dzdMVWNLYkVncXNKX25mSDNueFM1eXZLYjFzYTJuRzd4UFZuVWJMZ3E5dXQ0cVhLamdzRnMxckctS1lzVkVfQ3VMQms5TVpjMW9TaG1z?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788668728,
+        "data": "06/09/2026 04:25"
     },
     {
         "titulo": "DATAFOLHA: 46% dos eleitores afirmam estar mais preocupados com a eleição de 2026 do que com a de 2022",
@@ -474,6 +537,15 @@
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1788631312,
+        "data": "05/09/2026 18:01"
+    },
+    {
+        "titulo": "Rafael Macris 14777 (MISSÃO): candidato a Deputado Estadual pelo SP - Gazeta do Povo",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjZLMDc3eHNpaDRmUzUwaVdXd2lYRG41N2luTWozOEtDTGpLdGgwWDBlT21CU1hBRkZnNElBeXdoSUhHb2tUZDZiRWVxOVZCZUtUanZPdEpBMzRtd3lQQkRkTDVmRXNCeURSbEV4TndsN2U3SG53Z3NSQlVsTFc0c3VaR3FTOE94THFwUDJ6QUNqU2lRX0JqQ2p6UVdkSjhrQVBHQXFwQnY?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788631260,
         "data": "05/09/2026 18:01"
     },
     {
@@ -783,6 +855,15 @@
         "data": "05/09/2026 10:01"
     },
     {
+        "titulo": "Santos inscreve Arthur, Rodinei e Lima na Copa Sul-Americana - ge",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUNCRlRydkNnQTEzbW1zWmFGSHhEWlNzMEhudUlBcG9GWDF2MUwzMnczYzMyazhZdjJjVFdfM1VSUkVVdmo5NWlUVnM5bUF4T2JrX1BWODQwZDN6R1ljcWNPWmdPT210VzZfTDJ0QlVJbUUtVHVsQVdqcjJlaEhjdjNQRFFhazkxWmVmSjkzbUJBOHA2N3FJTFFzcWN5S2ZKZ1kxZzFIbnRHUTRmdFF2dkUzb0NmaWxVcFJqbnpIRFJoTmtEc3JENzJtdXBqS2Jhd1NMdG9MRGtlV09lUUHSAewBQVVfeXFMUDdlMERYV2JfM29WeDVqZEY3My0xSnVCNTJaYUpMd2dLR0xodUJ5TVVmaUY4Mk5YNjNDQzM4T2UzalE3d2VYYU42STQ4clVSUlItalljelRnWXJUcHVzU1ZXN0pzcVVpaW1GODU3VWNCRnJtSVJXRmhqNHdzUlZzeF92bzBIaDRqZFNwRmFUTkJjSFBEd1RVSWd3eG9tRVV6Uk5pTXJSUldsa0JUb3JwTjNNaE1iSzlJYjVXNWNHczZwS2tleHAzUGtYRUl2ZjRFbF9FcjQ0NDUwVi1kNmZhbVYxaWNtM3NCdlM1bF8?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788602515,
+        "data": "05/09/2026 10:01"
+    },
+    {
         "titulo": "Marcos Caetano pede informações sobre recapeamento de vias do Parque Novo Mundo",
         "link": "https://novomomento.com.br/marcos-caetano-recapeamento-parque-novo-mundo/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
@@ -916,6 +997,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1788565415,
         "data": "04/09/2026 23:43"
+    },
+    {
+        "titulo": "Brasil conquista quatro medalhas de ouro na 19ª Olimpíada Ibero-americana - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWpfR0F3TFBUbWdRano1MFlocThGWmlqUzdHZEdMS3Vwbl9GVGlQU1BCQ2hSaVI4TmRDLW1hMTBVS1JnNWZwc09jcm04T19sNG9nRFhINVFyVzRjV1hKRmhGQ0dYZllUeEhBdGoxTHdGRFlfUFpDRWhqd1RNSldwS0kxOGtQWFE2a2J0MTFCTVRXZDF1Nzg1cHVvdGFnc1JFRUQxZXM4YXY3LVN6SVRzNA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1788563016,
+        "data": "04/09/2026 23:03"
     },
     {
         "titulo": "Nova picape Volkswagen Tukan aparece no Rock in Rio antes de chegar às lojas",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1787241478,
         "data": "20/08/2026 15:57"
-    },
-    {
-        "titulo": "Ônibus do transporte coletivo terá horário especial na saída do público da Festa do Peão em Piracicaba",
-        "link": "https://rapidonoar.com.br/onibus-do-transporte-coletivo-tera-horario-especial-na-saida-do-publico-da-festa-do-peao-em-piracicaba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/onibus-festa-do-peao-piracicaba-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1787240055,
-        "data": "20/08/2026 15:34"
-    },
-    {
-        "titulo": "Gracyanne Barbosa explica fim da convivência com mãe de Belo: “Aconteceu naturalmente”",
-        "link": "https://difusorapiracicaba.com.br/gracyanne-barbosa-explica-fim-da-convivencia-com-mae-de-belo-aconteceu-naturalmente/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1787239800,
-        "data": "20/08/2026 15:30"
-    },
-    {
-        "titulo": "Centenária: Olga Poeta morre aos 106 anos em Santa Bárbara",
-        "link": "https://novomomento.com.br/olga-poeta-morre-aos-106-anos-em-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787238893,
-        "data": "20/08/2026 15:14"
-    },
-    {
-        "titulo": "CPM 22 chega ao Santa Bárbara Rock Fest 2026 como o headliner com mais shows na história do evento",
-        "link": "https://hjnews.com.br/cpm-22-chega-ao-santa-barbara-rock-fest-2026-como-o-headliner-com-mais-shows-na-historia-do-evento/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1787238301,
-        "data": "20/08/2026 15:05"
-    },
-    {
-        "titulo": "Piracicaba gera 476 empregos formais no segundo trimestre de 2026",
-        "link": "https://difusorapiracicaba.com.br/piracicaba-gera-476-empregos-formais-no-segundo-trimestre-de-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1787238000,
-        "data": "20/08/2026 15:00"
-    },
-    {
-        "titulo": "Seminário discute o papel da Saúde no acolhimento e na proteção de mulheres vítimas de violência",
-        "link": "https://hjnews.com.br/seminario-discute-o-papel-da-saude-no-acolhimento-e-na-protecao-de-mulheres-vitimas-de-violencia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1787237348,
-        "data": "20/08/2026 14:49"
-    },
-    {
-        "titulo": "Após incêndio, vereador Jean Mizzoni cobra Ministério Público sobre faixa ferroviária em Americana",
-        "link": "https://portaldeamericana.com/apos-incendio-vereador-jean-mizzoni-cobra-ministerio-publico-sobre-faixa-ferroviaria-em-americana/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/08/JEan-Mizzoni-mpf.webp&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1787237256,
-        "data": "20/08/2026 14:47"
-    },
-    {
-        "titulo": "Mãe vai a Aparecida pagar promessa e emociona internet",
-        "link": "https://novomomento.com.br/mae-vai-aparecida-paga-promessa-emocion-internt/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787237097,
-        "data": "20/08/2026 14:44"
-    },
-    {
-        "titulo": "McDia Feliz terá diversas atrações gratuitas no ParkCity Sumaré",
-        "link": "https://novomomento.com.br/mcdia-feliz-atracoes-gratuitas-parkcity-sumare/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1787237062,
-        "data": "20/08/2026 14:44"
-    },
-    {
-        "titulo": "Tutores de cães e gatos podem solicitar castração gratuita de seus animais",
-        "link": "https://difusorapiracicaba.com.br/tutores-de-caes-e-gatos-podem-solicitar-castracao-gratuita-de-seus-animais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1787236200,
-        "data": "20/08/2026 14:30"
     }
 ]
