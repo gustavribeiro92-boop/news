@@ -1,5 +1,140 @@
 [
     {
+        "titulo": "Palmeiras toma virada (3-2) na Libertadores",
+        "link": "https://novomomento.com.br/palmeiras-empata-fora-2-2-e-vai-a-semi-da-libertadores-encarar-fluminense/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789591899,
+        "data": "16/09/2026 20:51"
+    },
+    {
+        "titulo": "Belo e Michele: Macacos de volta do Parque Ecológico após 3 meses de cuidados",
+        "link": "https://novomomento.com.br/belo-e-michele-macaco-volta-ecologico-3-meses/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789588729,
+        "data": "16/09/2026 19:58"
+    },
+    {
+        "titulo": "Banco Central corta Selic pela quinta vez seguida e taxa cai para 13,75% ao ano",
+        "link": "https://rapidonoar.com.br/banco-central-corta-selic-pela-quinta-vez-seguida-e-taxa-cai-para-1375-ao-ano/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/01/Dinheiro-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789587092,
+        "data": "16/09/2026 19:31"
+    },
+    {
+        "titulo": "Após cuidados médicos veterinários, macacos Belo e Michele vo0ltam ao recinto do Parque Ecológico de Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY2tmTmdBSTEteklPd1lnOW1LdWx6ZW1oSVZGQ01UajV6NDlLZXJZTnFRaEFNVGk5VzZCelBxWnM0SHI1dkxKY3JMWHE5SkN3ZlAybmx1dlVwVEszaFRKYnV2ZnNrQjBZRHZOWkFoa2RKRmU1d2JZRjlvODBPQXlPQnFEVWF3aFY2b08zdVZRdW5CejhZNnlneFEyZ0pBU01FeUxDdHRoRTEtMUtBOW9fLUpfcmNWaWp5VF9pQWJOOHc5aFBkdV9DblRHeElwcTVrODNTMEVQVjAxUFY3czBnQVlQQnkyVDRWU0pKV1hsajFMOTVhcDVGTmhnODgzbHpyV25fRXA0dFBqelAy?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789584240,
+        "data": "16/09/2026 18:44"
+    },
+    {
+        "titulo": "Saiba a ordem de votação nas Eleições 2026",
+        "link": "https://noticiadelimeira.com.br/2026/09/16/saiba-a-ordem-de-votacao-nas-eleicoes-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1789583927,
+        "data": "16/09/2026 18:38"
+    },
+    {
+        "titulo": "Bombeiros de São Pedro atendem dois acidentes em estradas nesta quarta-feira",
+        "link": "https://rapidonoar.com.br/bombeiros-de-sao-pedro-atendem-dois-acidentes-em-estradas-nesta-quarta-feira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/acidentes-santa-maria-da-serra-e-charqueada-sao-pedro-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789582851,
+        "data": "16/09/2026 18:20"
+    },
+    {
+        "titulo": "Falta de energia apaga semáforos no Centro de Limeira nesta quarta-feira (16)",
+        "link": "https://rapidonoar.com.br/falta-de-energia-apaga-semaforos-no-centro-de-limeira-nesta-quarta-feira-16/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/transito-limeira-rua-cidade-centro-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789582790,
+        "data": "16/09/2026 18:19"
+    },
+    {
+        "titulo": "10ª edição do Festival de Carrinhos de Rolimã e ExpoCarros acontecem neste sábado em Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUld1QVFFX2JuZmZRR2NvdzBkdXlPZi1fa1ZaTFBCZVZTcEJiY3F1dlc3QmVlQXhKbS1ZbDd4Q0QzYTV1b3NWNGdLQzA4cmpOdDBJSVpnVEZzdVptTC1oUzRFUEUzZkdaSmViYXJKMVFsTGFTVFdDczdoeVR0ay0ySzdXcFhmWGhEUFR6ckZKdHhTcHFJcUY4RHBqYl9BWVlHM25yNEsxWEdvX2E5dE1zQng4S19RR19oYXpvTkxldU1IcDRobWsyUDJZNm11d1JfQmg1TFNwMHA2MlI2Zmk4UXNvVW5GU1dxc2Q1d3NWMnhzTDRBeWpqS3YwUGJMQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789582200,
+        "data": "16/09/2026 18:10"
+    },
+    {
+        "titulo": "F1 Fanzone 2026 abre venda de ingressos com shows de João Gomes e Paralamas do Sucesso em Interlagos",
+        "link": "https://sb24horas.com.br/f1-fanzone-2026-abre-venda-de-ingressos-com-shows-de-joao-gomes-e-paralamas-do-sucesso-em-interlagos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789581654,
+        "data": "16/09/2026 18:00"
+    },
+    {
+        "titulo": "Mostra PortoCartoon faz homenagem a Chico Buarque no Shopping Piracicaba",
+        "link": "https://difusorapiracicaba.com.br/mostra-portocartoon-faz-homenagem-a-chico-buarque-no-shopping-piracicaba/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "difusorapiracicaba",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
+        "timestamp": 1789581600,
+        "data": "16/09/2026 18:00"
+    },
+    {
+        "titulo": "Obras de controle de perdas vão beneficiar 40 bairros e 62 mil moradores em Santa Bárbara",
+        "link": "https://sb24horas.com.br/obras-de-controle-de-perdas-vao-beneficiar-40-bairros-e-62-mil-moradores-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789581260,
+        "data": "16/09/2026 17:54"
+    },
+    {
+        "titulo": "Henrique vai a Defesa Civil do Estado para discutir impactos das chuvas em Sumaré",
+        "link": "https://novomomento.com.br/henrique-defesacivil-estad-discuti-chuva-sumare/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789580962,
+        "data": "16/09/2026 17:49"
+    },
+    {
+        "titulo": "Ministério Público denuncia presidente do Corinthians por apropriação indébita continuada",
+        "link": "https://rapidonoar.com.br/ministerio-publico-denuncia-presidente-do-corinthians-por-apropriacao-indebita-continuada-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2024/12/corinthians-3-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789580933,
+        "data": "16/09/2026 17:48"
+    },
+    {
+        "titulo": "Conexões não podem depender do acaso",
+        "link": "https://sb24horas.com.br/conexoes-nao-podem-depender-do-acaso/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789580747,
+        "data": "16/09/2026 17:45"
+    },
+    {
+        "titulo": "Natália Feltrine desembarca em Punta Cana para representar o Brasil no Miss Carnaval Internacional",
+        "link": "https://sb24horas.com.br/natalia-feltrine-desembarca-em-punta-cana-para-representar-o-brasil-no-miss-carnaval-internacional/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789580270,
+        "data": "16/09/2026 17:37"
+    },
+    {
         "titulo": "Franco Sardelli propõe criação de ‘Muralha Digital SP’ para ampliar monitoramento e integração das forças de segurança",
         "link": "https://sb24horas.com.br/franco-sardelli-propoe-criacao-de-muralha-digital-sp-para-ampliar-monitoramento-e-integracao-das-forcas-de-seguranca/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -185,6 +320,15 @@
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789569825,
+        "data": "16/09/2026 14:43"
+    },
+    {
+        "titulo": "Cineclube Sofá faz Assembleia este mês em Americana - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamhINXhucDJ3VmZOM2hiaHIwdzVxSWpUdkJRa2IxNXBlYmE4WU1TTkw0dk1FSE1QOERNNXdNcmY3ekpNRzVYN2FXTWV0cWI1Q1hxUXl4U3JHUnhUUGE0ZVBqbkY5MVQ1ZXhvcVlMWk5YN1lGQ3E2c1dwTlBTMHVfSg?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1789569825,
         "data": "16/09/2026 14:43"
     },
@@ -378,6 +522,15 @@
         "data": "16/09/2026 12:56"
     },
     {
+        "titulo": "SBT bate 6,35 pontos de audiência com eliminação do São Paulo na Copa Sul-Americana - Máquina do Esporte",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTQxeGUtSC0zcXdEMlNKTmJad2ZtQXdMUWRGbUJCc053Mms1QUh4QVFjYlFkQlotc0JWeDlFU0FVTXpVQUQ0d1RlMGs2RTFxX3JibzlnQmxtekFFOHMtUHR0ZXZCaVdjZjdJV1BRV0F0SWYtT29vdm9XeFFMNFFubE5QZEpqOEpVQmc3ZFBhZGpSX3E0Rm9jLVJfRjJyZlJqVElIMHJuLWZMX2hodjVkY01zX2FUeEE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789562880,
+        "data": "16/09/2026 12:48"
+    },
+    {
         "titulo": "Sul-Americana: SBT não bate recorde com eliminação do São Paulo, mas ameaça a Globo - NaTelinha",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNekViWUZ3WC1HUXVoS2FKczRfOElpdEFPdjdOQ3ZBVnhJbU5hYVEtRTVmbGtLUm54dWU3emZNYW04R1BTeW9xVXRySGNBTlRIQVphTFRxb2ZiT0RaUU1KM3g1ZlFFNE4zVjBRa0Q2dmNad3BqQVFOWm9ZcXIyRlh2ZUllcWJUdjJRbTZmQU1SZXA4cnVTZXFrd3pTaEUySks1YzBpWUM4Qk4zY1dVbmlUZFlPdUNvM0RHRzh0LW5Ya09xMURWTXd4WDFscjltU1ktQWxpUTlyMjFOVm_SAeABQVVfeXFMTjUzRmhOencyaklIM2lsY01hTjFGVV9JeElwOVFTM283TGVocV9TMmlpanhEa3plUkN0ODRlckU1YXc4TmM4R1VaSmpEdmdCSW9WSmdrckJ5YlIyRWRCMHUwLXV2VHRpSm5rOER0blA2OW1hSllETDg2M0dUcmFDR1REMDFxQ3BHLXdaTjkySDJNQmx4RlVKTk1TUDdBUUg0aEs5T0diS1BNSDNZUWpKdk1uUlB2ZTFhdXBLN0hzUUNwMDNTMW9KVUV5Rzh4Q1BNS25jclhWTldaUFZ4d1Jtcm4?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -493,6 +646,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1789558200,
         "data": "16/09/2026 11:30"
+    },
+    {
+        "titulo": "Eleições 2026: Site reúne história, trajetória e trabalho de Denis Andia - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHZJZkE5MlJFYlhRVXBUS3ZOaHdQSWFVeVRkMkZZZFpFdVhSb1ZqT0pYY2lCdTZMbVV1OXp6LXJsbTJqaEUzYlVzcjhnVUp4N1VUNEpvbW5YY09OcFlaUVlYck8ydFlzR2xzQUdhVlZtYmdvQUYxMEZWb1hrT3luTnlCSklpQk1kWloxYVFmdkRDcUNEbXFOcFJsUklQRjh5UTFZMktvUVpIZG12bEFDekRNUV9lQjh1dnBIR1hoNm9ua2s3YzZnOGFmMDBJVGxzOVBYc3Y0UE93Zw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789558140,
+        "data": "16/09/2026 11:29"
     },
     {
         "titulo": "Isabela Gouveia defende empreendedorismo como estratégia para gerar emprego, renda e desenvolvimento no interior paulista - Região Hoje",
@@ -693,6 +855,15 @@
         "data": "16/09/2026 08:30"
     },
     {
+        "titulo": "Copa Sul-Americana: São Paulo empata e é eliminado pelo Boca Juniors no Morumbi - PortalR3",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1p5eVYwZDdORUJoekhvd2p3QXpoMW1UVV9Hb0pJWlpXYjJ6bnEyblVWREk3aVRKR0JwRWg0NWs0YVY5UXBVaWxnZndlYnZDMm1oMENkekJrLVBYY2RpYS1zRFRlZ2Z5Y3RpRWlLcy13c0l6SFVGZ082cE54SXhTbFBwM0VTdXZJWXRINENLQkRFd0VnN0w4Ri05NXB5eUZDeU42WGZZbXQ3NDBiTm9aVjcwdnZ1dGIw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789545572,
+        "data": "16/09/2026 07:59"
+    },
+    {
         "titulo": "Americanense Alexandre está desaparecido",
         "link": "https://novomomento.com.br/americanense-alexandre-esta-desaparecido/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -856,6 +1027,15 @@
     },
     {
         "titulo": "Sul-Americana: São Paulo empata com o Boca Jrs. e é eliminado nas quartas - Metrópoles",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTE92WkRwakgtNDhWT2dFZjVuaVlXM3B2TVB3bjJUb2VuZG9DdVc3QnFYMkRFN1BlbnZZMnlUUUVDS0FwOXU5RHhEdUdHbG5xRUU4WHkydWtmTmlMZ1h5VnQwY3lhZ3Y2NExpcXhRUXB6N3oxZldmM3pIR1U4dldZYWVOSU82ZGhNVzFhTl9sWFVXQVRaVEk4UUhWa2tYSXBhTEstRDRwUmFBYzA?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789515660,
+        "data": "15/09/2026 23:41"
+    },
+    {
+        "titulo": "Sul-Americana: São Paulo empata com o Boca Jrs. e é eliminado nas quartas - metropoles.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTE92WkRwakgtNDhWT2dFZjVuaVlXM3B2TVB3bjJUb2VuZG9DdVc3QnFYMkRFN1BlbnZZMnlUUUVDS0FwOXU5RHhEdUdHbG5xRUU4WHkydWtmTmlMZ1h5VnQwY3lhZ3Y2NExpcXhRUXB6N3oxZldmM3pIR1U4dldZYWVOSU82ZGhNVzFhTl9sWFVXQVRaVEk4UUhWa2tYSXBhTEstRDRwUmFBYzA?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "portal": "portal",
@@ -17818,185 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1788178562,
         "data": "31/08/2026 12:16"
-    },
-    {
-        "titulo": "Operação integrada contra tráfico de aves apreende 205 animais em SP (Estado)",
-        "link": "https://novomomento.com.br/operacao-trafico-aves-apreende-205-animais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1788178427,
-        "data": "31/08/2026 12:13"
-    },
-    {
-        "titulo": "Santa Bárbara oferece transporte “porta a porta” gratuito para eleitores com deficiência nas eleições",
-        "link": "https://sb24horas.com.br/santa-barbara-oferece-transporte-porta-a-porta-gratuito-para-eleitores-com-deficiencia-nas-eleicoes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788177902,
-        "data": "31/08/2026 12:05"
-    },
-    {
-        "titulo": "Motorista com sinais de embriaguez é preso após invadir casa com carro em Americana - G1",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUNKMW44S1lKYkxjejFSeE1vbk82a183SzFoOXo1dEw2U3dfVFQtSkF6a2JndWtvajF5eTlLNkE3M1NtTGlLSVFlZUNpV05rOUVsdFZ4YXptM0Q0bldaQXBCa1JWNm1RZFptSDFHRld2Rk1oSVdNdGM2blRweE5wT0xjZll2WEFwY0RmbTlqOG9HbTIwdmNTc0xmU1dWenNsR1N3Z280Um5jbmNUTlNiV3g1cG5yUDJwYVlpUmFCZF9lLXNESHh5RWtVZ1BsdmE0eTJRSUVZeFQ3MGVMdkRyd2FR0gHwAUFVX3lxTE9IUDlqZFlTaFI5TFhNemgtVmhvTi1OM05jNldDNExTb2o4NnhYU2t3RHRjeXRsYlVqb3JFMXNzbkZJWm1JT1E3YTVyTGk1SzFPRFdESjg1RjdvN0dMOURseGdITkZiV3JNLTNWeExmMGh4bEJwVXVyYjhYcG5Eb3B4WW1kSWZDZHFONUN0WTdxNThxdkVCNllFVmpua2lUVlVWbU9FcXNmV24wTzVpd25UUVdVR1IyMHRvZWdIbm9TTFBqbDQ5eGpaSjdZeG5OaDBqYXFBaUFUUzFlV2ZjQ0FtRGFGM05DM0NWRGtBc3lTMQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788177902,
-        "data": "31/08/2026 12:05"
-    },
-    {
-        "titulo": "Motorista com sinais de embriaguez é preso após invadir casa com carro em Americana - g1.globo.com",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUNKMW44S1lKYkxjejFSeE1vbk82a183SzFoOXo1dEw2U3dfVFQtSkF6a2JndWtvajF5eTlLNkE3M1NtTGlLSVFlZUNpV05rOUVsdFZ4YXptM0Q0bldaQXBCa1JWNm1RZFptSDFHRld2Rk1oSVdNdGM2blRweE5wT0xjZll2WEFwY0RmbTlqOG9HbTIwdmNTc0xmU1dWenNsR1N3Z280Um5jbmNUTlNiV3g1cG5yUDJwYVlpUmFCZF9lLXNESHh5RWtVZ1BsdmE0eTJRSUVZeFQ3MGVMdkRyd2FR0gHwAUFVX3lxTE9IUDlqZFlTaFI5TFhNemgtVmhvTi1OM05jNldDNExTb2o4NnhYU2t3RHRjeXRsYlVqb3JFMXNzbkZJWm1JT1E3YTVyTGk1SzFPRFdESjg1RjdvN0dMOURseGdITkZiV3JNLTNWeExmMGh4bEJwVXVyYjhYcG5Eb3B4WW1kSWZDZHFONUN0WTdxNThxdkVCNllFVmpua2lUVlVWbU9FcXNmV24wTzVpd25UUVdVR1IyMHRvZWdIbm9TTFBqbDQ5eGpaSjdZeG5OaDBqYXFBaUFUUzFlV2ZjQ0FtRGFGM05DM0NWRGtBc3lTMQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788177902,
-        "data": "31/08/2026 12:05"
-    },
-    {
-        "titulo": "Chitãozinho & Xororó são anunciados como embaixadores da Festa do Peão de Barretos 2027",
-        "link": "https://difusorapiracicaba.com.br/chitaozinho-xororo-sao-anunciados-como-embaixadores-da-festa-do-peao-de-barretos-2027/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1788177600,
-        "data": "31/08/2026 12:00"
-    },
-    {
-        "titulo": "Quando a crítica incomoda, atacam o mensageiro",
-        "link": "https://sb24horas.com.br/quando-a-critica-incomoda-atacam-o-mensageiro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788177123,
-        "data": "31/08/2026 11:52"
-    },
-    {
-        "titulo": "Fumantes procuram ajuda para parar de fumar após 36 anos, em média",
-        "link": "https://novomomento.com.br/fumantes-ajuda-para-fumar-36-anos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1788176499,
-        "data": "31/08/2026 11:41"
-    },
-    {
-        "titulo": "Homem é detido após ocorrência de agressão mútua e mulher relatar medida protetiva em Limeira",
-        "link": "https://rapidonoar.com.br/homem-e-detido-apos-ocorrencia-de-agressao-mutua-e-mulher-relatar-medida-protetiva-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/homem-e-detido-apos-ocorrencia-de-agressao-mutua-e-mulher-relatar-medida-protetiva-em-limeira-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788176062,
-        "data": "31/08/2026 11:34"
-    },
-    {
-        "titulo": "Mulher de 25 anos relata agressões da sogra durante discussão em Limeira",
-        "link": "https://rapidonoar.com.br/mulher-de-25-anos-relata-agressoes-da-sogra-durante-discussao-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/03/plantao-policial-limeira-policia-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788174879,
-        "data": "31/08/2026 11:14"
-    },
-    {
-        "titulo": "Poste prestes a cair gera preocupação para moradores do Piratininga, em Limeira",
-        "link": "https://rapidonoar.com.br/poste-prestes-a-cair-gera-preocupacao-para-moradores-do-piratininga-em-limeira-sp/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/poste-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788174631,
-        "data": "31/08/2026 11:10"
-    },
-    {
-        "titulo": "Parapan-Pacífico: nadadora Alessandra quebra recorde mundial",
-        "link": "https://sb24horas.com.br/parapan-pacifico-nadadora-alessandra-quebra-recorde-mundial/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788173998,
-        "data": "31/08/2026 10:59"
-    },
-    {
-        "titulo": "Idosa de 74 anos relata ter sido agredida pelo irmão em residência em Limeira",
-        "link": "https://rapidonoar.com.br/idosa-de-74-anos-relata-ter-sido-agredida-pelo-irmao-em-residencia-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2020/01/plantao-policial-site.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788173896,
-        "data": "31/08/2026 10:58"
-    },
-    {
-        "titulo": "Motorista de ônibus é preso com 15 kg de drogas na Anhanguera, em Americana - liberal.com.br",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGQtbjNTRS1BNURHWjFLQnRFVF85QTMtYktmR1VPN1pPcnZiTHJxZXNvR2dTS3BJYVBPQ2NQa2tDLW5BXzlNenRzRU1rUmtmTm56ZjlIVWFERDNyRjREaXp0Xzd3dVY5aTFZNElURjEwS0gxamNKbktoRDAzQjVkSTlFdDJNSDBiQmxZQWdrUjVHQ0t4TmZFa05DOElRWkdIcm00MFhyakQ4Ujl4VFVfNkRLRUdodw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788173340,
-        "data": "31/08/2026 10:49"
-    },
-    {
-        "titulo": "Receita paga nesta segunda último lote de restituição do IR 2026",
-        "link": "https://sb24horas.com.br/receita-paga-nesta-segunda-ultimo-lote-de-restituicao-do-ir-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788171991,
-        "data": "31/08/2026 10:26"
-    },
-    {
-        "titulo": "Voluntários do Movimento Verde plantam 36 mudas na Escola Olympia, em Americana",
-        "link": "https://sb24horas.com.br/voluntarios-do-movimento-verde-plantam-36-mudas-na-escola-olympia-em-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788171861,
-        "data": "31/08/2026 10:24"
-    },
-    {
-        "titulo": "Dembélé acerta renovação com o PSG até 2030 após recusar propostas da Arábia Saudita",
-        "link": "https://hjnews.com.br/dembele-acerta-renovacao-com-o-psg-ate-2030-apos-recusar-propostas-da-arabia-saudita/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1788170950,
-        "data": "31/08/2026 10:09"
-    },
-    {
-        "titulo": "Brasil e Estados Unidos iniciam nova rodada de negociações sobre tarifaço após diálogo entre Lula e Trump",
-        "link": "https://hjnews.com.br/brasil-eua-negociacoes-tarifaco-lula-trump/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1788170503,
-        "data": "31/08/2026 10:01"
-    },
-    {
-        "titulo": "Pesquisa BTG/Nexus aponta que 53% dos brasileiros avaliam a economia do país como ruim ou péssima",
-        "link": "https://hjnews.com.br/pesquisa-btg-nexus-aponta-que-53-dos-brasileiros-avaliam-a-economia-do-pais-como-ruim-ou-pessima/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1788168732,
-        "data": "31/08/2026 09:32"
-    },
-    {
-        "titulo": "Caminho do São Paulo contra 'pior fase da história' terá Boca e Palmeiras - uol.com.br",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTJoVkFZZTItYXh3X2dCMEJsem5DbkVzRVFrcVdTS3g0VkdDMjZCcnFEa3I3X3Z1cHJScTRIRGREekNXSjNwTmQzM3M4OFRHM1p4cW9OS1ZRMi1yVXFtMDd3TF9UR2l3U0xMNzdjX3NPS3pNNHdQOXZXQmlYR0pMQnFJLXVvdjJKOE1hRHFSLV9fYXFmLVE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788168600,
-        "data": "31/08/2026 09:30"
-    },
-    {
-        "titulo": "Motorista de ônibus é preso com drogas e R$ 7 mil na Anhanguera, em Americana - Todo Dia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWVYTGZZVFhrbkxsdmlUeTZuN0tNRmxDZnlSRFBxR3c3eU4yd085VmhHdzlHWm9IdHh5R0R2bXROeXJZTW9YcS14VW1pZVBqN1AwQWs1YXFULXVDOTBlbFp2QS1ZNExZMDVxODZuaTZFVlRHY1U2czRKVDE5VGx1cjhtVmdxeXFReXNlYXluWDFlQ3BQb2xxLVhiSW0zRHQ5OFRXVmVzZGszTUE?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788166560,
-        "data": "31/08/2026 08:56"
     }
 ]
