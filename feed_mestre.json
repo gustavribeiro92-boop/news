@@ -1,7 +1,70 @@
 [
     {
+        "titulo": "Acidente com ônibus que voltava de São Paulo deixa seis mortos e 31 feridos na BR-116",
+        "link": "https://rapidonoar.com.br/acidente-com-onibus-que-voltava-de-sao-paulo-deixa-seis-mortos-e-31-feridos-na-br-116/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/caminhao-acidente-onibus-mg-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789596481,
+        "data": "16/09/2026 22:08"
+    },
+    {
+        "titulo": "Após cuidados médicos veterinários, macacos Belo e Michele voltam ao recinto do Parque Ecológico de Americana - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYXY2QU04T1gwazRFYUY2LWxLR2xMMXdqWVU3YzNEcWsxREpZYTdaZEdyeVhaTzFEUnNVaU54Yzl1TTFrNVIzM1ZrY1RnSEIyM0k5bElvT29FTmRVSkJnYjBqNlV4VXdSaExCa2FpdTRjTWlNei1LbFdRb1g4dk91cTc1bnMxSnBObjJyZ0h5VGF5eEYyMDNiQUxYNXZaclpjcGJIVER5S0lPVzVUamNweFlCR3NFMnBOTWt3RWExb3N6WkFkWThJN0RRdnFIWXJMZEVwMnNMYVgtU3AzaEZ1ZllMTm9GS3paVmNkZ2F6enBHRlktUlc1RGtvYlE3YjRKRzltNDFyZktOelU?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789596060,
+        "data": "16/09/2026 22:01"
+    },
+    {
+        "titulo": "Porta de casa &#8211; Senha, biometria ou chave: qual combina com você",
+        "link": "https://novomomento.com.br/porta-casa-senha-biometria-chave-qual-combina/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789596033,
+        "data": "16/09/2026 22:00"
+    },
+    {
+        "titulo": "Homem quebra 300 garrafas de vinho e deixa prejuízo de R$ 50 mil em supermercado no interior de SP",
+        "link": "https://rapidonoar.com.br/homem-quebra-300-garrafas-de-vinho-e-deixa-prejuizo-de-r-50-mil-em-supermercado-no-interior-de-sp/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/garrafas-vinhos-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1789595103,
+        "data": "16/09/2026 21:45"
+    },
+    {
+        "titulo": "Thais Lima brilha nos pênaltis e Brasil segue na Copa Feminina sub-20",
+        "link": "https://sb24horas.com.br/thais-lima-brilha-nos-penaltis-e-brasil-segue-na-copa-feminina-sub-20/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789593520,
+        "data": "16/09/2026 21:18"
+    },
+    {
+        "titulo": "Entidades industriais e trabalhistas consideram tímida queda da Selic",
+        "link": "https://sb24horas.com.br/entidades-industriais-e-trabalhistas-consideram-timida-queda-da-selic/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789592738,
+        "data": "16/09/2026 21:05"
+    },
+    {
         "titulo": "Palmeiras toma virada (3-2) na Libertadores",
         "link": "https://novomomento.com.br/palmeiras-empata-fora-2-2-e-vai-a-semi-da-libertadores-encarar-fluminense/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789591899,
+        "data": "16/09/2026 20:51"
+    },
+    {
+        "titulo": "Palmeiras toma virada (3-2) na Libertadores- mas avança nos pênaltis",
+        "link": "https://novomomento.com.br/palmeiras-perde-fora-3-2-libertadores/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "portal": "novo momento",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
@@ -1081,6 +1144,15 @@
     },
     {
         "titulo": "São Paulo empata com Boca Juniors em casa e cai nas quartas da Sul-Americana - Rádio Itatiaia",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON2l0alJNam55N3R4R2lIampTQWxDRW1nVVhPN3o0b3BaUE1BSno0T1ltSWdXUWVqQ3Zad3lSeFQwN3VkM09OXzJfeHRzU3BfV2xWcDA3TXA1d3dfLWZCaFY2ZVRvNkh6dnFGLVVHYk5RUUlLV3VkVmt5ckRYUU9XVUs4VTNSMGlTWTlFOFpEdjluUmRzT0U0b09WeW1hcWJ4bVJvNWlsX1F5dmVHSXBJTkltSS1RXzJvcVl5OGxTRlNoN0ZJVVpXWTFaZzRPeHZ3blY1UUxMbTAzSzVKZ3l1dWpDclJyVEdfVDBtMndJOXk2OElkZlE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789515094,
+        "data": "15/09/2026 23:31"
+    },
+    {
+        "titulo": "São Paulo empata com Boca Juniors em casa e cai nas quartas da Sul-Americana - itatiaia.com.br",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON2l0alJNam55N3R4R2lIampTQWxDRW1nVVhPN3o0b3BaUE1BSno0T1ltSWdXUWVqQ3Zad3lSeFQwN3VkM09OXzJfeHRzU3BfV2xWcDA3TXA1d3dfLWZCaFY2ZVRvNkh6dnFGLVVHYk5RUUlLV3VkVmt5ckRYUU9XVUs4VTNSMGlTWTlFOFpEdjluUmRzT0U0b09WeW1hcWJ4bVJvNWlsX1F5dmVHSXBJTkltSS1RXzJvcVl5OGxTRlNoN0ZJVVpXWTFaZzRPeHZ3blY1UUxMbTAzSzVKZ3l1dWpDclJyVEdfVDBtMndJOXk2OElkZlE?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
         "portal": "portal",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1788182097,
         "data": "31/08/2026 13:14"
-    },
-    {
-        "titulo": "Parque Cidade em Limeira recebe evento de adoção de cães e gatos neste sábado (5)",
-        "link": "https://rapidonoar.com.br/parque-cidade-em-limeira-recebe-evento-de-adocao-de-caes-e-gatos-neste-sabado-5/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/feira-de-adocao-de-caes-e-gatos-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788181992,
-        "data": "31/08/2026 13:13"
-    },
-    {
-        "titulo": "Hospital Municipal Americana vagas pra enfermeiro e técnicos (R$ 4,2 mil e R$ 3,1 mil)",
-        "link": "https://novomomento.com.br/hospital-municipal-americana-processos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1788181527,
-        "data": "31/08/2026 13:05"
-    },
-    {
-        "titulo": "Homem de 41 anos é morto a facadas e irmão é suspeito do crime em Piracicaba",
-        "link": "https://difusorapiracicaba.com.br/homem-de-41-anos-e-morto-a-facadas-e-irmao-e-suspeito-do-crime-em-piracicaba/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1788181200,
-        "data": "31/08/2026 13:00"
-    },
-    {
-        "titulo": "Analice Nicolau é homenageada em São Paulo por atuação no reposicionamento de mulheres no mercado digital",
-        "link": "https://sb24horas.com.br/analice-nicolau-e-homenageada-em-sao-paulo-por-atuacao-no-reposicionamento-de-mulheres-no-mercado-digital/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788179400,
-        "data": "31/08/2026 12:30"
-    },
-    {
-        "titulo": "Alerta amarelo de tempestade: Campinas e 4 cidades têm ventos de até 60 km/h e granizo, diz Inmet - O TEMPO",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbnhkSVdDZnZkT2Q5WUFLRzhfc2tOVGUzUk9fVkxRaXNMc0hiNU13aTU2Q1RtWVVxUGlTNG01UTRkdGZhRGZyMjBxRmNZbXJjanJGa2pRQ3Y4MlFqbFlrNU1TeUdDZ2tKNXBkbDdaYU9kZU83R3IxcE5zQ2gtTFVJcC1VdkR6SUpiZE1zQlJyUEV0RHQ4WnBTelZVdGVCcGRlWnd4MEh3amlNUExhSjF6OWFoV2M3MVZUVzlfTjZxd3RWbllGNEVtcE9QWTZXNGFDUjNLWHZuaTDSAdgBQVVfeXFMUG54ZElXQ2Z2ZE9kOVlBS0c4X3NrTlRlM1JPX1ZMUWlzTHNIYjVNd2k1NkNUbVlVcVBpUzRtNVE0ZHRmYURmcjIwcUZjWW1yY2pyRmtqUUN2ODJRamxZazVNU3lHQ2drSjVwZGw3WmFPZGVPN0dyMXBOc0NoLUxVSXAtVXZEeklKYmRNc0JSclBFdER0OFpwU3pWVXRlQnBkZVp3eDBId2ppTVBMYUoxejlhaFdjNzFWVFc5X042cXd0Vm5ZRjRFbXBPUFk2VzRhQ1IzS1h2bmkw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788179189,
-        "data": "31/08/2026 12:26"
-    },
-    {
-        "titulo": "Motorista com sinais de embriaguez é preso após colidir e invadir residência em Americana - Portal VV8",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWNBWGtUdUhuZVVuOTdSZXhJd200V1g5NjllQ0djSlF0RWY5alpPbjhzSEhQNlFZY1BTbnNFWFo3RWZQaFMxb2dXTHNhRmZPOWFWSVREeGx6eUQyTVRHMV9HM3dPRGtpbkkwU3Ftcnc5Z1lxTDVrVGZBM2hUT09wWUw3Y1lKcEU4ZTRZVW9xeGFrWDlCRXlsaWZkdlcyTlpOaXBRdEFQRnVfZWhCcGgyQk5IZGpDVmhXMTJjWkx3ZEhDY3NjN3pn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788179065,
-        "data": "31/08/2026 12:24"
-    },
-    {
-        "titulo": "MAC Americana exibe documentário “Cuba Libre” nesta segunda-feira - SB Notícias",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNak1faURDRWljTUJuQnhGbnVhWVkxZzlWSE5yNTNFV3hoOGlLNm9DMkFUdlFXXzhiWFQzcXEtNy00OFoycDBSM3V4Y3hrQUxQS1B0RUE0cm1mYmhsazk4RDJaY3BaakJHeTlqalREYVRTLVJuY3pQWVJFcGlpczJuSTVuUDNuWWxYSzh3SWZNUVBnOHoybUtzd3ktSFBrMU5tRDJzdU5CWQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788179040,
-        "data": "31/08/2026 12:24"
-    },
-    {
-        "titulo": "Promotor Luiz Alberto Segalla Bevilacqua é encontrado morto em residência em Limeira",
-        "link": "https://rapidonoar.com.br/promotor-luiz-alberto-segalla-bevilacqua-e-encontrado-morto-em-residencia-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/08/ocorrencia-5-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788178562,
-        "data": "31/08/2026 12:16"
     }
 ]
