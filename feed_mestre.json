@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "HM promove ação sobre o cuidado de pacientes com doenças crônicas",
+        "link": "https://novomomento.com.br/hm-acao-cuidado-pacientes-doencas-cronicas/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789872669,
+        "data": "20/09/2026 02:51"
+    },
+    {
+        "titulo": "Equipe do São Paulo é a primeira finalista do Brasileirão Feminino",
+        "link": "https://sb24horas.com.br/equipe-do-sao-paulo-e-a-primeira-finalista-do-brasileirao-feminino/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789867543,
+        "data": "20/09/2026 01:25"
+    },
+    {
+        "titulo": "Torcida do São Paulo protesta em jogo contra o Internacional - Terra",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWjd2SFlLSjdOd0kzRkdDdXk2QUpTNHNpM3FiQ2J6ZDVKMU91VWJhYTVncUpnaUk0N3NUR2ZpWmFrYzBtUkcweHFISlZXeGV2OWVkMGNyM1NRWUFhRWNLcTVJejl2Mm5zREdyMXlMUDl1QkpNSnk5V29lSGJpTjNDbkltNWppSlF4Rl9kYWtLcDNQY0lES1VPUlNWN0pScGtlWHEwVGxmTUZ0aGlEMmt1TmNya2haUjhfT0ppLUtSejBNWUJ4X3lvZE1lNGRjUGFuTEZUNnpMYlZOLXhReUVOUFJBZUs?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789864200,
+        "data": "20/09/2026 00:30"
+    },
+    {
+        "titulo": "Conheça Chongqing: metrópole-chave da transformação econômica chinesa",
+        "link": "https://sb24horas.com.br/conheca-chongqing-metropole-chave-da-transformacao-economica-chinesa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1789864130,
+        "data": "20/09/2026 00:28"
+    },
+    {
+        "titulo": "Prefeitura promove ação na Avenida Brasil",
+        "link": "https://novomomento.com.br/prefeitura-promove-acao-na-avenida-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1789861292,
+        "data": "19/09/2026 23:41"
+    },
+    {
+        "titulo": "São Paulo vence o Internacional no Morumbis após eliminação na Sul-Americana e sob protesto da torcida - Terra",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWmp4d2NRdlBsZmlxTjNONXZTMVV3SXIzZTM4VV93M3lpZnZUaFdPdG9fSUN5ekJwY2dFRmx0S05hbF9qUUNwZVVDZXI4SjdwTEhobm9OVElXMzczdjVrQUt5UEt5bTVmejdaUXNpNmUwT1JDZW13U0tsdndPUk5GZFVNNGxNUHJnZFdBTkZuTDZFbWVxNUtiTjJxZEhoekRmaEZtZ1lId3JTZlVzbzNENW5CaU0xS1Z3ekxoTEYycjNFc0k0cFFWUzgxQ2hEYXNkVWFELXo0YzNFSThpU2dteUVjcjZ3bDBMcFpIc1hjZGZkNGQ5NXR2VFlzWElscngzXzIybEd5MlRjQVhHT1BqN0ZwZ1AzTlJ2VEV1eQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789861140,
+        "data": "19/09/2026 23:39"
+    },
+    {
+        "titulo": "São Paulo encara protesto, vence o Inter no MorumBis e dá resposta após eliminação na Sul-Americana - Terra",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdkhtT3FJckZvWlJCSXQ3Y3hheVdDWndoWVBqalc4TWIzOW0yS1BfMzVYTEQ4T3RvaG85ZjZMd0lYMno3ZTV1WlJhLWNqRWJWNjNCeWotZGxkT0JYbW5yQkVpM3BpVEZHWDk0OVh5MEw2THZyOEZOaHpCSmF6TVlqLXpQQnhGU1NHRTltbGtmREVBOEJNbW5vMFo1VW9NS3VmcDhNNmhpUS1uUmhYX2ZSckhmWmRRRjUtX0FDampZOEZBTUFkNmUyUDEtWndfeVpUSzVVOUo1S21XQVYza0ExT0pRLU1OMmNWa2hBVXhMUk1XY3I1eUh0bWVMVnNyMXAwcl8zTFBrV0QxQ2lmWGdtb3VHSDY?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789859340,
+        "data": "19/09/2026 23:09"
+    },
+    {
+        "titulo": "São Paulo vence o Inter no MorumBis e dá resposta após eliminação na Sul-Americana - estadao.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWZxMkhKcDlJOVpxdGFqY3ZfNWxBX1R6WmhlZ1dSZWlTbmVjX0poNzVqZU0tVUNsOTZqVU1zLWd6RnJVd19oZkJqUVpZNUV4Vjh3Ykh3ZkdYV3IxaEpTRDJHbTV2SnNiOUhNUGdxWVkxSDBqUkVsRjlRWTVicHZfVjFHY3FVNG11NmxNNFJkdnRsNU9SSE5sOHdCN215M2xnYTdnQ1lJU3pLMEVKLUVlWTlWcTBPdUg2SjRVWDNFNGx0OS0xTXdMVk9Id9IBywFBVV95cUxNUWZxMkhKcDlJOVpxdGFqY3ZfNWxBX1R6WmhlZ1dSZWlTbmVjX0poNzVqZU0tVUNsOTZqVU1zLWd6RnJVd19oZkJqUVpZNUV4Vjh3Ykh3ZkdYV3IxaEpTRDJHbTV2SnNiOUhNUGdxWVkxSDBqUkVsRjlRWTVicHZfVjFHY3FVNG11NmxNNFJkdnRsNU9SSE5sOHdCN215M2xnYTdnQ1lJU3pLMEVKLUVlWTlWcTBPdUg2SjRVWDNFNGx0OS0xTXdMVk9Idw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789858680,
+        "data": "19/09/2026 22:58"
+    },
+    {
+        "titulo": "Por enquanto, é China - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWNoRmNDbFR2ZlBScUdtMHdRbWpPSHJpUWl4SXZ5Mm82Mlp2NWlvYWt4WXhYRC1wZ2NScmxRYkZIUHR5SlMwRHQ1MFFyeG1RaEpOWkYxVjNNN0liMVd4NFBsblRieHk2Skw1VHA0YXV0RTc0VHNDR0x3VkZBN0dhQVlRODIxRmFxNl9FQUNfQTVldkc2bS15d2dVWVdZM3lz?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789858584,
+        "data": "19/09/2026 22:56"
+    },
+    {
         "titulo": "Bombeiros contêm vazamento de GNV e estacionamento do Assaí é totalmente liberado em Limeira",
         "link": "https://rapidonoar.com.br/bombeiros-contem-vazamento-de-gnv-e-estacionamento-do-assai-e-totalmente-liberado-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/2base-2026-09-19t223435.382-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -133,6 +214,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1789842591,
         "data": "19/09/2026 18:29"
+    },
+    {
+        "titulo": "Veja os memes da eliminação do São Paulo para o Boca Juniors na Sul-Americana - estadao.com.br",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXk1b3JiTkVCUE5lWFdyTmllekZtM3owcjFBbHhYSm1CSVZ4d1pHV3Fwb1lodVY1QnZIb1JaVVU2aEVVQlZwQ1RUT3JHWnNCMGZ1VEtaTFdaSHVENVFzNVhRNXBBQks4X2RGSzVWbEZHU0ZRcnZkZDBJUTN1WUFwa1hhbWNlQXlRaFJoUE9FRFdIckgxN3hfR2FHUEQ2RHA0bHowd0F5djBPUk85V21EYzlOZFl6YVFxM0R5aVFvZVlIOHQyQnFLUEhuR0xkdw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1789842426,
+        "data": "19/09/2026 18:27"
     },
     {
         "titulo": "Flávia Saraiva é ouro nas assimétricas da Copa do Mundo de ginástica - Região Hoje",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1788375717,
         "data": "02/09/2026 19:01"
-    },
-    {
-        "titulo": "Eleições 2026: saiba quais escolas terão mudança no local de votação em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/09/02/eleicoes-2026-saiba-quais-escolas-terao-mudanca-no-local-de-votacao-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1788375683,
-        "data": "02/09/2026 19:01"
-    },
-    {
-        "titulo": "Limeira tem 90 vagas gratuitas para cursos de Logística e Gestão de Projetos",
-        "link": "https://noticiadelimeira.com.br/2026/09/02/limeira-tem-90-vagas-gratuitas-para-cursos-de-logistica-e-gestao-de-projetos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1788375334,
-        "data": "02/09/2026 18:55"
-    },
-    {
-        "titulo": "Programação cultural de Limeira tem tributo a Michael Jackson, mostra de dança e atividades literárias",
-        "link": "https://noticiadelimeira.com.br/2026/09/02/programacao-cultural-de-limeira-tem-tributo-a-michael-jackson-mostra-de-danca-e-atividades-literarias/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1788374890,
-        "data": "02/09/2026 18:48"
-    },
-    {
-        "titulo": "Morre o segundo homem envolvido em confronto com o BAEP em Limeira",
-        "link": "https://rapidonoar.com.br/morre-o-segundo-homem-envolvido-em-confronto-com-o-baep-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/morre-segundo-homem-que-confrontou-com-baep-01-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788374057,
-        "data": "02/09/2026 18:34"
-    },
-    {
-        "titulo": "Disbiose: o que há por trás do diagnóstico que voltou aos holofotes",
-        "link": "https://novomomento.com.br/disbiose-diagnostico-que-voltou-aos-holofotes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1788373907,
-        "data": "02/09/2026 18:31"
-    },
-    {
-        "titulo": "Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro",
-        "link": "https://sb24horas.com.br/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1788373283,
-        "data": "02/09/2026 18:21"
-    },
-    {
-        "titulo": "ACIL divulga horários especiais do comércio em Limeira neste mês",
-        "link": "https://rapidonoar.com.br/acil-divulga-horarios-especiais-do-comercio-em-limeira-neste-mes/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2023/04/limeira-comercio-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788373131,
-        "data": "02/09/2026 18:18"
-    },
-    {
-        "titulo": "Americana fortalece abastecimento com obras nas ETAs, nova estação e reservatórios - G1",
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQSEcxcU9Sc1dDS0ZXRnFydk5zUENaT2daM25vckhDUmpwRmpxenE4MWE5MzBHMlVYWVl1NGsxdUxoenNaWDNEQkpDcDc4V0dldlUzTXVuc2F5R09hb01EOWs3bF9oZUNNc2ZBa1psYUFqbjZSWm0ybnd1VW9WM0w4NXdNMFQxMzZ5X1pOZ1JxU0ZkS0FnNTVVV0pfZGNabVd2VlBXUEtpS2trdk1hUUk0NTBab0JraXU5TGpGN0RpTUxoUkNacTB3QVVpZUYtWDhuWHA0Tnd2WURiaUpwY1lEUlNxRDR1ZlJ1cmFlOWRVSTl6QjNhMXJjRWFCX0lBZXQ3WFF2N0lZNTBFbXk5dS11Tkx5X2pZTUpsZUp2Y0lUbmxtMEJMRDhNNGNFVWNmVjRabjA0bmlQVkRiZElpNkEtVtIBzwJBVV95cUxQVG8xTzhpUkEyc3JjTi1rd0xDaU9QMFZlVnphbHNERzRsVVNOVHJ2Qk1NYjhwc3JkNHRiSWJfdHRON3pjbXpMdlNxQjVtUzdDTURubXZnVnhNQkVyWjAxNEo1SE5Na05rM3ZzM1BSM09iVWR6ZWl3dnh4NHNkMHRIbXh3MzV2YVFacW9CaE9JQVB1cXJ0WC1jX0JRekNxRHZnMURUa2lwSDNtcVBvMzhJQ3hTWnZ2ZkludjN4cm5qTndLdkVVRHdKc2l5SmpyWnlHMVMwUVhLdkpSQjFhRm5QemZmOEowRDMtSHBYUzlNZ0VGNHlITmxXX0Q4eUg1YUNHRURWcWYxU3ctZjBMX2l6VHJLOFVpdk5UcHUwZk9fZDlvN1htUU1GR01YbWZ3eDVVTHUzSlllZVRIWW9qbUZiN0ptUUtHYlhWOUNnVlNnZw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1788372874,
-        "data": "02/09/2026 18:14"
-    },
-    {
-        "titulo": "Atletas que frequentam aulas gratuitas oferecidas pela Prefeitura estreiam na Copa Ouro de Futebol de Base",
-        "link": "https://difusorapiracicaba.com.br/atletas-que-frequentam-aulas-gratuitas-oferecidas-pela-prefeitura-estreiam-na-copa-ouro-de-futebol-de-base/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1788372000,
-        "data": "02/09/2026 18:00"
-    },
-    {
-        "titulo": "Pessoas em situação de rua em Campinas são contratadas por empresa",
-        "link": "https://rapidonoar.com.br/pessoas-em-situacao-de-rua-em-campinas-sao-contratadas-por-empresa/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/morador-de-rua-empregado-em-campinas-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1788371854,
-        "data": "02/09/2026 17:57"
     }
 ]
