@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "MP das Bets: veja o que muda e saiba datas para devolução de valores",
+        "link": "https://sb24horas.com.br/mp-das-bets-veja-o-que-muda-e-saiba-datas-para-devolucao-de-valores/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1790455080,
+        "data": "26/09/2026 20:38"
+    },
+    {
+        "titulo": "Linkin Park, Chocorn and the Sugarcanes, Tem Mas Acabou… - Combate Rock",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcld3cTdzMzJsdWdGclgtNVE5dkVTMFRZcFhJMHR1RU55R1FiUHVQNnNUYmlKOXZqb2NDYXFaVF9Icl80OEplRVhNTi15OXJpMWJTVk5jNmVPT1RhYmxEU1RJeHk4UGJxWnJwVEp5X1o5ZFJJMWhYNVZQVkJ4dFZMQ3psNVZLMk9V?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1790455032,
+        "data": "26/09/2026 20:37"
+    },
+    {
+        "titulo": "Americana investe R$ 104 milhões em recursos na Saúde",
+        "link": "https://novomomento.com.br/americana-investe-r-104-milhoes-recurso-saude/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1790453234,
+        "data": "26/09/2026 20:07"
+    },
+    {
+        "titulo": "Ônibus tomba e deixa sete mortos e 13 feridos na BA",
+        "link": "https://rapidonoar.com.br/onibus-tomba-e-deixa-sete-mortos-e-13-feridos-na-ba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/acidente-onibus-minas-2-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1790452600,
+        "data": "26/09/2026 19:56"
+    },
+    {
+        "titulo": "Obras na Euclides da Cunha avançam para concretagem",
+        "link": "https://novomomento.com.br/obras-euclides-cunha-avancam-para-concretagem/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1790449228,
+        "data": "26/09/2026 19:00"
+    },
+    {
+        "titulo": "Governador Tarcísio declara apoio e pede voto para Franco Sardelli na região - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3hsNTFZOW9aX1NSaVV1dVV5emFMUUpnVUxyRW9aX3VUVzJGbXMtUi1CTzZ2MV9vWnZUajktMndaSmFWVkJaZkRlYk9ySkRvSUY3b25DRmFHUkJadVZCcXJMTERuaGVjenFkVzRVRWZlb1F6T1hvLXJkZFQ5eXlteDVGVnBvYWk1NW94ZEg1eEJtSmtqSmxtNF9RajRFME9tSFhnMTJBeHVxRGk4YkVmR2ZEbjlmMzhLOWNqMzY3VW4wSzJaZmRNeWYzbmtaT2tLaW40Y3BRYWtvbjNEMUNHVDZB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1790447940,
+        "data": "26/09/2026 18:39"
+    },
+    {
+        "titulo": "Dia do Encanador: o profissional na linha de frente da operação do saneamento",
+        "link": "https://rapidonoar.com.br/dia-do-encanador-o-profissional-na-linha-de-frente-da-operacao-do-saneamento/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/09/encanador-brk-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1790446550,
+        "data": "26/09/2026 18:15"
+    },
+    {
+        "titulo": "Ariranha Uarini, do Zoo de Americana, passa por exames preventivos",
+        "link": "https://novomomento.com.br/ariranha-uarini-zoo-americana-exames/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1790445681,
+        "data": "26/09/2026 18:01"
+    },
+    {
+        "titulo": "Santa Casa de Limeira registra duas captações de órgãos em 2026 e incentiva diálogo em família",
+        "link": "https://rapidonoar.com.br/santa-casa-de-limeira-registra-duas-captacoes-de-orgaos-em-2026-e-incentiva-dialogo-em-familia/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2022/11/santa-casa-de-limeira-site-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1790445614,
+        "data": "26/09/2026 18:00"
+    },
+    {
+        "titulo": "Batoré apoia o candidato do Ratinho pra federal",
+        "link": "https://novomomento.com.br/batore-apoia-o-candidato-do-ratinho-pra-federal/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1790443192,
+        "data": "26/09/2026 17:19"
+    },
+    {
         "titulo": "Ciclista fica ferido após ser atropelado no Parque Nossa Senhora das Dores em Limeira",
         "link": "https://rapidonoar.com.br/ciclista-fica-ferido-apos-ser-atropelado-no-parque-nossa-senhora-das-dores-em-limeira/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/acidente-bike-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -119,6 +209,15 @@
     {
         "titulo": "Prefeitura de Sumaré participa de treinamento na Comgás para evitar danos à rede de gás - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORERxTnRLcFp4QjFidXItNUs1VWlrUlVobTgwaGtCbG14QUNXblhtYTgtREM4czF2SGw5dlhwMTFMazNGMFczNkhtajBRbDV4aFVvNDdETTlEUmk5WWF3OG9jZGFBUW1OeUhxZi1sa2FhSEhFUmZVdlJPeVhiS2o2Njc5RXY1eFVNcDR2N0dKRW9ydEdiamVwVlVFRERGOEZmSXpfSHpxYXRsa2pKV25zQ1pfaUU1b3kybEhEcjAyUHlmMmI4V1V5QjM2WmEzQ3NSMnpoVnNyYTJJRExaeDhVMnpHS1hld3FScDBZUHl6UQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1790420040,
+        "data": "26/09/2026 10:54"
+    },
+    {
+        "titulo": "Prefeitura de Sumaré participa de treinamento na Comgás para evitar danos à rede de gás - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOUx5Wi1BRFNDSHhfMnRGSzRpODRzaVowdkUyZVdTS0sxQ2tybnFOMnlPeXRyRDJETWc5MFYtamxqVTBSblVEZzdreUtOM3JZczhuZlhiSzNFdy1uaEs0OUkxeGJRSDZ5MFV2YUZBMUcxbVFYQXAwTFhqWHlQVGlsbU5HR1NjRFBwSk5iNU1ucERWbE9uLTdFNVV3eUZvY1VLVlhyNTcwUVBmVWl2RklSQjk4NkRLWlY3SE41RjVJSVRmc0RldThQdHZDQnJ4M0MzMHNTWWlRaGNvNUh1Nnl0N2JubGFoa3hieFEyRjYtTQ?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17899,104 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
         "timestamp": 1789043400,
         "data": "10/09/2026 12:30"
-    },
-    {
-        "titulo": "Polícia Civil e Gaeco de Campinas realizam operação contra o crime organizado ligado ao tráfico de drogas",
-        "link": "https://rapidonoar.com.br/policia-civil-e-gaeco-de-campinas-realizam-operacao-contra-o-crime-organizado-ligado-ao-trafico-de-drogas/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/operacao-retirada-em-campinas--1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789042867,
-        "data": "10/09/2026 12:21"
-    },
-    {
-        "titulo": "Negócios sem presença digital perdem relevância e oportunidades",
-        "link": "https://sb24horas.com.br/negocios-sem-presenca-digital-perdem-relevancia-e-oportunidades/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1789042419,
-        "data": "10/09/2026 12:13"
-    },
-    {
-        "titulo": "Teatro Municipal recebe 2ª edição da Mostra Dança Daqui sábado",
-        "link": "https://novomomento.com.br/teatro-municipal-mostra-danca-sabado/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789042053,
-        "data": "10/09/2026 12:07"
-    },
-    {
-        "titulo": "PM prende homem por tráfico de drogas durante patrulhamento em Araras",
-        "link": "https://rapidonoar.com.br/pm-prende-homem-por-trafico-de-drogas-durante-patrulhamento-em-araras/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/pm-prende-homem-por-trafico-de-drogas-durante-patrulhamento-em-araras-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789041645,
-        "data": "10/09/2026 12:00"
-    },
-    {
-        "titulo": "Grávida, sertaneja Mari Fagundes fala sobre rotina de trabalho e celebra fase profissional",
-        "link": "https://difusorapiracicaba.com.br/gravida-sertaneja-mari-fagundes-fala-sobre-rotina-de-trabalho-e-celebra-fase-profissional/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1789041600,
-        "data": "10/09/2026 12:00"
-    },
-    {
-        "titulo": "Aços e ferros dorazzio está com 2 vagas abertas em Americana pelo VAGAS019",
-        "link": "https://vagas019.com.br/vagas-auxiliar-geral-acos-e-ferros-dorazzio-americana-2026-09-10/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "vagas019",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-vagas0192.webp",
-        "timestamp": 1789041489,
-        "data": "10/09/2026 11:58"
-    },
-    {
-        "titulo": "Autor de feminicídio em Mogi Guaçu é condenado a 60 anos",
-        "link": "https://rapidonoar.com.br/autor-de-feminicidio-em-mogi-guacu-e-condenado-a-60-anos/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/10/capturado-pela-interpol-na-italia-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789041300,
-        "data": "10/09/2026 11:55"
-    },
-    {
-        "titulo": "O que fazer em Campinas e região: agenda tem Menos é Mais, Falamansa, CPM 22, Raimundos e mais - G1",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdHQ4WlRCa0N3WU5yZFd3cmpsOXBnbnpjMVI2Zzh0dzVVOWVmLVVHeG1tYkZTQ3pZRG0zS3RadXhraXo4YXNyMzBJQTEyZ3hVblE3OFVaNDk3MVBCX0JqZngybkg2c1RFV2h6bjhadXlWS3Q2cndJYTlVWV9rOVVlSDVaUUZfSFk0dURHVHVzaUVWbHNSeHlRamtzZ0ZzZEtoWFBKRTAwR1NzMWFtN0lFamlHRjhyMUZpM1pGRXBkX0FuUDZEWXZmQmFfZFpPV1VxVkZVMW9mSHk4cUc1Z2VqRUc0eWZwUXJaTEFWZ24yOUVMMm9XVmhZbDBQQVluNG9qLWNCQ9IBhAJBVV95cUxOdHQ4WlRCa0N3WU5yZFd3cmpsOXBnbnpjMVI2Zzh0dzVVOWVmLVVHeG1tYkZTQ3pZRG0zS3RadXhraXo4YXNyMzBJQTEyZ3hVblE3OFVaNDk3MVBCX0JqZngybkg2c1RFV2h6bjhadXlWS3Q2cndJYTlVWV9rOVVlSDVaUUZfSFk0dURHVHVzaUVWbHNSeHlRamtzZ0ZzZEtoWFBKRTAwR1NzMWFtN0lFamlHRjhyMUZpM1pGRXBkX0FuUDZEWXZmQmFfZFpPV1VxVkZVMW9mSHk4cUc1Z2VqRUc0eWZwUXJaTEFWZ24yOUVMMm9XVmhZbDBQQVluNG9qLWNCQw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789040573,
-        "data": "10/09/2026 11:42"
-    },
-    {
-        "titulo": "Homem agride a companheira e é preso pela GCM em Capivari",
-        "link": "https://rapidonoar.com.br/homem-agride-a-companheira-e-e-preso-pela-gcm-em-capivari/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/07/gcm-de-capivari-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789040378,
-        "data": "10/09/2026 11:39"
-    },
-    {
-        "titulo": "Prefeitura de Limeira libera mais vagas para o mutirão de castração",
-        "link": "https://rapidonoar.com.br/prefeitura-de-limeira-libera-mais-vagas-para-o-mutirao-de-castracao/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/castra-mais-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789040009,
-        "data": "10/09/2026 11:33"
-    },
-    {
-        "titulo": "Refloresta Americana ultrapassa marca de 3,4 mil mudas plantadas",
-        "link": "https://novomomento.com.br/refloresta-americana-34-mil-mudas-plantadas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789039815,
-        "data": "10/09/2026 11:30"
     }
 ]
