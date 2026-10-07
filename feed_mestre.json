@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Top5 deputados federal/estadual em Americana",
+        "link": "https://novomomento.com.br/top5-deputados-federal-estadual-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791340636,
+        "data": "07/10/2026 02:37"
+    },
+    {
+        "titulo": "Top5 deputados federal/estadual em Americana - Novo Momento",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxYTdBbWM2OEx0b3BoU0N2b2dpZ3gyaEQ3bF83QXhucFZJdVhUb0MzckhpdVVfcDVMOG4zRUNpQUItMS01T1RVNGt5cVhzNGpyWTdYMnM5RnFUZklfci05cEg0YWRuMmpsci1nOFVldDhjYmR6ZXR3NTNybEs?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791340636,
+        "data": "07/10/2026 02:37"
+    },
+    {
+        "titulo": "Dupla de Luisa Stefani avança às quartas do WTA 1000 de Pequim",
+        "link": "https://sb24horas.com.br/dupla-de-luisa-stefani-avanca-as-quartas-do-wta-1000-de-pequim/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791337205,
+        "data": "07/10/2026 01:40"
+    },
+    {
+        "titulo": "Previsão de superávit comercial de 2026 cai para US$ 84,4 bilhões",
+        "link": "https://sb24horas.com.br/previsao-de-superavit-comercial-de-2026-cai-para-us-844-bilhoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791333000,
+        "data": "07/10/2026 00:30"
+    },
+    {
+        "titulo": "50 anos hoje, Aline Barros celebra força da música gospel",
+        "link": "https://novomomento.com.br/50-anos-hoje-aline-barros-forca-musica-gospel/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791329302,
+        "data": "06/10/2026 23:28"
+    },
+    {
+        "titulo": "Acidente entre ônibus e carro deixa passageiro em estado gravíssimo em Piracicaba",
+        "link": "https://rapidonoar.com.br/acidente-entre-onibus-e-carro-deixa-passageiro-em-estado-gravissimo-em-piracicaba/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/acidente-onibus3-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1791329015,
+        "data": "06/10/2026 23:23"
+    },
+    {
+        "titulo": "4º maior produtor de leite do mundo, o Brasil está parado",
+        "link": "https://novomomento.com.br/4o-maior-produtor-leite-mundo-brasil-parado/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791326997,
+        "data": "06/10/2026 22:49"
+    },
+    {
+        "titulo": "Motorista derruba árvores, atinge muro e é preso após acidente em Limeira",
+        "link": "https://rapidonoar.com.br/motorista-derruba-arvores-atinge-muro-e-e-preso-apos-acidente-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/carro-arvore-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1791326744,
+        "data": "06/10/2026 22:45"
+    },
+    {
+        "titulo": "São Paulo é punido pela Conmebol - Terra",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlUtOTUxSzFlZVpCN21JcTVBdUxlMW92dVZMTnRyV2dFNzFlVTJvS3o5aUVXd1N3ZkxlN3RycDVtT1ZuQ09ncUUwNEhOVXhDa1ljVk5XZlkzaEJPdENTanFJQVExYnlVVHVvRy1BTE1vM294VG9kWmEwOTc1anJ5M0pLbzJlbHRTY3ROWGZ5TXF2TWFtR1dOeExkODRyRlBBajRuazFaaWxNVDNIb0ZnanZ1VEd6VXJFUzFlNzM0Yw?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791324900,
+        "data": "06/10/2026 22:15"
+    },
+    {
         "titulo": "Novo batalhão da PM usa 150 motos para combater roubos e furtos em São Paulo",
         "link": "https://rapidonoar.com.br/novo-batalhao-da-pm-usa-150-motos-para-combater-roubos-e-furtos-em-sao-paulo/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/moto-viatura-pm-bravo-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -106,6 +187,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1791315221,
         "data": "06/10/2026 19:33"
+    },
+    {
+        "titulo": "06 de Outubro de 2026 - liberal.com.br",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIck1INUJ0VVBKTlQwc3hKaFVmcGM2RkxRR3h5NmNidW1xbFFMYVlqT3hZYVk5RWNPdW44Sl9jRTVlZVlmTnpsT2NvN3F3YTB4T2puX1c4Z295TGFGSFdOVFNhZmhyUy1UdHVSUlFHT0g?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791314489,
+        "data": "06/10/2026 19:21"
     },
     {
         "titulo": "Cury homenageia Padre Arcanjo Valdevino Santos pelos 30 anos de sacerdócio",
@@ -351,6 +441,15 @@
         "data": "06/10/2026 15:21"
     },
     {
+        "titulo": "Ouvidoria de Americana recebe Selo Ouro por excelência no atendimento ao cidadão - Folha de Valinhos",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEV4c0pQOFV1MEdDZDJ0Nko2V2dpN3oyTVhNZzZzZHFYZXdVVmVFa2pLS1lLMmZCMFNjcks4Z0VGVU5Vc3drSVlCQW8tTXllUnhNVVlZTDl2cUUxV2lESW82Vzc3TXhfdXd4V0JFSy1pRjhoYXpPLTdqWk1sMFgydF9WRmppY1IyS1E4R3lIbU44TkQ0cmowRC1xTE9XN2J6c3cxT0JMQXdQR1o4MGRab2hYcmNUWVhaWnMySmlQS0cwSWc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791299604,
+        "data": "06/10/2026 15:13"
+    },
+    {
         "titulo": "HM de Americana alerta para tentativa de golpe utilizando indevidamente o nome de profissionais da instituição",
         "link": "https://rapidonoar.com.br/hm-de-americana-alerta-para-tentativa-de-golpe-utilizando-indevidamente-o-nome-de-profissionais-da-instituicao/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/hospital-municipal-americana-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -495,6 +594,15 @@
         "data": "06/10/2026 13:41"
     },
     {
+        "titulo": "Resultado das eleições 2026 em Americana (SP): votação para presidente no Ceeja - Centro Estadual Educacional de Jovens e Adultos, na 158ª zona eleitoral - G1",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcXZDS1pVeTlsZTVqNnllcVB6RUp5bDk5UDdnYkJBRk1DNTlhZHk0d3g0c0dHbzJxbk9XejJtNkVQS2lrSXE2bWRZcG1oejdETVhGeVF1alEySktFMTNBR1JidHdyTVlZNzJ6UTNkeHE4NWhWYlVVZC1BVzllS0tSYU9sRTZUanJ5Y0d2SlYxd2U3a3E2cmxLMUlfbEN2RXI1RXBoQ3gybXFVZkE1RTFPbG9tbkNYMXhiVEZRWjZXRXNDYTZvWDFNN09wdlJJUG1XVk9COFltRVVCYkQ2eVNDdU80cUhWUmhhdzZMbEpjR29kT1A4Z2VLZzBmUlFXNHJ0X0Q4Tnh2aVRnT3VkU0tURzhOWWJyMXdId0x2MWV1TXdteDZienlrSTlZOXpMRDg2V2RDZjVMQ0ZwWm81dUE1cmM3a3EySktybDRQOHVUYWnSAdACQVVfeXFMTnF2Q0taVXk5bGU1ajZ5ZXFQekVKeWw5OVA3Z2JCQUZNQzU5YWR5NHd4NHNHR28ycW5PV3oybTZFUEtpa0lxNm1kWXBtaHo3RE1YRnlRdWpRMkpLRTEzQUdSYnR3ck1ZWTcyelEzZHhxODVoVmJVVWQtQVc5ZUtLUmFPbEU2VGpyeWNHdkpWMXdlN2txNnJsSzFJX2xDdkVyNUVwaEN4Mm1xVWZBNUUxT2xvbW5DWDF4YlRGUVo2V0VzQ2E2b1gxTTdPcHZSSVBtV1ZPQjhZbUVVQmJENnlTQ3VPNHFIVlJoYXc2TGxKY0dvZE9QOGdlS2cwZlJRVzRydF9EOE54dmlUZ091ZFNLVEc4TllicjF3SHdMdjFldU13bXg2Ynp5a0k5WTl6TEQ4NldkQ2Y1TENGcFpvNXVBNXJjN2txMkpLcmw0UDh1VGFp?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791294085,
+        "data": "06/10/2026 13:41"
+    },
+    {
         "titulo": "Resultado das eleições 2026 em Americana (SP): votação para presidente no Emei Potira, na 384ª zona eleitoral - G1",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUDJQa2s4WEZBUVlLV2VMOFJOb1BBZzJBWDJ3eExLekJNdkFkS05pWmpEeFZ4T3dtaWZ0akVmemhNNmI3UE02U0dicjRmNWlzR3hLUnZJM3NsS2ZKdFJhU0JWXzg4ZUhtZy1mR0tvRkwzLUQxdmRSY3piUDRid2t6ekdEZnAzMnhQMDB5cUtpTHNnZlVyRHpMTEdnT1NlNDVOLTlPYXpXSnQxbkluRzJJYng5dGRad0ZmRWVHOVhXSWpyamduT2hKUnE0R2tOVC1CMWZHa3doeVdmZ3lZRVhZOVhFZEFLcWg1cnpEM3lLZGR2UmRWajNmUWNuNHFCWXJpVnA3eTRfNUJ6Z19vR21sY05TNnJBaWtt0gGYAkFVX3lxTFBQMlBrazhYRkFRWUtXZUw4Uk5vUEFnMkFYMnd4TEt6Qk12QWRLTmlaakR4VnhPd21pZnRqRWZ6aE02YjdQTTZTR2JyNGY1aXNHeEtSdkkzc2xLZkp0UmFTQlZfODhlSG1nLWZHS29GTDMtRDF2ZFJjemJQNGJ3a3p6R0RmcDMyeFAwMHlxS2lMc2dmVXJEekxMR2dPU2U0NU4tOU9heldKdDFuSW5HMklieDl0ZFp3RmZFZUc5WFdJanJqZ25PaEpScTRHa05ULUIxZkdrd2h5V2ZneVlFWFk5WEVkQUtxaDVyekQzeUtkZHZSZFZqM2ZRY240cUJZcmlWcDd5NF81QnpnX29HbWxjTlM2ckFpa20?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -556,6 +664,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1791292640,
         "data": "06/10/2026 13:17"
+    },
+    {
+        "titulo": "Resultado das eleições 2026 em Americana (SP): como foi a votação no 1º turno - G1",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTZwS3JWQ1FGdkhyWUJlR2ZnNkxya04xSGRTaFVPZXBzXzFDY1dUeFlVTUItcXFLMGpDdHJqb0FJaXRYRkJDWWZSdGd1VmJWNU85QjVOb3BkZGJoUXJGS3FQM2w1SkZyaFhwcFJXVFN2SUd2dEJSTDRwTWd5a0RlN1d4QndNVlY3ZU96VU1QU29iWnZtR3dyZjg2YW04Nk1tX1VxbUVqUTlMRHl6U2M3bmpZNnhmNEFMOHZYdGlOZG4xTURYRXhQTFdaMUNKaTVIYzl5Y2FRWE5TR2w5R0d5QdIB7wFBVV95cUxOSUF0WE1ZeVFaYXNhV3IzelpjejgyS3NuTzBiMHJoVmRMZ1JNSUhvbzFJT095b0tncEJIMGRpbkU0WFRXUEV1OVRBSFE1Z3lQb0g3dW80SzUxYWFJQVAzY0cydUd0UlpDbVFCVlhQUUE3MmVfd0JKdTI3aWZPLWZEeEphRmVwLS1WcFlpdnliVWs0U3RqV3EwajJoeUZsTnJwbnpRamtVdlJiandBbFBvYnhpMUNXT0VwM003QXZjYWo3eklMU25HSXRZbkt3eEFBbHlHV0F1NmJFaTk4UjBMeDR4bURfcnNncVVCbWJVVQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791292421,
+        "data": "06/10/2026 13:13"
     },
     {
         "titulo": "Concerto gratuito reúne OEP e Júlia Simões em noite de MPB no Teatro Municipal de Piracicaba",
@@ -1152,6 +1269,15 @@
         "data": "05/10/2026 17:00"
     },
     {
+        "titulo": "Parque Ecológico divulga telefone temporário para atendimento - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUJHbk94S2d2SEFwdkwwT1ozdmt5aVBLMzAxYTRFbFNsU1VqVjJyY0FKdGJZMVdISjRzQ2o4enlhWEZaX2RKMGFNaTZrdGhlclhzQVd2eXFjcFNwaF9GZEMzaWY5aVpMQWxXUk12OVVoZTBXZTlndUJMRC0yRHJ4Ny1hU1U2aENEYjJuc3VwOHRkYUZy?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791219420,
+        "data": "05/10/2026 16:57"
+    },
+    {
         "titulo": "Macris, Giovana e Jr Dias: preservados, aguardam 2027",
         "link": "https://novomomento.com.br/macris-giovana-jr-dias-preservam-aguardam-2027/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
@@ -1510,6 +1636,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1791201360,
         "data": "05/10/2026 11:56"
+    },
+    {
+        "titulo": "Deputados eleitos em Campinas e região estreiam no Legislativo a partir de 2027 - Portal VV8",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1Noa1YtekJlVjBiakxONW9raFh1ZDVlRUJBelA3VGxnbVZ2TXJKREhzQVBhaXF6VGpCU1U2cWVsUjlib1VMRl9vU1F5ZF9MUEFJQWtlZHU3RVZHcGxrQl9QdUJmZDFtVC15SmlXdzVZNzlHTkVJU1ZVZlFSM0xoekppak0xdmlxeXJ6aks5UldKbWpUNkhXMGxBYm51RWxGV3ZXWGxoVUZ1Z0txb3JxNS1aeDJEOTcycnc?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791200947,
+        "data": "05/10/2026 11:49"
     },
     {
         "titulo": "Aliada de Flávio, de Michelle Bolsonaro e de Tarcísio, Rosana Valle é reeleita deputada federal pelo PL",
@@ -17863,140 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
         "timestamp": 1789895578,
         "data": "20/09/2026 09:12"
-    },
-    {
-        "titulo": "Prefeitura inaugura o novo Cema, o maior centro público de atendimento ao autista da região - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLWg5eFM0RVFrTm85NWM0QXhRSERtajhxdlFlcWhFVTRWblh3OGFuOUxSNU1rQ1NBVWZPZVU5NVloU0lUdHNubmc3WjhIRWVWWlRWUkExQTVNelFZQ1ZuSkhFaGNzNGRRZFJ1Wmg2YjNUbFdaZVkybF9EVHg1SFFMWVZUMWt6Rml0N2xuZmhWc2VyY1hSU3lOd19KSVowUE91UXRuS2xEdGpZOV94SjRrYzNFRXdWeXI1NWtIaFRDMWI4ejVSTUlsZ3dHUENiMmZxamlYYjBiclBlRWhHcmxGS2RCVFVrYm1xM1N3Rmw5enk?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789895400,
-        "data": "20/09/2026 09:10"
-    },
-    {
-        "titulo": "Brasil bate Suíça e avança na Copa Davis",
-        "link": "https://sb24horas.com.br/brasil-bate-suica-e-avanca-na-copa-davis/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1789892449,
-        "data": "20/09/2026 08:20"
-    },
-    {
-        "titulo": "Academia Nacional de Engenharia dá posse aos seus novos acadêmicos",
-        "link": "https://novomomento.com.br/academia-nacional-engenharia-academicos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789891473,
-        "data": "20/09/2026 08:04"
-    },
-    {
-        "titulo": "Prazer feminino e autocuidado: conhecer o próprio corpo também é bem-estar",
-        "link": "https://novomomento.com.br/prazer-feminino-autocuidado-conhec-corpo-bmstar/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789891316,
-        "data": "20/09/2026 08:01"
-    },
-    {
-        "titulo": "Inter de Limeira disputa hoje o seu jogo mais difícil no ano",
-        "link": "https://rapidonoar.com.br/inter-de-limeira-disputa-hoje-o-seu-jogo-mais-dificil-no-ano/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/buchecha-13-969x1024.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789888711,
-        "data": "20/09/2026 07:18"
-    },
-    {
-        "titulo": "Rio Branco Americana na semifinal do PaulistaB sub20",
-        "link": "https://novomomento.com.br/rio-branco-americana-semifinal-paulistab-sub20/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789887514,
-        "data": "20/09/2026 06:58"
-    },
-    {
-        "titulo": "Leãozinho abre hoje o mata-mata do Sub-14 em Santa Bárbara",
-        "link": "https://rapidonoar.com.br/leaozinho-abre-hoje-o-mata-mata-do-sub-14-em-santa-barbara/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/guilherme-arruda-1024x519.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1789885546,
-        "data": "20/09/2026 06:25"
-    },
-    {
-        "titulo": "Rafael entende cobrança e vê vitória do São Paulo no momento certo - Terra",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ0pCMVAzaERYTTlYeDc3enJtWGxsakpHOU1DUm8tcVZTMnROOHI5Rm5NRmJuLWJBYlZoVjdzT0ZKdmtkWmtiZTV3VGlkQVUtckN3NDE2X0c4ZzhkTThJQjRmVXlrSGpKdHl4T1ZRemlsWUtULUs5ZEdXOE5ueFVRQjdSb0JJVU9Td3BRX3hDYTE5M0psMVZCcFFBRXR0RWFQYlNpcmFIeUNidXRJM2JLc0xtTS1pcGYxLXFiTjJGWXVURVlkMjBLVkdvMDRlazBrTDZpNF9uRkZyLUZNZC1PbEhmVEtXaFVhbUZHWA?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789883700,
-        "data": "20/09/2026 05:55"
-    },
-    {
-        "titulo": "Espro (nova guardinha) inaugura operação em Americana",
-        "link": "https://novomomento.com.br/espro-nova-guardnha-inaugura-operacao-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789882391,
-        "data": "20/09/2026 05:33"
-    },
-    {
-        "titulo": "HM promove ação sobre o cuidado de pacientes com doenças crônicas",
-        "link": "https://novomomento.com.br/hm-acao-cuidado-pacientes-doencas-cronicas/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1789872669,
-        "data": "20/09/2026 02:51"
-    },
-    {
-        "titulo": "Após eliminação para o Boca e vitória sobre o Internacional, Dorival Júnior fala sobre a torcida do São Paulo: \"Tenho um carinho muito grande pelo torcedor e só estou aqui por causa dessa torcida\" - Terra",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNTjhieU1xaXpXSEtKVEFEX2FRTFR2NGg3WnMtdlY0bE9hM01rY3lkOEdBX2Y5em5TMmNYbUR3MXBUNXU3ODRkWkd5UGdJUkc5TVhmUlk4SWtYU19BNXEzVGVXTGt1RWhuSUxmSHVUbUhoVlFoM3d0cUJ3dm44RkMzRi1tNlZCOVNXU3RKUUxPdlN5US1pQzNvMUFWX3ViZ0NIN0haakF5QkJFbWVPcmYwZzVTZnFqaG9aM2s5MHBTeVQwckE3RVRaenlrVU1UMUppSmpUVmdtaXhORDhRZHB5VXBscERseU0wVFFnTzQ1dEloR2x3ZnlZeXY5UXg2ZzJDdEltMVNzclpuN3hEZFVUTFdqTG5YSlRmYTJTOS1QVUpIckFyYVNBS2NIRFZPRDBRc2lNOHVwTkd2cmNLcjhTd0ZiN2FLVTBUaGlzLWZINFd2aUZaUVVjZUc1emNMSjdiT2NoejZubDNGYWxET2xSanlXSVdsOWFvT1BQOWd6QlB6d1FXR3F3bF9DaHd1SWU4Z19JYQ?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789868700,
-        "data": "20/09/2026 01:45"
-    },
-    {
-        "titulo": "Equipe do São Paulo é a primeira finalista do Brasileirão Feminino",
-        "link": "https://sb24horas.com.br/equipe-do-sao-paulo-e-a-primeira-finalista-do-brasileirao-feminino/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1789867543,
-        "data": "20/09/2026 01:25"
-    },
-    {
-        "titulo": "Dorival Jr se desculpa após declaração polêmica em eliminação do São Paulo - Terra",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN3ljdUVlaHRZX01WWWhpb2RRclZMVWctbVB2eFNDWFo2UlBfWUZNZUJTTDFqWUt2Mk5RRWxqeXZMUjg1Rzd6bGRNVU84ZWxSdVpiR2RhSmM3bVpXTzdLQ0g3Zk12MEhsYmNvRkZfRmxSYmZVcXJ0WWFybXNaMlJvN3o3Zm9DTy1tWFFqdEhjLVhxM0VsbVVBTHBIa0Y0ektqanUxOXNaWUZoYmNPQWZ2dm9BTVVQUG9nd0ZnVUYxelFhTFZsVFVJb21WZF84cGFpZElXSWxSdHVwRnB4a1YwaVZ6RHY1VjI0SmVOS19sTDJldWI5OGpj?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789865580,
-        "data": "20/09/2026 00:53"
-    },
-    {
-        "titulo": "Torcida do São Paulo protesta em jogo contra o Internacional - Terra",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWjd2SFlLSjdOd0kzRkdDdXk2QUpTNHNpM3FiQ2J6ZDVKMU91VWJhYTVncUpnaUk0N3NUR2ZpWmFrYzBtUkcweHFISlZXeGV2OWVkMGNyM1NRWUFhRWNLcTVJejl2Mm5zREdyMXlMUDl1QkpNSnk5V29lSGJpTjNDbkltNWppSlF4Rl9kYWtLcDNQY0lES1VPUlNWN0pScGtlWHEwVGxmTUZ0aGlEMmt1TmNya2haUjhfT0ppLUtSejBNWUJ4X3lvZE1lNGRjUGFuTEZUNnpMYlZOLXhReUVOUFJBZUs?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1789864200,
-        "data": "20/09/2026 00:30"
-    },
-    {
-        "titulo": "Conheça Chongqing: metrópole-chave da transformação econômica chinesa",
-        "link": "https://sb24horas.com.br/conheca-chongqing-metropole-chave-da-transformacao-economica-chinesa/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1789864130,
-        "data": "20/09/2026 00:28"
     }
 ]
