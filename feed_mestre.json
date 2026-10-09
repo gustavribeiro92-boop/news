@@ -1,5 +1,86 @@
 [
     {
+        "titulo": "Escolas vão ganhar ar condicionado (88) em Santa Bárbara",
+        "link": "https://novomomento.com.br/escolas-ganham-ar-condicionado-em-santa-barbara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791530545,
+        "data": "09/10/2026 07:22"
+    },
+    {
+        "titulo": "Gigantão 2026: São Roque e Zanaga vencem em mais uma rodada noturna",
+        "link": "https://novomomento.com.br/gigantao-26-sroque-e-zanaga-vence-rodda-noturna/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791528639,
+        "data": "09/10/2026 06:50"
+    },
+    {
+        "titulo": "Psicóloga Paula Bufarah homenageada em Sumaré por  Corrida pela Vida",
+        "link": "https://novomomento.com.br/psicologa-paula-bufarah-sumare-ideal-corre-vida/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791527614,
+        "data": "09/10/2026 06:33"
+    },
+    {
+        "titulo": "Palmeiras faz 1-0 no Bahia e cola no Flamengo no Brasileirão",
+        "link": "https://novomomento.com.br/palmeiras-1-bahia-cola-no-flamengo-brasileirao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791524877,
+        "data": "09/10/2026 05:47"
+    },
+    {
+        "titulo": "Faturamento da indústria cai 3,5% em agosto, informa CNI",
+        "link": "https://sb24horas.com.br/faturamento-da-industria-cai-35-em-agosto-informa-cni/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791524842,
+        "data": "09/10/2026 05:47"
+    },
+    {
+        "titulo": "IFood- Vagas exclusivas para PcD em todo o Brasil",
+        "link": "https://novomomento.com.br/ifood-vagas-exclusivas-para-pcd-em-todo-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791522662,
+        "data": "09/10/2026 05:11"
+    },
+    {
+        "titulo": "Camisa 1 recebe projeto da CBF para revelar goleiras - Keller Stocco",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTV0Q2Y3Tjh5U3Q0YjJEMFZSV2JyWkYxSDJsVGpCMi1kOUppN0pLMjJsQ0twOTNXRTBjbmxVc25ORTBUYWVZWkRXSjl6amttdWJEQ1N1Q0ZyUS0yVGtpM1czajl5cU9pTC0xQlVkZGtaR09RdlNaODBtWk5FcnFFQ19vM00xMVJs?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791522632,
+        "data": "09/10/2026 05:10"
+    },
+    {
+        "titulo": "Dupla de Stefani bate campeãs olímpicas e avança à semi em Pequim",
+        "link": "https://sb24horas.com.br/dupla-de-stefani-bate-campeas-olimpicas-e-avanca-a-semi-em-pequim/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791511633,
+        "data": "09/10/2026 02:07"
+    },
+    {
+        "titulo": "AliExpress e Correios firmam acordo para acelerar entregas no Brasil",
+        "link": "https://sb24horas.com.br/aliexpress-e-correios-firmam-acordo-para-acelerar-entregas-no-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791508883,
+        "data": "09/10/2026 01:21"
+    },
+    {
         "titulo": "Serviços essenciais serão mantidos no feriado de Nossa Senhora Aparecida",
         "link": "https://novomomento.com.br/servicos-feriado-nossa-senhora-aparecida/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -540,6 +621,15 @@
         "data": "08/10/2026 14:16"
     },
     {
+        "titulo": "AraçAlegria recebe espetáculos circenses de companhias de São Paulo, Paraná e Minas Gerais - estadomaior.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjFtaHpLVm9Sa3JWNjhEaXZ6d3kwVlNqZnh6RzUxQzJGdHp6Zkp5R1FIbGIxTjBsa1pBR2FXSk9jSXJkWnFyaS1TREVCbzNoRHlZVHRWTVpmZXJmTUlxRTA1a09lclBNQ3lBR0JxWW1jNWtiNUpVOTVwM1p1VkhzOURqUGtISW9SenE5LTBwR2dsZVJmUlFlSGpNdjVHOFF1LUxKR1R5VEFQeFFmY2lkNENfdlBISzVpazhUNUpNcXNmZ0N4WVQtdzMta1R4Qko5?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791468300,
+        "data": "08/10/2026 14:05"
+    },
+    {
         "titulo": "PiraBeer: 4º Festival de Cervejas Artesanais recebe inscrições",
         "link": "https://difusorapiracicaba.com.br/pirabeer-4o-festival-de-cervejas-artesanais-recebe-inscricoes/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -965,6 +1055,15 @@
     {
         "titulo": "Polícia prende sete suspeitos de integrar quadrilha que furtava e roubava residências em SP - Diário de São Paulo",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMkV3VnVLVGpCYlpBMDNQX29fZnFmNUhCdGo3U0lBdTFucHVqSHNTQXhSakNtaVRVWktKanhVbEhlcGk5WW1jS1AyN3JGY040WlhuSTNlbzFPNmtCRjN6M0RCM01oT1RTcjFrRTJEc2I5Y1dzc3lyTm1DMWwtTVJBeURCc3ZyYTF2dTE2SFY3TmpOVkxyQktTTW9HWFR3TUczZ1IzTWliY3pMekU2MnNsNGRyY3BCMVJlZEZpS1Vua25wMHhIanlqN1BKOF9ScWpsdFBDUVVmZFNsWGtxWE1ncmtB0gHiAUFVX3lxTFAyRXdWdUtUakJiWkEwM1Bfb19mcWY1SEJ0ajdTSUF1MW5wdWpIc1NBeFJqQ21pVFVaS0pqeFVsSGVwaTlZbWNLUDI3ckZjTjRaWG5JM2VvMU82a0JGM3ozREIzTWhPVFNyMWtFMkRzYjljV3NzeXJObUMxbC1NUkF5REJzdnJhMXZ1MTZIVjdOak5WTHJCS1NNb0dYVHdNRzNnUjNNaWJjekx6RTYyc2w0ZHJjcEIxUmVkRmlLVW5rbnAweEhqeWo3UEo4X1Jxamx0UENRVWZkU2xYa3FYTWdya0E?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791448774,
+        "data": "08/10/2026 08:39"
+    },
+    {
+        "titulo": "Polícia prende sete suspeitos de integrar quadrilha que furtava e roubava residências em SP - Diário de São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjRxSC15ek9ySnBGR3R0OGFtVlNsVG5wbFhXVzZUaERLRm10Zkdrc0o5a2ViZVhmWnJNUm5MVVBicFFkLTRHMUFEZnVpc1ZkSUpzbkNPV09TbVVxZXJma1JnOUVmUTEtWmo2Z1NMYkp0dzRSblYwa1A5ek9NNGVXUUprbkJhcG9pRng3bUlfRF94NW1jdEZ6aVNMaG9ld2ZYRDJpXzlLVDBpbjZCQzhXUDF6OEU4bUJ4c2R6MG1taE5WbU94a2dXSS1MTjhWLXZVWW1tSURFM19qaFpa0gHiAUFVX3lxTFAyRXdWdUtUakJiWkEwM1Bfb19mcWY1SEJ0ajdTSUF1MW5wdWpIc1NBeFJqQ21pVFVaS0pqeFVsSGVwaTlZbWNLUDI3ckZjTjRaWG5JM2VvMU82a0JGM3ozREIzTWhPVFNyMWtFMkRzYjljV3NzeXJObUMxbC1NUkF5REJzdnJhMXZ1MTZIVjdOak5WTHJCS1NNb0dYVHdNRzNnUjNNaWJjekx6RTYyc2w0ZHJjcEIxUmVkRmlLVW5rbnAweEhqeWo3UEo4X1Jxamx0UENRVWZkU2xYa3FYTWdya0E?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
         "portal": "portal",
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -17899,104 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1790094755,
         "data": "22/09/2026 16:32"
-    },
-    {
-        "titulo": "Empregados da Caixa rejeitam proposta da empresa e greve continua",
-        "link": "https://difusorapiracicaba.com.br/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790094600,
-        "data": "22/09/2026 16:30"
-    },
-    {
-        "titulo": "Eleições 2026: 371 eleitores de Limeira terão mudança no local de votação",
-        "link": "https://rapidonoar.com.br/eleicoes-2026-371-eleitores-de-limeira-terao-mudanca-no-local-de-votacao/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/colegio-da-vinci-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1790094593,
-        "data": "22/09/2026 16:29"
-    },
-    {
-        "titulo": "Sumaré supera US$ 1 bilhão no comércio exterior e lidera exportações de 4 produtos no Brasil",
-        "link": "https://hjnews.com.br/sumare-supera-us-1-bilhao-no-comercio-exterior-e-lidera-exportacoes-de-4-produtos-no-brasil/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1790094087,
-        "data": "22/09/2026 16:21"
-    },
-    {
-        "titulo": "Namorado de Isabelle Caracristi é preso após Justiça decretar prisão preventiva no Ceará",
-        "link": "https://rapidonoar.com.br/namorado-de-isabelle-caracristi-e-preso-apos-justica-decretar-prisao-preventiva-no-ceara/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/isabelle-caracristi-morte-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1790093916,
-        "data": "22/09/2026 16:18"
-    },
-    {
-        "titulo": "Vereadores vetam prefeitura de se associar a Bets em Americana",
-        "link": "https://novomomento.com.br/vereadores-veta-prefeitura-socia-bets-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790093614,
-        "data": "22/09/2026 16:13"
-    },
-    {
-        "titulo": "Piracicaba está sob alerta para tempestades com granizo e ventos de até 100 km/h",
-        "link": "https://difusorapiracicaba.com.br/piracicaba-esta-sob-alerta-para-tempestades-com-granizo-e-ventos-de-ate-100-km-h/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790092800,
-        "data": "22/09/2026 16:00"
-    },
-    {
-        "titulo": "Do eucalipto ao papel, a tecnologia por trás de produtos do dia a dia - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ0lpbjduT0pGbmNqMTl2VTEwTGxBU0lFemR6R0ZMcHcxdG54cmZOdE00T2tIZjdmSUpnYnFLamhQbG5BTzVtZHA2TTdLaVNjRlAyU21kZWkzWmNxdXZQOUVZUDZyQmxUN0VJOWJIWGxMMDJib2E5X05HbV8weVdueThYTi1kS2dUTFFFdnl4SUlhM0JsOEVWZUszbnNGT1RMS1IxeWoxTW5mTjNFcFRIMlZnS2dFTkQ1Q1JoS25qaHh2YkV3WmQtRUQ3ZEcxb01JYzhRVHZjMVJVTDN6MHc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790092740,
-        "data": "22/09/2026 15:59"
-    },
-    {
-        "titulo": "Americana registra alta de 10% na abertura de empresas de janeiro a agosto - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWFjVHBUQ25LVlRWbjA2ODNBZmM0aDRuVnZIZ2tPM3VtcktnbFF0Z1FJTlMwQ2p2aUFFb1lQQ292ZTZzN3VsY25IeC1MNUw0X040cU9hZUFXelkxSGwyemVySDg5THIxSWd5d3EzRHlzUjRBY0RGb0F3cWxjelhtSWRqUGdCb05rbHplZmN2V3NKVTRLbVNuVnZ3NEhmVGItYnJZZnNoOGJJTFd5U2dtSzJxRXZlbS12YTQtaGZSYW1qMDR5LS1WZXY3ZVF5Nl93MDgxZXlMS2UzSEVK?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790092440,
-        "data": "22/09/2026 15:54"
-    },
-    {
-        "titulo": "Encontro de Canto Coral de Americana terá 7 grupos neste sábado",
-        "link": "https://novomomento.com.br/encontro-canto-coral-americana-7-grupos/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790092305,
-        "data": "22/09/2026 15:51"
-    },
-    {
-        "titulo": "Wesley é cortado e Vanderson é convocado para amistosos da Seleção",
-        "link": "https://sb24horas.com.br/wesley-e-cortado-e-vanderson-e-convocado-para-amistosos-da-selecao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1790091784,
-        "data": "22/09/2026 15:43"
-    },
-    {
-        "titulo": "Filho de Zé Felipe e Virginia leva cinco pontos após acidente doméstico",
-        "link": "https://difusorapiracicaba.com.br/filho-de-ze-felipe-e-virginia-leva-cinco-pontos-apos-acidente-domestico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790091000,
-        "data": "22/09/2026 15:30"
     }
 ]
