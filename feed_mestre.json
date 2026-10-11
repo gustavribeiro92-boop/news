@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Quatro réplicas de pistola são apreendidas no Odécio Degan, em Limeira",
+        "link": "https://rapidonoar.com.br/quatro-replicas-de-pistola-sao-apreendidas-no-odecio-degan-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/img_0874-1024x683.jpeg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1791701073,
+        "data": "11/10/2026 06:44"
+    },
+    {
+        "titulo": "Indústria aponta juros altos como principal barreira ao crédito",
+        "link": "https://sb24horas.com.br/industria-aponta-juros-altos-como-principal-barreira-ao-credito/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791700533,
+        "data": "11/10/2026 06:35"
+    },
+    {
+        "titulo": "São Paulo faz 2-1 no Vitória e se afasta do risco no Brasileirão",
+        "link": "https://novomomento.com.br/sao-paulo-2-1-vitoria-afasta-risco-brasileirao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791700235,
+        "data": "11/10/2026 06:30"
+    },
+    {
+        "titulo": "Levi se reúne com Associação dos Diabéticos pra discutir política de saúde",
+        "link": "https://novomomento.com.br/levi-reune-associacao-diabeticos-politica-saude/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1791695644,
+        "data": "11/10/2026 05:14"
+    },
+    {
+        "titulo": "Caminhonete pega fogo em Americana e mobiliza bombeiros - Correio do Povo Penedo",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFVsMTFOQnk5V04xaFVsalJRMkUyS0tRQkFTemIwYmdaaHp5YmNpWmpBYWJFYy1ZUUZhbDBKRXVMTE4xU2g4Tzh6VjdwUTJ0ZDQtTDkzVXBHSFFxbGM5dkpLbm8yQjdnVTJZUUdMbnhyNHdOUWlUY3YyZTktRWlEcE13RHNfUXFsZWpXUjF4QVJ0X2ZYV1Zid01wUlZheTJQTVJSZW5yaVhMckxOcEE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791689163,
+        "data": "11/10/2026 03:26"
+    },
+    {
+        "titulo": "Maria Clara Pacheco é ouro em 3ª etapa do Grand Prix de taekwondo",
+        "link": "https://sb24horas.com.br/maria-clara-pacheco-e-ouro-em-3a-etapa-do-grand-prix-de-taekwondo/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791685941,
+        "data": "11/10/2026 02:32"
+    },
+    {
+        "titulo": "Crédito extraordinário de R$ 7,5 bi reforça subsídios a combustíveis",
+        "link": "https://sb24horas.com.br/credito-extraordinario-de-r-75-bi-reforca-subsidios-a-combustiveis/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1791684538,
+        "data": "11/10/2026 02:08"
+    },
+    {
+        "titulo": "Morre o investigador de polícia “Pitú” aos 66 anos em Limeira",
+        "link": "https://noticiadelimeira.com.br/2026/10/10/morre-o-investigador-de-policia-pitu-aos-66-anos-em-limeira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1791676678,
+        "data": "10/10/2026 23:57"
+    },
+    {
         "titulo": "16ª Caminhada do Rosa do Bem acontece dia 18",
         "link": "https://novomomento.com.br/16a-caminhada-do-rosa-do-bem-acontece-dia-18/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -522,6 +594,15 @@
         "data": "10/10/2026 06:01"
     },
     {
+        "titulo": "Gasolina sobe em Americana (SP) nesta semana; veja preço do litro - UOL Economia",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSERCbGxIOExkQlpfMzh1U1JEeUtuOUExTmRKeF9kSkVHcTNUMTNKeEVrOEphMFU1OW1pYmdZUWRRaGttZzZiN203YUp2NmE0MF9QVTdqR1ppb1NFLWw0Z054RXA2WmkwUXhJZjY1Q3c3c2ROZFUwTnl5OGFuTm9qMnpJMTlqMnJuMEZvV2hHT0xBOVFFalRzbVF6Tk5QOWIzcFgyOFJ1NEtkVlViWTdXaFVEMUUtSUxhOTl2WXUydTY?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791612070,
+        "data": "10/10/2026 06:01"
+    },
+    {
         "titulo": "Fifa: um em cada cinco ataques virtuais na Copa do Mundo foi racista",
         "link": "https://sb24horas.com.br/fifa-um-em-cada-cinco-ataques-virtuais-na-copa-do-mundo-foi-racista/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -880,6 +961,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1791566621,
         "data": "09/10/2026 17:23"
+    },
+    {
+        "titulo": "Rie Nagasako, campeã pan-americana de canoagem, morre após afogamento no Rio - G1",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGc2bDNDWXFqRWhQTHNmVVZEQWNfeUdkUEQ1QkNaMmpTUW83SUZvaDFwd0J4UmlISU15dnB4VEp0TmtpSGlCeDVnb0dOVVUzSlVEZDZqYWI2aGhtUWVfSzh2X2cxRHFUWFRIcDFRY2hUUFVhbzV0X29BV3JSTFgybldvT3Y5bVlXTlBUMzVGZG41OFZrVG92X1B4TC1TSm5KRW5oQm04RVRDTDlYX0p6WW9CZXRHZ9IBxAFBVV95cUxNM1I5d1lZWElWLS02YXU1aW4zZ0lXSnJpNWtNcWI5aVJjX1NYcWFSN0R2Z0VCcER6bVZjOHk0M2dILXBMdXNuMkxNVnF3dE5hRG9kekpaTXZFNU1Rc21FdHdBM1VUTm9zWE5LdUhoS1ZuQ1FrZTBBSVRqajFNQWhPeUNzSWtJczhCZWtydVlTRDk3QUpQZ2VNUnBLRUdNTTc1OFFleFlDLUNjU3NibXRHWXl1WTFiTGUxdGJ2RTFZbHBGNHI2?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1791566526,
+        "data": "09/10/2026 17:22"
     },
     {
         "titulo": "Polícia Federal nega que Vorcaro tenha relatado pagamento de R$ 30 milhões para filme sobre Lula",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1790227842,
         "data": "24/09/2026 05:30"
-    },
-    {
-        "titulo": "Teatro de Americana recebe festival de conservatório musical",
-        "link": "https://novomomento.com.br/teatro-americana-festival-conservatorio-musical/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790225395,
-        "data": "24/09/2026 04:49"
-    },
-    {
-        "titulo": "ALFACE/CEPEA: Impactos das chuvas sobre a oferta elevam preços em SP - HF Brasil",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUERSWGN4Zk10TEVmRWg0b2hxQUlqOEhiMWxTTDgzZjdMRE9pU25VUDh5Unk0UENPMFR2ank5eU1uSXBfc0JzVmZaYS1WMWJYNkxYTkhYUVV2MW5va2FTb1VqcTdxamRnTDE0ZjZKaTRpTTFZT1lrZ0JHODRuY2pUYmx2bkg2c2NuckZ2cFF5QWZCd3l1Q1pmdDN3UWF6MEhJRVJfSWpB?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790222400,
-        "data": "24/09/2026 04:00"
-    },
-    {
-        "titulo": "Ciclista de Americana vence Campeonato de BMX",
-        "link": "https://novomomento.com.br/ciclista-de-americana-vence-campeonato-de-bmx/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790219760,
-        "data": "24/09/2026 03:16"
-    },
-    {
-        "titulo": "Seleção: Ancelotti comanda 1º treino com grupo completo na Austrália",
-        "link": "https://sb24horas.com.br/selecao-ancelotti-comanda-1o-treino-com-grupo-completo-na-australia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1790216400,
-        "data": "24/09/2026 02:20"
-    },
-    {
-        "titulo": "&#8220;É pra Viagem&#8221;: Veja nova campanha dos Cartões de Crédito Gol",
-        "link": "https://novomomento.com.br/viagem-nova-campanha-cartoes-credito-gol/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790215948,
-        "data": "24/09/2026 02:12"
-    },
-    {
-        "titulo": "Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições",
-        "link": "https://sb24horas.com.br/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1790215475,
-        "data": "24/09/2026 02:04"
-    },
-    {
-        "titulo": "Romero Britto lança autobiografia",
-        "link": "https://novomomento.com.br/romero-britto-lanca-autobiografia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790212048,
-        "data": "24/09/2026 01:07"
-    },
-    {
-        "titulo": "Por que ainda perdemos dentes em 2026?",
-        "link": "https://novomomento.com.br/por-que-ainda-perdemos-dentes-em-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790209831,
-        "data": "24/09/2026 00:30"
-    },
-    {
-        "titulo": "Americana inaugura hoje serviço para jovens em situação de vulnerabilidade - correiodamanha.com.br",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeU9teWhmZk1ISnEzTW1GT1YwT0VhS0ZibDNjNHFiZFE0N1ZBTzJWNFFvZHBlRUNyRDVvWlJDU2steUlXY1ltRnJZS2NUdy1yM01GS1VBcHdYOGdaZ0E0RGRBd0VGUjhWXzFzUWlNWnNQNWRqX1B2bXFqbjJKbFVHX0lPbmZ4YkhxOWlLZ0JiY1lpRThiVWVRd01HUGlwSnVtUi02U0xXbDVWZ2JrWTFsT3ExTUxaZ0Z0MkxDZ19VTnRZV0dfTDFQR0pKWkJiUXozNDl6OHotb091ZnBVb1RKMThDWWc5T3pseWdPY3FPbHc3ajhSUTFBTVhyLXpsRlhpYWI5Q3Fn?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790208180,
-        "data": "24/09/2026 00:03"
-    },
-    {
-        "titulo": "Dia do Sorvete: 7 receitas veganas de picolé e geladinho",
-        "link": "https://novomomento.com.br/dia-sorvete-7-receitas-veganas-picole-geladinho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790207383,
-        "data": "23/09/2026 23:49"
     }
 ]
