@@ -1,5 +1,50 @@
 [
     {
+        "titulo": "USP: estagnação de auxílios sociais pode gerar retração em municípios",
+        "link": "https://sb24horas.com.br/usp-estagnacao-de-auxilios-sociais-pode-gerar-retracao-em-municipios/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1792211375,
+        "data": "17/10/2026 04:29"
+    },
+    {
+        "titulo": "Dor na bexiga e vontade frequente de urinar nem sempre significam infecção",
+        "link": "https://novomomento.com.br/dor-na-bexiga-vontade-urinar-nm-sempre-infeccao/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1792207610,
+        "data": "17/10/2026 03:26"
+    },
+    {
+        "titulo": "Grupo Royal Palm conquista certificação Great Place to Work",
+        "link": "https://novomomento.com.br/grupo-royal-palm-certificacao-great-place-work/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1792203500,
+        "data": "17/10/2026 02:18"
+    },
+    {
+        "titulo": "Enfermeira Dafiny Georgetti é homenageada pela Câmara",
+        "link": "https://novomomento.com.br/enfermeira-dafiny-georgetti-homenageada-camara/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1792200299,
+        "data": "17/10/2026 01:24"
+    },
+    {
+        "titulo": "Outubro do Bebê tem palestra gratuita na próxima terça",
+        "link": "https://novomomento.com.br/outubro-bebe-palestra-gratuita-na-proxima-terca/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1792197052,
+        "data": "17/10/2026 00:30"
+    },
+    {
         "titulo": "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)",
         "link": "https://sb24horas.com.br/anac-estabelece-regras-mais-restritivas-para-aviacao-em-congonhas-sp/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
@@ -7,6 +52,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1792195432,
         "data": "17/10/2026 00:03"
+    },
+    {
+        "titulo": "Ao vivo: São Paulo x Vasco | Rodada 31 | Campeonato Brasileiro - ge",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWh0TnJ6V2NHUW9TNGx3UndnWGpmWUc4S09qNU10bHlKbzFBVmJLRzhJb2ZTMjZ3Rzk0bWdDNXdJcVMxTEFWbjVZdDFzcFNxLXl6YUpoZVR3cUpmVGVveEdQLVo5eS1iMjM0b0sxQlVzUElnZDVCZFpYbHFmbEFxQ1Fwbk4xdjhHWGJsa2lkSE9VcEE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1792193862,
+        "data": "16/10/2026 23:37"
     },
     {
         "titulo": "A cidade paulista que nasceu de uma estação aberta por Dom Pedro II e da melancia dos imigrantes americanos não sai do top 6 do desenvolvimento há uma década - Revista Oeste",
@@ -241,6 +295,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1792178348,
         "data": "16/10/2026 19:19"
+    },
+    {
+        "titulo": "Vasco deve enviar time misto para jogo contra o São Paulo - ABCD Jornal",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTEzMnlLMUdHdzhwWExKLUtwVTQ5c2lkbzB1b24yekJkLU0tdGJabVRDbXlLRGVVaERoMHBuU1BHc2NSaGtCdWxXRVBqeGVYUUlEbmVTdjNCLXZ3UmlBbGthOTV3TEw3YWU0aTVCVmphdjczWG1KOXJWM2dUQXl5b1FPUGNkcDNoR29aYzVISS1VZmtuT1JzX2JLZEFfS29GYnAxZl9Ldm5jTVAydnpnTNIBtgFBVV95cUxPbUE3WkEyQ3lzTVBqQ3MzT0M0UFRuTFdsVTBHNEhsTUdvazY1Y0NGOGJaUjRVZXB2ZXAwYzdDNWtQSGkzaDJNd2tOcWhPeEpuX0dWWndMcV9mVDBLMHN6cGlHbEtYanpIUnlkU2lhazY3UWJRM3Y2aXptRUVkUFNWN3VoN3VYbTFYUm5VVnRaUnZ3aEFSYXZ3bnlnVjZRQmFwMkQwUEI4WVdXMnF1VnBES19mYmlYQQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1792177429,
+        "data": "16/10/2026 19:03"
     },
     {
         "titulo": "Morre Chiaki Ishii, primeiro medalhista olimpíco do judô brasileiro",
@@ -17935,68 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1790693940,
         "data": "29/09/2026 14:59"
-    },
-    {
-        "titulo": "Prefeitura de Americana convoca mais 58 aprovados em concurso público - SB Noticias",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHlnTEtFOXYyZEJmVUtDbHJCeDBuM3FjMnhXNzhmLTRzOTRLZTNoQ1NQZ3duRDRRVy1ITW1sd2FlVXZtZ0NFX2ZIRkZSLUhrY1FCOVViM3MwbmxPa0w5bDBBZzdMdXpVM2lYeDdDdldSeFg3UEdmcXZnVXNHQVpaQkE0RUpnSE5HbXY4WlBoMFZ1SWozX3Y3MEUxcVRwTVVwZWVPZkJ5bEdzc0p3QVo0?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790693940,
-        "data": "29/09/2026 14:59"
-    },
-    {
-        "titulo": "Motociclista fica gravemente ferido após bater contra guard-rail em Piracicaba",
-        "link": "https://rapidonoar.com.br/motociclista-fica-gravemente-ferido-apos-bater-contra-guard-rail-em-piracicaba/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/acidente-de-moto-piracicaba-grave-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1790693798,
-        "data": "29/09/2026 14:56"
-    },
-    {
-        "titulo": "União Barbarense anuncia Joice Queiroz como novo Executivo de Futebol para a temporada 2027 - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON3U4SnZjcWV2NWdSXzVPVGtCSTVyN25rVmI2Y2pNTXVuTjVKakNldE9hb3l6d19IU3NDcGNTWlpnMERnZDJIZVNtREpxQjZ2NHdFWlgtS290V3JwZk9BQVBZMEtBdE1PaC1pdG9HRmp2TW93c2o2QjNXdEVLcHlVN3EyYS1UcFhsSjJUUi1YbFE3b2cwbU9HaGJ2UVhlYWZ3Vng5Q3hlQ3ZrTWF2QlotRkdYdXhIcDFRWmlyUHlHQ2dtSlNEbkpRam1Ud2R0cHJUTHRGaG45UWlaYnpKS1U5YmVucDVQeUozOE55WXNXdHVqUnpw?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1790693460,
-        "data": "29/09/2026 14:51"
-    },
-    {
-        "titulo": "Trabalhador se afoga e fica em estado grave após estouro de tubulação no Bairro Jaguari, em Limeira",
-        "link": "https://noticiadelimeira.com.br/2026/09/29/trabalhador-se-afoga-e-fica-em-estado-grave-apos-estouro-de-tubulacao-no-bairro-jaguari-em-limeira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "noticiadelimeira",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
-        "timestamp": 1790693322,
-        "data": "29/09/2026 14:48"
-    },
-    {
-        "titulo": "Nova Odessa dá passo importante para o futuro da inovação tecnológica",
-        "link": "https://novomomento.com.br/nova-odessa-passo-futuro-inovacao-tecnologica/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790692568,
-        "data": "29/09/2026 14:36"
-    },
-    {
-        "titulo": "Fundo Social recebe 4.800 litros de leite arrecadados em campanha de aniversário do Delta Supermercados",
-        "link": "https://difusorapiracicaba.com.br/fundo-social-recebe-4-800-litros-de-leite-arrecadados-em-campanha-de-aniversario-do-delta-supermercados/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790692200,
-        "data": "29/09/2026 14:30"
-    },
-    {
-        "titulo": "Com corpo coberto de lama, trabalhadora relata como ajudou a salvar amigo após acidente em Limeira",
-        "link": "https://rapidonoar.com.br/com-corpo-coberto-de-lama-trabalhadora-relata-como-ajudou-a-salvar-amigo-apos-acidente-em-limeira/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/09/trabalhador-ferido-no-rompimento-de-adutora-limeira-04-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1790692136,
-        "data": "29/09/2026 14:28"
     }
 ]
