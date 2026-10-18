@@ -1,5 +1,68 @@
 [
     {
+        "titulo": "Motorista faz manobras com Golf, bate em Fiesta que invade bar e quase é linchado no Belinha Ometto, em Limeira",
+        "link": "https://rapidonoar.com.br/motorista-faz-manobras-com-golf-bate-em-fiesta-que-invade-bar-e-quase-e-linchado-no-belinha-ometto-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/acidentesite-1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1792355849,
+        "data": "18/10/2026 20:37"
+    },
+    {
+        "titulo": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
+        "link": "https://sb24horas.com.br/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1792355165,
+        "data": "18/10/2026 20:26"
+    },
+    {
+        "titulo": "Flávio diz que vai ‘esfregar’ crimes de Lula em debate e que Brasil está sem presidente",
+        "link": "https://portaldeamericana.com/flavio-diz-que-vai-esfregar-crimes-de-lula-em-debate-e-que-brasil-esta-sem-presidente/",
+        "imagem": "https://wsrv.nl/?url=i0.wp.com/portaldeamericana.com/wp-content/uploads/2026/10/Flavio-debate.webp?resize=150%2C150&quality=100&ssl=1&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1792354234,
+        "data": "18/10/2026 20:10"
+    },
+    {
+        "titulo": "Mais de 10 mil pessoas tomam a Avenida Brasil na 16ª Caminhada Por Amor à Vida em Americana",
+        "link": "https://hjnews.com.br/mais-de-10-mil-pessoas-tomam-a-avenida-brasil-na-16a-caminhada-por-amor-a-vida-em-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1792352919,
+        "data": "18/10/2026 19:48"
+    },
+    {
+        "titulo": "Prefeito Rafael Piovezan inaugura brinquedo de arvorismo no Parque dos Ipês em Santa Bárbara d’Oeste",
+        "link": "https://hjnews.com.br/prefeito-rafael-piovezan-inaugura-brinquedo-de-arvorismo-no-parque-dos-ipes-em-santa-barbara-doeste/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1792352549,
+        "data": "18/10/2026 19:42"
+    },
+    {
+        "titulo": "Pura Construtora renova parceria com Zezé Di Camargo",
+        "link": "https://portaldeamericana.com/pura-construtora-renova-parceria-com-zeze-di-camargo/",
+        "imagem": "https://wsrv.nl/?url=i0.wp.com/portaldeamericana.com/wp-content/uploads/2026/10/img_7115.jpeg?resize=150%2C150&quality=100&ssl=1&w=400&h=200&fit=cover&output=jpg",
+        "portal": "portal de americana",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
+        "timestamp": 1792350974,
+        "data": "18/10/2026 19:16"
+    },
+    {
+        "titulo": "Futebol Feminino: campeonato de Americana vem em novembro",
+        "link": "https://novomomento.com.br/futebol-feminino-campeonato-americana-novembro/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1792350051,
+        "data": "18/10/2026 19:00"
+    },
+    {
         "titulo": "Enfermeira Dafiny Georgetti é homenageada pela Câmara Sumaré",
         "link": "https://novomomento.com.br/enfermeira-dafiny-georgetti-homenageada-camara/",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -394,6 +457,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1792279920,
         "data": "17/10/2026 23:32"
+    },
+    {
+        "titulo": "São Paulo vence Vasco e se distancia da zona de rebaixamento no Brasileirão - Ecos da Notícia",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ21FZzJjSExzVVN1WFl4S2R3VlRWd1FzV25oREp6dngzbVROWHVkTGo0VU5MTk1Nc1BjNjBxSmJ2ZkRNZHkxQ0xwMm1HUHpWbkJFNGptcDBwUDBPclR2WDJKdFYxNW94b2YzWGtmSmNnc195WWdYQlhnbUYwTGN1Qnl0UTJ2MmpNdGpodkdNckUyQllNbEtpMExkMHNxTFA4b3VrckNlLWV5Y1JqeUtZ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1792279619,
+        "data": "17/10/2026 23:26"
     },
     {
         "titulo": "São Paulo melhora no segundo tempo, derrota o Vasco e sonha com vaga na Libertadores - Jornal de Brasília",
@@ -17926,77 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1790773839,
         "data": "30/09/2026 13:10"
-    },
-    {
-        "titulo": "Moradora de Piracicaba recebe conta de água de R$ 470 mil após falha em hidrômetro",
-        "link": "https://difusorapiracicaba.com.br/moradora-de-piracicaba-recebe-conta-de-agua-de-r-470-mil-apos-falha-em-hidrometro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790773200,
-        "data": "30/09/2026 13:00"
-    },
-    {
-        "titulo": "Esquerda tenta crescer com Lula e candidatos a estadual na região",
-        "link": "https://novomomento.com.br/esquerda-cresce-lula-candidatos-estadual-regiao/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790772679,
-        "data": "30/09/2026 12:51"
-    },
-    {
-        "titulo": "Zé Felipe erra ao fazer a barba e aparece com novo visual",
-        "link": "https://difusorapiracicaba.com.br/ze-felipe-erra-ao-fazer-a-barba-e-aparece-com-novo-visual/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "difusorapiracicaba",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo_font_white.svg",
-        "timestamp": 1790769600,
-        "data": "30/09/2026 12:00"
-    },
-    {
-        "titulo": "&#8220;Efeito Haaland&#8221;: paixão do jogador por cenoura faz vendas dispararem 25% na Noruega;",
-        "link": "https://novomomento.com.br/efeito-haaland-paixao-cenoura-venda-dispar25nor/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790769474,
-        "data": "30/09/2026 11:57"
-    },
-    {
-        "titulo": "Déficit de R$ 10 bilhões nas contas públicas em agosto reforça desafio fiscal para 2026",
-        "link": "https://hjnews.com.br/deficit-de-r-10-bilhoes-nas-contas-publicas-em-agosto-reforca-desafio-fiscal-para-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1790769062,
-        "data": "30/09/2026 11:51"
-    },
-    {
-        "titulo": "Outdoors na região pedem voto em deputados locais",
-        "link": "https://novomomento.com.br/outdoors-regiao-pedem-voto-deputados-locais/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1790768920,
-        "data": "30/09/2026 11:48"
-    },
-    {
-        "titulo": "Flávio Bolsonaro e Tarcísio fazem carreata por Americana e Santa Bárbara",
-        "link": "https://www.americanapost.com.br/flavio-bolsonaro-e-tarcisio-fazem-carreata-por-americana-e-santa-barbara/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "americana post",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana-post.png",
-        "timestamp": 1790768856,
-        "data": "30/09/2026 11:47"
-    },
-    {
-        "titulo": "Franco Sardelli confirma Flávio Bolsonaro e Tarcísio em Americana neste sábado",
-        "link": "https://portaldeamericana.com/franco-sardelli-confirma-flavio-bolsonaro-e-tarcisio-em-americana-neste-sabado/",
-        "imagem": "https://wsrv.nl/?url=portaldeamericana.com/wp-content/uploads/2026/09/IMG_5836.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "portal de americana",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.avif",
-        "timestamp": 1790767590,
-        "data": "30/09/2026 11:26"
     }
 ]
