@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Trabalhadores poderão autorizar bancos a consultar extrato do FGTS",
+        "link": "https://sb24horas.com.br/trabalhadores-poderao-autorizar-bancos-a-consultar-extrato-do-fgts/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1794372479,
+        "data": "11/11/2026 04:47"
+    },
+    {
+        "titulo": "Ataque cibernético ao Porto de Santos deixa sistemas instáveis e afeta operações",
+        "link": "https://sb24horas.com.br/ataque-cibernetico-ao-porto-de-santos-deixa-sistemas-instaveis-e-afeta-operacoes/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1794365193,
+        "data": "11/11/2026 02:46"
+    },
+    {
+        "titulo": "MDIC lança nova plataforma para identificar oportunidades de comércio com a União Europeia",
+        "link": "https://sb24horas.com.br/mdic-lanca-nova-plataforma-para-identificar-oportunidades-de-comercio-com-a-uniao-europeia/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1794357951,
+        "data": "11/11/2026 00:45"
+    },
+    {
+        "titulo": "Petrobras registra lucro de R$ 39,8 bilhões no período e avança 21,5%",
+        "link": "https://sb24horas.com.br/petrobras-registra-lucro-de-r-398-bilhoes-no-periodo-e-avanca-215/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/infraestrutura-scaled.jpg",
+        "portal": "sb24horas",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
+        "timestamp": 1794350699,
+        "data": "10/11/2026 22:44"
+    },
+    {
+        "titulo": "Homem foge da PM, abandona sacola com drogas e é detido em Limeira",
+        "link": "https://rapidonoar.com.br/homem-foge-da-pm-abandona-sacola-com-drogas-e-e-detido-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/11/droga-prisao-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1794348046,
+        "data": "10/11/2026 22:00"
+    },
+    {
+        "titulo": "PM de Limeira tem armas apreendidas após registro de violência contra mulher e filha",
+        "link": "https://noticiadelimeira.com.br/2026/11/10/pm-de-limeira-tem-armas-apreendidas-apos-registro-de-violencia-contra-mulher-e-filha/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/policia-scaled.jpg",
+        "portal": "noticiadelimeira",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
+        "timestamp": 1794346983,
+        "data": "10/11/2026 21:43"
+    },
+    {
+        "titulo": "Paulistão 2027: veja os confrontos e os adversários de cada time na primeira fase",
+        "link": "https://rapidonoar.com.br/paulistao-2027-veja-os-confrontos-e-os-adversarios-de-cada-time-na-primeira-fase/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/11/confrontos-paulistao-1024x623.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1794346777,
+        "data": "10/11/2026 21:39"
+    },
+    {
+        "titulo": "CultSP na Estrada leva programação gratuita a Americana e Santa Bárbara d’Oeste - vtvnews.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGl4ZE4zVk1OYzVzYXlZbDYxT0xXckdmaU5fWWRwc1RUOHJPdUJORks0SWVwZFBJcHhNbFJhaDM2RXpNYjRBVm1CVWdIdVV0bWNqTE12WUpxNWFKaHo5ZGlhOUR3UDVQSkJBenh6SWNZdGZ4TTFXRnNwaE1VZk1uTVR3?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1794346200,
+        "data": "10/11/2026 21:30"
+    },
+    {
         "titulo": "Prefeitura promove ação comunitária do Dia da Família neste sábado no São Jerônimo - Região Hoje",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3pVdFhYNTFQaVZFVFE0eWkweVU4LURWa19fX25NYnFBVEVNZUlaX2pZNXZZNGpEanlvM2VGQTdHSXZpWXZFQVJwRE9OeUxhVVFmRmVBVjhNQWJBbm8wTkFCMmRGVlNRMWx1UC10Z3hFbnp2dTB1OG95OEJQMFdSTkNZVXpRb3RrcU9XS0F0RzAzbEs4V0kzS0JkS2hVMUQ3b1FqZFZxY3F5Y0hKbXVzanIxZTRJU19FLUdaamRvdWtVRGp0cFY0RnVqeFlxTFNpMGwwNVJuZW1zQUl1RGhGNzVhRXhxeUxj?oc=5",
         "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
@@ -646,6 +718,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
         "timestamp": 1794308544,
         "data": "10/11/2026 11:02"
+    },
+    {
+        "titulo": "Câmara de SB vota projeto de instituição de espaço público de lazer inclusivo para autistas - Região Hoje",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWUxGV0pMUmxPWlJJOGpodk9BNzZueGJEVnZkenk0NGUzQngwWGd1Q0JfTXJoR1VXZDM1UmpPU1Q0XzZ4ZVlRQmxUc1VTSWJWR0lEdWZxQlgzRFhDUHdBRmpnVFlsb0V4a01XWFRsVEhnVXl0ZnkzN0I4WmZLaTdnekZqQzQ4aDJpbG4xU3ZYdGZGZV9EMTIxeUxCNWhFSlFaMVlGZDdsejRNc0FicHdIeE8tN2JDWXBnVDZ1VkhZTWExaEhXUnhhenFzSnplZGxpOWZHRVRKVl9zTGR0V0JiSVZmdDZRaE14N0JnOVhENVVZUkRkRkE?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1794308160,
+        "data": "10/11/2026 10:56"
     },
     {
         "titulo": "Governo prorroga desoneração da gasolina e do etanol até 9 de dezembro",
@@ -17917,86 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
         "timestamp": 1792573740,
         "data": "21/10/2026 09:09"
-    },
-    {
-        "titulo": "Homem é preso suspeito de agredir esposa em Engenheiro Coelho",
-        "link": "https://rapidonoar.com.br/homem-e-preso-suspeito-de-agredir-esposa-em-engenheiro-coelho/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2025/10/plantao-policial-limeira-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1792573714,
-        "data": "21/10/2026 09:08"
-    },
-    {
-        "titulo": "Lula e Flávio empatam na pesquisa Meio/Ideia",
-        "link": "https://novomomento.com.br/lula-e-flavio-empatam-na-pesquisa-meio-ideia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1792572622,
-        "data": "21/10/2026 08:50"
-    },
-    {
-        "titulo": "STF acolhe recurso da Prefeitura e mantém jornada de 30 horas para profissionais de enfermagem em Americana",
-        "link": "https://hjnews.com.br/stf-acolhe-recurso-da-prefeitura-e-mantem-jornada-de-30-horas-para-profissionais-de-enfermagem-em-americana/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1792572121,
-        "data": "21/10/2026 08:42"
-    },
-    {
-        "titulo": "Conta de água vai mudar também em Americana; fica o alerta",
-        "link": "https://novomomento.com.br/conta-de-agua-muda-tambem-americana-fica-alerta/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1792570575,
-        "data": "21/10/2026 08:16"
-    },
-    {
-        "titulo": "Confira o cardápio da Feira das Nações de Santa Bárbara d’Oeste 2026",
-        "link": "https://hjnews.com.br/confira-o-cardapio-da-feira-das-nacoes-de-santa-barbara-doeste-2026/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "hjnews",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
-        "timestamp": 1792570136,
-        "data": "21/10/2026 08:08"
-    },
-    {
-        "titulo": "Pablo Marçal quer ser o Janones do Flávio Bolsonaro",
-        "link": "https://novomomento.com.br/pablo-marcal-quer-ser-janones-flavio-bolsonaro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1792569646,
-        "data": "21/10/2026 08:00"
-    },
-    {
-        "titulo": "Atlético tenta igualar marca histórica do São Paulo em competições continentais - O TEMPO",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc25FdE4yM3RsN3pQY0pNZjVwMXRnS2pMZUxHbGMyQVIydGoxbXZ5SEZDb2JCZ2ZOTS1XdzRteHBPdVdQWkNrbzVhS2hwQnlQTF9uOFk4Vmd5b3NBZmN2WkhtSzVZbTg1RWJrMzNqamVqZTZzZ2x6cUNSYTJMZXBCQlZpR19DRlBpdmM0bDdHS2tIcWNXSHc5dkk3T2pGUW9ib3FEcHd1QnNjZEJLUGxrQ09UeXZpNDFXVUNBVVRWb3lPYm9pbW8xNHNEbXY?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1792569600,
-        "data": "21/10/2026 08:00"
-    },
-    {
-        "titulo": "Ministério da Saúde amplia acesso a medicamentos oncológicos de alta tecnologia no estado de São Paulo",
-        "link": "https://novomomento.com.br/ministerio-amplia-acesso-medicamento-oncologico/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1792567327,
-        "data": "21/10/2026 07:22"
-    },
-    {
-        "titulo": "Primeiro finalista da Libertadores será conhecido hoje",
-        "link": "https://rapidonoar.com.br/primeiro-finalista-da-libertadores-sera-conhecido-hoje/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/flaco-7-1024x576.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1792565423,
-        "data": "21/10/2026 06:50"
     }
 ]
