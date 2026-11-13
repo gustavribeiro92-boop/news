@@ -1,5 +1,77 @@
 [
     {
+        "titulo": "Mostra Cultural reúne alunos da Rede Municipal de Ensino em apresentações sobre diversidade e identidade brasileira",
+        "link": "https://hjnews.com.br/mostra-cultural-reune-alunos-da-rede-municipal-de-ensino-em-apresentacoes-sobre-diversidade-e-identidade-brasileira/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "hjnews",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/KYiJBWc6_400x400.jpg",
+        "timestamp": 1794558689,
+        "data": "13/11/2026 08:31"
+    },
+    {
+        "titulo": "Ação do Novembro Azul leva conscientização na Garagem Municipal",
+        "link": "https://novomomento.com.br/acao-novembro-azul-garagem-municipal/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794556777,
+        "data": "13/11/2026 07:59"
+    },
+    {
+        "titulo": "Mizzoni vai a Fábio DAE falar de abastecimento de água em Americana",
+        "link": "https://novomomento.com.br/mizzoni-vai-fabio-dae-abastece-agua-americana/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794556545,
+        "data": "13/11/2026 07:55"
+    },
+    {
+        "titulo": "Florestan Fernandes participa do Câmara Jovem 2026",
+        "link": "https://novomomento.com.br/florestan-fernandes-participa-camara-jovem-2026/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794552589,
+        "data": "13/11/2026 06:49"
+    },
+    {
+        "titulo": "Greve relâmpago nos onibus em Santa Bárbara esta manhã",
+        "link": "https://novomomento.com.br/greve-relampago-onibus-santa-barbara-esta-manha/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794552534,
+        "data": "13/11/2026 06:48"
+    },
+    {
+        "titulo": "Íbis e Império F.C. decidem o título da 3ª Divisão do Amadorzão de Nova Odessa",
+        "link": "https://novomomento.com.br/ibis-imperiofc-decidem-3divisao-amador-nodessa/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794550941,
+        "data": "13/11/2026 06:22"
+    },
+    {
+        "titulo": "Tênis de mesa de Americana conquista 2 títulos",
+        "link": "https://novomomento.com.br/tenis-de-mesa-de-americana-conquista-2-titulos/",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "novo momento",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
+        "timestamp": 1794541565,
+        "data": "13/11/2026 03:46"
+    },
+    {
+        "titulo": "Mulher é encontrada morta na calçada em frente a sua casa em Limeira",
+        "link": "https://rapidonoar.com.br/mulher-e-encontrada-morta-na-calcada-em-frente-a-sua-casa-em-limeira/",
+        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/11/copro-encontrado1-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
+        "portal": "rapidonoar",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
+        "timestamp": 1794527986,
+        "data": "12/11/2026 23:59"
+    },
+    {
         "titulo": "Iracemápolis conquista Prêmio Band Cidades Excelentes e se destaca entre os 645 municípios paulistas",
         "link": "https://rapidonoar.com.br/iracemapolis-conquista-premio-band-cidades-excelentes-e-se-destaca-entre-os-645-municipios-paulistas/",
         "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/11/premio-band-iracemapolis-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
@@ -106,6 +178,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
         "timestamp": 1794514684,
         "data": "12/11/2026 20:18"
+    },
+    {
+        "titulo": "Mulher salta de veículo em movimento para fugir de agressões do marido em Nova Odessa - Portal VV8",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkllcFQ5TEU5UlZzVTdlOXdiVktzQTZOQ2k1MzFvWkJYMmtBTE1CaUZubG9RdTZTUnJVOFlHOFpGdC15NUR1SkZocUh5WWZxZVFrZTRPME5pNGlBdVJEdS1mZzRUSjdzcGFNcFJwQkxzaHpWLVc4bnpheWd6NnQ3ZHZIaE8yeTFwNkFPYXlMSm9ucUZ2MUE1UnFoWGhDT3kwX0dpb08ySTRDbmZQR1J5VlRCNWlJaGstdWI0akFXVFJQUQ?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1794512363,
+        "data": "12/11/2026 19:39"
     },
     {
         "titulo": "Voluntários encerram força-tarefa após atender 42 residências e retirar 122 árvores em Santa Bárbara",
@@ -1411,6 +1492,15 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo.svg",
         "timestamp": 1794418590,
         "data": "11/11/2026 17:36"
+    },
+    {
+        "titulo": "Americana publica edital de chamamento público sobre ocupação cultural da Estação Cultura - Prefeitura de Americana",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wYnMwMGlQMkZuQTYzSXJRcC1OVHh4TGJPaTVKYVN4OUlQVmQ2aVlOWS1RZ0IwVWhwQmgzYWtJN0V5SkNweTh2YlAxbTM2X3EycUI2WU9VVXQxWmJhNW5qT3pnWHZxZXdLNkVnbjlGNHFRa2R1blYzcXVB?oc=5",
+        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
+        "portal": "portal",
+        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
+        "timestamp": 1794417780,
+        "data": "11/11/2026 17:23"
     },
     {
         "titulo": "Homem condenado por furto é preso pela PM de Limeira no Parque das Nações",
@@ -17908,95 +17998,5 @@
         "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
         "timestamp": 1792706310,
         "data": "22/10/2026 21:58"
-    },
-    {
-        "titulo": "Americana tem abertura de 6,9 mil empresas até setembro",
-        "link": "https://novomomento.com.br/americana-abertura-6-mil-empresas-ate-setembro/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "novo momento",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/0addff39-logo-1.png",
-        "timestamp": 1792704985,
-        "data": "22/10/2026 21:36"
-    },
-    {
-        "titulo": "Jovem que se formaria em enfermagem em dezembro morre em acidente em Araras",
-        "link": "https://rapidonoar.com.br/jovem-que-se-formaria-em-enfermagem-em-dezembro-morre-em-acidente-em-araras/",
-        "imagem": "https://wsrv.nl/?url=rapidonoar.com.br/wp-content/uploads/2026/10/estudante-morte-1024x683.jpg&w=400&h=200&fit=cover&output=jpg",
-        "portal": "rapidonoar",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/logo-rapido-no-ar-300.png",
-        "timestamp": 1792704020,
-        "data": "22/10/2026 21:20"
-    },
-    {
-        "titulo": "Grupo de Escoteiros Uirapuru comemora 60 anos em evento na Câmara - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFlUU2szcEJMSTZRalJXXzYtSjY2MlNodkVMQl9ZelhHd2didWJWUE5aMDlzcm13SDB5bUs4LWtqZ3dwUG9SNGNOdDVCMF9HcmlEOFFUWEIzaXFsb2R0Z194Qy0ySmpHUktEQkh1cHdUM25aOVA3a0JPOFl0SFJrRUdDQXhZTTdWZ2o5czNqdkZhRUNjRklEV2tmTHZqNDJhQWtYSC1KSzJlNFdnLVdXak1TVWFQLUdScUNHeHRuYlFsbFV6VXlNWlp1NS1HY21Hdmc?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1792703820,
-        "data": "22/10/2026 21:17"
-    },
-    {
-        "titulo": "Carnaval de SBO 2027 abre inscrições para blocos e bandas a partir desta quinta-feira",
-        "link": "https://sb24horas.com.br/carnaval-de-sbo-2027-abre-inscricoes-para-blocos-e-bandas-a-partir-desta-quinta-feira/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1792703160,
-        "data": "22/10/2026 21:06"
-    },
-    {
-        "titulo": "Corá lidera ato em apoio a Flávio Bolsonaro em Santa Bárbara - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzhhejdqWVZBZzJYWFN5TTJGcENrcVY1cGctZVpRNWkxaHFrOEdpNXYxYW14MmoxOG5OcmNzQ2Q5aktTbXhlYzFYOHZzLTZ0eGlyaFVBd05VREhKYVVQdm9zbmZWN1RTa0lxWk01LXNLc3FpR0VyelJicnVaRW12WTNETWdxamdEekI5SlFXdVQwV3dJWkVaSVVZUTNPQnlQYmVVRFZXMG9KNkdsbWZSdEVvc2RaOWdqY1pSYy0zSDY3WFZJaGppTmthdXU?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/Politica-scaled.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1792703040,
-        "data": "22/10/2026 21:04"
-    },
-    {
-        "titulo": "Fim da escala 6×1: quem vai pagar a conta da redução da jornada de trabalho?",
-        "link": "https://sb24horas.com.br/fim-da-escala-6x1-quem-vai-pagar-a-conta-da-reducao-da-jornada-de-trabalho/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1792702740,
-        "data": "22/10/2026 20:59"
-    },
-    {
-        "titulo": "8ª Feira do Emprego no Tivoli acontece na próxima terça-feira com mais de 500 vagas disponíveis e ao menos 40 empresas participantes",
-        "link": "https://sb24horas.com.br/8a-feira-do-emprego-no-tivoli-acontece-na-proxima-terca-feira-com-mais-de-500-vagas-disponiveis-e-ao-menos-40-empresas-participantes/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/pexels-mart-production-7644081-scaled.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1792701180,
-        "data": "22/10/2026 20:33"
-    },
-    {
-        "titulo": "Open Finance: CMN e BC atualizam regras de segurança e transparência",
-        "link": "https://sb24horas.com.br/open-finance-cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1792700915,
-        "data": "22/10/2026 20:28"
-    },
-    {
-        "titulo": "Nova Odessa propõe Refis com desconto de até 95% em juros e multas - Região Hoje",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVZjOHVmUElxR09oNGtOeDRYYjBYUVE3QUREQy1zQWwzZ2lEWDhOMlFtZUNTMzVyVEtaWmNOa2daU1RwTEc2SEJZd1NaaU9DY19fMHFGTnRjZTl6V3B5SGh3bFljbEphMFBPMFNtRXY1R1ZBSDBJVERoc2NsU3dYSzNLaW1sYTVfUkM2bkxsM3hDVTg2VEpTRmV2WEJnNjJCdU13a3BmLXNlYVk1QjNtYTBCSGYxdGFnZ3lUbVRjVTJxbjBZbFRTa1pNcmhHNkFtT1E?oc=5",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "portal",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "timestamp": 1792700880,
-        "data": "22/10/2026 20:28"
-    },
-    {
-        "titulo": "Fifa escolhe os Estados Unidos como sede da primeira Copa do Mundo de Clubes Feminina",
-        "link": "https://sb24horas.com.br/fifa-escolhe-os-estados-unidos-como-sede-da-primeira-copa-do-mundo-de-clubes-feminina/",
-        "imagem": "https://portaldosportais.com/wp-content/uploads/2026/05/americana.jpg",
-        "portal": "sb24horas",
-        "logo_portal": "https://portaldosportais.com/wp-content/uploads/2026/05/images.jpg",
-        "timestamp": 1792700841,
-        "data": "22/10/2026 20:27"
     }
 ]
